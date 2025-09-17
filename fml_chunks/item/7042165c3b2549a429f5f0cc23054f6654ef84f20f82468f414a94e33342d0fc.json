@@ -1,0 +1,25 @@
+{
+  "id": "7042165c3b2549a429f5f0cc23054f6654ef84f20f82468f414a94e33342d0fc",
+  "parent_id": "ce7fcda23505f385f678a488b2752edeee554371f12bacb1bb9f3109f3d097f0",
+  "type": "item",
+  "attrs": {
+    "refid": "aff4fbd3c0b50fdee7e16cefc9a17b849888832d",
+    "x": 351.6865401672315,
+    "y": 252.17772963828114,
+    "z": 0,
+    "width": 59.69,
+    "height": 52.592,
+    "z_height": 69.85,
+    "rotation": 90,
+    "materials": {
+      "FINISH_461": 966
+    },
+    "name": "Canton Oak Small Night Table",
+    "brand": "Ethan Allen",
+    "sku": "255436",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/canton-small-night-table/C55436.html?dwvar_C55436_finish=463#lang=en_US&q=canton+oak&start=1",
+    "depth": 52.592,
+    "type_guess": "table"
+  },
+  "doc": "name: Canton Oak Small Night Table | brand: Ethan Allen | sku: 255436 | type: table | refid: aff4fbd3c0b50fdee7e16cefc9a17b849888832d | dimensions: 59.69 x 52.592 x 52.592 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/canton-small-night-table/C55436.html?dwvar_C55436_finish=463#lang=en_US&q=canton+oak&start=1 | position: x=351.6865401672315, y=252.17772963828114, z=0, rot=90"
+}

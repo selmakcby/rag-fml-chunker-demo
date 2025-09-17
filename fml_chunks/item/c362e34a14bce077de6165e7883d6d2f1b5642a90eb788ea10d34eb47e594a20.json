@@ -1,0 +1,22 @@
+{
+  "id": "c362e34a14bce077de6165e7883d6d2f1b5642a90eb788ea10d34eb47e594a20",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "0ee698c970650561e030785fdcddfb33a046f695",
+    "x": 399.1120058777747,
+    "y": 315.48083511302985,
+    "z": 0,
+    "width": 283.096,
+    "height": 376.044,
+    "z_height": 2.28,
+    "rotation": 90,
+    "name": "Riyan Soumak, 9 x 12",
+    "brand": "Ethan Allen",
+    "sku": "041224R IVN",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/riyan-soumak-rug/041224.html#start=1",
+    "depth": 376.044,
+    "type_guess": "rug"
+  },
+  "doc": "name: Riyan Soumak, 9 x 12 | brand: Ethan Allen | sku: 041224R IVN | type: rug | refid: 0ee698c970650561e030785fdcddfb33a046f695 | dimensions: 283.096 x 376.044 x 376.044 | url: https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/riyan-soumak-rug/041224.html#start=1 | position: x=399.1120058777747, y=315.48083511302985, z=0, rot=90"
+}

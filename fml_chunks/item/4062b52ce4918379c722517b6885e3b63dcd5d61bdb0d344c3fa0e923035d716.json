@@ -1,0 +1,20 @@
+{
+  "id": "4062b52ce4918379c722517b6885e3b63dcd5d61bdb0d344c3fa0e923035d716",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "f305cb15af67acd8155128c3544f9d04ae2f09d9",
+    "x": 488.6035159482685,
+    "y": 102.13056203153829,
+    "z": 259.0799996061984,
+    "width": 2.529839996154643,
+    "height": 304.799999536704,
+    "z_height": 2.529839996154643,
+    "rotation": 90,
+    "name": "House Black File Box",
+    "brand": "Floorplanner",
+    "url": "https://roomstyler.com",
+    "depth": 20.0
+  },
+  "doc": "name: House Black File Box | brand: Floorplanner | refid: f305cb15af67acd8155128c3544f9d04ae2f09d9 | dimensions: 2.529839996154643 x 20.0 x 304.799999536704 | url: https://roomstyler.com | position: x=488.6035159482685, y=102.13056203153829, z=259.0799996061984, rot=90"
+}

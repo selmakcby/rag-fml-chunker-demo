@@ -1,0 +1,25 @@
+{
+  "id": "84d3b1efdc4b6030f78b55324930ca3c61b00c8b104e7debd2f107024a71f3cb",
+  "parent_id": "916e2c26d538fb76ec8e42ff607a6000508f3f2bfd1dcecd1014663fc2d1dc36",
+  "type": "item",
+  "attrs": {
+    "refid": "bcbb3035c2769c69432aef8cd875b86513462232",
+    "x": 231.19304509459653,
+    "y": 315.0183548626677,
+    "z": 0,
+    "width": 244.029,
+    "height": 304.934,
+    "z_height": 1.247,
+    "rotation": 179.99999999999994,
+    "materials": {
+      "FABRIC_RUG_Galilea_CobaltGreen": 25515
+    },
+    "name": "Galilea Rug",
+    "brand": "Ethan Allen",
+    "sku": "046098",
+    "url": "https://www.ethanallen.com/en_US/shop-whats-new-rugs-drapery",
+    "depth": 304.934,
+    "type_guess": "rug"
+  },
+  "doc": "name: Galilea Rug | brand: Ethan Allen | sku: 046098 | type: rug | refid: bcbb3035c2769c69432aef8cd875b86513462232 | dimensions: 244.029 x 304.934 x 304.934 | url: https://www.ethanallen.com/en_US/shop-whats-new-rugs-drapery | position: x=231.19304509459653, y=315.0183548626677, z=0, rot=179.99999999999994"
+}

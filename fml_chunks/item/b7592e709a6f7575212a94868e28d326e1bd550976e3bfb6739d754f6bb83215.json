@@ -1,0 +1,20 @@
+{
+  "id": "b7592e709a6f7575212a94868e28d326e1bd550976e3bfb6739d754f6bb83215",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "e0065d23c476ee49cce613cc83541b2181eb6ed6",
+    "x": 265.1092224121094,
+    "y": 18.589784622192383,
+    "z": 0,
+    "width": 186.41136409487612,
+    "height": 60.45,
+    "z_height": 94.28,
+    "rotation": 0,
+    "name": "Fireplace_73",
+    "brand": "BESPOKE ARCHITECTURE",
+    "url": "https://floorplanner.com",
+    "depth": 60.45
+  },
+  "doc": "name: Fireplace_73 | brand: BESPOKE ARCHITECTURE | refid: e0065d23c476ee49cce613cc83541b2181eb6ed6 | dimensions: 186.41136409487612 x 60.45 x 60.45 | url: https://floorplanner.com | position: x=265.1092224121094, y=18.589784622192383, z=0, rot=0"
+}

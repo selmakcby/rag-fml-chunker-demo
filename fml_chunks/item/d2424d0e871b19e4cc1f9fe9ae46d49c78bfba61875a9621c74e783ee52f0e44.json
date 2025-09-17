@@ -1,0 +1,25 @@
+{
+  "id": "d2424d0e871b19e4cc1f9fe9ae46d49c78bfba61875a9621c74e783ee52f0e44",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "05f5ba058362030badf51a8f852d77e30c9677da",
+    "x": 452.87302962385843,
+    "y": 324.5562496702861,
+    "z": 0,
+    "width": 56.106,
+    "height": 71.346,
+    "z_height": 63.682,
+    "rotation": 88.5,
+    "materials": {
+      "FINISH_185": "17"
+    },
+    "name": "Heron End Table",
+    "brand": "Ethan Allen",
+    "sku": "139273",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/heron-end-table/139273.html?site=",
+    "depth": 71.346,
+    "type_guess": "table"
+  },
+  "doc": "name: Heron End Table | brand: Ethan Allen | sku: 139273 | type: table | refid: 05f5ba058362030badf51a8f852d77e30c9677da | dimensions: 56.106 x 71.346 x 71.346 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/heron-end-table/139273.html?site= | position: x=452.87302962385843, y=324.5562496702861, z=0, rot=88.5"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "085511eee3daebeeb66fbe7e8264ae641df296ebc40ec7435a23214d78098aab",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "e35ea5b8a6f48e97245be552a95ba2737c71b996",
+    "x": 484.5445251464844,
+    "y": 370.59234619140625,
+    "z": 0,
+    "width": 50.396,
+    "height": 50.396,
+    "z_height": 45.683,
+    "rotation": 90,
+    "materials": {
+      "FINISH_939": 275,
+      "FABRIC_11262": 26547
+    },
+    "name": "Nassau Square Ottoman 20''",
+    "brand": "Ethan Allen",
+    "sku": "207454",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/nassau-square-ottomans/207454.html?site=",
+    "depth": 50.396
+  },
+  "doc": "name: Nassau Square Ottoman 20'' | brand: Ethan Allen | sku: 207454 | refid: e35ea5b8a6f48e97245be552a95ba2737c71b996 | dimensions: 50.396 x 50.396 x 50.396 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/nassau-square-ottomans/207454.html?site= | position: x=484.5445251464844, y=370.59234619140625, z=0, rot=90"
+}

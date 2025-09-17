@@ -1,0 +1,25 @@
+{
+  "id": "442e00395f795807bad23d7b0e9d4519f02408a4e6051e400f04f953c3484537",
+  "parent_id": "1faa67858d2523fba145b9609674b26b0060f0fea5d97e0151d40bec41953af9",
+  "type": "item",
+  "attrs": {
+    "refid": "bcd0adbe12f854d62bbe33ce6abb3e361c30bda0",
+    "x": 225.6399439028027,
+    "y": 77.91001680046267,
+    "z": 0,
+    "width": 208.602,
+    "height": 96.952,
+    "z_height": 83.597,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_P8430": 30354
+    },
+    "name": "Redding Ridge Upholstered Outdoor Sofa",
+    "brand": "Ethan Allen",
+    "sku": "402493",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-upholstered-outdoor-sofa/402493.html#lang=en_US&q=redding+ridge&start=1",
+    "depth": 96.952,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Redding Ridge Upholstered Outdoor Sofa | brand: Ethan Allen | sku: 402493 | type: sofa | refid: bcd0adbe12f854d62bbe33ce6abb3e361c30bda0 | dimensions: 208.602 x 96.952 x 96.952 | url: https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-upholstered-outdoor-sofa/402493.html#lang=en_US&q=redding+ridge&start=1 | position: x=225.6399439028027, y=77.91001680046267, z=0, rot=0"
+}

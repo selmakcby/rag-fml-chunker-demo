@@ -1,0 +1,25 @@
+{
+  "id": "902ee67b3c2ae1c0d96c5975116c1249766010abe5c90c3169a554157087a06c",
+  "parent_id": "2572ed58174dbb034e08378d32f35f4ef09201928af2375cbd73c5aaf37c49e1",
+  "type": "item",
+  "attrs": {
+    "refid": "f369baf3116b7876431f62d741ba7eec2d3e86b7",
+    "x": 749.4162722213781,
+    "y": 566.5263999704741,
+    "z": 0,
+    "width": 93.898,
+    "height": 88.786,
+    "z_height": 83.776,
+    "rotation": 192.14066303013587,
+    "materials": {
+      "FINISH_962": 275,
+      "FABRIC_58621": 26572
+    },
+    "name": "Clyde Stationary Chair_Diamond Tuft",
+    "brand": "Ethan Allen",
+    "sku": "202265-DI",
+    "url": "https://www.ethanallen.com/en_US/search-results-non-ecomm.html",
+    "depth": 88.786
+  },
+  "doc": "name: Clyde Stationary Chair_Diamond Tuft | brand: Ethan Allen | sku: 202265-DI | refid: f369baf3116b7876431f62d741ba7eec2d3e86b7 | dimensions: 93.898 x 88.786 x 88.786 | url: https://www.ethanallen.com/en_US/search-results-non-ecomm.html | position: x=749.4162722213781, y=566.5263999704741, z=0, rot=192.14066303013587"
+}

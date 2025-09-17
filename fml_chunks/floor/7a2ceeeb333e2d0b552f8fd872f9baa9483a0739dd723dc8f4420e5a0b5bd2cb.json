@@ -1,0 +1,65 @@
+{
+  "id": "7a2ceeeb333e2d0b552f8fd872f9baa9483a0739dd723dc8f4420e5a0b5bd2cb",
+  "parent_id": "cbff2958f50a5136cd7a87772f56f74207c065a52930681ea045d297a4d43515",
+  "type": "floor",
+  "designs": [
+    "df076046fe9e8b81c05b6cf822983123cc89c83135a506e55874e20786a0c457"
+  ],
+  "attrs": {
+    "id": 255031631,
+    "project_id": 167485214,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T23:28:05.000Z",
+    "updated_at": "2025-03-21T20:38:36.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294316838,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294316841,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor has 0 rooms; approximately 0 placed items."
+}

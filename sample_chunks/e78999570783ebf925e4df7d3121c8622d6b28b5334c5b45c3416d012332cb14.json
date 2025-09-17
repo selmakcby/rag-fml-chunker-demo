@@ -1,0 +1,20 @@
+{
+  "chunk_id": "e78999570783ebf925e4df7d3121c8622d6b28b5334c5b45c3416d012332cb14",
+  "level": "design",
+  "design_id": "e78999570783ebf925e4df7d3121c8622d6b28b5334c5b45c3416d012332cb14",
+  "floor_id": "f89891ec94dd2da2f07f6da0db1b45ce37ad4c3f074e1e1f3411d82b6ed504b6",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "PATIO",
+  "item_counts": [],
+  "summary_text": "Design 'PATIO' with 1 areas and 8 items.",
+  "refs": {
+    "parent_id": "f89891ec94dd2da2f07f6da0db1b45ce37ad4c3f074e1e1f3411d82b6ed504b6"
+  },
+  "raw": {
+    "name": "PATIO",
+    "counts": {
+      "areas": 1,
+      "items": 8
+    }
+  }
+}

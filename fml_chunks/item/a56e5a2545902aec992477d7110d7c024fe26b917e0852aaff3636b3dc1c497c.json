@@ -1,0 +1,26 @@
+{
+  "id": "a56e5a2545902aec992477d7110d7c024fe26b917e0852aaff3636b3dc1c497c",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "396cb5be76282bba5590f45f0bacdd9d79475a93",
+    "x": -7.6137542724609375,
+    "y": -60.35554504394531,
+    "z": 0,
+    "width": 137.294,
+    "height": 48.254,
+    "z_height": 50.508,
+    "rotation": 0,
+    "materials": {
+      "FINISH_895": "264",
+      "FABRIC_23633": "30799"
+    },
+    "name": "Sidney Bench",
+    "brand": "Ethan Allen",
+    "sku": "137185",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/sidney-bench/137185.html",
+    "depth": 48.254,
+    "type_guess": "table-like"
+  },
+  "doc": "name: Sidney Bench | brand: Ethan Allen | sku: 137185 | type: table-like | refid: 396cb5be76282bba5590f45f0bacdd9d79475a93 | dimensions: 137.294 x 48.254 x 48.254 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/sidney-bench/137185.html | position: x=-7.6137542724609375, y=-60.35554504394531, z=0, rot=0"
+}

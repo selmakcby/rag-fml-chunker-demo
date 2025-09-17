@@ -1,0 +1,22 @@
+{
+  "id": "ac68f7458bdc38145d943d78392c82f172fdd64ee96197d0188c3580269277a4",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "e7ad49cc04ca71851cc32328d90b38b911ba48d6",
+    "x": 79.76573930598721,
+    "y": 290.5949275707918,
+    "z": 0,
+    "width": 33.072,
+    "height": 33.058,
+    "z_height": 59.06,
+    "rotation": 271.5,
+    "name": "Wallace Accent Table",
+    "brand": "Ethan Allen",
+    "sku": "129238",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/wallace-iron-accent-table/129238+++10A.html",
+    "depth": 33.058,
+    "type_guess": "table"
+  },
+  "doc": "name: Wallace Accent Table | brand: Ethan Allen | sku: 129238 | type: table | refid: e7ad49cc04ca71851cc32328d90b38b911ba48d6 | dimensions: 33.072 x 33.058 x 33.058 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/wallace-iron-accent-table/129238+++10A.html | position: x=79.76573930598721, y=290.5949275707918, z=0, rot=271.5"
+}

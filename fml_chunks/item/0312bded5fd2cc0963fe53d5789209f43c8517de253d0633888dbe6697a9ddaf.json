@@ -1,0 +1,25 @@
+{
+  "id": "0312bded5fd2cc0963fe53d5789209f43c8517de253d0633888dbe6697a9ddaf",
+  "parent_id": "be28cfd239d9ccefe4a130b17dc5489eabb7f4a317971d775a52c1d2315aade1",
+  "type": "item",
+  "attrs": {
+    "refid": "16f99c186c5cbf0cfc342676beb855124ddf2194",
+    "x": 390.15056474038147,
+    "y": 896.0634411422562,
+    "z": 0,
+    "width": 142.878,
+    "height": 68.574,
+    "z_height": 76.195,
+    "rotation": 0,
+    "materials": {
+      "FINISH_306": 33
+    },
+    "name": "Dynasty Desk",
+    "brand": "Ethan Allen",
+    "sku": "139340",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-home-office-desks/dynasty-desk/139340.html?site=",
+    "depth": 68.574,
+    "type_guess": "desk"
+  },
+  "doc": "name: Dynasty Desk | brand: Ethan Allen | sku: 139340 | type: desk | refid: 16f99c186c5cbf0cfc342676beb855124ddf2194 | dimensions: 142.878 x 68.574 x 68.574 | url: http://www.ethanallen.com/en_US/shop-furniture-home-office-desks/dynasty-desk/139340.html?site= | position: x=390.15056474038147, y=896.0634411422562, z=0, rot=0"
+}

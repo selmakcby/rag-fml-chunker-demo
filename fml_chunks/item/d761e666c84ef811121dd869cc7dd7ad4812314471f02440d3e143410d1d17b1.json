@@ -1,0 +1,21 @@
+{
+  "id": "d761e666c84ef811121dd869cc7dd7ad4812314471f02440d3e143410d1d17b1",
+  "parent_id": "1faa67858d2523fba145b9609674b26b0060f0fea5d97e0151d40bec41953af9",
+  "type": "item",
+  "attrs": {
+    "refid": "d4b5d72d29f4e6070d2566d3747da6b618865fab",
+    "x": 59.94677216127525,
+    "y": 229.4251300081752,
+    "z": 0,
+    "width": 53.104,
+    "height": 53.104,
+    "z_height": 55.88,
+    "rotation": 90,
+    "name": "Multi-Ring Garden Seat",
+    "brand": "Ethan Allen",
+    "sku": "425000",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/multi-ring-garden-seat/425000.html",
+    "depth": 53.104
+  },
+  "doc": "name: Multi-Ring Garden Seat | brand: Ethan Allen | sku: 425000 | refid: d4b5d72d29f4e6070d2566d3747da6b618865fab | dimensions: 53.104 x 53.104 x 53.104 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/multi-ring-garden-seat/425000.html | position: x=59.94677216127525, y=229.4251300081752, z=0, rot=90"
+}

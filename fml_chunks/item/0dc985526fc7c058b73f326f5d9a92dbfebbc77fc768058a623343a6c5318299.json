@@ -1,0 +1,29 @@
+{
+  "id": "0dc985526fc7c058b73f326f5d9a92dbfebbc77fc768058a623343a6c5318299",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "c9d4229e52597581e3050832b573623ca0177099",
+    "x": -204.54168091421937,
+    "y": 693.3667516084156,
+    "z": 0,
+    "width": 188.188,
+    "height": 94.116,
+    "z_height": 94.341,
+    "rotation": 270,
+    "mirrored": [
+      0,
+      0
+    ],
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59122": 28242
+    },
+    "name": "Bennett Track-Arm LAF Queen Sleeper",
+    "brand": "Ethan Allen",
+    "sku": "217124",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 94.116
+  },
+  "doc": "name: Bennett Track-Arm LAF Queen Sleeper | brand: Ethan Allen | sku: 217124 | refid: c9d4229e52597581e3050832b573623ca0177099 | dimensions: 188.188 x 94.116 x 94.116 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=-204.54168091421937, y=693.3667516084156, z=0, rot=270"
+}

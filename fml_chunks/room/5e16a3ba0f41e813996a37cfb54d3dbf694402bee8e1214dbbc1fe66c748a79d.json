@@ -1,0 +1,14 @@
+{
+  "id": "5e16a3ba0f41e813996a37cfb54d3dbf694402bee8e1214dbbc1fe66c748a79d",
+  "parent_id": "8ab8e6f3dc20757d3cc68d9840f0dfa8fab9ecc426d48059570f3450ea9ac8dc",
+  "type": "room",
+  "items": [],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-16821",
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room",
+  "summary": "room: 0 items (no items)."
+}

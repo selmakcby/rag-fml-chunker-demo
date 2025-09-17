@@ -1,0 +1,164 @@
+{
+  "id": "c713a79ea5222b131ce2216adb744c677f0a9895b6149b5b20d9bc23e1b619be",
+  "parent_id": "679a8c913b41eab58f77ebc969819fb7498a2affaffd2be52c791e076732ccb6",
+  "type": "design",
+  "rooms": [
+    "fffbfabfab33334816e37c3a6fb7650a51999dc542658cc7fefe2404f6762aed",
+    "fffbfabfab33334816e37c3a6fb7650a51999dc542658cc7fefe2404f6762aed"
+  ],
+  "attrs": {
+    "name": "First design (copy) (copy) (copy) (copy)",
+    "lines": [],
+    "dimensions": [
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 795.1404450831646,
+          "y": 622.5752453165452
+        },
+        "b": {
+          "x": 795.1404450832051,
+          "y": 697.9558485359416
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 874.9902475002777,
+          "y": 617.3676445392812
+        },
+        "b": {
+          "x": 874.9902475002453,
+          "y": 697.9558485359418
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 1040.7653768925743,
+          "y": 182.7222348032861
+        },
+        "b": {
+          "x": 1040.7653768925743,
+          "y": 364.8865415634891
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 740.6283846226515,
+          "y": 448.4739725213908
+        },
+        "b": {
+          "x": 740.6283846226515,
+          "y": 511.4189776026726
+        }
+      }
+    ],
+    "labels": [],
+    "surfaces": [
+      {
+        "refid": "rs-2541",
+        "color": "#dddddd",
+        "showAreaLabel": true,
+        "poly": [
+          {
+            "x": 1075.4172116308262,
+            "y": 1030.7686195494139,
+            "z": 0
+          },
+          {
+            "x": 1026.9509464140085,
+            "y": 1030.7686195494139,
+            "z": 0
+          },
+          {
+            "x": 1026.9509464140085,
+            "y": 1193.7640141310667,
+            "z": 0
+          },
+          {
+            "x": 1090.4172116308252,
+            "y": 1193.7640141311567,
+            "z": 0
+          }
+        ],
+        "rotation": 0
+      }
+    ],
+    "annotations": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 465.75999999999993,
+        "y": 343.84000000000003,
+        "z": 2426.728717113587,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 241.804,
+        "y": 107.5,
+        "z": 165.1,
+        "dx": 0.6878335801027492,
+        "dy": 0.725868422018092,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 280129927,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: First design (copy) (copy) (copy) (copy) | rooms: 2"
+}

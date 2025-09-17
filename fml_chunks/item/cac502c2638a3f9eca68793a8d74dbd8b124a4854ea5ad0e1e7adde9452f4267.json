@@ -1,0 +1,20 @@
+{
+  "id": "cac502c2638a3f9eca68793a8d74dbd8b124a4854ea5ad0e1e7adde9452f4267",
+  "parent_id": "f9d77614dac1f60656fb375d7a1f90576f640a477d340f481e728ac52baa6442",
+  "type": "item",
+  "attrs": {
+    "refid": "e5d9e5ff696289f7578f0b576e3fe9508f3b1b39",
+    "x": 1218.6732808417955,
+    "y": 585.2730819819571,
+    "z": 0,
+    "width": 9,
+    "height": 50,
+    "z_height": 89.9,
+    "rotation": 90,
+    "name": "Pony wall support",
+    "brand": "BESPOKE ARCHITECTURE",
+    "url": "https://roomstyler.com",
+    "depth": 50.0
+  },
+  "doc": "name: Pony wall support | brand: BESPOKE ARCHITECTURE | refid: e5d9e5ff696289f7578f0b576e3fe9508f3b1b39 | dimensions: 9 x 50.0 x 50 | url: https://roomstyler.com | position: x=1218.6732808417955, y=585.2730819819571, z=0, rot=90"
+}

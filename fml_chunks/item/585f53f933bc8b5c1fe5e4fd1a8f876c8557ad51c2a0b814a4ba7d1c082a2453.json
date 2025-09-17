@@ -1,0 +1,25 @@
+{
+  "id": "585f53f933bc8b5c1fe5e4fd1a8f876c8557ad51c2a0b814a4ba7d1c082a2453",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "716c7104f0329e34520b534759e1bce0896cb966",
+    "x": 509.1483273552941,
+    "y": 329.8833294136142,
+    "z": 0,
+    "width": 213.36,
+    "height": 45.72,
+    "z_height": 71.12,
+    "rotation": 90,
+    "materials": {
+      "FINISH_209": 58
+    },
+    "name": "Aelin Maple 3-Pedestal Console",
+    "brand": "Ethan Allen",
+    "sku": "1582073",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/aelin-console-table/C58207.html",
+    "depth": 45.72,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Aelin Maple 3-Pedestal Console | brand: Ethan Allen | sku: 1582073 | type: cabinet | refid: 716c7104f0329e34520b534759e1bce0896cb966 | dimensions: 213.36 x 45.72 x 45.72 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/aelin-console-table/C58207.html | position: x=509.1483273552941, y=329.8833294136142, z=0, rot=90"
+}

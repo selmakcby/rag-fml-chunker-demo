@@ -1,0 +1,26 @@
+{
+  "id": "88f1014cc94c42e05a28c06c06e4fb0ec44e2bd94e7071a8acd0749d226c5616",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "6fee490e5db5805f752c4e44d30d88e3f7dce798",
+    "x": 565.2954588141715,
+    "y": 504.44610094075347,
+    "z": 0,
+    "width": 78.536,
+    "height": 97.12,
+    "z_height": 111.562,
+    "rotation": 226.63657704161673,
+    "materials": {
+      "LEATHER_L9855": 241,
+      "FINISH_950": 220
+    },
+    "name": "Aiden Recliner",
+    "brand": "Ethan Allen",
+    "sku": "737965",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-recliners/aiden-leather-recliner/737965.html?site=",
+    "depth": 97.12,
+    "type_guess": "chair"
+  },
+  "doc": "name: Aiden Recliner | brand: Ethan Allen | sku: 737965 | type: chair | refid: 6fee490e5db5805f752c4e44d30d88e3f7dce798 | dimensions: 78.536 x 97.12 x 97.12 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-recliners/aiden-leather-recliner/737965.html?site= | position: x=565.2954588141715, y=504.44610094075347, z=0, rot=226.63657704161673"
+}

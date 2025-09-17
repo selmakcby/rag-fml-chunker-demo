@@ -1,0 +1,22 @@
+{
+  "id": "2dc93b19c5fbfeafcf971907a9033d3afd44abee15322090afad400dd36307f8",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "29636d463d89eb7c7f8319a2d1547bcd174c24ae",
+    "x": 267.3011770629969,
+    "y": 16.527499999999993,
+    "z": 117.94999999999999,
+    "width": 107,
+    "height": 18.055,
+    "z_height": 107,
+    "rotation": 180,
+    "name": "Spiral Twig Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074081",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/spiral-twig-mirror/074081.html",
+    "depth": 107.0,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Spiral Twig Mirror | brand: Ethan Allen | sku: 074081 | type: mirror | refid: 29636d463d89eb7c7f8319a2d1547bcd174c24ae | dimensions: 107 x 107.0 x 18.055 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/spiral-twig-mirror/074081.html | position: x=267.3011770629969, y=16.527499999999993, z=117.94999999999999, rot=180"
+}

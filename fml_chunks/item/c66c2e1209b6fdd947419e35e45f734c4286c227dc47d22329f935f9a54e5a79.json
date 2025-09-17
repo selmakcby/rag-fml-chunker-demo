@@ -1,0 +1,21 @@
+{
+  "id": "c66c2e1209b6fdd947419e35e45f734c4286c227dc47d22329f935f9a54e5a79",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "379807312428579440aec5a496d609b03b06e69e",
+    "x": 389.94371956107767,
+    "y": 260.5364774563278,
+    "z": 0,
+    "width": 24.13,
+    "height": 67.31,
+    "z_height": 43.815,
+    "rotation": 24.750947722185543,
+    "name": "Brass Toned Elephant",
+    "brand": "Ethan Allen",
+    "sku": "431901",
+    "url": "https://www.ethanallen.com/",
+    "depth": 67.31
+  },
+  "doc": "name: Brass Toned Elephant | brand: Ethan Allen | sku: 431901 | refid: 379807312428579440aec5a496d609b03b06e69e | dimensions: 24.13 x 67.31 x 67.31 | url: https://www.ethanallen.com/ | position: x=389.94371956107767, y=260.5364774563278, z=0, rot=24.750947722185543"
+}

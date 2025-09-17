@@ -1,0 +1,21 @@
+{
+  "id": "6b0b61292b5ee8c433b3782459238db1b4cd7e8756986694b35ccb3a9bf5837a",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "34923858023ad08073aa999e6bd98d2b72775767",
+    "x": 305.8671569824219,
+    "y": 168.9390411376953,
+    "z": 34.13777542114258,
+    "width": 62.272,
+    "height": 55.868,
+    "z_height": 46.621,
+    "rotation": 180,
+    "name": "Grass",
+    "brand": "Ethan Allen",
+    "sku": "",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 55.868
+  },
+  "doc": "name: Grass | brand: Ethan Allen | refid: 34923858023ad08073aa999e6bd98d2b72775767 | dimensions: 62.272 x 55.868 x 55.868 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=305.8671569824219, y=168.9390411376953, z=34.13777542114258, rot=180"
+}

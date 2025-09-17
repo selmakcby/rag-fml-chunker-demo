@@ -1,0 +1,25 @@
+{
+  "id": "ff54af224827bf46828f1ec9acf38818729001ff3f3ed8f6bacc4f9eb3784faa",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "5c9ad37c681d051d897951c9002537365ee1272c",
+    "x": 209.0380329345835,
+    "y": 227.98701329916946,
+    "z": 0,
+    "width": 92.294,
+    "height": 91.646,
+    "z_height": 93.64,
+    "rotation": 89,
+    "materials": {
+      "FABRIC_34442": 30799
+    },
+    "name": "Solenne 36\" Swivel Chair",
+    "brand": "Ethan Allen",
+    "sku": "201059",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/solenne-swivel-chair/solennechair.html",
+    "depth": 91.646,
+    "type_guess": "chair"
+  },
+  "doc": "name: Solenne 36\" Swivel Chair | brand: Ethan Allen | sku: 201059 | type: chair | refid: 5c9ad37c681d051d897951c9002537365ee1272c | dimensions: 92.294 x 91.646 x 91.646 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/solenne-swivel-chair/solennechair.html | position: x=209.0380329345835, y=227.98701329916946, z=0, rot=89"
+}

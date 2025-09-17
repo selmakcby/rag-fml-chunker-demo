@@ -1,0 +1,25 @@
+{
+  "id": "26d46cebe8f786f39bf3300f80e5d05e806698102597258380baef7ab20bd06e",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "0e0874be261159a81560348a849097e335bd2a5d",
+    "x": 990.9749291515948,
+    "y": 250.3467203672227,
+    "z": 0,
+    "width": 69.09,
+    "height": 51.31,
+    "z_height": 58.42,
+    "rotation": 270,
+    "materials": {
+      "FINISH_200": 30436
+    },
+    "name": "Valeria Rectangular Stone Top End Table",
+    "brand": "Ethan Allen",
+    "sku": "138922",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/valeria-stone-top-end-table/138922.html#start=1",
+    "depth": 51.31,
+    "type_guess": "table"
+  },
+  "doc": "name: Valeria Rectangular Stone Top End Table | brand: Ethan Allen | sku: 138922 | type: table | refid: 0e0874be261159a81560348a849097e335bd2a5d | dimensions: 69.09 x 51.31 x 51.31 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/valeria-stone-top-end-table/138922.html#start=1 | position: x=990.9749291515948, y=250.3467203672227, z=0, rot=270"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "133697965b0f6c5c77f251ec8714700ee869b3b8f24551fe7cc0f937dcfc27f8",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "db923f7a7d9789ae0e9b8f34db64c450ddb104cd",
+    "x": -220.73028720636194,
+    "y": 300.1647257591031,
+    "z": 0,
+    "width": 174.058,
+    "height": 48.114,
+    "z_height": 92.075,
+    "rotation": 180,
+    "materials": {
+      "FINISH_330": 20381
+    },
+    "name": "Clement Double Dresser",
+    "brand": "Ethan Allen",
+    "sku": "275013",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/clement-double-dresser/275013.html#lang=en_US&q=clement&start=1",
+    "depth": 48.114,
+    "type_guess": "dresser"
+  },
+  "doc": "name: Clement Double Dresser | brand: Ethan Allen | sku: 275013 | type: dresser | refid: db923f7a7d9789ae0e9b8f34db64c450ddb104cd | dimensions: 174.058 x 48.114 x 48.114 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/clement-double-dresser/275013.html#lang=en_US&q=clement&start=1 | position: x=-220.73028720636194, y=300.1647257591031, z=0, rot=180"
+}

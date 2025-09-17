@@ -1,0 +1,26 @@
+{
+  "id": "7ee86098f719473dfbdcca26ebd0c368d58abaf689e2451b1ba35c500121148d",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "066137609dd3ab030db8d514a83af973df492aad",
+    "x": 1065.8922116308258,
+    "y": 1113.9747776010115,
+    "z": 166.202,
+    "width": 60.96,
+    "height": 19.05,
+    "z_height": 10.496,
+    "rotation": 270,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Hauxley Picture Light 24\" Brs",
+    "brand": "Ethan Allen",
+    "sku": "098041 BRS",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-picture-lights/hauxley-picture-light/hauxleypiclt.html#start=1",
+    "depth": 10.496
+  },
+  "doc": "name: Hauxley Picture Light 24\" Brs | brand: Ethan Allen | sku: 098041 BRS | refid: 066137609dd3ab030db8d514a83af973df492aad | dimensions: 60.96 x 10.496 x 19.05 | url: https://www.ethanallen.com/en_US/shop-lighting-picture-lights/hauxley-picture-light/hauxleypiclt.html#start=1 | position: x=1065.8922116308258, y=1113.9747776010115, z=166.202, rot=270"
+}

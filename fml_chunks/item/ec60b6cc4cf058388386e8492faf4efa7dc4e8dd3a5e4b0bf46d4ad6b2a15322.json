@@ -1,0 +1,20 @@
+{
+  "id": "ec60b6cc4cf058388386e8492faf4efa7dc4e8dd3a5e4b0bf46d4ad6b2a15322",
+  "parent_id": "8953e70ecf14a89f5d7f7797e0c7e4f5fcf3c05218965add53159fee9e71c3c1",
+  "type": "item",
+  "attrs": {
+    "refid": "0488142fa085d6762e80e9b3322726ffdcff5918",
+    "x": 408.87912529899654,
+    "y": 116.509,
+    "z": 0,
+    "width": 248.93015962162613,
+    "height": 33.018,
+    "z_height": 152.399999768352,
+    "rotation": 0,
+    "name": "Kindling Electric Fireplace",
+    "brand": "BESPOKE ARCHITECTURE",
+    "url": "https://roomstyler.com",
+    "depth": 33.018
+  },
+  "doc": "name: Kindling Electric Fireplace | brand: BESPOKE ARCHITECTURE | refid: 0488142fa085d6762e80e9b3322726ffdcff5918 | dimensions: 248.93015962162613 x 33.018 x 33.018 | url: https://roomstyler.com | position: x=408.87912529899654, y=116.509, z=0, rot=0"
+}

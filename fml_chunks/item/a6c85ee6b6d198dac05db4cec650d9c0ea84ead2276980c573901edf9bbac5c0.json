@@ -1,0 +1,22 @@
+{
+  "id": "a6c85ee6b6d198dac05db4cec650d9c0ea84ead2276980c573901edf9bbac5c0",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "f7dec695248c4b0003a238b10a126a88ede47dc8",
+    "x": 612.029478744782,
+    "y": 257.0253803979919,
+    "z": 47,
+    "width": 51.2,
+    "height": 19.585,
+    "z_height": 49.088,
+    "rotation": 329.5386619311678,
+    "name": "Leopard Cut Velvet Pillow",
+    "brand": "Ethan Allen",
+    "sku": "062401",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/leopard-cut-velvet-pillow/062401.html",
+    "depth": 19.585,
+    "type_guess": "textile"
+  },
+  "doc": "name: Leopard Cut Velvet Pillow | brand: Ethan Allen | sku: 062401 | type: textile | refid: f7dec695248c4b0003a238b10a126a88ede47dc8 | dimensions: 51.2 x 19.585 x 19.585 | url: https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/leopard-cut-velvet-pillow/062401.html | position: x=612.029478744782, y=257.0253803979919, z=47, rot=329.5386619311678"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4e4ee2840a1439db566e15a4c92b7e22c37ec11fdb701433528174de9b2f6cad",
+  "parent_id": "30feb809e75749815c64378f4b366f1e1c1271c6444aad2ddc5462fc92666250",
+  "type": "item",
+  "attrs": {
+    "refid": "f830ae31a7b76f4a1563538259da57e3afdb61c6",
+    "x": 459.3618345167562,
+    "y": 164.36428732915152,
+    "z": 0,
+    "width": 45.59,
+    "height": 45.59,
+    "z_height": 63.54,
+    "rotation": 121.5,
+    "name": "Odin Accent Table",
+    "brand": "Ethan Allen",
+    "sku": "199203 55B",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/odin-accent-table/399203.html#lang=en_US&q=odin&start=1",
+    "depth": 45.59,
+    "type_guess": "table"
+  },
+  "doc": "name: Odin Accent Table | brand: Ethan Allen | sku: 199203 55B | type: table | refid: f830ae31a7b76f4a1563538259da57e3afdb61c6 | dimensions: 45.59 x 45.59 x 45.59 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/odin-accent-table/399203.html#lang=en_US&q=odin&start=1 | position: x=459.3618345167562, y=164.36428732915152, z=0, rot=121.5"
+}

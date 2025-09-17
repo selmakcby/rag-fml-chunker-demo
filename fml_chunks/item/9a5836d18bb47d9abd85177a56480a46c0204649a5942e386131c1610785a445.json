@@ -1,0 +1,27 @@
+{
+  "id": "9a5836d18bb47d9abd85177a56480a46c0204649a5942e386131c1610785a445",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "12036cfd0a3282e771e9ed0d28c4a6005463ce95",
+    "x": 1065.2667236328125,
+    "y": 659.9390258789062,
+    "z": 158.11349487304688,
+    "width": 35.563,
+    "height": 20.301,
+    "z_height": 26.673,
+    "rotation": 270,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Oliver 2 Arm Sconce Brass",
+    "brand": "Ethan Allen",
+    "sku": "098024",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-wall-sconces/oliver-wall-sconce/098023MST.html#start=1",
+    "depth": 26.673,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Oliver 2 Arm Sconce Brass | brand: Ethan Allen | sku: 098024 | type: lighting | refid: 12036cfd0a3282e771e9ed0d28c4a6005463ce95 | dimensions: 35.563 x 26.673 x 20.301 | url: https://www.ethanallen.com/en_US/shop-lighting-wall-sconces/oliver-wall-sconce/098023MST.html#start=1 | position: x=1065.2667236328125, y=659.9390258789062, z=158.11349487304688, rot=270"
+}

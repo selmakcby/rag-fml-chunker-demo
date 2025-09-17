@@ -1,0 +1,8 @@
+
+Retrieved (top_k=5):
+  - score=0.6655  id=2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb  type=living  area=22.619999999999997
+
+The living area layout in Room 9005 ([2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb]) features a main living space with a sofa, two chairs, a TV, coffee table, rug, console, bookcase, cabinets, and lighting, arranged to create a warm, functional lounge. The room has no windows but has two doors. The area spans 22.6 m².
+
+Sources:
+  • 2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb  (score=0.6655, area=22.619999999999997, type=living)

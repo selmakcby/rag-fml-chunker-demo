@@ -1,0 +1,21 @@
+{
+  "id": "c1caa05d2f44c680488e72e3aea8eb9d3210fdd1af14d52fee92167b4f86bfe4",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "b83f8f62af4fb4916c7e0c1123dc3b739f98f159",
+    "x": 887.6258718827239,
+    "y": 1116.3092570880096,
+    "z": 46.07,
+    "width": 40.558,
+    "height": 40.336,
+    "z_height": 38.216,
+    "rotation": 98.60032153108784,
+    "name": "White Hydrangea Water Garden",
+    "brand": "Ethan Allen",
+    "sku": "446375A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/white-hydrangea-watergarden/446375A.html",
+    "depth": 40.336
+  },
+  "doc": "name: White Hydrangea Water Garden | brand: Ethan Allen | sku: 446375A | refid: b83f8f62af4fb4916c7e0c1123dc3b739f98f159 | dimensions: 40.558 x 40.336 x 40.336 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/white-hydrangea-watergarden/446375A.html | position: x=887.6258718827239, y=1116.3092570880096, z=46.07, rot=98.60032153108784"
+}

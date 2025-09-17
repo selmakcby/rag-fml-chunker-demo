@@ -1,0 +1,65 @@
+{
+  "id": "1d6489c58998cbd79f2af89e9111920b0af2f1017e425392791bf11ef4bc0ece",
+  "parent_id": "91acab151ab672e301fd162ee330a29c24ae82f968966461343adecf4013f4a9",
+  "type": "floor",
+  "designs": [
+    "a73bb526e672ec9b2770158cd6e9c86c3fd8bcd36d5cf5050d5e5f816d6fdd55"
+  ],
+  "attrs": {
+    "id": 255030194,
+    "project_id": 167484053,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:24:05.000Z",
+    "updated_at": "2025-01-09T20:21:07.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294314567,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294314570,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 2 rooms. Highlights: room: 29 items (Finland Accent Table, Killian Wall Sconce, Killian Wall Sconce, CANNIBIS PLANT 1M7, Zara Pendant, Brass, Drapery Panel, Open, Pinch Pleat). room: 3 items (River Home II, Sunburst Mirror, 24'' Gold Sunburst Mirror)."
+}

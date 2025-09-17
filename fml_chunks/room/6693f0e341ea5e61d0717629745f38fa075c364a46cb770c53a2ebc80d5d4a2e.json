@@ -1,0 +1,36 @@
+{
+  "id": "6693f0e341ea5e61d0717629745f38fa075c364a46cb770c53a2ebc80d5d4a2e",
+  "parent_id": "382371bcadd1ba01b992affe38ea5833c8ce29825de31f236d2394f67f5f899a",
+  "type": "room",
+  "items": [
+    "ec60b6cc4cf058388386e8492faf4efa7dc4e8dd3a5e4b0bf46d4ad6b2a15322",
+    "0828dea5d755401d9ff714ed8f333a7b89b157b1dd20918965e30d109b6a3c03",
+    "1fa285eb3f493f790cab0f03895e0ec06643f09a208bd0c2ca0fd9d6798e2fc0",
+    "2e57e358dcbb7e63c439b3ca8ae51360dfe325967e7a5e8795aeec092a1cf1b7",
+    "134ef2323054d9d3a6bd12c034699cb9b873359509fee8ecc72154742325b87a",
+    "fe06e32c31efafc1529cb08eaa13cc1f58dccee9bde5d3ee67c147998392f22a",
+    "9325588162741c91d466310a1c547a713512eaecdc071d85c72835a13aba650a",
+    "66adf50d4ebce86aa5395b55a7bc1340c55937af968d7b736fc7ff120ec81117",
+    "9bab981bcb114cb528e1e294ddfabcde53a9188a576f7229a981686cc5765d7f",
+    "07de83686438ea125953c3b159b63c84e8bb062d14986ce965e852be808cc6e1",
+    "51c48475ac138a41e34355c99bf570f57da456a88f7bc1057cea9fe22c29bd05",
+    "2e3fae695bb6225482dc78857256937c8098f45a046d351be9813eca96262c78",
+    "479ac9954d7fb1b3fcc6886b6a7a8a255351461ac7ad73cc024c846c3cd43df2",
+    "95f168e6dd7afd2ddc57991e868d3200e888ef3db1b1adea2b00fb179239aa4e",
+    "042d1d53d9fc0f8ba7dc9ba965688dd5f183f10faf1080b0b4a28c7938dd53d0",
+    "bd18bcb371166836e435c468ab38fc5cc94889148761d43853bbea3f84861b91",
+    "a61399671de7ece9df989134c6645f8d10bce140ad3dc017e63677d35f34421a"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-14772",
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": -238,
+    "name_y": -12,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Kennington Table Lamp, Bennett Roll-Arm Chair and a Half, Kennington Table Lamp, Eugene Night Table, Bradford Rent Table, Nassau 20\" Ottoman Round, Smooth Top, Bradford Rent Table, Bennett Roll-Arm Chair and a Half, Calvin Armoire, Nassau 37\" Round Ottoman , Bennett Roll-Arm Chair and a Half, Nila Antiqued Rug, 12' x 14', Bennett Roll-Arm Chair and a Half, Eugene Night Table, Nassau 20\" Ottoman Round, Smooth Top",
+  "summary": "Living: 15 items (Kennington Table Lamp, Bennett Roll-Arm Chair and a Half, Kennington Table Lamp, Eugene Night Table, Bradford Rent Table, Nassau 20\" Ottoman Round, Smooth Top)."
+}

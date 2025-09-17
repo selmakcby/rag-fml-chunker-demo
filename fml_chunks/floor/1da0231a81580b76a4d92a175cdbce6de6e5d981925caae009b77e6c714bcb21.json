@@ -1,0 +1,77 @@
+{
+  "id": "1da0231a81580b76a4d92a175cdbce6de6e5d981925caae009b77e6c714bcb21",
+  "parent_id": "9a0b88cb3ee152738c72cc05ec6615790395c3a0721178c690eea0b8b3dc6257",
+  "type": "floor",
+  "designs": [
+    "00503934935a051326c53d74be8cb68434ab78d9b109cd758c21692673e8d988"
+  ],
+  "attrs": {
+    "id": 255030605,
+    "project_id": 167484353,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:39:44.000Z",
+    "updated_at": "2025-01-04T23:10:48.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294315137,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294315140,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ],
+    "drawing": {
+      "id": 42445850,
+      "x": 429.4,
+      "y": 451.40000000000003,
+      "width": 2052.6,
+      "height": 1368.6,
+      "rotation": 0.0,
+      "alpha": 50,
+      "visible": false,
+      "url": "https://d273csydae9vpp.cloudfront.net/uploads/drawings/42445850/669536f3d846c3.80054820281.jpg",
+      "depth": "HIGH"
+    }
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 1 rooms. Highlights: room: 5 items (Spencer Wide Ottoman, Spencer TA 92'' Sofa, 26 in. Seat, Caira Floor Lamp, Teresa Round End Table, Spencer Ottoman)."
+}

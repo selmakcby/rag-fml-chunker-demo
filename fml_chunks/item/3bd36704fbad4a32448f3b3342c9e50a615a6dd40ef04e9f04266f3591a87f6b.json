@@ -1,0 +1,22 @@
+{
+  "id": "3bd36704fbad4a32448f3b3342c9e50a615a6dd40ef04e9f04266f3591a87f6b",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "b40bd2d6310696d4e4ccba1f17cec0f73ed2afd3",
+    "x": 131.1388870682414,
+    "y": 243.3097840477233,
+    "z": 2,
+    "width": 53.818,
+    "height": 19.462,
+    "z_height": 26.107,
+    "rotation": 242.20393820241912,
+    "name": "Velvet Lumbar Pillow, Sienna",
+    "brand": "Ethan Allen",
+    "sku": "062072 SIE",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/velvet-lumbar-pillow/062072.html?dwvar_062072_color=DW062072BLK#lang=en_US&q=062072&start=1",
+    "depth": 19.462,
+    "type_guess": "textile"
+  },
+  "doc": "name: Velvet Lumbar Pillow, Sienna | brand: Ethan Allen | sku: 062072 SIE | type: textile | refid: b40bd2d6310696d4e4ccba1f17cec0f73ed2afd3 | dimensions: 53.818 x 19.462 x 19.462 | url: https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/velvet-lumbar-pillow/062072.html?dwvar_062072_color=DW062072BLK#lang=en_US&q=062072&start=1 | position: x=131.1388870682414, y=243.3097840477233, z=2, rot=242.20393820241912"
+}

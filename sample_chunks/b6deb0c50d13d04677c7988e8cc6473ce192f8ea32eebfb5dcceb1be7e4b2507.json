@@ -1,0 +1,38 @@
+{
+  "chunk_id": "b6deb0c50d13d04677c7988e8cc6473ce192f8ea32eebfb5dcceb1be7e4b2507",
+  "level": "item",
+  "parent_id": "45aa733cc25805e99ee3167820363050044f7cbefb25902169a81fe80ebfd1ff",
+  "room_id": "f7f4177cb07d805d1f51e48c2a1aca08a48603e3d756aa8d63eaabbf6eec8ccc",
+  "type": "item",
+  "name": "ca10bde5dd640ae65a80ef49cf0637107e7d228a",
+  "refid": "ca10bde5dd640ae65a80ef49cf0637107e7d228a",
+  "position": {
+    "x": 717.9173389837989,
+    "y": 261.9934497747884,
+    "z": 0
+  },
+  "size": {
+    "width": 263.62221284433576,
+    "height": 136.8009690171149,
+    "z_height": 90
+  },
+  "rotation": 270,
+  "summary_text": "Item 'ca10bde5dd640ae65a80ef49cf0637107e7d228a' (item) at (717.9173389837989, 261.9934497747884).",
+  "refs": {
+    "parent_id": "45aa733cc25805e99ee3167820363050044f7cbefb25902169a81fe80ebfd1ff"
+  },
+  "raw": {
+    "refid": "ca10bde5dd640ae65a80ef49cf0637107e7d228a",
+    "x": 717.9173389837989,
+    "y": 261.9934497747884,
+    "z": 0,
+    "width": 263.62221284433576,
+    "height": 136.8009690171149,
+    "z_height": 90,
+    "rotation": 270,
+    "materials": {
+      "FINISH_K_WHITE_MATTE": 2861,
+      "FINISH_K_LUNA_PEARL": 2863
+    }
+  }
+}

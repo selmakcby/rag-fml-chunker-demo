@@ -1,0 +1,18 @@
+{
+  "id": "ce7fcda23505f385f678a488b2752edeee554371f12bacb1bb9f3109f3d097f0",
+  "parent_id": "7955837f85a5d3a736e28e7eb42223879a364aa2a798eff766d90f5b8d65edfc",
+  "type": "room",
+  "items": [
+    "fd782ccc668cfea6406c9fa84dc07dcb443e7f60432d640542b123094f36b901",
+    "7042165c3b2549a429f5f0cc23054f6654ef84f20f82468f414a94e33342d0fc",
+    "a76cc35f4e2c8896b85f6905cfa053b186085185184626fb8c348134fe9f3f94",
+    "355fa06eb93ab77cfa0d3486c50db3772a471dc9a85f4cfabedcb650db5bf527"
+  ],
+  "walls": [],
+  "attrs": {
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Canton Oak Small Night Table, Burke Oak Full Bed, Canton Oak Small Night Table",
+  "summary": "room: 3 items (Canton Oak Small Night Table, Burke Oak Full Bed, Canton Oak Small Night Table)."
+}

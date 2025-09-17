@@ -1,0 +1,22 @@
+{
+  "id": "47d958a3fb5949dfbb11e3d76eddd4c509abdda7726eb4e86cd669ef10478e04",
+  "parent_id": "40819539eecf51b593b5988433d553af851d4a38bf93fe738c1f3301d58fd748",
+  "type": "item",
+  "attrs": {
+    "refid": "4ee7d66e057f694b1a4bc48304c0c9617d479fdd",
+    "x": 307.40283203125,
+    "y": 349.35919189453125,
+    "z": 27.41014289855957,
+    "width": 78.12023988125723,
+    "height": 23.872,
+    "z_height": 40.226,
+    "rotation": 305.2635498046875,
+    "name": "Throw",
+    "brand": "Floorplanner",
+    "sku": "",
+    "url": "https://floorplanner.com",
+    "depth": 23.872,
+    "type_guess": "textile"
+  },
+  "doc": "name: Throw | brand: Floorplanner | type: textile | refid: 4ee7d66e057f694b1a4bc48304c0c9617d479fdd | dimensions: 78.12023988125723 x 23.872 x 23.872 | url: https://floorplanner.com | position: x=307.40283203125, y=349.35919189453125, z=27.41014289855957, rot=305.2635498046875"
+}

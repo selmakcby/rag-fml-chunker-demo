@@ -1,0 +1,20 @@
+{
+  "chunk_id": "f431a91b5b76a97fb3b7af2c97a40bae9d5fe6168fe92439bc574e773880dc2a",
+  "level": "design",
+  "design_id": "f431a91b5b76a97fb3b7af2c97a40bae9d5fe6168fe92439bc574e773880dc2a",
+  "floor_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "LIVE3",
+  "item_counts": [],
+  "summary_text": "Design 'LIVE3' with 1 areas and 21 items.",
+  "refs": {
+    "parent_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d"
+  },
+  "raw": {
+    "name": "LIVE3",
+    "counts": {
+      "areas": 1,
+      "items": 21
+    }
+  }
+}

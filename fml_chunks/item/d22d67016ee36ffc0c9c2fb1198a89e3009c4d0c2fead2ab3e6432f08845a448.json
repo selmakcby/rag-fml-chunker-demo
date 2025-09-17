@@ -1,0 +1,21 @@
+{
+  "id": "d22d67016ee36ffc0c9c2fb1198a89e3009c4d0c2fead2ab3e6432f08845a448",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "15caedfb076789fc5ba6484a9702e6ae4cb6a61f",
+    "x": 29.830002644996817,
+    "y": 543.4673026015686,
+    "z": 0,
+    "width": 104.776,
+    "height": 45.72,
+    "z_height": 87.884,
+    "rotation": 269.42161580227196,
+    "name": "Ashby Chest",
+    "brand": "Ethan Allen",
+    "sku": "275014 38G",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/ashby-chest/275014.html#start=1",
+    "depth": 45.72
+  },
+  "doc": "name: Ashby Chest | brand: Ethan Allen | sku: 275014 38G | refid: 15caedfb076789fc5ba6484a9702e6ae4cb6a61f | dimensions: 104.776 x 45.72 x 45.72 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/ashby-chest/275014.html#start=1 | position: x=29.830002644996817, y=543.4673026015686, z=0, rot=269.42161580227196"
+}

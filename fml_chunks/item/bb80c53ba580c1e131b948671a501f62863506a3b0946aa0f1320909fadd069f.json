@@ -1,0 +1,21 @@
+{
+  "id": "bb80c53ba580c1e131b948671a501f62863506a3b0946aa0f1320909fadd069f",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "aec527eef8ce07f9b14aa36e43f173d3c0369f6f",
+    "x": 287.2402113939724,
+    "y": 617.3327934806107,
+    "z": 143.8802032470703,
+    "width": 59.7,
+    "height": 2.5,
+    "z_height": 80,
+    "rotation": 0,
+    "name": "Gold Foil Symbiotic",
+    "brand": "Ethan Allen",
+    "sku": "073758",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-abstract/gold-foil-symbiotic/073758.html",
+    "depth": 80.0
+  },
+  "doc": "name: Gold Foil Symbiotic | brand: Ethan Allen | sku: 073758 | refid: aec527eef8ce07f9b14aa36e43f173d3c0369f6f | dimensions: 59.7 x 80.0 x 2.5 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-abstract/gold-foil-symbiotic/073758.html | position: x=287.2402113939724, y=617.3327934806107, z=143.8802032470703, rot=0"
+}

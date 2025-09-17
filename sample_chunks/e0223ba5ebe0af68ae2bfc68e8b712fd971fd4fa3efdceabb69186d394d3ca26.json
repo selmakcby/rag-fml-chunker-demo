@@ -1,0 +1,61 @@
+{
+  "chunk_id": "e0223ba5ebe0af68ae2bfc68e8b712fd971fd4fa3efdceabb69186d394d3ca26",
+  "level": "room",
+  "room_id": "e0223ba5ebe0af68ae2bfc68e8b712fd971fd4fa3efdceabb69186d394d3ca26",
+  "design_id": "732e0f1599e175bb1cfae3cf3a15be2642dfeda70916e003565161bccd826054",
+  "floor_id": "2185da8eb00f751e02eabe4a72296b3fb8b6b43de726af39e3956d2bf3c367f5",
+  "project_id": "8bbe24e52bf9eaec8647a80a9b0db759f3b5317ada61226d9d81b2d88e212ebe",
+  "name": "Area rs-14199",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 414192.9847338179,
+  "summary_text": "First design \u2014 94d3ca26: polygon with 8 points. Approx. area (units\u00b2) 414193. Contains: 572ead26604715b67d95e7d6537c77fbee53d285, a134aa79bd28d6628b6c440e1718bf5f27bb07c3, a7ee3d940a0c885816da599822e5fa53e5cf8478, adf552ad0193c094fd870313aa23eb1e758c65f0, b3c89a786dda4e61840968a0f359404e01457ea9, bc2996a36efd980fefb872796be0dd51ac6637e6, ebf13b3eef1e2f66c8bb5a238d0b4b2d2a5d69c7.",
+  "refs": {
+    "parent_id": "732e0f1599e175bb1cfae3cf3a15be2642dfeda70916e003565161bccd826054",
+    "area_refid": "rs-14199"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-14199",
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": -57.91939041241491,
+          "y": 748.8043210429075
+        },
+        {
+          "x": 213.96771139883614,
+          "y": 748.8043210429139
+        },
+        {
+          "x": 359.5803271012872,
+          "y": 748.8043210429174
+        },
+        {
+          "x": 561.6249771810461,
+          "y": 748.8043210429223
+        },
+        {
+          "x": 561.6249771810459,
+          "y": 7.499999999990677
+        },
+        {
+          "x": 223.25969254889085,
+          "y": 7.499999999999799
+        },
+        {
+          "x": 223.25969254889515,
+          "y": 167.81751567814632
+        },
+        {
+          "x": -57.9193904124147,
+          "y": 167.8175156781463
+        }
+      ]
+    }
+  }
+}

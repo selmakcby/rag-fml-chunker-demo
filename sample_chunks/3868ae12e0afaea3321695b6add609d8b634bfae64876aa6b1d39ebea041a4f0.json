@@ -1,0 +1,20 @@
+{
+  "chunk_id": "3868ae12e0afaea3321695b6add609d8b634bfae64876aa6b1d39ebea041a4f0",
+  "level": "design",
+  "design_id": "3868ae12e0afaea3321695b6add609d8b634bfae64876aa6b1d39ebea041a4f0",
+  "floor_id": "0a7c1731519f26b903411dc631ae44de36cff1d61b95494bfcc7f554f5f26736",
+  "project_id": "72e1d73d21a4cb2d618d58bd1efa8ff6e48b47cba45a550b46d7dc6a39a0140e",
+  "name": "Jazmine  & Eric MBR 1",
+  "item_counts": [],
+  "summary_text": "Design 'Jazmine  & Eric MBR 1' with 1 areas and 19 items.",
+  "refs": {
+    "parent_id": "0a7c1731519f26b903411dc631ae44de36cff1d61b95494bfcc7f554f5f26736"
+  },
+  "raw": {
+    "name": "Jazmine  & Eric MBR 1",
+    "counts": {
+      "areas": 1,
+      "items": 19
+    }
+  }
+}

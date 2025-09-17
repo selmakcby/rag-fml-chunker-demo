@@ -1,0 +1,27 @@
+{
+  "id": "b04d4eefae578193b49040eda16da96ccc189a09733e53c10edf1a9e1067c58a",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "6b0b548304cb43bd2b0db102841ac35a44f52d32",
+    "x": 114.59975545874747,
+    "y": 49.49972977398015,
+    "z": 65.4,
+    "width": 40.732,
+    "height": 40.732,
+    "z_height": 74.295,
+    "rotation": 31.327301025390625,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Nolan Clr Glass Table Lamp 6 in.",
+    "brand": "Ethan Allen",
+    "sku": "096184 BRS",
+    "url": "https://www.ethanallen.com",
+    "depth": 40.732,
+    "type_guess": "table"
+  },
+  "doc": "name: Nolan Clr Glass Table Lamp 6 in. | brand: Ethan Allen | sku: 096184 BRS | type: table | refid: 6b0b548304cb43bd2b0db102841ac35a44f52d32 | dimensions: 40.732 x 40.732 x 40.732 | url: https://www.ethanallen.com | position: x=114.59975545874747, y=49.49972977398015, z=65.4, rot=31.327301025390625"
+}

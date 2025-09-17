@@ -1,0 +1,22 @@
+{
+  "id": "05a2fa2e3d0b94a0396e2de0dd8a42c38b58349a9458d861ad29bc05032cbaa3",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "eff00500e8ff0e473860fae7ba652fbe20eeda92",
+    "x": 386.8514983128953,
+    "y": -2.8689999999999993,
+    "z": 0,
+    "width": 20.737,
+    "height": 20.738,
+    "z_height": 32.986,
+    "rotation": 180,
+    "name": "Small Geo Temple Jar, White",
+    "brand": "Ethan Allen",
+    "sku": "432104B",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/geometric-temple-jar/432104B.html",
+    "depth": 20.738,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Small Geo Temple Jar, White | brand: Ethan Allen | sku: 432104B | type: decor-jar | refid: eff00500e8ff0e473860fae7ba652fbe20eeda92 | dimensions: 20.737 x 20.738 x 20.738 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/geometric-temple-jar/432104B.html | position: x=386.8514983128953, y=-2.8689999999999993, z=0, rot=180"
+}

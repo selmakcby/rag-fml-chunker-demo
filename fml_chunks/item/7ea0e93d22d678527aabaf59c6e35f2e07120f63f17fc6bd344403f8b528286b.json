@@ -1,0 +1,26 @@
+{
+  "id": "7ea0e93d22d678527aabaf59c6e35f2e07120f63f17fc6bd344403f8b528286b",
+  "parent_id": "be28cfd239d9ccefe4a130b17dc5489eabb7f4a317971d775a52c1d2315aade1",
+  "type": "item",
+  "attrs": {
+    "refid": "d558aebaba37f7b07e32c84dce6af902ecc4e279",
+    "x": 562.0975441968731,
+    "y": 584.0660809247602,
+    "z": 0,
+    "width": 156.716,
+    "height": 94.306,
+    "z_height": 95.182,
+    "rotation": 135.23597075385112,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H2680": 213
+    },
+    "name": "Bennett Roll-Arm Chair and a Half",
+    "brand": "Ethan Allen",
+    "sku": "207869",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/bennett-roll-arm-chair-and-a-half/207869.html",
+    "depth": 94.306,
+    "type_guess": "chair"
+  },
+  "doc": "name: Bennett Roll-Arm Chair and a Half | brand: Ethan Allen | sku: 207869 | type: chair | refid: d558aebaba37f7b07e32c84dce6af902ecc4e279 | dimensions: 156.716 x 94.306 x 94.306 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/bennett-roll-arm-chair-and-a-half/207869.html | position: x=562.0975441968731, y=584.0660809247602, z=0, rot=135.23597075385112"
+}

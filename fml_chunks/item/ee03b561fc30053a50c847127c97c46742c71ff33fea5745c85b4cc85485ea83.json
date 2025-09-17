@@ -1,0 +1,26 @@
+{
+  "id": "ee03b561fc30053a50c847127c97c46742c71ff33fea5745c85b4cc85485ea83",
+  "parent_id": "31f294fd40c368f181192984cb1416f25efb2bc4958853ba2af40d6740acc5ea",
+  "type": "item",
+  "attrs": {
+    "refid": "8267085597d2df62fe2bb17630575077b6087796",
+    "x": 804.5217678261538,
+    "y": -362.21967996864817,
+    "z": 0,
+    "width": 231.524,
+    "height": 94.898,
+    "z_height": 79.206,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H2680": 926
+    },
+    "name": "Anderson 91\" Sofa Diamond Tuft",
+    "brand": "Ethan Allen",
+    "sku": "203333 DI",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/anderson-sofa/andersonsofa.html",
+    "depth": 94.898,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Anderson 91\" Sofa Diamond Tuft | brand: Ethan Allen | sku: 203333 DI | type: sofa | refid: 8267085597d2df62fe2bb17630575077b6087796 | dimensions: 231.524 x 94.898 x 94.898 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/anderson-sofa/andersonsofa.html | position: x=804.5217678261538, y=-362.21967996864817, z=0, rot=270"
+}

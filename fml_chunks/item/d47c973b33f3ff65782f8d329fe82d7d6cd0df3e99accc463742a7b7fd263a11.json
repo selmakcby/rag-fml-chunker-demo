@@ -1,0 +1,29 @@
+{
+  "id": "d47c973b33f3ff65782f8d329fe82d7d6cd0df3e99accc463742a7b7fd263a11",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "1bc710c5fc9823e5c32417812cfafc59ef87834d",
+    "x": -190.7239348302549,
+    "y": 552.3777516084156,
+    "z": 0,
+    "width": 93.79,
+    "height": 93.902,
+    "z_height": 94.006,
+    "rotation": 270,
+    "mirrored": [
+      0,
+      0
+    ],
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59166": 28242
+    },
+    "name": "Bennett Track-Arm Square Corner",
+    "brand": "Ethan Allen",
+    "sku": "207125",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 93.902
+  },
+  "doc": "name: Bennett Track-Arm Square Corner | brand: Ethan Allen | sku: 207125 | refid: 1bc710c5fc9823e5c32417812cfafc59ef87834d | dimensions: 93.79 x 93.902 x 93.902 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=-190.7239348302549, y=552.3777516084156, z=0, rot=270"
+}

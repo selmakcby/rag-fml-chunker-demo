@@ -1,0 +1,26 @@
+{
+  "id": "598e2f843d1ee9209c533727c1e756650a8f0d44b69e8dd311a8fb9bccb547f4",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "0d5dd20633f9b30cf864d66ce6844f112a8b2df1",
+    "x": 450.8686852957619,
+    "y": 435.3802330723603,
+    "z": 0,
+    "width": 179.688,
+    "height": 99.128,
+    "z_height": 88.839,
+    "rotation": 181.05459796502373,
+    "materials": {
+      "FINISH_933": 217,
+      "FABRIC_23633": 28244
+    },
+    "name": "Conway Armless 2 Seat",
+    "brand": "Ethan Allen",
+    "sku": "207781",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofa-collections-conway",
+    "depth": 99.128,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Conway Armless 2 Seat | brand: Ethan Allen | sku: 207781 | type: sofa | refid: 0d5dd20633f9b30cf864d66ce6844f112a8b2df1 | dimensions: 179.688 x 99.128 x 99.128 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofa-collections-conway | position: x=450.8686852957619, y=435.3802330723603, z=0, rot=181.05459796502373"
+}

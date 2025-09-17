@@ -1,0 +1,192 @@
+{
+  "chunk_id": "63bd6be20631caff40d79acc8e1b573855f95e6154805019126fbdbd6d36f0fe",
+  "level": "room",
+  "room_id": "63bd6be20631caff40d79acc8e1b573855f95e6154805019126fbdbd6d36f0fe",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Room 9004",
+  "room_type": "bathroom",
+  "area_m2": 2.8879999999999995,
+  "num_walls": 5,
+  "num_doors": 1,
+  "num_windows": 0,
+  "item_counts": [
+    {
+      "class": "toilet",
+      "count": 1
+    },
+    {
+      "class": "bathroom mat",
+      "count": 1
+    },
+    {
+      "class": "bathroom cabinet",
+      "count": 1
+    },
+    {
+      "class": "wall art",
+      "count": 1
+    },
+    {
+      "class": "built-in spot light",
+      "count": 1
+    }
+  ],
+  "summary_text": "Room 9004 spans about 2.9 m\u00b2, with five walls, one door, and no windows. The toilet sits in the northwest corner, with a bathroom mat in front and a small cabinet nearby to its southwest. A wall art piece and a spotlight add decor and lighting, creating a compact, functional washroom.",
+  "refs": {
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+  },
+  "raw": {
+    "id": "63bd6be20631caff40d79acc8e1b573855f95e6154805019126fbdbd6d36f0fe",
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "type": "room",
+    "attrs": {
+      "id": 9004,
+      "name": "Room 9004",
+      "walls": [
+        {
+          "id": 16,
+          "a_x": -2.36,
+          "a_y": 5.27,
+          "a_z": 0.0,
+          "b_x": -3.88,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 21,
+          "a_x": -2.36,
+          "a_y": 3.37,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 22,
+          "a_x": -2.36,
+          "a_y": 3.37,
+          "a_z": 0.0,
+          "b_x": -3.88,
+          "b_y": 3.37,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 22,
+              "wall1_id": -1,
+              "position_x": -3.05,
+              "position_y": 3.37,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 12,
+          "a_x": -3.88,
+          "a_y": 3.37,
+          "a_z": 0.0,
+          "b_x": -3.88,
+          "b_y": 4.26,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 15,
+          "a_x": -3.88,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -3.88,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        }
+      ],
+      "items": [
+        {
+          "id": 3063,
+          "refid": "5f436be29314cec131bdedaea822e70dcb7a7891",
+          "class_name": "toilet",
+          "position_x": -3.03,
+          "position_y": 4.85,
+          "position_z": 0.0,
+          "scale_x": 0.49,
+          "scale_y": 0.69,
+          "scale_z": 0.77,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3064,
+          "refid": "15007a0a6debdb7175ff55d33f245764a58a5b79",
+          "class_name": "bathroom mat",
+          "position_x": -3.03,
+          "position_y": 4.21,
+          "position_z": 0.0,
+          "scale_x": 0.89,
+          "scale_y": 0.59,
+          "scale_z": 0.01,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3065,
+          "refid": "5c1c57bff482cdd3028e317e8ce4d70e12d1cba1",
+          "class_name": "bathroom cabinet",
+          "position_x": -3.64,
+          "position_y": 3.84,
+          "position_z": 0.0,
+          "scale_x": 0.37,
+          "scale_y": 0.33,
+          "scale_z": 1.53,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3066,
+          "refid": "ad0412045b2bf958eb9dc9bbfead221d3eea0697",
+          "class_name": "wall art",
+          "position_x": -2.44,
+          "position_y": 4.32,
+          "position_z": 1.45,
+          "scale_x": 0.98,
+          "scale_y": 0.0,
+          "scale_z": 0.49,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3067,
+          "refid": "03e195f8bd27ffb3982ccb69dcab98d53f3f6920",
+          "class_name": "built-in spot light",
+          "position_x": -3.12,
+          "position_y": 4.32,
+          "position_z": 2.8,
+          "scale_x": 0.1,
+          "scale_y": 0.1,
+          "scale_z": 0.12,
+          "angle_z": 0.0
+        }
+      ],
+      "area": 2.8879999999999995,
+      "summary": "Room 9004 spans about 2.9 m\u00b2, with five walls, one door, and no windows. The toilet sits in the northwest corner, with a bathroom mat in front and a small cabinet nearby to its southwest. A wall art piece and a spotlight add decor and lighting, creating a compact, functional washroom."
+    }
+  }
+}

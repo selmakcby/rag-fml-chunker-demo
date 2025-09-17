@@ -1,0 +1,21 @@
+{
+  "id": "7e3f3d179b7829e744962c46293afacc81c5f0b615e784479df6289485086eed",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "d909ba8437542f28b7527326fa11fdf98f414f3b",
+    "x": 919.6190795898438,
+    "y": 843.6016235351562,
+    "z": 16.239940643310547,
+    "width": 26.934,
+    "height": 28.914,
+    "z_height": 19.222,
+    "rotation": 90,
+    "name": "Succulent in Metal Container",
+    "brand": "Ethan Allen",
+    "sku": "444045",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/succulents-in-metal-container/444045.html#prefn1=styleType&prefv1=Greenery&start=1",
+    "depth": 28.914
+  },
+  "doc": "name: Succulent in Metal Container | brand: Ethan Allen | sku: 444045 | refid: d909ba8437542f28b7527326fa11fdf98f414f3b | dimensions: 26.934 x 28.914 x 28.914 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/succulents-in-metal-container/444045.html#prefn1=styleType&prefv1=Greenery&start=1 | position: x=919.6190795898438, y=843.6016235351562, z=16.239940643310547, rot=90"
+}

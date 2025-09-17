@@ -1,0 +1,22 @@
+{
+  "id": "e9e4598e62be64b119b921c4068502248becae45e3ed5a50d5fdff309249c912",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "a88e245c756134b932339ce1e927d4687b7289e9",
+    "x": 793.0170288085938,
+    "y": 832.2889404296875,
+    "z": 89.95133209228516,
+    "width": 31.822,
+    "height": 32.276,
+    "z_height": 22.261,
+    "rotation": 270,
+    "name": "SM MIXED SUCCULENTS IN PLANTER",
+    "brand": "Ethan Allen",
+    "sku": "442227B",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/mixed-succulents-in-round-tray/442227.html",
+    "depth": 32.276,
+    "type_guess": "planter"
+  },
+  "doc": "name: SM MIXED SUCCULENTS IN PLANTER | brand: Ethan Allen | sku: 442227B | type: planter | refid: a88e245c756134b932339ce1e927d4687b7289e9 | dimensions: 31.822 x 32.276 x 32.276 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/mixed-succulents-in-round-tray/442227.html | position: x=793.0170288085938, y=832.2889404296875, z=89.95133209228516, rot=270"
+}

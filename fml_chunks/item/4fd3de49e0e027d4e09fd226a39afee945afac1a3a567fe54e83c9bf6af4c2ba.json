@@ -1,0 +1,25 @@
+{
+  "id": "4fd3de49e0e027d4e09fd226a39afee945afac1a3a567fe54e83c9bf6af4c2ba",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "1a3b139f824365e93d5e5bbaf2b3220a3b56d826",
+    "x": 908.958327355294,
+    "y": 279.7949512939451,
+    "z": 0,
+    "width": 91.652,
+    "height": 150.404,
+    "z_height": 92.457,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23633": 28245
+    },
+    "name": "Spencer TA RAF Chaise, 24 in ",
+    "brand": "Ethan Allen",
+    "sku": "202388",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 150.404
+  },
+  "doc": "name: Spencer TA RAF Chaise, 24 in  | brand: Ethan Allen | sku: 202388 | refid: 1a3b139f824365e93d5e5bbaf2b3220a3b56d826 | dimensions: 91.652 x 150.404 x 150.404 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=908.958327355294, y=279.7949512939451, z=0, rot=0"
+}

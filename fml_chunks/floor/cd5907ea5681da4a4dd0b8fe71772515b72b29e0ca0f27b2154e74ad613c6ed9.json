@@ -1,0 +1,65 @@
+{
+  "id": "cd5907ea5681da4a4dd0b8fe71772515b72b29e0ca0f27b2154e74ad613c6ed9",
+  "parent_id": "39068248ea246ceee8a073e08d8e072e29820dcc10305fd1f13be83e6b399f1a",
+  "type": "floor",
+  "designs": [
+    "7bd790b2537ecb81e3a9580968ad1ef7e8e393bcd582c696c3e9c2986ee60780"
+  ],
+  "attrs": {
+    "id": 255030317,
+    "project_id": 167484146,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:28:21.000Z",
+    "updated_at": "2025-01-11T18:45:27.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294314741,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294314744,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 1 rooms. Highlights: room: 31 items (Marcella Armchair, Triple Phalaenopsis In Glass Bowl, Arabella Reprise, Yves Arm Chair, Drapery Panel, Open, Pinch Pleat, Marcella Armchair)."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "6d64570daace8170b0f534b16b008e656a7fccc164f6c864e533e17239c4c094",
+  "parent_id": "edda368345347a3e776023937cf29a201ad0b1cf1dabc83dc1d8d7ed9c8607cb",
+  "type": "item",
+  "attrs": {
+    "refid": "c3b26bbb53e8a4de875d2faa0ecfe99a0e984a00",
+    "x": 550.3574310801525,
+    "y": 115.78036301708116,
+    "z": 0,
+    "width": 81.28,
+    "height": 48.26,
+    "z_height": 71.12,
+    "rotation": 89.50288618501494,
+    "name": "Regis Night Table",
+    "brand": "Ethan Allen",
+    "sku": "275026 33G",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/regis-night-table/275026+++33G.html",
+    "depth": 48.26,
+    "type_guess": "table"
+  },
+  "doc": "name: Regis Night Table | brand: Ethan Allen | sku: 275026 33G | type: table | refid: c3b26bbb53e8a4de875d2faa0ecfe99a0e984a00 | dimensions: 81.28 x 48.26 x 48.26 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/regis-night-table/275026+++33G.html | position: x=550.3574310801525, y=115.78036301708116, z=0, rot=89.50288618501494"
+}

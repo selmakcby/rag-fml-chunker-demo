@@ -1,0 +1,65 @@
+{
+  "id": "22b045e6a616d0dc4fa3e8185fedb363d7f8f187294e0de176209fa3dd3c042a",
+  "parent_id": "04a0691cef287548ab16e91318e83ba416626f5eedf5bc9869ee777376af7ca3",
+  "type": "floor",
+  "designs": [
+    "aa2975f685a2a9da73a65afe02b8dde7440a105d07b2fc5028bee66cc528df32"
+  ],
+  "attrs": {
+    "id": 255029741,
+    "project_id": 167483699,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:05:41.000Z",
+    "updated_at": "2025-01-04T22:36:39.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294313892,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294313895,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 1 rooms. Highlights: room: 2 items (Azure Sofa - Sofa, Camden Rug)."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "29bc438e686cff1d44973fd796802b55747ff112c2e172f45ff51b3a3934e542",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "58399336a2131cb28c984d1168ac41b1abf276b2",
+    "x": 589.5582329492798,
+    "y": 290.8984313220855,
+    "z": 0,
+    "width": 193.102,
+    "height": 99.546,
+    "z_height": 89.73,
+    "rotation": 90,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H2639": 28244
+    },
+    "name": "Conway LAF 2 Cushion",
+    "brand": "Ethan Allen",
+    "sku": "207788",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 99.546,
+    "type_guess": "textile"
+  },
+  "doc": "name: Conway LAF 2 Cushion | brand: Ethan Allen | sku: 207788 | type: textile | refid: 58399336a2131cb28c984d1168ac41b1abf276b2 | dimensions: 193.102 x 99.546 x 99.546 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=589.5582329492798, y=290.8984313220855, z=0, rot=90"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "37be9e6ff9b83a6e4e280a7ce3585801544f6d369a3357c4297832eb16443877",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "51cd1976549241666bcf3cc27e6c4c580352361b",
+    "x": -269.9941838270929,
+    "y": 304.0537257591031,
+    "z": 92.07,
+    "width": 40.558,
+    "height": 40.336,
+    "z_height": 38.216,
+    "rotation": 180,
+    "name": "Blue Hydrangea Water Garden",
+    "brand": "Ethan Allen",
+    "sku": "446375B",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/blue-hydrangea-watergarden/446375B.html",
+    "depth": 40.336
+  },
+  "doc": "name: Blue Hydrangea Water Garden | brand: Ethan Allen | sku: 446375B | refid: 51cd1976549241666bcf3cc27e6c4c580352361b | dimensions: 40.558 x 40.336 x 40.336 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/blue-hydrangea-watergarden/446375B.html | position: x=-269.9941838270929, y=304.0537257591031, z=92.07, rot=180"
+}

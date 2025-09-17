@@ -1,0 +1,27 @@
+{
+  "id": "33bc62447093535f1912a00e3e3672eebe8a5131c3212f2753fbd1c256db56ee",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "98aae91acfd83036b841fdf02f3d40377b919fc8",
+    "x": 1032.8742116308267,
+    "y": 1004.738865775138,
+    "z": 0,
+    "width": 43.186,
+    "height": 43.186,
+    "z_height": 154.935,
+    "rotation": 90,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Farida Alabaster Floor Lamp",
+    "brand": "Ethan Allen",
+    "sku": "092013 NAT",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/farida-alabaster-floor-lamp/092013+++NAT.html",
+    "depth": 43.186,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Farida Alabaster Floor Lamp | brand: Ethan Allen | sku: 092013 NAT | type: lighting | refid: 98aae91acfd83036b841fdf02f3d40377b919fc8 | dimensions: 43.186 x 43.186 x 43.186 | url: https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/farida-alabaster-floor-lamp/092013+++NAT.html | position: x=1032.8742116308267, y=1004.738865775138, z=0, rot=90"
+}

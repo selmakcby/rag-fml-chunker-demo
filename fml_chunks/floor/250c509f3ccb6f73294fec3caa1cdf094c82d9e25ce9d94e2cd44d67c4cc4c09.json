@@ -1,0 +1,21 @@
+{
+  "id": "250c509f3ccb6f73294fec3caa1cdf094c82d9e25ce9d94e2cd44d67c4cc4c09",
+  "parent_id": "e818783269dc80201b9feb6c558cf0fa1295f43f201133c898d927f5cca02036",
+  "type": "floor",
+  "designs": [
+    "bfca2d9fb910ba565a3177f342b12572d171e230b4acf1db7b5c64649cd28a8f",
+    "6ee4030ce218ed741ea00dcf3e5749a74f75f0034e23211de193b17f465d82d4"
+  ],
+  "attrs": {
+    "id": 255066968,
+    "project_id": 167483948,
+    "name": "Floor 2",
+    "level": 2,
+    "created_at": "2025-01-05T23:22:06.000Z",
+    "updated_at": "2025-02-18T23:28:16.000Z",
+    "height": 274.32,
+    "cameras": []
+  },
+  "doc": "Floor: Floor 2 | designs: 2",
+  "summary": "Floor with 2 rooms. Highlights: room: 7 items (Bridgewater Cove Lounge Chair, Atlantic Highland Outdoor Cube Ottoman, Bridgewater Cove Lounge Chair, Redding Ridge Upholstered Outdoor Sofa, Multi-Ring Garden Seat, Ridgevale Indoor/Outdoor Rug). room: 10 items (Bridgewater Cove Lounge Chair, Bridgewater Cove Side Table , Redding Ridge Square Corner, Redding Ridge LAF 2 Cushion, Bridgewater Cove Side Table , Ridgevale Indoor/Outdoor Rug)."
+}

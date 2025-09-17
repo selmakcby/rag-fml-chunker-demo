@@ -1,0 +1,22 @@
+{
+  "id": "69f2ef733507f9fe5b7bfa79f06c9765f9812db6c15e5245d901c3ceeaf671f9",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "5a6a3df611997e9aedb2825809dd2024d9e49acc",
+    "x": 583.4852905273438,
+    "y": 290.84552001953125,
+    "z": 47,
+    "width": 50.839,
+    "height": 29.232,
+    "z_height": 45.75,
+    "rotation": 302.8569641113281,
+    "name": "Tawny Wolf Faux Fur Pillow",
+    "brand": "Ethan Allen",
+    "sku": "065587",
+    "url": "www.ethanallen.com",
+    "depth": 29.232,
+    "type_guess": "textile"
+  },
+  "doc": "name: Tawny Wolf Faux Fur Pillow | brand: Ethan Allen | sku: 065587 | type: textile | refid: 5a6a3df611997e9aedb2825809dd2024d9e49acc | dimensions: 50.839 x 29.232 x 29.232 | url: www.ethanallen.com | position: x=583.4852905273438, y=290.84552001953125, z=47, rot=302.8569641113281"
+}

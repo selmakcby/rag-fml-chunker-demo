@@ -1,0 +1,26 @@
+{
+  "id": "ae4e863f9a598b75b66a767a126a7836e166fc1495a084e4b83461ffdae39204",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "85b2f1ba693a878f07eaefe6893352d10a1d921c",
+    "x": 609.8018320163752,
+    "y": 19.378442113878595,
+    "z": 0,
+    "width": 53.317,
+    "height": 61.966,
+    "z_height": 94.528,
+    "rotation": 131.4236107536481,
+    "materials": {
+      "FINISH_612": 56,
+      "FABRIC_23633": 934
+    },
+    "name": "Maddox Maple Side Chair",
+    "brand": "Ethan Allen",
+    "sku": "156000",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-side-chairs/maddox-side-chair/156650.html?site=#q=156650&lang=en_US&site=&start=1",
+    "depth": 61.966,
+    "type_guess": "chair"
+  },
+  "doc": "name: Maddox Maple Side Chair | brand: Ethan Allen | sku: 156000 | type: chair | refid: 85b2f1ba693a878f07eaefe6893352d10a1d921c | dimensions: 53.317 x 61.966 x 61.966 | url: http://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-side-chairs/maddox-side-chair/156650.html?site=#q=156650&lang=en_US&site=&start=1 | position: x=609.8018320163752, y=19.378442113878595, z=0, rot=131.4236107536481"
+}

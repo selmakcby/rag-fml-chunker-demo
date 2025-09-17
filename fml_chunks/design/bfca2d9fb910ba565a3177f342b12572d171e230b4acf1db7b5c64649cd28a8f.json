@@ -1,0 +1,88 @@
+{
+  "id": "bfca2d9fb910ba565a3177f342b12572d171e230b4acf1db7b5c64649cd28a8f",
+  "parent_id": "250c509f3ccb6f73294fec3caa1cdf094c82d9e25ce9d94e2cd44d67c4cc4c09",
+  "type": "design",
+  "rooms": [
+    "1faa67858d2523fba145b9609674b26b0060f0fea5d97e0151d40bec41953af9"
+  ],
+  "attrs": {
+    "name": "PATIO",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 208.12489340058073,
+        "y": 213.86407516712757,
+        "z": 1518.3951107161781,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 255.39582706770406,
+        "y": 407.03912977952797,
+        "z": 165.1,
+        "dx": -0.23769205284743902,
+        "dy": -0.9713405623225926,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270123509,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: PATIO | rooms: 1"
+}

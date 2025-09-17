@@ -1,0 +1,21 @@
+{
+  "id": "a92e1692c8aa8a628ccc7cfdb1626114f637a03a8fc2215669371d421bed698c",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "16abd4631e512b7f4d8ac94bde76e1059abdd840",
+    "x": 1039.7764892578125,
+    "y": 562.5853271484375,
+    "z": 80.29466247558594,
+    "width": 20.154,
+    "height": 63.492,
+    "z_height": 5.091,
+    "rotation": 11.0926513671875,
+    "name": "Leaf Tray Antique, Brass",
+    "brand": "Ethan Allen",
+    "sku": "432439B",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-trays/antiqued-leaf-tray/432439.html#start=1",
+    "depth": 63.492
+  },
+  "doc": "name: Leaf Tray Antique, Brass | brand: Ethan Allen | sku: 432439B | refid: 16abd4631e512b7f4d8ac94bde76e1059abdd840 | dimensions: 20.154 x 63.492 x 63.492 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-trays/antiqued-leaf-tray/432439.html#start=1 | position: x=1039.7764892578125, y=562.5853271484375, z=80.29466247558594, rot=11.0926513671875"
+}

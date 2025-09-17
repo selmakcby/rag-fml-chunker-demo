@@ -1,0 +1,22 @@
+{
+  "id": "5b24f4d7e0dd755c30c7cba7c83466c596cff6c819f3c50375ed80467b2c6099",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "161727a1130d8c49642f457d0433040e942ea4da",
+    "x": 429.661257718672,
+    "y": 514.3786385855759,
+    "z": 0,
+    "width": 218.824,
+    "height": 45.72,
+    "z_height": 76.2,
+    "rotation": 1,
+    "name": "Bruckner Large Console Table",
+    "brand": "Ethan Allen",
+    "sku": "128529w",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/bruckner-console-table/128528W.html#lang=en_US&q=bruckner&start=1",
+    "depth": 45.72,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Bruckner Large Console Table | brand: Ethan Allen | sku: 128529w | type: cabinet | refid: 161727a1130d8c49642f457d0433040e942ea4da | dimensions: 218.824 x 45.72 x 45.72 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/bruckner-console-table/128528W.html#lang=en_US&q=bruckner&start=1 | position: x=429.661257718672, y=514.3786385855759, z=0, rot=1"
+}

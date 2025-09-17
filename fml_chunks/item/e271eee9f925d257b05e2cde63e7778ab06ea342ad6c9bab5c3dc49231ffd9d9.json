@@ -1,0 +1,22 @@
+{
+  "id": "e271eee9f925d257b05e2cde63e7778ab06ea342ad6c9bab5c3dc49231ffd9d9",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "bd4487fbebff38e8482d1e103db48ec680bc19b1",
+    "x": 253.29276618883281,
+    "y": 175.78191526641513,
+    "z": 0,
+    "width": 250.984,
+    "height": 314.544,
+    "z_height": 2.265,
+    "rotation": 270,
+    "name": "Yasmine Soumak, 8 x 10",
+    "brand": "Ethan Allen",
+    "sku": "041225L BLU",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/yasmine-soumak-rug/041225.html",
+    "depth": 314.544,
+    "type_guess": "rug"
+  },
+  "doc": "name: Yasmine Soumak, 8 x 10 | brand: Ethan Allen | sku: 041225L BLU | type: rug | refid: bd4487fbebff38e8482d1e103db48ec680bc19b1 | dimensions: 250.984 x 314.544 x 314.544 | url: https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/yasmine-soumak-rug/041225.html | position: x=253.29276618883281, y=175.78191526641513, z=0, rot=270"
+}

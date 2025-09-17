@@ -1,0 +1,26 @@
+{
+  "id": "4bbd6370e03eebe808eaa9de5efdc2a1b840005ab5e1761acd9bf227770d88d8",
+  "parent_id": "f477f93caf5905c4601fce2bcd9809f857fecc3654671c906e753995f942ee0e",
+  "type": "item",
+  "attrs": {
+    "refid": "97cd4113ddfb4ab0c86f0a8af07410ccb095f310",
+    "x": 93.277819457493,
+    "y": 226.93814123148488,
+    "z": 0,
+    "width": 234.372,
+    "height": 106.994,
+    "z_height": 92.457,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_58602": 935
+    },
+    "name": "Spencer TA 92'' Sofa, 26 in. Seat",
+    "brand": "Ethan Allen",
+    "sku": "202394",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/spencer-track-arm-sofa/spencerTAsofa.html",
+    "depth": 106.994,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Spencer TA 92'' Sofa, 26 in. Seat | brand: Ethan Allen | sku: 202394 | type: sofa | refid: 97cd4113ddfb4ab0c86f0a8af07410ccb095f310 | dimensions: 234.372 x 106.994 x 106.994 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/spencer-track-arm-sofa/spencerTAsofa.html | position: x=93.277819457493, y=226.93814123148488, z=0, rot=270"
+}

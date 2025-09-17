@@ -1,0 +1,20 @@
+{
+  "id": "fe048ee0c13eaa07116cc0e5fae2979cc832e67dd6f3213542b6b25f3eaa315c",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "e3a4be0be1d60a6d4efd1d9824f6705945540e40",
+    "x": 611.8049192220564,
+    "y": 109.90296201972427,
+    "z": 0,
+    "width": 71.10983989191304,
+    "height": 13.01495998021726,
+    "z_height": 259.0799996061984,
+    "rotation": 0,
+    "name": "Curtains, short",
+    "brand": "Floorplanner",
+    "url": "https://roomstyler.com",
+    "depth": 38.5
+  },
+  "doc": "name: Curtains, short | brand: Floorplanner | refid: e3a4be0be1d60a6d4efd1d9824f6705945540e40 | dimensions: 71.10983989191304 x 38.5 x 13.01495998021726 | url: https://roomstyler.com | position: x=611.8049192220564, y=109.90296201972427, z=0, rot=0"
+}

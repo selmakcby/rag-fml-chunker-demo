@@ -1,0 +1,21 @@
+{
+  "id": "74713be85791e35b4f97ce27b1850df7345997dcbd47897d1a9877b534f70304",
+  "parent_id": "be28cfd239d9ccefe4a130b17dc5489eabb7f4a317971d775a52c1d2315aade1",
+  "type": "item",
+  "attrs": {
+    "refid": "2f42c64671d144342e23428679063f3196be92ab",
+    "x": 456.18700495211556,
+    "y": 493.16048628116073,
+    "z": 0,
+    "width": 53.312,
+    "height": 46.718,
+    "z_height": 48.204,
+    "rotation": 0,
+    "name": "Viviette Ottoman - PROTO",
+    "brand": "Ethan Allen",
+    "sku": "202098_81573NS",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans/viviette-hexagon-ottoman/202098.html",
+    "depth": 46.718
+  },
+  "doc": "name: Viviette Ottoman - PROTO | brand: Ethan Allen | sku: 202098_81573NS | refid: 2f42c64671d144342e23428679063f3196be92ab | dimensions: 53.312 x 46.718 x 46.718 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans/viviette-hexagon-ottoman/202098.html | position: x=456.18700495211556, y=493.16048628116073, z=0, rot=0"
+}

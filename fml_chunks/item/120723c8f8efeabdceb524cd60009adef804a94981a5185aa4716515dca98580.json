@@ -1,0 +1,22 @@
+{
+  "id": "120723c8f8efeabdceb524cd60009adef804a94981a5185aa4716515dca98580",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "dc8152363eb51ee18dfa265543cf120c4cd042b4",
+    "x": 806.9223876386787,
+    "y": 137.86334070200874,
+    "z": 0,
+    "width": 60.964,
+    "height": 60.96,
+    "z_height": 42.531,
+    "rotation": 0,
+    "name": "Josie Bunching Table",
+    "brand": "Ethan Allen",
+    "sku": "198031 12B",
+    "url": "https://www.ethanallen.com/en_US/shop-whats-new-living-room-furniture/josie-bunching-table/198031.html#lang=en_US&q=josie&start=1",
+    "depth": 60.96,
+    "type_guess": "table"
+  },
+  "doc": "name: Josie Bunching Table | brand: Ethan Allen | sku: 198031 12B | type: table | refid: dc8152363eb51ee18dfa265543cf120c4cd042b4 | dimensions: 60.964 x 60.96 x 60.96 | url: https://www.ethanallen.com/en_US/shop-whats-new-living-room-furniture/josie-bunching-table/198031.html#lang=en_US&q=josie&start=1 | position: x=806.9223876386787, y=137.86334070200874, z=0, rot=0"
+}

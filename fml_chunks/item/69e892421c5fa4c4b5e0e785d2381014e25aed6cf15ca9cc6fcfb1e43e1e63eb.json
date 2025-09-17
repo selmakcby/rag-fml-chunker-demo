@@ -1,0 +1,22 @@
+{
+  "id": "69e892421c5fa4c4b5e0e785d2381014e25aed6cf15ca9cc6fcfb1e43e1e63eb",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "bd6e9ef1f5386188a6a1451f377dfaef8cf3c1d5",
+    "x": 351.4431813590945,
+    "y": -61.10534017769049,
+    "z": 0,
+    "width": 24.524,
+    "height": 24.524,
+    "z_height": 41.284,
+    "rotation": 0,
+    "name": "Large Geo Temple Jar, Grey",
+    "brand": "Ethan Allen",
+    "sku": "432100A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/geometric-temple-jar/432100A.html",
+    "depth": 24.524,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Large Geo Temple Jar, Grey | brand: Ethan Allen | sku: 432100A | type: decor-jar | refid: bd6e9ef1f5386188a6a1451f377dfaef8cf3c1d5 | dimensions: 24.524 x 24.524 x 24.524 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/geometric-temple-jar/432100A.html | position: x=351.4431813590945, y=-61.10534017769049, z=0, rot=0"
+}

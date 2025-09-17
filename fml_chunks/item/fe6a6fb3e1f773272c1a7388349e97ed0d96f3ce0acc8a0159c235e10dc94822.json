@@ -1,0 +1,27 @@
+{
+  "id": "fe6a6fb3e1f773272c1a7388349e97ed0d96f3ce0acc8a0159c235e10dc94822",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "4514e012a1b2ba8f13b2c2266f0937f3fe178467",
+    "x": 845.8117450272083,
+    "y": 190.38234400973005,
+    "z": 156.799999739396,
+    "width": 17.764,
+    "height": 8.71,
+    "z_height": 29.3,
+    "rotation": 270,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Killian Wall Sconce",
+    "brand": "Ethan Allen",
+    "sku": "098021",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-wall-sconces/killian-wall-sconce/098021.html#start=1",
+    "depth": 29.3,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Killian Wall Sconce | brand: Ethan Allen | sku: 098021 | type: lighting | refid: 4514e012a1b2ba8f13b2c2266f0937f3fe178467 | dimensions: 17.764 x 29.3 x 8.71 | url: https://www.ethanallen.com/en_US/shop-lighting-wall-sconces/killian-wall-sconce/098021.html#start=1 | position: x=845.8117450272083, y=190.38234400973005, z=156.799999739396, rot=270"
+}

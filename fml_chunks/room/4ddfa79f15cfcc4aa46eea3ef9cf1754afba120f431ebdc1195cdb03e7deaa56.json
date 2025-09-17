@@ -1,0 +1,16 @@
+{
+  "id": "4ddfa79f15cfcc4aa46eea3ef9cf1754afba120f431ebdc1195cdb03e7deaa56",
+  "parent_id": "aab891f8c4cccdb65b9064acdd2671cbae48d08154efaa18768924f9c1e9cec6",
+  "type": "room",
+  "items": [
+    "7b67a2cb431fb41551773a447c71f6141bffbd4ddeb3aa0befd1946722196751",
+    "fd782ccc668cfea6406c9fa84dc07dcb443e7f60432d640542b123094f36b901"
+  ],
+  "walls": [],
+  "attrs": {
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Burke Oak Full Bed, Calvin Armoire",
+  "summary": "room: 2 items (Burke Oak Full Bed, Calvin Armoire)."
+}

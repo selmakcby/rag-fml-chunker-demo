@@ -1,0 +1,25 @@
+{
+  "id": "09a85544edcfc2b1124771c338011042e97cd6f09b2d85e5975fce635f8c5687",
+  "parent_id": "8953e70ecf14a89f5d7f7797e0c7e4f5fcf3c05218965add53159fee9e71c3c1",
+  "type": "item",
+  "attrs": {
+    "refid": "77e89bb7bb448a802544741ac18e6f944eb67ac6",
+    "x": 564.8731158976457,
+    "y": 612.2598454706969,
+    "z": 0,
+    "width": 76.166,
+    "height": 76.166,
+    "z_height": 67.307,
+    "rotation": 270,
+    "materials": {
+      "FINISH_464TS": 79
+    },
+    "name": "Allistair Round Side Table",
+    "brand": "Ethan Allen",
+    "sku": "358316",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/allistair-round-side-table/358316.html?dwvar_358316_finish=464?site=#q=allistair&start=1",
+    "depth": 76.166,
+    "type_guess": "table"
+  },
+  "doc": "name: Allistair Round Side Table | brand: Ethan Allen | sku: 358316 | type: table | refid: 77e89bb7bb448a802544741ac18e6f944eb67ac6 | dimensions: 76.166 x 76.166 x 76.166 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/allistair-round-side-table/358316.html?dwvar_358316_finish=464?site=#q=allistair&start=1 | position: x=564.8731158976457, y=612.2598454706969, z=0, rot=270"
+}

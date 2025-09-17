@@ -1,0 +1,20 @@
+{
+  "chunk_id": "ac6ebcad99be84c5ba982b3bddeb5ad355608a3971c0b64524601dee0603ec79",
+  "level": "design",
+  "design_id": "ac6ebcad99be84c5ba982b3bddeb5ad355608a3971c0b64524601dee0603ec79",
+  "floor_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "DOWN BED AND TV ROOM",
+  "item_counts": [],
+  "summary_text": "Design 'DOWN BED AND TV ROOM' with 1 areas and 8 items.",
+  "refs": {
+    "parent_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b"
+  },
+  "raw": {
+    "name": "DOWN BED AND TV ROOM",
+    "counts": {
+      "areas": 1,
+      "items": 8
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "850ba5effc995cf36a7fef6a61ac1e2abb273fbcf13279d898639bf2b191116f",
+  "parent_id": "537c58f53411fbd1ffaa9df236c029a22983c6e1a6bd20ecfb5f0030d19380d8",
+  "type": "item",
+  "attrs": {
+    "refid": "87653ab4f381303499248bc9f80c7d51f34b0490",
+    "x": 487.95918314162486,
+    "y": 729.6767883070529,
+    "z": 0,
+    "width": 198.718,
+    "height": 94.116,
+    "z_height": 94.341,
+    "rotation": 180,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H2639": 207
+    },
+    "name": "Bennett Roll-Arm LAF Sleeper",
+    "brand": "Ethan Allen",
+    "sku": "217887",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 94.116
+  },
+  "doc": "name: Bennett Roll-Arm LAF Sleeper | brand: Ethan Allen | sku: 217887 | refid: 87653ab4f381303499248bc9f80c7d51f34b0490 | dimensions: 198.718 x 94.116 x 94.116 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=487.95918314162486, y=729.6767883070529, z=0, rot=180"
+}

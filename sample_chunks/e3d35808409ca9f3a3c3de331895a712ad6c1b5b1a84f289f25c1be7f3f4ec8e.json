@@ -1,0 +1,20 @@
+{
+  "chunk_id": "e3d35808409ca9f3a3c3de331895a712ad6c1b5b1a84f289f25c1be7f3f4ec8e",
+  "level": "design",
+  "design_id": "e3d35808409ca9f3a3c3de331895a712ad6c1b5b1a84f289f25c1be7f3f4ec8e",
+  "floor_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "LIVE4",
+  "item_counts": [],
+  "summary_text": "Design 'LIVE4' with 1 areas and 17 items.",
+  "refs": {
+    "parent_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d"
+  },
+  "raw": {
+    "name": "LIVE4",
+    "counts": {
+      "areas": 1,
+      "items": 17
+    }
+  }
+}

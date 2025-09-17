@@ -1,0 +1,27 @@
+{
+  "id": "484b95b616c4725dc9ff90a7cc625cc6bac479f3478fec6e255a8ba89eb9a931",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "e28e4250250841cd11fa2e474765b8fce7e85958",
+    "x": 596.330152826586,
+    "y": 148.5898351130299,
+    "z": 0,
+    "width": 50.69,
+    "height": 50.686,
+    "z_height": 162.473,
+    "rotation": 180,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Jayde Woven Floor Lamp",
+    "brand": "Ethan Allen",
+    "sku": "092005",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/jayde-woven-floor-lamp/092005.html",
+    "depth": 50.686,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Jayde Woven Floor Lamp | brand: Ethan Allen | sku: 092005 | type: lighting | refid: e28e4250250841cd11fa2e474765b8fce7e85958 | dimensions: 50.69 x 50.686 x 50.686 | url: https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/jayde-woven-floor-lamp/092005.html | position: x=596.330152826586, y=148.5898351130299, z=0, rot=180"
+}

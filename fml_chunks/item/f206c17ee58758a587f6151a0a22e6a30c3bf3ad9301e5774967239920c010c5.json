@@ -1,0 +1,26 @@
+{
+  "id": "f206c17ee58758a587f6151a0a22e6a30c3bf3ad9301e5774967239920c010c5",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "239e156584174736494d5632e47bc57837e6e7c8",
+    "x": 638.7262079511056,
+    "y": 251.46210591375458,
+    "z": 0,
+    "width": 53.336,
+    "height": 62.405,
+    "z_height": 102.119,
+    "rotation": 19.113103998235673,
+    "materials": {
+      "FINISH_461": 966,
+      "FABRIC_59771": 30799
+    },
+    "name": "Cyra Oak Side Chair",
+    "brand": "Ethan Allen",
+    "sku": "256410",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-side-chairs/cyra-dining-side-chair/C56410.html#start=1",
+    "depth": 62.405,
+    "type_guess": "chair"
+  },
+  "doc": "name: Cyra Oak Side Chair | brand: Ethan Allen | sku: 256410 | type: chair | refid: 239e156584174736494d5632e47bc57837e6e7c8 | dimensions: 53.336 x 62.405 x 62.405 | url: https://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-side-chairs/cyra-dining-side-chair/C56410.html#start=1 | position: x=638.7262079511056, y=251.46210591375458, z=0, rot=19.113103998235673"
+}

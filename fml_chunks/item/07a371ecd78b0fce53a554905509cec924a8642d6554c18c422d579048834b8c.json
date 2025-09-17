@@ -1,0 +1,21 @@
+{
+  "id": "07a371ecd78b0fce53a554905509cec924a8642d6554c18c422d579048834b8c",
+  "parent_id": "40819539eecf51b593b5988433d553af851d4a38bf93fe738c1f3301d58fd748",
+  "type": "item",
+  "attrs": {
+    "refid": "50d77c22c4ed3848f8888b647ad2614558424552",
+    "x": 43.48542022705078,
+    "y": 535.0963134765625,
+    "z": 153.87646484375,
+    "width": 50.8,
+    "height": 27.244,
+    "z_height": 15.25,
+    "rotation": 270.5,
+    "name": "Emerald Snakeskin Box, Large",
+    "brand": "Ethan Allen",
+    "sku": "431723A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-boxes/emerald-snakeskin-box/431723A.html",
+    "depth": 27.244
+  },
+  "doc": "name: Emerald Snakeskin Box, Large | brand: Ethan Allen | sku: 431723A | refid: 50d77c22c4ed3848f8888b647ad2614558424552 | dimensions: 50.8 x 27.244 x 27.244 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-boxes/emerald-snakeskin-box/431723A.html | position: x=43.48542022705078, y=535.0963134765625, z=153.87646484375, rot=270.5"
+}

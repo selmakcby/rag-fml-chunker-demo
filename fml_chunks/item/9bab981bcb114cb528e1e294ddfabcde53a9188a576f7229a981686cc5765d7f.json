@@ -1,0 +1,25 @@
+{
+  "id": "9bab981bcb114cb528e1e294ddfabcde53a9188a576f7229a981686cc5765d7f",
+  "parent_id": "6693f0e341ea5e61d0717629745f38fa075c364a46cb770c53a2ebc80d5d4a2e",
+  "type": "item",
+  "attrs": {
+    "refid": "c7f6253d6bd98d1bcd1253391ac01863fcae8ff2",
+    "x": 476.9778827310399,
+    "y": 537.0588340719233,
+    "z": 0,
+    "width": 50.8,
+    "height": 50.8,
+    "z_height": 46.45,
+    "rotation": 315.5,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23654": 26584
+    },
+    "name": "Nassau 20\" Ottoman Round, Smooth Top",
+    "brand": "Ethan Allen",
+    "sku": "207397 SO",
+    "url": "www.ethanallen.com",
+    "depth": 50.8
+  },
+  "doc": "name: Nassau 20\" Ottoman Round, Smooth Top | brand: Ethan Allen | sku: 207397 SO | refid: c7f6253d6bd98d1bcd1253391ac01863fcae8ff2 | dimensions: 50.8 x 50.8 x 50.8 | url: www.ethanallen.com | position: x=476.9778827310399, y=537.0588340719233, z=0, rot=315.5"
+}

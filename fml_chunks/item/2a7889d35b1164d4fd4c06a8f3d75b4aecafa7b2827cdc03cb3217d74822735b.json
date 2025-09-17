@@ -1,0 +1,22 @@
+{
+  "id": "2a7889d35b1164d4fd4c06a8f3d75b4aecafa7b2827cdc03cb3217d74822735b",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "f5357d1a5ed3cc03b78716c0ecdf0833c6748e73",
+    "x": 777.4099748810373,
+    "y": 838.6565382565107,
+    "z": 0,
+    "width": 38.146,
+    "height": 38.146,
+    "z_height": 55.756,
+    "rotation": 90,
+    "name": "Beryl Floor Urn Small",
+    "brand": "Ethan Allen",
+    "sku": "430564C",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-planters-urns/beryl-floor-urn/430564.html",
+    "depth": 38.146,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Beryl Floor Urn Small | brand: Ethan Allen | sku: 430564C | type: decor-jar | refid: f5357d1a5ed3cc03b78716c0ecdf0833c6748e73 | dimensions: 38.146 x 38.146 x 38.146 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-planters-urns/beryl-floor-urn/430564.html | position: x=777.4099748810373, y=838.6565382565107, z=0, rot=90"
+}

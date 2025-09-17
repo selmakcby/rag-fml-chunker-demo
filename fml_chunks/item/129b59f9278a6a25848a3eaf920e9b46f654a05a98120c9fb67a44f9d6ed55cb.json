@@ -1,0 +1,27 @@
+{
+  "id": "129b59f9278a6a25848a3eaf920e9b46f654a05a98120c9fb67a44f9d6ed55cb",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "b702d0ee9dea001c2b3d61bda8da149b77e5a65c",
+    "x": 112.36145842481868,
+    "y": 306.801147814181,
+    "z": 0,
+    "width": 38.186,
+    "height": 24.316,
+    "z_height": 138.457,
+    "rotation": 180,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Cole Pull Up Floor Lamp",
+    "brand": "Ethan Allen",
+    "sku": "092012 BRS",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/cole-pull-up-floor-lamp/092012+++BRS.html",
+    "depth": 24.316,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Cole Pull Up Floor Lamp | brand: Ethan Allen | sku: 092012 BRS | type: lighting | refid: b702d0ee9dea001c2b3d61bda8da149b77e5a65c | dimensions: 38.186 x 24.316 x 24.316 | url: https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/cole-pull-up-floor-lamp/092012+++BRS.html | position: x=112.36145842481868, y=306.801147814181, z=0, rot=180"
+}

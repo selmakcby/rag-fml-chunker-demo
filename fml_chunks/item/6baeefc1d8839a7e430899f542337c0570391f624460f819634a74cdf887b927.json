@@ -1,0 +1,27 @@
+{
+  "id": "6baeefc1d8839a7e430899f542337c0570391f624460f819634a74cdf887b927",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "148818278dc36e44a4b3430b338396c36396918d",
+    "x": 783.3955547161871,
+    "y": 761.1868265760688,
+    "z": 274.31999958303356,
+    "width": 46.212,
+    "height": 46.212,
+    "z_height": 73.721,
+    "rotation": 90,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Zara Pendant, Brass",
+    "brand": "Ethan Allen",
+    "sku": "094001 BRS",
+    "url": "www.ethanallen.com",
+    "depth": 46.212,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Zara Pendant, Brass | brand: Ethan Allen | sku: 094001 BRS | type: lighting | refid: 148818278dc36e44a4b3430b338396c36396918d | dimensions: 46.212 x 46.212 x 46.212 | url: www.ethanallen.com | position: x=783.3955547161871, y=761.1868265760688, z=274.31999958303356, rot=90"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7a5ffc2c98ccf3aed419390fee75d1b392ec31e4c2cc71f2f7c98e600cfc1351",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "add2bb6e2effe39bf238b9409aa0333632dab054",
+    "x": 958.3402310983308,
+    "y": 993.8886309481047,
+    "z": 47,
+    "width": 51.193,
+    "height": 21.53,
+    "z_height": 27.302,
+    "rotation": 21.801409486351844,
+    "name": "Embroidered Knot Lumbar Pillow",
+    "brand": "Ethan Allen",
+    "sku": "065693",
+    "url": "www.ethanallen.com",
+    "depth": 21.53,
+    "type_guess": "textile"
+  },
+  "doc": "name: Embroidered Knot Lumbar Pillow | brand: Ethan Allen | sku: 065693 | type: textile | refid: add2bb6e2effe39bf238b9409aa0333632dab054 | dimensions: 51.193 x 21.53 x 21.53 | url: www.ethanallen.com | position: x=958.3402310983308, y=993.8886309481047, z=47, rot=21.801409486351844"
+}

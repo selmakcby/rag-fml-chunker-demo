@@ -1,0 +1,20 @@
+{
+  "chunk_id": "1a12e52d68aad1a2e7186be498668946f003c2a035e738eb26280422e63faf68",
+  "level": "design",
+  "design_id": "1a12e52d68aad1a2e7186be498668946f003c2a035e738eb26280422e63faf68",
+  "floor_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "down bedroom",
+  "item_counts": [],
+  "summary_text": "Design 'down bedroom' with 1 areas and 7 items.",
+  "refs": {
+    "parent_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b"
+  },
+  "raw": {
+    "name": "down bedroom",
+    "counts": {
+      "areas": 1,
+      "items": 7
+    }
+  }
+}

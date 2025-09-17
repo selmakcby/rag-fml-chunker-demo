@@ -1,0 +1,22 @@
+{
+  "id": "a7ff7a2ca8fe5e84ed8564caedea01d3ebc801522c378c0cf30d39c68e3b3670",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "60cf08e153c6b6d502495c997bcf161de75f1129",
+    "x": 520.805419921875,
+    "y": 259.3011169433594,
+    "z": 81.31998443603516,
+    "width": 50.839,
+    "height": 29.232,
+    "z_height": 45.75,
+    "rotation": 95.26222229003906,
+    "name": "Faux Fur Mink Pillow, Champagne",
+    "brand": "Ethan Allen",
+    "sku": "065588 CHP",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/faux-fur-mink-pillow/065588.html",
+    "depth": 29.232,
+    "type_guess": "textile"
+  },
+  "doc": "name: Faux Fur Mink Pillow, Champagne | brand: Ethan Allen | sku: 065588 CHP | type: textile | refid: 60cf08e153c6b6d502495c997bcf161de75f1129 | dimensions: 50.839 x 29.232 x 29.232 | url: https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/faux-fur-mink-pillow/065588.html | position: x=520.805419921875, y=259.3011169433594, z=81.31998443603516, rot=95.26222229003906"
+}

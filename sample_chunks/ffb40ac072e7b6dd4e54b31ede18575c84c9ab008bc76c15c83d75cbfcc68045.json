@@ -1,0 +1,37 @@
+{
+  "chunk_id": "ffb40ac072e7b6dd4e54b31ede18575c84c9ab008bc76c15c83d75cbfcc68045",
+  "level": "item",
+  "parent_id": "0ae14b2c67053e6c3c1a20839fd1b3b0a3ba16dc053c37cb7e7a39dae3be751d",
+  "room_id": "79ce7f8a91763fdd6b2e028ffd75d25bc0570b8024b21d5c301cb2d533fdc200",
+  "type": "item",
+  "name": "df4f43c6197532b69c168446a34816cebe98234a",
+  "refid": "df4f43c6197532b69c168446a34816cebe98234a",
+  "position": {
+    "x": 745.5036553752135,
+    "y": 423.9424499333206,
+    "z": 0
+  },
+  "size": {
+    "width": 243.84,
+    "height": 426.7199993513856,
+    "z_height": 1.529
+  },
+  "rotation": 90,
+  "summary_text": "Item 'df4f43c6197532b69c168446a34816cebe98234a' (item) at (745.5036553752135, 423.9424499333206).",
+  "refs": {
+    "parent_id": "0ae14b2c67053e6c3c1a20839fd1b3b0a3ba16dc053c37cb7e7a39dae3be751d"
+  },
+  "raw": {
+    "refid": "df4f43c6197532b69c168446a34816cebe98234a",
+    "x": 745.5036553752135,
+    "y": 423.9424499333206,
+    "z": 0,
+    "width": 243.84,
+    "height": 426.7199993513856,
+    "z_height": 1.529,
+    "rotation": 90,
+    "materials": {
+      "FABRIC_RUG_Riverdale_WashedGray": 10607
+    }
+  }
+}

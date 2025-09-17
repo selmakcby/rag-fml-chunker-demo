@@ -1,0 +1,26 @@
+{
+  "id": "e52f3da61b2330571355915028c561a21f3173340d79e56698c0917e3dd75561",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "543ce4c2c8bb11c5e47c971737af1c592b9c44a1",
+    "x": 569.9097095062988,
+    "y": 450.1011757154988,
+    "z": 0,
+    "width": 79.036,
+    "height": 88.978,
+    "z_height": 88.968,
+    "rotation": 123.7323578937299,
+    "materials": {
+      "FINISH_953": 261,
+      "FABRIC_23654": 26606
+    },
+    "name": "Fairfax Chair",
+    "brand": "Ethan Allen",
+    "sku": "137171",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-chaises/fairfax-chair/137171.html?site=",
+    "depth": 88.978,
+    "type_guess": "chair"
+  },
+  "doc": "name: Fairfax Chair | brand: Ethan Allen | sku: 137171 | type: chair | refid: 543ce4c2c8bb11c5e47c971737af1c592b9c44a1 | dimensions: 79.036 x 88.978 x 88.978 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-chaises/fairfax-chair/137171.html?site= | position: x=569.9097095062988, y=450.1011757154988, z=0, rot=123.7323578937299"
+}

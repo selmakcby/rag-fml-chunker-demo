@@ -1,0 +1,27 @@
+{
+  "id": "12511dd10ce21ce5add08aff6dcca46303b478da8ec5a36d6d2748b46b826ad3",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "b699aa7f619d5996ef4a2773e86ee5fcd139ce39",
+    "x": 692.3169229260935,
+    "y": -159.29380212617875,
+    "z": 251.16229248046875,
+    "width": 71.276,
+    "height": 71.136,
+    "z_height": 96.561,
+    "rotation": 0,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Zoe 8 Light Chandelier, Nickel",
+    "brand": "Ethan Allen",
+    "sku": "093699",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-chandeliers/zoe-eight-light-nickel-chandelier/093699.html",
+    "depth": 71.136,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Zoe 8 Light Chandelier, Nickel | brand: Ethan Allen | sku: 093699 | type: lighting | refid: b699aa7f619d5996ef4a2773e86ee5fcd139ce39 | dimensions: 71.276 x 71.136 x 71.136 | url: https://www.ethanallen.com/en_US/shop-lighting-chandeliers/zoe-eight-light-nickel-chandelier/093699.html | position: x=692.3169229260935, y=-159.29380212617875, z=251.16229248046875, rot=0"
+}

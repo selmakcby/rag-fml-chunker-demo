@@ -1,0 +1,78 @@
+{
+  "chunk_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "level": "design",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "First design",
+  "room_ids": [
+    "2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0",
+    "7eb8d9a8a3c874acc596c2b8a03fdcf0829ea687788159a935cb5bc1ec34bf72",
+    "481e69996a6bafe576531aefa57f97f6f4052d469a5a4c76a6aef7a18142897d",
+    "b1030f61546fab1cf0cdbef8260e779f32da95575179dd2e8798a032f15003c9",
+    "63bd6be20631caff40d79acc8e1b573855f95e6154805019126fbdbd6d36f0fe",
+    "2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb",
+    "3467164015403ef3ac5a13594f5def08ee2033f41dee357518599f2cbe7050c8",
+    "c348e26d90739bdd81fffed48b864c4d38bacc1108341a1fa7fdd4debbe45545"
+  ],
+  "room_count": 8,
+  "unassigned_wall_count": 0,
+  "unassigned_item_count": 2,
+  "unassigned_item_classes": {
+    "unknown": 2
+  },
+  "unassigned_item_refids": [
+    "688f0886e0009d343cdfa6ff3345459271dba40c",
+    "sym-351"
+  ],
+  "summary_text": "Design \u201cFirst design\u201d contains 8 rooms; 2 unassigned items and 0 unassigned walls.",
+  "refs": {
+    "parent_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9"
+  },
+  "raw": {
+    "id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "parent_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+    "type": "design",
+    "rooms": [
+      "2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0",
+      "7eb8d9a8a3c874acc596c2b8a03fdcf0829ea687788159a935cb5bc1ec34bf72",
+      "481e69996a6bafe576531aefa57f97f6f4052d469a5a4c76a6aef7a18142897d",
+      "b1030f61546fab1cf0cdbef8260e779f32da95575179dd2e8798a032f15003c9",
+      "63bd6be20631caff40d79acc8e1b573855f95e6154805019126fbdbd6d36f0fe",
+      "2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb",
+      "3467164015403ef3ac5a13594f5def08ee2033f41dee357518599f2cbe7050c8",
+      "c348e26d90739bdd81fffed48b864c4d38bacc1108341a1fa7fdd4debbe45545"
+    ],
+    "attrs": {
+      "id": 115981800,
+      "name": "First design",
+      "unassigned_walls": [],
+      "unassigned_items": [
+        {
+          "id": 3002,
+          "refid": "688f0886e0009d343cdfa6ff3345459271dba40c",
+          "class_name": "unknown",
+          "position_x": 7.11,
+          "position_y": -1.65,
+          "position_z": 0.0,
+          "scale_x": 4.68,
+          "scale_y": 3.81,
+          "scale_z": 2.93,
+          "angle_z": 0.4188790204786391
+        },
+        {
+          "id": 3003,
+          "refid": "sym-351",
+          "class_name": "unknown",
+          "position_x": 9.63,
+          "position_y": -3.33,
+          "position_z": 0.0,
+          "scale_x": 1.5,
+          "scale_y": 1.5,
+          "scale_z": 0.0,
+          "angle_z": 5.916666164260777
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "a1b6da97cefa2bcbda532250fc3573f052cd73f43ce216cceec5fea9727e5720",
+  "parent_id": "cf450b8fe279995b3e6c9b0796da4cad821a60df22d340abeb99fcd6c36ca19a",
+  "type": "floor",
+  "designs": [
+    "94bdb6c79e851f220a0a05c93ff1b9b454ab15fe0d09abca0aa2f808eb710b19"
+  ],
+  "attrs": {
+    "id": 255029177,
+    "project_id": 167483264,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T21:45:50.000Z",
+    "updated_at": "2025-01-04T23:54:44.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294313034,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294313037,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ],
+    "drawing": {
+      "id": 42445475,
+      "x": 547.1,
+      "y": 631.6,
+      "width": 1570.4,
+      "height": 1856.3,
+      "rotation": 0.0,
+      "alpha": 50,
+      "visible": true,
+      "url": "https://d273csydae9vpp.cloudfront.net/uploads/drawings/42445475/oldham_first_floor.jpg",
+      "depth": "HIGH"
+    }
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 4 rooms. Highlights: room: 0 items (no items). room: 16 items (Adhira Glass Teardrop Pendant, ASSETS, Column_93_2, Adhira Glass Teardrop Pendant, Shaker Kitchen Base Cabinet Double, Shaker Kitchen Base Cabinet Double, Shaker Kitchen Base Cabinet Drawers). room: 1 items (Pony wall support)."
+}

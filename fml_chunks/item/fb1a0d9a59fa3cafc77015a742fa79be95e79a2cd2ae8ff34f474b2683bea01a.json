@@ -1,0 +1,30 @@
+{
+  "id": "fb1a0d9a59fa3cafc77015a742fa79be95e79a2cd2ae8ff34f474b2683bea01a",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "452d3c6189fbdfc992200e493f32115e000da1e7",
+    "x": 375.6285705566406,
+    "y": 196.8170928955078,
+    "z": 6.058979034423828,
+    "width": 88.786,
+    "height": 17.592,
+    "z_height": 234.003,
+    "rotation": 180,
+    "mirrored": [
+      1,
+      1
+    ],
+    "materials": {
+      "FINISH_GRB_GrayBrown": 17774,
+      "FABRIC_DP_SatinDupioni_WHS": 17680,
+      "FABRIC_DP_SatinDupioni_CHS": 17662
+    },
+    "name": "Drapery Panel, Stacked, Double Border, Pinch Pleat, with Turnip Finial",
+    "brand": "Ethan Allen",
+    "sku": "DP1020_stacked2bPP, halfrod_Turnip",
+    "url": "www.ethanallen.com",
+    "depth": 17.592
+  },
+  "doc": "name: Drapery Panel, Stacked, Double Border, Pinch Pleat, with Turnip Finial | brand: Ethan Allen | sku: DP1020_stacked2bPP, halfrod_Turnip | refid: 452d3c6189fbdfc992200e493f32115e000da1e7 | dimensions: 88.786 x 17.592 x 17.592 | url: www.ethanallen.com | position: x=375.6285705566406, y=196.8170928955078, z=6.058979034423828, rot=180"
+}

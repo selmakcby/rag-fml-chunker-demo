@@ -1,0 +1,37 @@
+{
+  "chunk_id": "77358ab6388996d3d2f7435f0477dce656863193c285df26bc19822b07bb1d7d",
+  "level": "item",
+  "parent_id": "b89596ab240d8239372916494943b365cedbbcf0f9dc0f488f7dc8046987655e",
+  "room_id": "4ea11f953baf8ab2bc5ece93e9e47fa47cb8e655bea91254f1c17f0a9cd64f04",
+  "type": "item",
+  "name": "aa91e5ca31630b478d1564d70f93aa35c568965b",
+  "refid": "aa91e5ca31630b478d1564d70f93aa35c568965b",
+  "position": {
+    "x": 471.5955856488127,
+    "y": 86.678644225659,
+    "z": 0
+  },
+  "size": {
+    "width": 60.758,
+    "height": 11.872,
+    "z_height": 236.2199996409456
+  },
+  "rotation": 0,
+  "summary_text": "Item 'aa91e5ca31630b478d1564d70f93aa35c568965b' (item) at (471.5955856488127, 86.678644225659).",
+  "refs": {
+    "parent_id": "b89596ab240d8239372916494943b365cedbbcf0f9dc0f488f7dc8046987655e"
+  },
+  "raw": {
+    "refid": "aa91e5ca31630b478d1564d70f93aa35c568965b",
+    "x": 471.5955856488127,
+    "y": 86.678644225659,
+    "z": 0,
+    "width": 60.758,
+    "height": 11.872,
+    "z_height": 236.2199996409456,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_DP_SatinDupioni_CHS": "17672"
+    }
+  }
+}

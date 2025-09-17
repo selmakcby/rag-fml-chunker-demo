@@ -1,0 +1,27 @@
+{
+  "chunk_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "level": "floor",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "First Floor",
+  "height_mm_or_cm_raw": 280.0,
+  "summary_text": "Floor Nine comprises eight rooms, organized into living, sleeping, and utility zones to promote smooth flow between spaces. Living areas center a welcoming lounge and seating setup with TV stand, coffee table, and rug, plus a compact entry space anchored by a wall mirror and lighting. A sleeping zone features a bed, nightstands, and dresser, while utilities cover a western kitchen and small washroom. A central freestanding cabinet in the compact room adds storage, yielding a cohesive, neutral, functional layout.",
+  "refs": {
+    "parent_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131"
+  },
+  "raw": {
+    "id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+    "parent_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+    "type": "floor",
+    "designs": [
+      "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+    ],
+    "attrs": {
+      "id": 110023773,
+      "name": "First Floor",
+      "level": 0,
+      "height": 280.0,
+      "summary": "Floor Nine comprises eight rooms, organized into living, sleeping, and utility zones to promote smooth flow between spaces. Living areas center a welcoming lounge and seating setup with TV stand, coffee table, and rug, plus a compact entry space anchored by a wall mirror and lighting. A sleeping zone features a bed, nightstands, and dresser, while utilities cover a western kitchen and small washroom. A central freestanding cabinet in the compact room adds storage, yielding a cohesive, neutral, functional layout."
+    }
+  }
+}

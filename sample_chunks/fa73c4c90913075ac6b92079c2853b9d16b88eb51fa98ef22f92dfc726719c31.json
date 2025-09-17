@@ -1,0 +1,39 @@
+{
+  "chunk_id": "fa73c4c90913075ac6b92079c2853b9d16b88eb51fa98ef22f92dfc726719c31",
+  "level": "item",
+  "parent_id": "5aa4f329b8239d9241d20ec98cc5c5aec4879b2f25ec8c9b497e16bfb1d7e71f",
+  "room_id": "d7c4d6c7c6c344a536d2acc0890dd6a467b2848734e8c6f8bc5a778fbdcf388b",
+  "type": "item",
+  "name": "e28e4250250841cd11fa2e474765b8fce7e85958",
+  "refid": "e28e4250250841cd11fa2e474765b8fce7e85958",
+  "position": {
+    "x": 596.330152826586,
+    "y": 148.5898351130299,
+    "z": 0
+  },
+  "size": {
+    "width": 50.69,
+    "height": 50.686,
+    "z_height": 162.473
+  },
+  "rotation": 180,
+  "summary_text": "Item 'e28e4250250841cd11fa2e474765b8fce7e85958' (item) at (596.330152826586, 148.5898351130299).",
+  "refs": {
+    "parent_id": "5aa4f329b8239d9241d20ec98cc5c5aec4879b2f25ec8c9b497e16bfb1d7e71f"
+  },
+  "raw": {
+    "refid": "e28e4250250841cd11fa2e474765b8fce7e85958",
+    "x": 596.330152826586,
+    "y": 148.5898351130299,
+    "z": 0,
+    "width": 50.69,
+    "height": 50.686,
+    "z_height": 162.473,
+    "rotation": 180,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "114cd7d74b726fb32ef4a64267c18092ad4d6e7d781a0ecb17d7b1541f9873a0",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "cff4ba574b7f81a1d388092a4dcdd9cc5ebc4f9e",
+    "x": 791.7025756835938,
+    "y": 850.11083984375,
+    "z": 56.87654495239258,
+    "width": 50.8,
+    "height": 24.964,
+    "z_height": 15.24,
+    "rotation": 353.4211058616638,
+    "name": "Large Snake Leather Box",
+    "brand": "Ethan Allen",
+    "sku": "432082A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-boxes/faux-reptile-leather-box/432082A.html",
+    "depth": 24.964
+  },
+  "doc": "name: Large Snake Leather Box | brand: Ethan Allen | sku: 432082A | refid: cff4ba574b7f81a1d388092a4dcdd9cc5ebc4f9e | dimensions: 50.8 x 24.964 x 24.964 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-boxes/faux-reptile-leather-box/432082A.html | position: x=791.7025756835938, y=850.11083984375, z=56.87654495239258, rot=353.4211058616638"
+}

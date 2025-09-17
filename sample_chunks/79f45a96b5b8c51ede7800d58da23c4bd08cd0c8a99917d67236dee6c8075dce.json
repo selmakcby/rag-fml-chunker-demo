@@ -1,0 +1,53 @@
+{
+  "chunk_id": "79f45a96b5b8c51ede7800d58da23c4bd08cd0c8a99917d67236dee6c8075dce",
+  "level": "room",
+  "room_id": "79f45a96b5b8c51ede7800d58da23c4bd08cd0c8a99917d67236dee6c8075dce",
+  "design_id": "45aa733cc25805e99ee3167820363050044f7cbefb25902169a81fe80ebfd1ff",
+  "floor_id": "9642d5b59a0c0fef02dedd5913897e4c1a59c082580b33dbcd3cd4d683e91ab3",
+  "project_id": "f25e4ebebfe7c02c9883340fbe12d113ee52b0b17e7eafd736841ddd9dded840",
+  "name": "Area rs-17403",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 73892.49690740052,
+  "summary_text": "First design \u2014 c8075dce: polygon with 6 points. Approx. area (units\u00b2) 73892. Contains: e5d9e5ff696289f7578f0b576e3fe9508f3b1b39.",
+  "refs": {
+    "parent_id": "45aa733cc25805e99ee3167820363050044f7cbefb25902169a81fe80ebfd1ff",
+    "area_refid": "rs-17403"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-17403",
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 986.0058669613501,
+          "y": 614.4089970848579
+        },
+        {
+          "x": 986.0058669613501,
+          "y": 772.8564576296868
+        },
+        {
+          "x": 1243.6732808417958,
+          "y": 772.856457629706
+        },
+        {
+          "x": 1243.6732808417955,
+          "y": 486.0817514509566
+        },
+        {
+          "x": 986.005866961351,
+          "y": 486.08175145095635
+        },
+        {
+          "x": 986.0058669613509,
+          "y": 599.4089970848602
+        }
+      ]
+    }
+  }
+}

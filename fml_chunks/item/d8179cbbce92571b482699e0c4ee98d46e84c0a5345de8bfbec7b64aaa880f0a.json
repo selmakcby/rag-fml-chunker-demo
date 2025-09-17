@@ -1,0 +1,22 @@
+{
+  "id": "d8179cbbce92571b482699e0c4ee98d46e84c0a5345de8bfbec7b64aaa880f0a",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "aea7950e68f500cd36ccfa35a6f34f395e677d96",
+    "x": 513.7490139786047,
+    "y": 694.7558485359414,
+    "z": 107.71624755859375,
+    "width": 98.164,
+    "height": 6.4,
+    "z_height": 98.516,
+    "rotation": 0,
+    "name": "Quatrefoil Mirror, Light",
+    "brand": "Ethan Allen",
+    "sku": "074114",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/light-quatrefoil-mirror/074114.html",
+    "depth": 98.516,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Quatrefoil Mirror, Light | brand: Ethan Allen | sku: 074114 | type: mirror | refid: aea7950e68f500cd36ccfa35a6f34f395e677d96 | dimensions: 98.164 x 98.516 x 6.4 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/light-quatrefoil-mirror/074114.html | position: x=513.7490139786047, y=694.7558485359414, z=107.71624755859375, rot=0"
+}

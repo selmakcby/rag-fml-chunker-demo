@@ -1,0 +1,22 @@
+{
+  "id": "12f3e4a05d76afb95fea4a905b9a343aa88b929c1defddccfcdd29b8c2b861ab",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "e943d832e7e0be8c3122608b6a24f30924ec37f9",
+    "x": 523.7508544921875,
+    "y": 266.0667724609375,
+    "z": 76.38128662109375,
+    "width": 50.839,
+    "height": 29.232,
+    "z_height": 45.75,
+    "rotation": 87.64041900634766,
+    "name": "Faux Fur Mink Pillow",
+    "brand": "Ethan Allen",
+    "sku": "065588 PRL",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/faux-fur-mink-pillow/065588.html",
+    "depth": 29.232,
+    "type_guess": "textile"
+  },
+  "doc": "name: Faux Fur Mink Pillow | brand: Ethan Allen | sku: 065588 PRL | type: textile | refid: e943d832e7e0be8c3122608b6a24f30924ec37f9 | dimensions: 50.839 x 29.232 x 29.232 | url: https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/faux-fur-mink-pillow/065588.html | position: x=523.7508544921875, y=266.0667724609375, z=76.38128662109375, rot=87.64041900634766"
+}

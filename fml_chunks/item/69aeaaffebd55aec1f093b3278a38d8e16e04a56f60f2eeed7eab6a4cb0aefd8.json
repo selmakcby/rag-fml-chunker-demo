@@ -1,0 +1,21 @@
+{
+  "id": "69aeaaffebd55aec1f093b3278a38d8e16e04a56f60f2eeed7eab6a4cb0aefd8",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "bd221a8019fb371e665eac82800d7a60eb0d40dc",
+    "x": 122.40507996138426,
+    "y": 309.0950796776155,
+    "z": 0,
+    "width": 185.40983971817704,
+    "height": 50.810159922768555,
+    "z_height": 124.44983981083624,
+    "rotation": 270,
+    "name": "Fireplace",
+    "brand": "BESPOKE ARCHITECTURE",
+    "sku": "",
+    "url": "https://roomstyler.com",
+    "depth": 29.875
+  },
+  "doc": "name: Fireplace | brand: BESPOKE ARCHITECTURE | refid: bd221a8019fb371e665eac82800d7a60eb0d40dc | dimensions: 185.40983971817704 x 29.875 x 50.810159922768555 | url: https://roomstyler.com | position: x=122.40507996138426, y=309.0950796776155, z=0, rot=270"
+}

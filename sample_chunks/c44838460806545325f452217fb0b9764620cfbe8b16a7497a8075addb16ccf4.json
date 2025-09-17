@@ -1,0 +1,69 @@
+{
+  "chunk_id": "c44838460806545325f452217fb0b9764620cfbe8b16a7497a8075addb16ccf4",
+  "level": "room",
+  "room_id": "c44838460806545325f452217fb0b9764620cfbe8b16a7497a8075addb16ccf4",
+  "design_id": "29233cdf7e619e2cba97867194f109fb70a32899024079216780268c55509196",
+  "floor_id": "0a7c1731519f26b903411dc631ae44de36cff1d61b95494bfcc7f554f5f26736",
+  "project_id": "72e1d73d21a4cb2d618d58bd1efa8ff6e48b47cba45a550b46d7dc6a39a0140e",
+  "name": "Area rs-16821",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 367622.7910823149,
+  "summary_text": "Jazmine  & Eric MBR 3 \u2014 db16ccf4: polygon with 10 points. Approx. area (units\u00b2) 367623. Contains: 195d3263dd9198d356a0a4759e0f0fab21ebdd53, 225e38ae9ffd79aec2df7501a7b6b8685c35e925, 3147a1bcca34cc2bfe60f8b547571045bc990afc, 38af187a24898e23351fafe625057dee4abcc3d2, 3db5de9e4b601856eed112a853a736272adf0855, 4ee7d66e057f694b1a4bc48304c0c9617d479fdd, 50d77c22c4ed3848f8888b647ad2614558424552, 627f0ea663e2779100beb60e6b18479fc736597b, 638b0fc7d6d3d5a9fb057b43a7203e1b618dfc79, 6c6c91767bfcb8433044e2e55dac5c607b77b839, 7dede5855ec86c0f734c1d0fa3eba5c55a2c7054, 7f64e2f737dca64c41318b2ee2ab2a723e9c362c.",
+  "refs": {
+    "parent_id": "29233cdf7e619e2cba97867194f109fb70a32899024079216780268c55509196",
+    "area_refid": "rs-16821"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-16821",
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 7.499999999999998,
+          "y": 618.5827934806213
+        },
+        {
+          "x": 145.4375551076725,
+          "y": 618.5827934806165
+        },
+        {
+          "x": 145.43755510767252,
+          "y": 767.9224511042783
+        },
+        {
+          "x": 244.70096939593913,
+          "y": 767.9224511042781
+        },
+        {
+          "x": 244.70096939594384,
+          "y": 618.5827934806132
+        },
+        {
+          "x": 584.8339235563711,
+          "y": 618.5827934806018
+        },
+        {
+          "x": 584.8339235563709,
+          "y": 7.500000000000001
+        },
+        {
+          "x": 7.500000000000002,
+          "y": 7.5
+        },
+        {
+          "x": 7.500000000000001,
+          "y": 266.226295061235
+        },
+        {
+          "x": 7.5,
+          "y": 281.22629506123513
+        }
+      ]
+    }
+  }
+}

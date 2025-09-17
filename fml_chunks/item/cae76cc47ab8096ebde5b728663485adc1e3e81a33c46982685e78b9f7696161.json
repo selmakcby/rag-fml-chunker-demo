@@ -1,0 +1,22 @@
+{
+  "id": "cae76cc47ab8096ebde5b728663485adc1e3e81a33c46982685e78b9f7696161",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "fb0ca2146c3a16d1d2971cd5f49391d2d68f2ea0",
+    "x": 868.5645228610335,
+    "y": 1407.031332397413,
+    "z": 105.40999999999998,
+    "width": 71.12,
+    "height": 2.55,
+    "z_height": 132.08,
+    "rotation": 0,
+    "name": "Antique Silver Cut Star Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074414",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/antique-silver-cut-star-mirror/074414.html",
+    "depth": 132.08,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Antique Silver Cut Star Mirror | brand: Ethan Allen | sku: 074414 | type: mirror | refid: fb0ca2146c3a16d1d2971cd5f49391d2d68f2ea0 | dimensions: 71.12 x 132.08 x 2.55 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/antique-silver-cut-star-mirror/074414.html | position: x=868.5645228610335, y=1407.031332397413, z=105.40999999999998, rot=0"
+}

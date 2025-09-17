@@ -1,0 +1,25 @@
+{
+  "id": "55845fd4e1545163b077c9005f18bd5e653158496b3fbc0752823eabbd34dcef",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "c45a63524bb8584f8f23410b71304e4602ba1660",
+    "x": 372.4958645019492,
+    "y": 502.8759877929687,
+    "z": 0,
+    "width": 76.082,
+    "height": 30.128,
+    "z_height": 76.182,
+    "rotation": 0,
+    "materials": {
+      "FINISH_200": 30436
+    },
+    "name": "Valeria 30\" Stone Top Console",
+    "brand": "Ethan Allen",
+    "sku": "138927",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/valeria-stone-top-console-table/138927.html",
+    "depth": 30.128,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Valeria 30\" Stone Top Console | brand: Ethan Allen | sku: 138927 | type: cabinet | refid: c45a63524bb8584f8f23410b71304e4602ba1660 | dimensions: 76.082 x 30.128 x 30.128 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/valeria-stone-top-console-table/138927.html | position: x=372.4958645019492, y=502.8759877929687, z=0, rot=0"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bbc1b79234c295bf5c9a74bcd75f4a457740ee6534f95e537b927316b87b9958",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "2bf62be2df40802ebbe24bf42ccdf83530db2807",
+    "x": 27.746225064963117,
+    "y": 193.95813175768185,
+    "z": 0,
+    "width": 165.369,
+    "height": 96.952,
+    "z_height": 83.597,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_P8430": 30425
+    },
+    "name": "Redding Ridge LAF 2 Cushion",
+    "brand": "Ethan Allen",
+    "sku": "402495",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-three-piece-outdoor-sectional/402499G3.html#lang=en_US&q=redding+ridge&start=1",
+    "depth": 96.952,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Redding Ridge LAF 2 Cushion | brand: Ethan Allen | sku: 402495 | type: sofa | refid: 2bf62be2df40802ebbe24bf42ccdf83530db2807 | dimensions: 165.369 x 96.952 x 96.952 | url: https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-three-piece-outdoor-sectional/402499G3.html#lang=en_US&q=redding+ridge&start=1 | position: x=27.746225064963117, y=193.95813175768185, z=0, rot=270"
+}

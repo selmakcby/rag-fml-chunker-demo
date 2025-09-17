@@ -1,0 +1,21 @@
+{
+  "id": "40778ee5cc19a9b884362ada9eb477f1e24c483580fa8b54752183a8f8f29acf",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "dd9716170975943519b932c59aed25932d852ecd",
+    "x": 242.1609693959436,
+    "y": 680.0986762789252,
+    "z": 134.0978546142578,
+    "width": 93.98,
+    "height": 5.08,
+    "z_height": 124.46,
+    "rotation": 270,
+    "name": "Subdued Shapes",
+    "brand": "Ethan Allen",
+    "sku": "073182",
+    "url": "http://staging.web.ethanallen.demandware.net/s/ethanallen-us/en_US/shop-decor-artwork-framed-artwork-abstract/subdued-shapes/073182.html?__siteDate=202201100701",
+    "depth": 124.46
+  },
+  "doc": "name: Subdued Shapes | brand: Ethan Allen | sku: 073182 | refid: dd9716170975943519b932c59aed25932d852ecd | dimensions: 93.98 x 124.46 x 5.08 | url: http://staging.web.ethanallen.demandware.net/s/ethanallen-us/en_US/shop-decor-artwork-framed-artwork-abstract/subdued-shapes/073182.html?__siteDate=202201100701 | position: x=242.1609693959436, y=680.0986762789252, z=134.0978546142578, rot=270"
+}

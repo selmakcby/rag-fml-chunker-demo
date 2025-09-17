@@ -1,0 +1,27 @@
+{
+  "id": "4dc9e5601be4adb2d0f618779ab08219eb5e23421987225cf811bc53e1d8e1de",
+  "parent_id": "40819539eecf51b593b5988433d553af851d4a38bf93fe738c1f3301d58fd748",
+  "type": "item",
+  "attrs": {
+    "refid": "d2f75e32c5f11467e97747270a2cb6a65b93936b",
+    "x": 550.7111846666537,
+    "y": 511.9514868157246,
+    "z": 71.12,
+    "width": 45.72,
+    "height": 22.262,
+    "z_height": 80.331,
+    "rotation": 90,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Clara Crystal Table Lamp",
+    "brand": "Ethan Allen",
+    "sku": "096079",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/clara-crystal-table-lamp/096079.html#lang=en_US&q=clara&start=1",
+    "depth": 22.262,
+    "type_guess": "table"
+  },
+  "doc": "name: Clara Crystal Table Lamp | brand: Ethan Allen | sku: 096079 | type: table | refid: d2f75e32c5f11467e97747270a2cb6a65b93936b | dimensions: 45.72 x 22.262 x 22.262 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/clara-crystal-table-lamp/096079.html#lang=en_US&q=clara&start=1 | position: x=550.7111846666537, y=511.9514868157246, z=71.12, rot=90"
+}

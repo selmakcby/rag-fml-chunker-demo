@@ -1,0 +1,21 @@
+{
+  "id": "ae1780c8e4dbc84aaeeb501acf8118f7ac8efe6aef3114387835042155ad4f73",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "7e1ab45effa3d31884965e73ee2a2259a230e848",
+    "x": 879.4487404054596,
+    "y": 1114.0324110547308,
+    "z": 0,
+    "width": 243.83999962936318,
+    "height": 304.799999536704,
+    "z_height": 0.1,
+    "rotation": 180,
+    "name": "Chain Stitch Rug - Pale Blue",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 40.0,
+    "type_guess": "rug"
+  },
+  "doc": "name: Chain Stitch Rug - Pale Blue | brand: Floorplanner | type: rug | refid: 7e1ab45effa3d31884965e73ee2a2259a230e848 | dimensions: 243.83999962936318 x 40.0 x 304.799999536704 | url: https://floorplanner.com | position: x=879.4487404054596, y=1114.0324110547308, z=0, rot=180"
+}

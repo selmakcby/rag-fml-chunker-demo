@@ -1,0 +1,16 @@
+{
+  "id": "4cb159be0e10a16bde5e42b173eba5ce4f04717784821a735d61b075dd353e1d",
+  "parent_id": "aa2975f685a2a9da73a65afe02b8dde7440a105d07b2fc5028bee66cc528df32",
+  "type": "room",
+  "items": [
+    "5414ee8366594bff0fbb59d544f970fdf5959f3a507a4ee37e8e8469d2a7fcd6",
+    "d2bb1c17689db1135de5c00730712e0a14164a039ab7a7e011539e86eb062e73"
+  ],
+  "walls": [],
+  "attrs": {
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Azure Sofa - Sofa, Camden Rug",
+  "summary": "room: 2 items (Azure Sofa - Sofa, Camden Rug)."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a05e9029bbd891daec00eaa248f2aae114694c978e7940771df0f60a7033bc63",
+  "parent_id": "30feb809e75749815c64378f4b366f1e1c1271c6444aad2ddc5462fc92666250",
+  "type": "item",
+  "attrs": {
+    "refid": "865f41749010cb0b54e87fac980ae03e38d1df35",
+    "x": 415.7822057584784,
+    "y": 299.0847339666287,
+    "z": 0,
+    "width": 94.59,
+    "height": 94.59,
+    "z_height": 46.751,
+    "rotation": 180,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23654": 937
+    },
+    "name": "Nassau 37\" Round Ottoman, Smooth Top",
+    "brand": "Ethan Allen",
+    "sku": "207399 SO",
+    "url": "www.ethanallen.com",
+    "depth": 94.59
+  },
+  "doc": "name: Nassau 37\" Round Ottoman, Smooth Top | brand: Ethan Allen | sku: 207399 SO | refid: 865f41749010cb0b54e87fac980ae03e38d1df35 | dimensions: 94.59 x 94.59 x 94.59 | url: www.ethanallen.com | position: x=415.7822057584784, y=299.0847339666287, z=0, rot=180"
+}

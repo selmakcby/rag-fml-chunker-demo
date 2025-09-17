@@ -1,0 +1,22 @@
+{
+  "id": "bd5b31a58769f5fa24fb4c2ade2d9ba9142830d1de8ee50ad7579b2843040b5a",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "32962d6f1826fb4f71f24ed1a25ffb7b76ccdb86",
+    "x": 32.1875381979621,
+    "y": 305.86363175768184,
+    "z": 0,
+    "width": 58.442,
+    "height": 68.574,
+    "z_height": 53.344,
+    "rotation": 90,
+    "name": "Bridgewater Cove Side Table ",
+    "brand": "Ethan Allen",
+    "sku": "404110",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-furniture-bridgewater-cove/bridgewater-cove-teak-side-table/404110+++790.html",
+    "depth": 68.574,
+    "type_guess": "table"
+  },
+  "doc": "name: Bridgewater Cove Side Table  | brand: Ethan Allen | sku: 404110 | type: table | refid: 32962d6f1826fb4f71f24ed1a25ffb7b76ccdb86 | dimensions: 58.442 x 68.574 x 68.574 | url: https://www.ethanallen.com/en_US/shop-outdoor-furniture-bridgewater-cove/bridgewater-cove-teak-side-table/404110+++790.html | position: x=32.1875381979621, y=305.86363175768184, z=0, rot=90"
+}

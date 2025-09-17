@@ -1,0 +1,48 @@
+{
+  "chunk_id": "84c7d33fa1d354aa335867f9196d139b1aa98faa7e96125c1bc514135f521ceb",
+  "level": "room",
+  "room_id": "84c7d33fa1d354aa335867f9196d139b1aa98faa7e96125c1bc514135f521ceb",
+  "design_id": "1a12e52d68aad1a2e7186be498668946f003c2a035e738eb26280422e63faf68",
+  "floor_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "Area 2c2e384b7b0081391d4bd3e1ee8351c3f9a4c6fcdc6bf1fe2a15c4b79be15574",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 141337.73595886424,
+  "summary_text": "down bedroom \u2014 5f521ceb: polygon with 5 points. Approx. area (units\u00b2) 141338. Contains: 4c83cddb17d842cd864ef9af6b805dea61a2354f, 99fdf1c0e87d4e8597df0a640eb92caf42d7578b, aff4fbd3c0b50fdee7e16cefc9a17b849888832d.",
+  "refs": {
+    "parent_id": "1a12e52d68aad1a2e7186be498668946f003c2a035e738eb26280422e63faf68",
+    "area_refid": "2c2e384b7b0081391d4bd3e1ee8351c3f9a4c6fcdc6bf1fe2a15c4b79be15574"
+  },
+  "raw": {
+    "area": {
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 7.499999999999998,
+          "y": 292.987665262415
+        },
+        {
+          "x": 202.47514613623972,
+          "y": 488.7390393817352
+        },
+        {
+          "x": 377.9825401672314,
+          "y": 285.10546040987964
+        },
+        {
+          "x": 377.98254016723155,
+          "y": 7.500000000000002
+        },
+        {
+          "x": 7.500000000000001,
+          "y": 7.499999999999999
+        }
+      ]
+    }
+  }
+}

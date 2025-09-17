@@ -1,0 +1,22 @@
+]633;C]633;E;{   printf "RAG DEMO — Living Area Layout\\n\\nQUESTION:\\n%s\\n\\n" "$Q"\x3b   printf "==== (A) NO CONTEXT ====\\n\\n"\x3b cat demos/001_no_context.txt\x3b   printf "\\n\\n==== (B) WITH RETRIEVAL ====\\n\\n"\x3b cat demos/001_with_context.txt\x3b } > demos/001_combined.txt;339c7b3c-b1f1-4f8f-b101-7d94d734416bRAG DEMO — Living Area Layout
+
+QUESTION:
+What characterizes the living area layout?
+
+==== (A) NO CONTEXT ====
+
+
+A living area, often referred to as a living room or lounge, typically features furniture such as sofas, armchairs, and coffee tables for seating and relaxation [1]. It may also include items like televisions, bookshelves, and decorative elements that reflect the homeowner's personal style [2]. The layout can vary significantly, with some living areas being open plan and connected to dining or kitchen spaces, while others are more enclosed and separate. The size of the living area can depend on the overall size of the house or apartment [3].
+
+
+
+==== (B) WITH RETRIEVAL ====
+
+
+Retrieved (top_k=5):
+  - score=0.6655  id=2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb  type=living  area=22.619999999999997
+
+The living area layout in Room 9005 ([2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb]) features a main living space with a sofa, two chairs, a TV, coffee table, rug, console, bookcase, cabinets, and lighting, arranged to create a warm, functional lounge. The room has no windows but has two doors. The area spans 22.6 m².
+
+Sources:
+  • 2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb  (score=0.6655, area=22.619999999999997, type=living)

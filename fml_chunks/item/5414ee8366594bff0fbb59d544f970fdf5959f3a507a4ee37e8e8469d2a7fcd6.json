@@ -1,0 +1,25 @@
+{
+  "id": "5414ee8366594bff0fbb59d544f970fdf5959f3a507a4ee37e8e8469d2a7fcd6",
+  "parent_id": "4cb159be0e10a16bde5e42b173eba5ce4f04717784821a735d61b075dd353e1d",
+  "type": "item",
+  "attrs": {
+    "refid": "71ce09294ea93dad60867640c0b3cb84bf75b94d",
+    "x": 316.75872696081274,
+    "y": 276.6601094503661,
+    "z": 0,
+    "width": 304.799999536704,
+    "height": 426.7199993513856,
+    "z_height": 1.8,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_RUG_Camden_OpalMatte": "37733"
+    },
+    "name": "Camden Rug",
+    "brand": "Ethan Allen",
+    "sku": "048158",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-indoor-and-outdoor/camden-indoor%2Foutdoor-rug/048158.html#start=1",
+    "depth": 305.0,
+    "type_guess": "rug"
+  },
+  "doc": "name: Camden Rug | brand: Ethan Allen | sku: 048158 | type: rug | refid: 71ce09294ea93dad60867640c0b3cb84bf75b94d | dimensions: 304.799999536704 x 305.0 x 426.7199993513856 | url: https://www.ethanallen.com/en_US/shop-rugs-indoor-and-outdoor/camden-indoor%2Foutdoor-rug/048158.html#start=1 | position: x=316.75872696081274, y=276.6601094503661, z=0, rot=270"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3ca75b1ee62a14b176fb50d0a661b12c340a92762de1126fb809efa5095b1329",
+  "parent_id": "f1855e2aa9de88bb8907afaf0e7b9fe256c568a19c6e5cb3bbe9e13d99c8d910",
+  "type": "floor",
+  "designs": [
+    "b3afdb5563d042c233b3bdabcd9cb1c333b18e92f752adfcf66620990c568a31",
+    "7913923257cae38ca2c24aee3d29d226b841a09247c3a41af31a6e1b775e4f45",
+    "bf5db96cbbd0679ad7a07cbef5f4f975c393baa607436f19763e1a86c9f7a6b6",
+    "bc08ba57abd7bb506853e6e3ab8cf6bc87dd3d5fdec29141bb075fa9eab999b6",
+    "e2488de0beaf7ba890a78d9d8ae46d32e52f0ec957693821bdbd4684e5809843",
+    "5e62a11a7bd0be973bd75a2b88e6f1ad871aef6e9fb82ef94edf2e964f68814e",
+    "fdf92ed1994fef6c45cb2b28752691a90bbc59257791ab90a9982577301b2280",
+    "018b3fed9a2b46863c990fa1399af7b56250985a983f5e1f0fd0b4d2e834a27d",
+    "da36067e55321341a7bf17637f2c1baf4a76c2a893fa997ee4d44b8d9a6c8026",
+    "8ab8e6f3dc20757d3cc68d9840f0dfa8fab9ecc426d48059570f3450ea9ac8dc"
+  ],
+  "attrs": {
+    "id": 255029147,
+    "project_id": 167483243,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T21:45:08.000Z",
+    "updated_at": "2025-01-15T16:09:30.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294312998,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294313001,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 10",
+  "summary": "Floor with 10 rooms. Highlights: room: 36 items (Woolson King Bed, White Orchids in Glass, 12'', EA Linen Duvet Cover, Cal King, Supreme roman blind, Gold Foil Floral II, Faux Fur Mink Pillow, Champagne). room: 0 items (no items). room: 10 items (Delphinium Water Garden, Tilda Mirror, Views of the West I, Lorna Labradorite Table Lamp, Ashby Chest, Black Crackle Turret Mirror)."
+}

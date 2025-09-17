@@ -1,0 +1,22 @@
+{
+  "id": "55a567faa1f31e2709a72697ba7c32f5c0163693116040f489c8373cb83f6c0e",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "fa06b996b433699c8efde64c09620cc70600bb8d",
+    "x": 583.015423556371,
+    "y": 352.6832379049505,
+    "z": 182.48880004882812,
+    "width": 50.464,
+    "height": 3.637,
+    "z_height": 50.465,
+    "rotation": 270,
+    "name": "20'' Gold Starburst Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074077A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/20%22-gold-starburst-mirror/074077A.html",
+    "depth": 50.465,
+    "type_guess": "mirror"
+  },
+  "doc": "name: 20'' Gold Starburst Mirror | brand: Ethan Allen | sku: 074077A | type: mirror | refid: fa06b996b433699c8efde64c09620cc70600bb8d | dimensions: 50.464 x 50.465 x 3.637 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/20%22-gold-starburst-mirror/074077A.html | position: x=583.015423556371, y=352.6832379049505, z=182.48880004882812, rot=270"
+}

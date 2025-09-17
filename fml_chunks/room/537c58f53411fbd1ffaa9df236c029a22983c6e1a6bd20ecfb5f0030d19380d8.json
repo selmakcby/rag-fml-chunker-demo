@@ -1,0 +1,19 @@
+{
+  "id": "537c58f53411fbd1ffaa9df236c029a22983c6e1a6bd20ecfb5f0030d19380d8",
+  "parent_id": "6f38417ddf01a17fdfaf146eacfd154bc2bfeac2dd4e0ec1dc6f97079cd548d7",
+  "type": "room",
+  "items": [
+    "850ba5effc995cf36a7fef6a61ac1e2abb273fbcf13279d898639bf2b191116f"
+  ],
+  "walls": [],
+  "attrs": {
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": 0,
+    "name_y": 0,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Bennett Roll-Arm LAF Sleeper",
+  "summary": "Living: 1 items (Bennett Roll-Arm LAF Sleeper)."
+}

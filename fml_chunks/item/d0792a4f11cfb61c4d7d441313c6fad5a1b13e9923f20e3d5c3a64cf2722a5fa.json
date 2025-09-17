@@ -1,0 +1,26 @@
+{
+  "id": "d0792a4f11cfb61c4d7d441313c6fad5a1b13e9923f20e3d5c3a64cf2722a5fa",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "ca10bde5dd640ae65a80ef49cf0637107e7d228a",
+    "x": 717.9173389837989,
+    "y": 261.9934497747884,
+    "z": 0,
+    "width": 263.62221284433576,
+    "height": 136.8009690171149,
+    "z_height": 90,
+    "rotation": 270,
+    "materials": {
+      "FINISH_K_WHITE_MATTE": 2861,
+      "FINISH_K_LUNA_PEARL": 2863
+    },
+    "name": "Shaker Kitchen Island, Large",
+    "brand": "Floorplanner",
+    "sku": "",
+    "url": "www.floorplanner.com",
+    "depth": 109.21,
+    "type_guess": "kitchen-cabinetry"
+  },
+  "doc": "name: Shaker Kitchen Island, Large | brand: Floorplanner | type: kitchen-cabinetry | refid: ca10bde5dd640ae65a80ef49cf0637107e7d228a | dimensions: 263.62221284433576 x 109.21 x 136.8009690171149 | url: www.floorplanner.com | position: x=717.9173389837989, y=261.9934497747884, z=0, rot=270"
+}

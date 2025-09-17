@@ -1,0 +1,21 @@
+{
+  "id": "0577bcaabbe85ebe6f7e233d9bcfe29d297967cb7d937ad61a9f4ef5928b54fb",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "b6fe480812aa1504113a2c7c106a811b9e0b25bd",
+    "x": -30.91793928720631,
+    "y": 308.46591145737756,
+    "z": 143.2712860107422,
+    "width": 112.396,
+    "height": 5.001,
+    "z_height": 104.776,
+    "rotation": 270,
+    "name": "Flowers of July",
+    "brand": "Ethan Allen",
+    "sku": "073218",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-all-artwork/flowers-of-july/073218.html",
+    "depth": 104.776
+  },
+  "doc": "name: Flowers of July | brand: Ethan Allen | sku: 073218 | refid: b6fe480812aa1504113a2c7c106a811b9e0b25bd | dimensions: 112.396 x 104.776 x 5.001 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-all-artwork/flowers-of-july/073218.html | position: x=-30.91793928720631, y=308.46591145737756, z=143.2712860107422, rot=270"
+}

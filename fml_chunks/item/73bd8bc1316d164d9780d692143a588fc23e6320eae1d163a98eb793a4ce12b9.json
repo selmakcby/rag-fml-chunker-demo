@@ -1,0 +1,26 @@
+{
+  "id": "73bd8bc1316d164d9780d692143a588fc23e6320eae1d163a98eb793a4ce12b9",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "867dae13efc6d04734d2f67ce3fc420400103a3a",
+    "x": 473.1434326171875,
+    "y": 301.4025573730469,
+    "z": 0,
+    "width": 223.569,
+    "height": 223.381,
+    "z_height": 162.059,
+    "rotation": 90,
+    "materials": {
+      "FINISH_960": 218,
+      "FABRIC_52647": 30799
+    },
+    "name": "Woolson King Bed",
+    "brand": "Ethan Allen",
+    "sku": "202696G1",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-upholstered/woolson-tufted-upholstered-bed/woolsonupholstered.html",
+    "depth": 223.381,
+    "type_guess": "bed"
+  },
+  "doc": "name: Woolson King Bed | brand: Ethan Allen | sku: 202696G1 | type: bed | refid: 867dae13efc6d04734d2f67ce3fc420400103a3a | dimensions: 223.569 x 223.381 x 223.381 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-upholstered/woolson-tufted-upholstered-bed/woolsonupholstered.html | position: x=473.1434326171875, y=301.4025573730469, z=0, rot=90"
+}

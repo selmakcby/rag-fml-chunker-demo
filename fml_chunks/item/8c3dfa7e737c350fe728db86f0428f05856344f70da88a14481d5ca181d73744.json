@@ -1,0 +1,25 @@
+{
+  "id": "8c3dfa7e737c350fe728db86f0428f05856344f70da88a14481d5ca181d73744",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "96d293742d44b2a4a257a141577b07fbe2275a98",
+    "x": -342.25632022498814,
+    "y": 118.59533594610855,
+    "z": 0,
+    "width": 72.608,
+    "height": 147.432,
+    "z_height": 94.341,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59166": 28242
+    },
+    "name": "Bennett Track-Arm RAF Chaise",
+    "brand": "Ethan Allen",
+    "sku": "207129",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 147.432
+  },
+  "doc": "name: Bennett Track-Arm RAF Chaise | brand: Ethan Allen | sku: 207129 | refid: 96d293742d44b2a4a257a141577b07fbe2275a98 | dimensions: 72.608 x 147.432 x 147.432 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=-342.25632022498814, y=118.59533594610855, z=0, rot=0"
+}

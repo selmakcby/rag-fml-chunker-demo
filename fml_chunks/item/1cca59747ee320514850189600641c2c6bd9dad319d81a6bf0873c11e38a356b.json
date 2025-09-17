@@ -1,0 +1,25 @@
+{
+  "id": "1cca59747ee320514850189600641c2c6bd9dad319d81a6bf0873c11e38a356b",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "cbeac7b257ab64639100b0489c0f549022e68c57",
+    "x": 726.4299606202474,
+    "y": 398.2786454886105,
+    "z": 0,
+    "width": 104.03,
+    "height": 103.867,
+    "z_height": 40.484,
+    "rotation": 90,
+    "materials": {
+      "FINISH_939": 218,
+      "LEATHER_L5029": 917
+    },
+    "name": "Miles 41\" Leather Ottoman",
+    "brand": "Ethan Allen",
+    "sku": "727417",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/miles-leather-cocktail-ottoman/mileslthott.html",
+    "depth": 103.867
+  },
+  "doc": "name: Miles 41\" Leather Ottoman | brand: Ethan Allen | sku: 727417 | refid: cbeac7b257ab64639100b0489c0f549022e68c57 | dimensions: 104.03 x 103.867 x 103.867 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/miles-leather-cocktail-ottoman/mileslthott.html | position: x=726.4299606202474, y=398.2786454886105, z=0, rot=90"
+}

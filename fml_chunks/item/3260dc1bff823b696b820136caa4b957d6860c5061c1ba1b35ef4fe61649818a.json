@@ -1,0 +1,26 @@
+{
+  "id": "3260dc1bff823b696b820136caa4b957d6860c5061c1ba1b35ef4fe61649818a",
+  "parent_id": "31f294fd40c368f181192984cb1416f25efb2bc4958853ba2af40d6740acc5ea",
+  "type": "item",
+  "attrs": {
+    "refid": "a563a099a47164d6ca4bfb50ac6e782cf3b8289d",
+    "x": 1132.91119929707,
+    "y": -431.39335359633645,
+    "z": 0,
+    "width": 78.701,
+    "height": 88.311,
+    "z_height": 99.332,
+    "rotation": 90,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_11254": 26570
+    },
+    "name": "Emerson Chair",
+    "brand": "Ethan Allen",
+    "sku": "207531",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/emerson-chair/207531.html",
+    "depth": 88.311,
+    "type_guess": "chair"
+  },
+  "doc": "name: Emerson Chair | brand: Ethan Allen | sku: 207531 | type: chair | refid: a563a099a47164d6ca4bfb50ac6e782cf3b8289d | dimensions: 78.701 x 88.311 x 88.311 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/emerson-chair/207531.html | position: x=1132.91119929707, y=-431.39335359633645, z=0, rot=90"
+}

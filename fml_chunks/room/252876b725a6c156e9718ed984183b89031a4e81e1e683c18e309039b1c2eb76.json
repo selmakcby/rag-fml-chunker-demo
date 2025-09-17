@@ -1,0 +1,39 @@
+{
+  "id": "252876b725a6c156e9718ed984183b89031a4e81e1e683c18e309039b1c2eb76",
+  "parent_id": "f0421ef801d8e04ff1b0cebbe4c1cfea8b9d8a53a6a8763c6544a291688ca60a",
+  "type": "room",
+  "items": [
+    "ec60b6cc4cf058388386e8492faf4efa7dc4e8dd3a5e4b0bf46d4ad6b2a15322",
+    "0828dea5d755401d9ff714ed8f333a7b89b157b1dd20918965e30d109b6a3c03",
+    "37bf13cdb98d9e729e5fc896c0382233bde55c3d3f25bb0c0c5ef239b54e85c7",
+    "a563fd0220fb7139b77c2b70eb738e09ed1997848a0da219164412afc4b24e47",
+    "8296bb9618bbe0599dcdd1a5b402a5b6badafd34f0eee3e1015e36d462b422fe",
+    "8f1e87415aecb4c96eac3396b14298898b0023c0978b90ce806780e685c4d1b2",
+    "4b64f5fbd53ad38d96be8f645e902c96d0f80b2d27ae0fd635b157417e1aaf38",
+    "d2bdbc41afebd909059ced98902e3c9c9dc8189f15c53c7febe3aed13e647779",
+    "620bc70c59915dc8623cb87dfbfee5d46bd2a623118d9f65c05403997534f2a6",
+    "d1a06eca95dd464bc638962b27894f67faefca1692db09803db07fd496b7cf48",
+    "f59d7dc2a7863900a5e8e416ab2b1e7a1e07ba67b69f7008b405b3c8477b04e3",
+    "34705cbdeafee8c1479fcddbfe8b6907469d30b411f01e5842f3ccd8fddb3dde",
+    "1221317689641e56962c03ae9eecc55b3036e9c83ee7aec63a95dff1a101f895",
+    "f297ee973d0c33b40e98800f6d1343c3c6e18023362bf3c43e1a299a76e6c682",
+    "ad5d7b735a039157426cc8cb90c2c2429d2af1f7573210618ff308ee613d5fcc",
+    "3c49561dad203497469ee45ef72588671b25b2ea18b6081bfa66bcf800616f4a",
+    "4ec85f148501cf4ea0dfd7e11214a16dcbe3eed27a23f0c83d1839e0b6f18f01",
+    "92764be2bb5d6104e7cb89b48bce18f3306be756d054921f4051cbbb66c583b1",
+    "8e9ee758559645de75b32e213d79e195a3c0f6c9d67dc2f4e90538da7f49151e",
+    "c0065db92afbbf3891271b2b03ec7bdde5f1310e2e8fb7479ad15697e996acfc"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-14772",
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": -238,
+    "name_y": -12,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Dynasty Rectangular Coffee Table, Bennett Roll-Arm Chair and a Half, Vivianne Serpentine Console, Marian Table Lamp, Dynasty End Table, Harris Chair - PROTO, Martha Washington Leather Host Chair, Dynasty Desk, Marian Table Lamp, Lockwood End Table, Hyde 88'' Sofa, Harris Chair - PROTO, Odin Accent Table, Bennett Roll-Arm Chair and a Half, Coco Ottoman",
+  "summary": "Living: 15 items (Dynasty Rectangular Coffee Table, Bennett Roll-Arm Chair and a Half, Vivianne Serpentine Console, Marian Table Lamp, Dynasty End Table, Harris Chair - PROTO)."
+}

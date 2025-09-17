@@ -1,0 +1,21 @@
+{
+  "id": "a61399671de7ece9df989134c6645f8d10bce140ad3dc017e63677d35f34421a",
+  "parent_id": "6693f0e341ea5e61d0717629745f38fa075c364a46cb770c53a2ebc80d5d4a2e",
+  "type": "item",
+  "attrs": {
+    "refid": "4c83cddb17d842cd864ef9af6b805dea61a2354f",
+    "x": 395.74510973263045,
+    "y": 901.1434411422563,
+    "z": 0,
+    "width": 136.745,
+    "height": 58.414,
+    "z_height": 204.761,
+    "rotation": 180,
+    "name": "Calvin Armoire",
+    "brand": "Ethan Allen",
+    "sku": "295315",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 58.414
+  },
+  "doc": "name: Calvin Armoire | brand: Ethan Allen | sku: 295315 | refid: 4c83cddb17d842cd864ef9af6b805dea61a2354f | dimensions: 136.745 x 58.414 x 58.414 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=395.74510973263045, y=901.1434411422563, z=0, rot=180"
+}

@@ -1,0 +1,65 @@
+{
+  "chunk_id": "d7c4d6c7c6c344a536d2acc0890dd6a467b2848734e8c6f8bc5a778fbdcf388b",
+  "level": "room",
+  "room_id": "d7c4d6c7c6c344a536d2acc0890dd6a467b2848734e8c6f8bc5a778fbdcf388b",
+  "design_id": "5aa4f329b8239d9241d20ec98cc5c5aec4879b2f25ec8c9b497e16bfb1d7e71f",
+  "floor_id": "345cac8f747cfe8a6135f0f13321d7a47f89a83c3c7615aa2991b0d7926390fe",
+  "project_id": "39d1bda4f4cf7a21f89f5b304e88235c7542b9b470c718740bb828c4786dd2b1",
+  "name": "Area rs-17301",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 244585.86478463438,
+  "summary_text": "First design \u2014 bdcf388b: polygon with 8 points. Approx. area (units\u00b2) 244586. Contains: 0ee698c970650561e030785fdcddfb33a046f695, 1a6651dd0f81c62bf71bece24fb367b2bf901b27, 239e156584174736494d5632e47bc57837e6e7c8, 23f489a34a1c9cf4a331a29e224699d24cca3f08, 33615bd61a7deb2d7442e5802547ce45eb8e2e31, 4da9c75f78f23cf29f3781eff02f302ad88d0705, 543ce4c2c8bb11c5e47c971737af1c592b9c44a1, 74e67f4e5c51815c297cf8c465508b70a15264fe, 865f41749010cb0b54e87fac980ae03e38d1df35, ab2561c6dbbac218676bc2558a0fca382d31822d, afb6402c4c1f2eff13110d983f31ce7e0dddec18, bd221a8019fb371e665eac82800d7a60eb0d40dc.",
+  "refs": {
+    "parent_id": "5aa4f329b8239d9241d20ec98cc5c5aec4879b2f25ec8c9b497e16bfb1d7e71f",
+    "area_refid": "rs-17301"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-17301",
+      "color": "#FFDFBF",
+      "name": "Living",
+      "role": 0,
+      "name_x": 0,
+      "name_y": 0,
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 100,
+          "y": 522.9099993571768
+        },
+        {
+          "x": 647.3598391680131,
+          "y": 522.9099993571768
+        },
+        {
+          "x": 647.3598391680135,
+          "y": 462.1067076406013
+        },
+        {
+          "x": 704.058379598766,
+          "y": 368.60284395018203
+        },
+        {
+          "x": 704.0583795987664,
+          "y": 241.94639800726523
+        },
+        {
+          "x": 647.359839168013,
+          "y": 151.31953372712843
+        },
+        {
+          "x": 647.3598391680131,
+          "y": 98.7198400019458
+        },
+        {
+          "x": 100,
+          "y": 98.71984000194577
+        }
+      ]
+    }
+  }
+}

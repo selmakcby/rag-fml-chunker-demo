@@ -1,0 +1,22 @@
+{
+  "id": "ffb7a1bd766465e65099d7fd5c82d707beb4e9e015043764693e31d669269640",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "ed6be939655ae04964e3b25c0645a8b47b1671da",
+    "x": 832.2756123358939,
+    "y": 578.7275392759419,
+    "z": 0,
+    "width": 45.72,
+    "height": 45.72,
+    "z_height": 57.15,
+    "rotation": 78,
+    "name": "Jaca Marble Top Accent Table",
+    "brand": "Ethan Allen",
+    "sku": "422025",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/jaca-marble-top-accent-table/422025.html",
+    "depth": 45.72,
+    "type_guess": "table"
+  },
+  "doc": "name: Jaca Marble Top Accent Table | brand: Ethan Allen | sku: 422025 | type: table | refid: ed6be939655ae04964e3b25c0645a8b47b1671da | dimensions: 45.72 x 45.72 x 45.72 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/jaca-marble-top-accent-table/422025.html | position: x=832.2756123358939, y=578.7275392759419, z=0, rot=78"
+}

@@ -1,0 +1,38 @@
+{
+  "chunk_id": "8414d7085c1a688a757a3dc4cfddfa113fc931100bdac05ac719a2fae14da182",
+  "level": "item",
+  "parent_id": "7ffb40870005b2c14a711d63bee050a3e7b7421923384f0526556bd6ffa562c1",
+  "room_id": null,
+  "type": "item",
+  "name": "eae33a0034b7a09e064c9a0f395ac58ee76d9f1d",
+  "refid": "eae33a0034b7a09e064c9a0f395ac58ee76d9f1d",
+  "position": {
+    "x": 129.62572320255504,
+    "y": 196.50786157072173,
+    "z": 0
+  },
+  "size": {
+    "width": 188.843,
+    "height": 113.022,
+    "z_height": 88.915
+  },
+  "rotation": 270.6654997789027,
+  "summary_text": "Item 'eae33a0034b7a09e064c9a0f395ac58ee76d9f1d' (item) at (129.62572320255504, 196.50786157072173).",
+  "refs": {
+    "parent_id": "7ffb40870005b2c14a711d63bee050a3e7b7421923384f0526556bd6ffa562c1"
+  },
+  "raw": {
+    "refid": "eae33a0034b7a09e064c9a0f395ac58ee76d9f1d",
+    "x": 129.62572320255504,
+    "y": 196.50786157072173,
+    "z": 0,
+    "width": 188.843,
+    "height": 113.022,
+    "z_height": 88.915,
+    "rotation": 270.6654997789027,
+    "materials": {
+      "FINISH_939": "218",
+      "LEATHER_L5056": "916"
+    }
+  }
+}

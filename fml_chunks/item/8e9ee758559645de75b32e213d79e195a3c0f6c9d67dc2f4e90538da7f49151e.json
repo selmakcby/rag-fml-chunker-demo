@@ -1,0 +1,22 @@
+{
+  "id": "8e9ee758559645de75b32e213d79e195a3c0f6c9d67dc2f4e90538da7f49151e",
+  "parent_id": "252876b725a6c156e9718ed984183b89031a4e81e1e683c18e309039b1c2eb76",
+  "type": "item",
+  "attrs": {
+    "refid": "5659a8d03b6ab47f44c8e56d6d75e35ce2d660fb",
+    "x": 393.48287683978435,
+    "y": 905.9639411422563,
+    "z": 0,
+    "width": 162.664,
+    "height": 48.773,
+    "z_height": 88.924,
+    "rotation": 180,
+    "name": "Vivianne Serpentine Console",
+    "brand": "Ethan Allen",
+    "sku": "139203 533",
+    "url": "www.ethanallen.com",
+    "depth": 48.773,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Vivianne Serpentine Console | brand: Ethan Allen | sku: 139203 533 | type: cabinet | refid: 5659a8d03b6ab47f44c8e56d6d75e35ce2d660fb | dimensions: 162.664 x 48.773 x 48.773 | url: www.ethanallen.com | position: x=393.48287683978435, y=905.9639411422563, z=0, rot=180"
+}

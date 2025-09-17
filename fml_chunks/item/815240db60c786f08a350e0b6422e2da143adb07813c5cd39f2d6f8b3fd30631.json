@@ -1,0 +1,27 @@
+{
+  "id": "815240db60c786f08a350e0b6422e2da143adb07813c5cd39f2d6f8b3fd30631",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "2fd999fe62c3b9d62b7568113e108aa721712179",
+    "x": 515.7677948507551,
+    "y": 512.7377993720753,
+    "z": 76.2,
+    "width": 47.218,
+    "height": 47.218,
+    "z_height": 88.941,
+    "rotation": 1,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Celadon Urn Table Lamp",
+    "brand": "Ethan Allen",
+    "sku": "096182 GRN",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/celadon-urn-table-lamp/096182+++GRN.html",
+    "depth": 47.218,
+    "type_guess": "table"
+  },
+  "doc": "name: Celadon Urn Table Lamp | brand: Ethan Allen | sku: 096182 GRN | type: table | refid: 2fd999fe62c3b9d62b7568113e108aa721712179 | dimensions: 47.218 x 47.218 x 47.218 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/celadon-urn-table-lamp/096182+++GRN.html | position: x=515.7677948507551, y=512.7377993720753, z=76.2, rot=1"
+}

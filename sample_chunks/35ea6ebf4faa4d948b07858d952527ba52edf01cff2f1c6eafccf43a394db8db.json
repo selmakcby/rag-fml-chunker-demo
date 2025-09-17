@@ -1,0 +1,18 @@
+{
+  "chunk_id": "35ea6ebf4faa4d948b07858d952527ba52edf01cff2f1c6eafccf43a394db8db",
+  "level": "floor",
+  "floor_id": "35ea6ebf4faa4d948b07858d952527ba52edf01cff2f1c6eafccf43a394db8db",
+  "project_id": "eecc799742b8f96f1117e38a10a677e5d0ea6c97341ef26fadf815b65c55d4ce",
+  "name": "First floor",
+  "level_num": 0,
+  "height": 280.0,
+  "summary_text": "Floor 'First floor', level 0, 1 designs.",
+  "refs": {
+    "parent_id": "eecc799742b8f96f1117e38a10a677e5d0ea6c97341ef26fadf815b65c55d4ce"
+  },
+  "raw": {
+    "id": 255030317,
+    "name": "First floor",
+    "level": 0
+  }
+}

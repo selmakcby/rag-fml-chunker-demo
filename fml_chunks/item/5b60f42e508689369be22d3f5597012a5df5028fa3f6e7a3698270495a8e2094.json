@@ -1,0 +1,25 @@
+{
+  "id": "5b60f42e508689369be22d3f5597012a5df5028fa3f6e7a3698270495a8e2094",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "fd3a0b52f9b52d3902099544ef5dda04740d2b7e",
+    "x": 179.21499446930497,
+    "y": 194.8676415878821,
+    "z": 0,
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 0.505,
+    "rotation": 180,
+    "materials": {
+      "FABRIC_RUG_Ridgevale_Ink": 12260
+    },
+    "name": "Ridgevale Indoor/Outdoor Rug",
+    "brand": "Ethan Allen",
+    "sku": "047169",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-indoor-and-outdoor/ridgevale-indoor%2Foutdoor-rug/047169.html?dwvar_047169_color=RDV10#start=1&sz=61",
+    "depth": 304.8,
+    "type_guess": "rug"
+  },
+  "doc": "name: Ridgevale Indoor/Outdoor Rug | brand: Ethan Allen | sku: 047169 | type: rug | refid: fd3a0b52f9b52d3902099544ef5dda04740d2b7e | dimensions: 243.84 x 304.8 x 304.8 | url: https://www.ethanallen.com/en_US/shop-rugs-indoor-and-outdoor/ridgevale-indoor%2Foutdoor-rug/047169.html?dwvar_047169_color=RDV10#start=1&sz=61 | position: x=179.21499446930497, y=194.8676415878821, z=0, rot=180"
+}

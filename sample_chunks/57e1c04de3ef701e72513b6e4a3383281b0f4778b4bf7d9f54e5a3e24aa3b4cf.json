@@ -1,0 +1,63 @@
+{
+  "chunk_id": "57e1c04de3ef701e72513b6e4a3383281b0f4778b4bf7d9f54e5a3e24aa3b4cf",
+  "level": "project",
+  "project_id": "57e1c04de3ef701e72513b6e4a3383281b0f4778b4bf7d9f54e5a3e24aa3b4cf",
+  "name": "Project 191",
+  "settings": {
+    "wallHeight": 274.32,
+    "wallSectionHeight": 150,
+    "wallThickness": 15,
+    "wallOuterThickness": 30,
+    "useMetric": false,
+    "showGrid": true,
+    "showDims": true,
+    "showShortDims": false,
+    "showAreaDims": false,
+    "generateOuterDimension": true,
+    "showDropShadows": true,
+    "showObjects": true,
+    "showFixtures": true,
+    "showItemOutline": false,
+    "showObjectColour": true,
+    "showStructuralColour": true,
+    "showFloorsBelow": false,
+    "showFixtures3D": true,
+    "showObjects3D": true,
+    "showSymbols": true,
+    "showObjectMono": false,
+    "showLights": false,
+    "hideLightsOnPan": false,
+    "useSection3D": false,
+    "showLabels": false,
+    "areaLabelOutline": false,
+    "areaLabelLetterSpacing": 7,
+    "dimLineLabelHorizontal": false,
+    "exportLabels3D": false,
+    "showShadows3D": true,
+    "exportOrtho3D": false,
+    "visuals": "ALL",
+    "showTexts": true,
+    "arrowHeadType": "arrow",
+    "showNorthArrow": false,
+    "northArrowRotation": 0,
+    "northArrowKind": 1,
+    "blueprintMode": false,
+    "dimLineFont": "arial",
+    "hideItemsAboveHeight": 122,
+    "hideItemsAbove": false,
+    "xRayWalls": true
+  },
+  "summary_text": "Project 'Project 191' with 1 floors.",
+  "refs": {
+    "parent_id": null
+  },
+  "raw": {
+    "id": 167485268,
+    "features": [
+      "sd",
+      "hd",
+      "pano",
+      "vrtour"
+    ]
+  }
+}

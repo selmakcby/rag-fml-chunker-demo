@@ -1,0 +1,21 @@
+{
+  "id": "f49f9778ef4f1897edc08172944d00a300adbc9c79066c497ef6101503f53d7a",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "35230dedd6b3f035a602f7226fae2dcb61bf1e4a",
+    "x": 430.68749188202486,
+    "y": 127.8949518969147,
+    "z": 0,
+    "width": 105,
+    "height": 57.15,
+    "z_height": 189.525,
+    "rotation": 270,
+    "name": "American fridge freezer, small",
+    "brand": "Floorplanner",
+    "sku": "",
+    "url": "https://roomstyler.com",
+    "depth": 57.15
+  },
+  "doc": "name: American fridge freezer, small | brand: Floorplanner | refid: 35230dedd6b3f035a602f7226fae2dcb61bf1e4a | dimensions: 105 x 57.15 x 57.15 | url: https://roomstyler.com | position: x=430.68749188202486, y=127.8949518969147, z=0, rot=270"
+}

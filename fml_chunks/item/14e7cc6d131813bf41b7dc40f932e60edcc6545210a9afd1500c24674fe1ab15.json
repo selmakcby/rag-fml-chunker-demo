@@ -1,0 +1,25 @@
+{
+  "id": "14e7cc6d131813bf41b7dc40f932e60edcc6545210a9afd1500c24674fe1ab15",
+  "parent_id": "8953e70ecf14a89f5d7f7797e0c7e4f5fcf3c05218965add53159fee9e71c3c1",
+  "type": "item",
+  "attrs": {
+    "refid": "98a25a74e5e8c9b45732a0c89f9e5497b6247196",
+    "x": 279.2681158976458,
+    "y": 610.5774059222286,
+    "z": 0,
+    "width": 48.36,
+    "height": 68.24,
+    "z_height": 61.015,
+    "rotation": 0,
+    "materials": {
+      "FINISH_305": 32
+    },
+    "name": "Dynasty End Table",
+    "brand": "Ethan Allen",
+    "sku": "138003",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/dynasty-end-table/138003.html?site=",
+    "depth": 68.24,
+    "type_guess": "table"
+  },
+  "doc": "name: Dynasty End Table | brand: Ethan Allen | sku: 138003 | type: table | refid: 98a25a74e5e8c9b45732a0c89f9e5497b6247196 | dimensions: 48.36 x 68.24 x 68.24 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/dynasty-end-table/138003.html?site= | position: x=279.2681158976458, y=610.5774059222286, z=0, rot=0"
+}

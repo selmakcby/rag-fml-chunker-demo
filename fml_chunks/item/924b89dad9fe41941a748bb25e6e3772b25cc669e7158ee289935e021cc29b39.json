@@ -1,0 +1,26 @@
+{
+  "id": "924b89dad9fe41941a748bb25e6e3772b25cc669e7158ee289935e021cc29b39",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "5af23cb19b38269fd3f8686dc430f89994d6228a",
+    "x": 484.40655517578125,
+    "y": 311.80914306640625,
+    "z": 0,
+    "width": 223.188,
+    "height": 86.38,
+    "z_height": 84.679,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_50653": 26594
+    },
+    "name": "Nathalie 88'' Sofa, Channel Tuft",
+    "brand": "Ethan Allen",
+    "sku": "202207 CH",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/nathalie-barrel-back-sofa/nathaliesofa.html#start=1",
+    "depth": 86.38,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Nathalie 88'' Sofa, Channel Tuft | brand: Ethan Allen | sku: 202207 CH | type: sofa | refid: 5af23cb19b38269fd3f8686dc430f89994d6228a | dimensions: 223.188 x 86.38 x 86.38 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/nathalie-barrel-back-sofa/nathaliesofa.html#start=1 | position: x=484.40655517578125, y=311.80914306640625, z=0, rot=270"
+}

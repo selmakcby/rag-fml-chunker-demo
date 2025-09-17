@@ -1,0 +1,25 @@
+{
+  "id": "3f2ead949fa30d797320b6546422aafef59bcde335c4bdab28cf960096dd5a40",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "f9e2bc40268a7b7b2669637e2927154f30be88e9",
+    "x": 27.692225064963093,
+    "y": 62.98663175768185,
+    "z": 0,
+    "width": 96.574,
+    "height": 96.844,
+    "z_height": 83.609,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_P8488": 30425
+    },
+    "name": "Redding Ridge Square Corner",
+    "brand": "Ethan Allen",
+    "sku": "402499",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-three-piece-outdoor-sectional/402499G3.html#lang=en_US&q=redding+ridge&start=1",
+    "depth": 96.844,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Redding Ridge Square Corner | brand: Ethan Allen | sku: 402499 | type: sofa | refid: f9e2bc40268a7b7b2669637e2927154f30be88e9 | dimensions: 96.574 x 96.844 x 96.844 | url: https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-three-piece-outdoor-sectional/402499G3.html#lang=en_US&q=redding+ridge&start=1 | position: x=27.692225064963093, y=62.98663175768185, z=0, rot=270"
+}

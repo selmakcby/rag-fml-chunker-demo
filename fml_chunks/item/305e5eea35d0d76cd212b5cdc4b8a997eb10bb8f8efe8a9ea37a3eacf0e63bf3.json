@@ -1,0 +1,26 @@
+{
+  "id": "305e5eea35d0d76cd212b5cdc4b8a997eb10bb8f8efe8a9ea37a3eacf0e63bf3",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "cfff32e638d1a98a2e0dea261311866253f7bacf",
+    "x": 687.1589229260935,
+    "y": -226.40630212617873,
+    "z": 0,
+    "width": 60.96,
+    "height": 63.089,
+    "z_height": 93.736,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_35727": "406",
+      "FINISH_962": "218"
+    },
+    "name": "Marcella Armchair",
+    "brand": "Ethan Allen",
+    "sku": "132086",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-arm-host-chairs/marcella-armchair/132086.html?site=",
+    "depth": 63.089,
+    "type_guess": "chair"
+  },
+  "doc": "name: Marcella Armchair | brand: Ethan Allen | sku: 132086 | type: chair | refid: cfff32e638d1a98a2e0dea261311866253f7bacf | dimensions: 60.96 x 63.089 x 63.089 | url: http://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-arm-host-chairs/marcella-armchair/132086.html?site= | position: x=687.1589229260935, y=-226.40630212617873, z=0, rot=0"
+}

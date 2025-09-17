@@ -1,0 +1,57 @@
+{
+  "chunk_id": "73a27bd1464ddbcaa89bf204f9f384637da42961018812bb23129f55cec1b37f",
+  "level": "room",
+  "room_id": "73a27bd1464ddbcaa89bf204f9f384637da42961018812bb23129f55cec1b37f",
+  "design_id": "e3d35808409ca9f3a3c3de331895a712ad6c1b5b1a84f289f25c1be7f3f4ec8e",
+  "floor_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "Area rs-14772",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 459140.65823493915,
+  "summary_text": "LIVE4 \u2014 cec1b37f: polygon with 6 points. Approx. area (units\u00b2) 459141. Contains: 0488142fa085d6762e80e9b3322726ffdcff5918, 3da1c44497af7607cf5622eb4a434696d8521862, 4c83cddb17d842cd864ef9af6b805dea61a2354f, 895597be8b40811143939873e86dddb8f49a71f2, 9e9d9fd43e0dba14600b9d771d099be62430eb1a, a58885b138c463870ae858aae6acd55ca46574c8, c33370d72e5252ffd9ee5a86616b5412c8e662c5, c7f6253d6bd98d1bcd1253391ac01863fcae8ff2, d217735798aab94180865bb6bb222caf11acbc92, d558aebaba37f7b07e32c84dce6af902ecc4e279.",
+  "refs": {
+    "parent_id": "e3d35808409ca9f3a3c3de331895a712ad6c1b5b1a84f289f25c1be7f3f4ec8e",
+    "area_refid": "rs-14772"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-14772",
+      "color": "#FFDFBF",
+      "name": "Living",
+      "role": 0,
+      "name_x": -238,
+      "name_y": -12,
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 99.99999999999997,
+          "y": 675.1765415778274
+        },
+        {
+          "x": 269.1603240412862,
+          "y": 930.3504411422564
+        },
+        {
+          "x": 515.2541366977746,
+          "y": 930.3504411422563
+        },
+        {
+          "x": 704.5098390811451,
+          "y": 705.9798854871706
+        },
+        {
+          "x": 704.5098390811451,
+          "y": 100.0000000000001
+        },
+        {
+          "x": 100.00000000000003,
+          "y": 100.00000000000003
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "29cb62cb5e4b0d9ad9fe207febb190a0e53fe8fa9ca6c439b47649e6a29a9b7b",
+  "parent_id": "e818783269dc80201b9feb6c558cf0fa1295f43f201133c898d927f5cca02036",
+  "type": "floor",
+  "designs": [
+    "382371bcadd1ba01b992affe38ea5833c8ce29825de31f236d2394f67f5f899a",
+    "f2feb51dfcc2bdaf2c97f996d31a7aaf22c42c69f70ff5ca86654f1229844862",
+    "f0421ef801d8e04ff1b0cebbe4c1cfea8b9d8a53a6a8763c6544a291688ca60a",
+    "91761a47284017fa9b0bd639cbdfc9a1ae7681917ac9072664f40fe58075245e",
+    "229ed68536939aab1af4425553ab14390936960d906e667365b7b5760f033558",
+    "970b481a76a7af929dfcbff25112d66cfb53983f12c58cbf95dab4e932a79e16"
+  ],
+  "attrs": {
+    "id": 255030056,
+    "project_id": 167483948,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:18:02.000Z",
+    "updated_at": "2025-02-18T23:24:26.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294314381,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294314384,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 6",
+  "summary": "Floor with 6 rooms. Highlights: Living: 15 items (Kennington Table Lamp, Bennett Roll-Arm Chair and a Half, Kennington Table Lamp, Eugene Night Table, Bradford Rent Table, Nassau 20\" Ottoman Round, Smooth Top). Living: 8 items (Odin Accent Table, Bennett Roll-Arm Chair and a Half, Harris Chair - PROTO, Odin Accent Table, Bennett Roll-Arm Chair and a Half, Dynasty Rectangular Coffee Table). Living: 15 items (Dynasty Rectangular Coffee Table, Bennett Roll-Arm Chair and a Half, Vivianne Serpentine Console, Marian Table Lamp, Dynasty End Table, Harris Chair - PROTO)."
+}

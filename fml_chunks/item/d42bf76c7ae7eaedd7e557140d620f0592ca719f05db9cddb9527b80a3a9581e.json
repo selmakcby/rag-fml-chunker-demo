@@ -1,0 +1,22 @@
+{
+  "id": "d42bf76c7ae7eaedd7e557140d620f0592ca719f05db9cddb9527b80a3a9581e",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "a4ac4c73ada1157ab6ccc4f006662fa2fde3f94f",
+    "x": 1040.29638671875,
+    "y": 316.71942138671875,
+    "z": 77.97871398925781,
+    "width": 25.502,
+    "height": 25.502,
+    "z_height": 30.939,
+    "rotation": 90,
+    "name": "Foo Garden Lidded 12'' Jar",
+    "brand": "Ethan Allen",
+    "sku": "432428",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/foo-garden-porcelain-jar/432428.html",
+    "depth": 25.502,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Foo Garden Lidded 12'' Jar | brand: Ethan Allen | sku: 432428 | type: decor-jar | refid: a4ac4c73ada1157ab6ccc4f006662fa2fde3f94f | dimensions: 25.502 x 25.502 x 25.502 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/foo-garden-porcelain-jar/432428.html | position: x=1040.29638671875, y=316.71942138671875, z=77.97871398925781, rot=90"
+}

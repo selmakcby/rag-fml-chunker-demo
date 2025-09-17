@@ -1,0 +1,22 @@
+{
+  "id": "3d214c6f7cbd851225bb3b48fe93986126701086cda6fa289539ae656025b2ee",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "3d707306e17536cb7b33caf2d3616551bdc7bfdf",
+    "x": 762.5237377336308,
+    "y": 850.2562469644232,
+    "z": 216,
+    "width": 32.612,
+    "height": 32.612,
+    "z_height": 56.684,
+    "rotation": 83.5,
+    "name": "Large Blue Athena Jar",
+    "brand": "Ethan Allen",
+    "sku": "431891A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/blue-athena-jar/431891A.html",
+    "depth": 32.612,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Large Blue Athena Jar | brand: Ethan Allen | sku: 431891A | type: decor-jar | refid: 3d707306e17536cb7b33caf2d3616551bdc7bfdf | dimensions: 32.612 x 32.612 x 32.612 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/blue-athena-jar/431891A.html | position: x=762.5237377336308, y=850.2562469644232, z=216, rot=83.5"
+}

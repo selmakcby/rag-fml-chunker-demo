@@ -1,0 +1,88 @@
+{
+  "id": "54167b10dc5f8e986fd8618fc14672324794a43c3dbb339531e60dbd12298bdf",
+  "parent_id": "d69063aa1c53dd2f26390642516a5e6ea067902c40fe76c66f2262a2ea883099",
+  "type": "design",
+  "rooms": [
+    "31f294fd40c368f181192984cb1416f25efb2bc4958853ba2af40d6740acc5ea"
+  ],
+  "attrs": {
+    "name": "First design",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 425,
+        "y": 325,
+        "z": 1716.7,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 400,
+        "y": 300,
+        "z": 160,
+        "dx": 0,
+        "dy": -1,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270086684,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: First design | rooms: 1"
+}

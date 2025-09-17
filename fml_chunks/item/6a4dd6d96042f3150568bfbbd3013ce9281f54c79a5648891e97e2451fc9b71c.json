@@ -1,0 +1,21 @@
+{
+  "id": "6a4dd6d96042f3150568bfbbd3013ce9281f54c79a5648891e97e2451fc9b71c",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "9d4e929edaacee1e5aa398d05926b4475ed4312c",
+    "x": 733.0924682617188,
+    "y": 828.8366088867188,
+    "z": 29.095178604125977,
+    "width": 32,
+    "height": 25,
+    "z_height": 40,
+    "rotation": 0,
+    "name": "Book Stool",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 25.0,
+    "type_guess": "stool"
+  },
+  "doc": "name: Book Stool | brand: Floorplanner | type: stool | refid: 9d4e929edaacee1e5aa398d05926b4475ed4312c | dimensions: 32 x 25.0 x 25 | url: https://floorplanner.com | position: x=733.0924682617188, y=828.8366088867188, z=29.095178604125977, rot=0"
+}

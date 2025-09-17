@@ -1,0 +1,26 @@
+{
+  "id": "c0e32019ef297ad0dcaef0f9b5a0442199a67cafcbe55ac0e86f8b3461f4a2d8",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "e2fc956327f3b127c0d6a0b0f50f3df54429ac57",
+    "x": -114.26246451521908,
+    "y": 251.03263806976202,
+    "z": 0,
+    "width": 221.124,
+    "height": 102.186,
+    "z_height": 94.138,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H2680": 213
+    },
+    "name": "Arcata 87'' Sofa",
+    "brand": "Ethan Allen",
+    "sku": "202113",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-loveseats/arcata-sofa/202113.html?site=",
+    "depth": 102.186,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Arcata 87'' Sofa | brand: Ethan Allen | sku: 202113 | type: sofa | refid: e2fc956327f3b127c0d6a0b0f50f3df54429ac57 | dimensions: 221.124 x 102.186 x 102.186 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-loveseats/arcata-sofa/202113.html?site= | position: x=-114.26246451521908, y=251.03263806976202, z=0, rot=270"
+}

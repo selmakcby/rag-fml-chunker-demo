@@ -1,0 +1,28 @@
+{
+  "id": "6f24d335ef13155541f744cf0b149bec1915b4bdfa21ec26a54a5910e6917e31",
+  "parent_id": "e276c188abb79d2db802881fa72f71a8643a67f0fbe629ecd996a6e0b4136b1c",
+  "type": "item",
+  "attrs": {
+    "refid": "b3c89a786dda4e61840968a0f359404e01457ea9",
+    "x": -7.252390412414712,
+    "y": 538.8108634023376,
+    "z": 0,
+    "width": 78.95,
+    "height": 101.334,
+    "z_height": 99.032,
+    "rotation": 270,
+    "mirrored": [
+      0,
+      0
+    ],
+    "materials": {
+      "FABRIC_33388": 28242
+    },
+    "name": "Conover Track Arm Incliner LAF 1 Seat",
+    "brand": "Ethan Allen",
+    "sku": "217981",
+    "url": "www.ethanallen.com",
+    "depth": 101.334
+  },
+  "doc": "name: Conover Track Arm Incliner LAF 1 Seat | brand: Ethan Allen | sku: 217981 | refid: b3c89a786dda4e61840968a0f359404e01457ea9 | dimensions: 78.95 x 101.334 x 101.334 | url: www.ethanallen.com | position: x=-7.252390412414712, y=538.8108634023376, z=0, rot=270"
+}

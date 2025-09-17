@@ -1,0 +1,26 @@
+{
+  "id": "6f2bf0b38375bfd52c2bda7b81cf84f59be652796194507d17335213ea6e4cd7",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "fade1d29900980ec4c3b926b8f6da9af02b5d38d",
+    "x": 646.5986938476562,
+    "y": 132.77564239501953,
+    "z": 0,
+    "width": 238.711,
+    "height": 94.066,
+    "z_height": 94.341,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59127": 936
+    },
+    "name": "Bennett Roll-Arm 94\" Sofa ",
+    "brand": "Ethan Allen",
+    "sku": "207876",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/bennett-roll-arm-three-seat-sofa/bennettRA3seat.html",
+    "depth": 94.066,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Bennett Roll-Arm 94\" Sofa  | brand: Ethan Allen | sku: 207876 | type: sofa | refid: fade1d29900980ec4c3b926b8f6da9af02b5d38d | dimensions: 238.711 x 94.066 x 94.066 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/bennett-roll-arm-three-seat-sofa/bennettRA3seat.html | position: x=646.5986938476562, y=132.77564239501953, z=0, rot=0"
+}

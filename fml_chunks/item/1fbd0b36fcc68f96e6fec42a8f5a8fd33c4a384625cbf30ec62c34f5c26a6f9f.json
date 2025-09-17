@@ -1,0 +1,26 @@
+{
+  "id": "1fbd0b36fcc68f96e6fec42a8f5a8fd33c4a384625cbf30ec62c34f5c26a6f9f",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "afb6402c4c1f2eff13110d983f31ce7e0dddec18",
+    "x": 488.3776435419961,
+    "y": 158.84429181076783,
+    "z": 0,
+    "width": 164.78,
+    "height": 94.834,
+    "z_height": 93.136,
+    "rotation": 359.2042764472608,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59122": 30799
+    },
+    "name": "Monterey 64'' Loveseat",
+    "brand": "Ethan Allen",
+    "sku": "207492",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/monterey-sofa/montereyTL.html",
+    "depth": 94.834,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Monterey 64'' Loveseat | brand: Ethan Allen | sku: 207492 | type: sofa | refid: afb6402c4c1f2eff13110d983f31ce7e0dddec18 | dimensions: 164.78 x 94.834 x 94.834 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/monterey-sofa/montereyTL.html | position: x=488.3776435419961, y=158.84429181076783, z=0, rot=359.2042764472608"
+}

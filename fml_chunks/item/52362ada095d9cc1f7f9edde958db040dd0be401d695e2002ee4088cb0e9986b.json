@@ -1,0 +1,24 @@
+{
+  "id": "52362ada095d9cc1f7f9edde958db040dd0be401d695e2002ee4088cb0e9986b",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "aa91e5ca31630b478d1564d70f93aa35c568965b",
+    "x": 359.9263916015625,
+    "y": -46.084835052490234,
+    "z": 0,
+    "width": 60.758,
+    "height": 11.872,
+    "z_height": 274.31999958303356,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_DP_SatinDupioni_CHS": "17678"
+    },
+    "name": "Drapery Panel, Open, Pinch Pleat",
+    "brand": "Ethan Allen",
+    "sku": "DP1020_openPP",
+    "url": "www.ethanallen.com",
+    "depth": 11.872
+  },
+  "doc": "name: Drapery Panel, Open, Pinch Pleat | brand: Ethan Allen | sku: DP1020_openPP | refid: aa91e5ca31630b478d1564d70f93aa35c568965b | dimensions: 60.758 x 11.872 x 11.872 | url: www.ethanallen.com | position: x=359.9263916015625, y=-46.084835052490234, z=0, rot=0"
+}

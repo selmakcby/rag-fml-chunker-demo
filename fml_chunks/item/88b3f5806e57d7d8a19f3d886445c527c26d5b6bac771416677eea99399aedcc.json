@@ -1,0 +1,22 @@
+{
+  "id": "88b3f5806e57d7d8a19f3d886445c527c26d5b6bac771416677eea99399aedcc",
+  "parent_id": "be28cfd239d9ccefe4a130b17dc5489eabb7f4a317971d775a52c1d2315aade1",
+  "type": "item",
+  "attrs": {
+    "refid": "9769eb9ba9a348105dbf2e2c39bc101442d89d08",
+    "x": 264.7833375929485,
+    "y": 243.80268704548564,
+    "z": 0,
+    "width": 76.248,
+    "height": 76.248,
+    "z_height": 71.092,
+    "rotation": 0,
+    "name": "Lockwood End Table",
+    "brand": "Ethan Allen",
+    "sku": "358536",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 76.248,
+    "type_guess": "table"
+  },
+  "doc": "name: Lockwood End Table | brand: Ethan Allen | sku: 358536 | type: table | refid: 9769eb9ba9a348105dbf2e2c39bc101442d89d08 | dimensions: 76.248 x 76.248 x 76.248 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=264.7833375929485, y=243.80268704548564, z=0, rot=0"
+}

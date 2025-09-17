@@ -1,0 +1,27 @@
+{
+  "id": "4250717a520a6edec279a1a4f50950e0508ee1022c34cc13426d6fea892e6ea0",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "585de0a30cc6ddca0a4eb2f79f487e4d559dd237",
+    "x": 553.2218017578125,
+    "y": 473.2331848144531,
+    "z": 70.99163818359375,
+    "width": 42.194,
+    "height": 42.194,
+    "z_height": 80.652,
+    "rotation": 89.5,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Arley Buffet Lamp, Brass",
+    "brand": "Ethan Allen",
+    "sku": "096057",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/arley-buffet-lamp/096057.html",
+    "depth": 42.194,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Arley Buffet Lamp, Brass | brand: Ethan Allen | sku: 096057 | type: cabinet | refid: 585de0a30cc6ddca0a4eb2f79f487e4d559dd237 | dimensions: 42.194 x 42.194 x 42.194 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/arley-buffet-lamp/096057.html | position: x=553.2218017578125, y=473.2331848144531, z=70.99163818359375, rot=89.5"
+}

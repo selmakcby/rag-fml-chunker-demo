@@ -1,0 +1,20 @@
+{
+  "id": "b2821125b3f423712c657ef69ea8b65a71244b119dfb75e544937146b0ca6a37",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "f4516669f6211ba19ad3b565caac0f471f781918",
+    "x": 846.666748046875,
+    "y": 298.3450012207031,
+    "z": 113.94721221923828,
+    "width": 127,
+    "height": 7,
+    "z_height": 77,
+    "rotation": 90,
+    "name": "Planar 52 Inch - True HD (1080P) LCD Home Cinema Television - PD 520",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 7.0
+  },
+  "doc": "name: Planar 52 Inch - True HD (1080P) LCD Home Cinema Television - PD 520 | brand: Floorplanner | refid: f4516669f6211ba19ad3b565caac0f471f781918 | dimensions: 127 x 7.0 x 7 | url: https://floorplanner.com | position: x=846.666748046875, y=298.3450012207031, z=113.94721221923828, rot=90"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "664fc326f54b0dcca99275355591c48d89a6254f7dc5100f1e7215a6dd05fa7a",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "0ac7275c1e81fd155b0bfb4a092a907667cd2d7c",
+    "x": 120.26534271240234,
+    "y": 381.5549011230469,
+    "z": 115.4741439819336,
+    "width": 44.45,
+    "height": 3.175,
+    "z_height": 44.45,
+    "rotation": 0,
+    "name": "Woodland Nest III",
+    "brand": "Ethan Allen",
+    "sku": "073201C",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-animals/woodland-nest-iii/073201C.html#start=1&sz=99",
+    "depth": 44.45
+  },
+  "doc": "name: Woodland Nest III | brand: Ethan Allen | sku: 073201C | refid: 0ac7275c1e81fd155b0bfb4a092a907667cd2d7c | dimensions: 44.45 x 44.45 x 3.175 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-animals/woodland-nest-iii/073201C.html#start=1&sz=99 | position: x=120.26534271240234, y=381.5549011230469, z=115.4741439819336, rot=0"
+}

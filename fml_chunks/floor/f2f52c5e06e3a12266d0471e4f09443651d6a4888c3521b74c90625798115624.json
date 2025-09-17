@@ -1,0 +1,22 @@
+{
+  "id": "f2f52c5e06e3a12266d0471e4f09443651d6a4888c3521b74c90625798115624",
+  "parent_id": "e818783269dc80201b9feb6c558cf0fa1295f43f201133c898d927f5cca02036",
+  "type": "floor",
+  "designs": [
+    "2c8f96e78ed4b9897a03f4022338104e11304488faaf10526339fb70d636be6f",
+    "7955837f85a5d3a736e28e7eb42223879a364aa2a798eff766d90f5b8d65edfc",
+    "aab891f8c4cccdb65b9064acdd2671cbae48d08154efaa18768924f9c1e9cec6"
+  ],
+  "attrs": {
+    "id": 255032006,
+    "project_id": 167483948,
+    "name": "Floor 1",
+    "level": 1,
+    "created_at": "2025-01-04T23:50:14.000Z",
+    "updated_at": "2025-02-18T23:38:48.000Z",
+    "height": 274.32,
+    "cameras": []
+  },
+  "doc": "Floor: Floor 1 | designs: 3",
+  "summary": "Floor with 3 rooms. Highlights: room: 5 items (Leora Custom Night Table, Mod Motion Glider, Rinna Pedestal Table, Calvin Armoire, Quincy Bed - Twin Size). room: 3 items (Canton Oak Small Night Table, Burke Oak Full Bed, Canton Oak Small Night Table). room: 2 items (Burke Oak Full Bed, Calvin Armoire)."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "41dbffe8b667770f0508c05921b93c8485bc59aceb01586981c398be818c2cbf",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "72067a7616b815fc6254243cc2f3415c1de93518",
+    "x": 807.9237670898438,
+    "y": 856.7423706054688,
+    "z": 70.30545043945312,
+    "width": 15.246,
+    "height": 15.272,
+    "z_height": 18.999,
+    "rotation": 0,
+    "name": "Large Nickel Apple",
+    "brand": "Ethan Allen",
+    "sku": "431717A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-decorative-objects/nickel-apple/431717A.html",
+    "depth": 15.272
+  },
+  "doc": "name: Large Nickel Apple | brand: Ethan Allen | sku: 431717A | refid: 72067a7616b815fc6254243cc2f3415c1de93518 | dimensions: 15.246 x 15.272 x 15.272 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-decorative-objects/nickel-apple/431717A.html | position: x=807.9237670898438, y=856.7423706054688, z=70.30545043945312, rot=0"
+}

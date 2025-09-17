@@ -1,0 +1,22 @@
+{
+  "id": "0ba85ba9c6f13f7068758e831e772df55f5cafebabb3d9dc11c000baa191a736",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "bb273d423ad067ed5f861db63cf327e31b8093b8",
+    "x": 582.250923556371,
+    "y": 264.67598919144945,
+    "z": 169.9285125732422,
+    "width": 66.168,
+    "height": 5.166,
+    "z_height": 66.168,
+    "rotation": 270,
+    "name": "26'' Gold Sunburst Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074079A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/26%22-gold-sunburst-mirror/074079A.html",
+    "depth": 66.168,
+    "type_guess": "mirror"
+  },
+  "doc": "name: 26'' Gold Sunburst Mirror | brand: Ethan Allen | sku: 074079A | type: mirror | refid: bb273d423ad067ed5f861db63cf327e31b8093b8 | dimensions: 66.168 x 66.168 x 5.166 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/26%22-gold-sunburst-mirror/074079A.html | position: x=582.250923556371, y=264.67598919144945, z=169.9285125732422, rot=270"
+}

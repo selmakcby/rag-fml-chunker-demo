@@ -1,0 +1,20 @@
+{
+  "id": "8ecad8f399fb842c2d28b3cc2560eb5fa029bb0f68c9a2b58479f2ebc5997a2a",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "ab2561c6dbbac218676bc2558a0fca382d31822d",
+    "x": 301.5795761546972,
+    "y": 102.21984000194577,
+    "z": 0,
+    "width": 40.62983993824264,
+    "height": 11,
+    "z_height": 73.67015988802135,
+    "rotation": 180,
+    "name": "Bisque Seta Radiator",
+    "brand": "BESPOKE ARCHITECTURE",
+    "url": "https://roomstyler.com",
+    "depth": 40.0
+  },
+  "doc": "name: Bisque Seta Radiator | brand: BESPOKE ARCHITECTURE | refid: ab2561c6dbbac218676bc2558a0fca382d31822d | dimensions: 40.62983993824264 x 40.0 x 11 | url: https://roomstyler.com | position: x=301.5795761546972, y=102.21984000194577, z=0, rot=180"
+}

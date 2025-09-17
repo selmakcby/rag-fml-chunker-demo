@@ -1,0 +1,26 @@
+{
+  "id": "baed88d2564dd6745c7bdd54d61b5abb99dd84eb0041c73cc30684fa26cee26c",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "88cde2e2dc002419f5b709484fb4404a427bc960",
+    "x": 687.0428498810898,
+    "y": -153.82541634620756,
+    "z": 0,
+    "width": 218.44,
+    "height": 106.68,
+    "z_height": 76.228,
+    "rotation": 0,
+    "materials": {
+      "FINISH_612": 109,
+      "FINISH_368": 57
+    },
+    "name": "Cameron Dining Table",
+    "brand": "Ethan Allen",
+    "sku": "156714b",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-dining-room-tables/cameron-dining-table/156714B.html#lang=en_US&q=cameron&start=1",
+    "depth": 106.68,
+    "type_guess": "table"
+  },
+  "doc": "name: Cameron Dining Table | brand: Ethan Allen | sku: 156714b | type: table | refid: 88cde2e2dc002419f5b709484fb4404a427bc960 | dimensions: 218.44 x 106.68 x 106.68 | url: https://www.ethanallen.com/en_US/shop-furniture-dining-room-tables/cameron-dining-table/156714B.html#lang=en_US&q=cameron&start=1 | position: x=687.0428498810898, y=-153.82541634620756, z=0, rot=0"
+}

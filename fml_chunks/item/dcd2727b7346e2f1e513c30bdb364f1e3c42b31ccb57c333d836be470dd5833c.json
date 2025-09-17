@@ -1,0 +1,22 @@
+{
+  "id": "dcd2727b7346e2f1e513c30bdb364f1e3c42b31ccb57c333d836be470dd5833c",
+  "parent_id": "f477f93caf5905c4601fce2bcd9809f857fecc3654671c906e753995f942ee0e",
+  "type": "item",
+  "attrs": {
+    "refid": "f84bdd090bfdc633de3d2e3b4a1b7c6ded2f6f73",
+    "x": 84.98473944430657,
+    "y": 383.9327362911302,
+    "z": 0,
+    "width": 66.04,
+    "height": 66.04,
+    "z_height": 63.502,
+    "rotation": 180,
+    "name": "Teresa Round End Table",
+    "brand": "Ethan Allen",
+    "sku": "198012S 12C",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/teresa-round-end-table/198012.html#lang=en_US&q=teresa&start=1",
+    "depth": 66.04,
+    "type_guess": "table"
+  },
+  "doc": "name: Teresa Round End Table | brand: Ethan Allen | sku: 198012S 12C | type: table | refid: f84bdd090bfdc633de3d2e3b4a1b7c6ded2f6f73 | dimensions: 66.04 x 66.04 x 66.04 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/teresa-round-end-table/198012.html#lang=en_US&q=teresa&start=1 | position: x=84.98473944430657, y=383.9327362911302, z=0, rot=180"
+}

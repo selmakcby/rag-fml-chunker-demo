@@ -1,0 +1,27 @@
+{
+  "id": "5354432ab282f93d098854d9a73159675355e565ff102c514c41761779c17ebe",
+  "parent_id": "f477f93caf5905c4601fce2bcd9809f857fecc3654671c906e753995f942ee0e",
+  "type": "item",
+  "attrs": {
+    "refid": "f8c812b1acf5603b2f2186adfdc6ea151a7ffca4",
+    "x": 77.76647182122838,
+    "y": 82.42258566876247,
+    "z": 0,
+    "width": 50.93,
+    "height": 50.93,
+    "z_height": 163.836,
+    "rotation": 0,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Caira Floor Lamp",
+    "brand": "Ethan Allen",
+    "sku": "092018 BRS",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/caira-floor-lamp/092018+++BRS.html",
+    "depth": 50.93,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Caira Floor Lamp | brand: Ethan Allen | sku: 092018 BRS | type: lighting | refid: f8c812b1acf5603b2f2186adfdc6ea151a7ffca4 | dimensions: 50.93 x 50.93 x 50.93 | url: https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/caira-floor-lamp/092018+++BRS.html | position: x=77.76647182122838, y=82.42258566876247, z=0, rot=0"
+}

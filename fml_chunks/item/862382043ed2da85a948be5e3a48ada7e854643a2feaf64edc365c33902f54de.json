@@ -1,0 +1,20 @@
+{
+  "id": "862382043ed2da85a948be5e3a48ada7e854643a2feaf64edc365c33902f54de",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "0bc04858b82b8a64541f554fa6066a68b1930833",
+    "x": 829.7017450272082,
+    "y": 433.90147172670913,
+    "z": 0,
+    "width": 70.93,
+    "height": 63.15,
+    "z_height": 170.26,
+    "rotation": 180,
+    "name": "CANNIBIS PLANT 1M7",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 63.15
+  },
+  "doc": "name: CANNIBIS PLANT 1M7 | brand: Floorplanner | refid: 0bc04858b82b8a64541f554fa6066a68b1930833 | dimensions: 70.93 x 63.15 x 63.15 | url: https://floorplanner.com | position: x=829.7017450272082, y=433.90147172670913, z=0, rot=180"
+}

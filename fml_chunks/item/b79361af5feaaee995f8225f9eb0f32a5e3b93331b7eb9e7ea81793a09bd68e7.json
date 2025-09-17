@@ -1,0 +1,28 @@
+{
+  "id": "b79361af5feaaee995f8225f9eb0f32a5e3b93331b7eb9e7ea81793a09bd68e7",
+  "parent_id": "e276c188abb79d2db802881fa72f71a8643a67f0fbe629ecd996a6e0b4136b1c",
+  "type": "item",
+  "attrs": {
+    "refid": "bc2996a36efd980fefb872796be0dd51ac6637e6",
+    "x": 229.22460741889492,
+    "y": 352.13056575152194,
+    "z": 0,
+    "width": 78.95,
+    "height": 101.334,
+    "z_height": 99.032,
+    "rotation": 0,
+    "mirrored": [
+      0,
+      0
+    ],
+    "materials": {
+      "FABRIC_92756": 28242
+    },
+    "name": "Conover Track Arm Incliner RAF 1 Seat",
+    "brand": "Ethan Allen",
+    "sku": "217982",
+    "url": "www.ethanallen.com",
+    "depth": 101.334
+  },
+  "doc": "name: Conover Track Arm Incliner RAF 1 Seat | brand: Ethan Allen | sku: 217982 | refid: bc2996a36efd980fefb872796be0dd51ac6637e6 | dimensions: 78.95 x 101.334 x 101.334 | url: www.ethanallen.com | position: x=229.22460741889492, y=352.13056575152194, z=0, rot=0"
+}

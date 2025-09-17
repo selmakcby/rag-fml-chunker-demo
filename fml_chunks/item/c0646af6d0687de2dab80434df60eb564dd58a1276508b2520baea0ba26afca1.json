@@ -1,0 +1,23 @@
+{
+  "id": "c0646af6d0687de2dab80434df60eb564dd58a1276508b2520baea0ba26afca1",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "80e78b8385c1474321e95290e0478c4135c4b246",
+    "x": 394.9649732485564,
+    "y": 479.2809222074379,
+    "z": 0,
+    "width": 31.079907553082563,
+    "height": 29.155847025064418,
+    "z_height": 279.801,
+    "rotation": 180,
+    "materials": {
+      "FINISH_FP_FFFFFF": 11856
+    },
+    "name": "ASSETS, Column_93_2",
+    "sku": "",
+    "url": "https://floorplanner.com",
+    "depth": 50.0
+  },
+  "doc": "name: ASSETS, Column_93_2 | refid: 80e78b8385c1474321e95290e0478c4135c4b246 | dimensions: 31.079907553082563 x 50.0 x 29.155847025064418 | url: https://floorplanner.com | position: x=394.9649732485564, y=479.2809222074379, z=0, rot=180"
+}

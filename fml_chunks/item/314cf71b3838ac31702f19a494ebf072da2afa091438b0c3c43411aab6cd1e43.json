@@ -1,0 +1,25 @@
+{
+  "id": "314cf71b3838ac31702f19a494ebf072da2afa091438b0c3c43411aab6cd1e43",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "2d1b4b5a652d0ef5dc83ad5d7026ab84cf860843",
+    "x": 270.74983011580105,
+    "y": 288.3417977334527,
+    "z": 0,
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.529,
+    "rotation": 180.43783928094484,
+    "materials": {
+      "FABRIC_RUG_Densley_Ocean": 11618
+    },
+    "name": "Densley Rug",
+    "brand": "Ethan Allen",
+    "sku": "046103",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-ikat/densley-rug/046103.html?dwvar_046103_color=22090#start=1&sz=61",
+    "depth": 304.8,
+    "type_guess": "rug"
+  },
+  "doc": "name: Densley Rug | brand: Ethan Allen | sku: 046103 | type: rug | refid: 2d1b4b5a652d0ef5dc83ad5d7026ab84cf860843 | dimensions: 243.84 x 304.8 x 304.8 | url: https://www.ethanallen.com/en_US/shop-rugs-ikat/densley-rug/046103.html?dwvar_046103_color=22090#start=1&sz=61 | position: x=270.74983011580105, y=288.3417977334527, z=0, rot=180.43783928094484"
+}

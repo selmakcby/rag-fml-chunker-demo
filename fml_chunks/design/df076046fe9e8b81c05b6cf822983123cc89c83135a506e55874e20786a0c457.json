@@ -1,0 +1,115 @@
+{
+  "id": "df076046fe9e8b81c05b6cf822983123cc89c83135a506e55874e20786a0c457",
+  "parent_id": "7a2ceeeb333e2d0b552f8fd872f9baa9483a0739dd723dc8f4420e5a0b5bd2cb",
+  "type": "design",
+  "rooms": [],
+  "attrs": {
+    "name": "First design",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [
+      {
+        "refid": "rs-2691",
+        "color": "#ABABAC",
+        "rotation": 0,
+        "showAreaLabel": true,
+        "poly": [
+          {
+            "x": 7.499999999999999,
+            "y": 7.5,
+            "z": 0
+          },
+          {
+            "x": 520.3610695607396,
+            "y": 7.5,
+            "z": 0
+          },
+          {
+            "x": 520.3610695607396,
+            "y": 383.142413305025,
+            "z": 0
+          },
+          {
+            "x": 7.500000000000001,
+            "y": 383.1424133050247,
+            "z": 0
+          }
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 465.75999999999993,
+        "y": 343.84000000000003,
+        "z": 2426.728717113587,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 241.804,
+        "y": 107.5,
+        "z": 165.1,
+        "dx": 0.6878335801027492,
+        "dy": 0.725868422018092,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270089015,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: First design | rooms: 0"
+}

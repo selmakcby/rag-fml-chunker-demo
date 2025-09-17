@@ -1,0 +1,21 @@
+{
+  "id": "50058696e2663b99bb73bac049bdee0c956f7b292367ab57c198a36a6b5c4913",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "6abeb84eebbabbeccbafcb5faf676aa327015dcc",
+    "x": 268.8026123046875,
+    "y": 207.36834716796875,
+    "z": 52.35708999633789,
+    "width": 27.432,
+    "height": 27.432,
+    "z_height": 6.945,
+    "rotation": 244,
+    "name": "EA Guild Chess Game",
+    "brand": "Ethan Allen",
+    "sku": "432445 BLU",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-games/ea-guild-chess-set/432445+++BLU.html",
+    "depth": 27.432
+  },
+  "doc": "name: EA Guild Chess Game | brand: Ethan Allen | sku: 432445 BLU | refid: 6abeb84eebbabbeccbafcb5faf676aa327015dcc | dimensions: 27.432 x 27.432 x 27.432 | url: https://www.ethanallen.com/en_US/shop-decor-games/ea-guild-chess-set/432445+++BLU.html | position: x=268.8026123046875, y=207.36834716796875, z=52.35708999633789, rot=244"
+}

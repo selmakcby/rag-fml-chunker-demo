@@ -1,0 +1,25 @@
+{
+  "id": "bd89c9892cca5fbfa89aedd2aa5dd9ef17ef8606810612cc87c7dbca123e8ac0",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "2f2fe35543f207df061631c8054bfa05eb32a218",
+    "x": 824.8573273552942,
+    "y": 256.3639538824488,
+    "z": 0,
+    "width": 76.55,
+    "height": 101.542,
+    "z_height": 88.915,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23633": 28245
+    },
+    "name": "Spencer Armless 1 Seat, 24 in.",
+    "brand": "Ethan Allen",
+    "sku": "202359",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 101.542
+  },
+  "doc": "name: Spencer Armless 1 Seat, 24 in. | brand: Ethan Allen | sku: 202359 | refid: 2f2fe35543f207df061631c8054bfa05eb32a218 | dimensions: 76.55 x 101.542 x 101.542 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=824.8573273552942, y=256.3639538824488, z=0, rot=0"
+}

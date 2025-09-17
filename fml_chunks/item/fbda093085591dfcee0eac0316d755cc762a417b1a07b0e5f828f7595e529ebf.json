@@ -1,0 +1,21 @@
+{
+  "id": "fbda093085591dfcee0eac0316d755cc762a417b1a07b0e5f828f7595e529ebf",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "2e776a3c6e4a9bea1527be41ee268f277e4439ec",
+    "x": 769.5365727111243,
+    "y": 852.2400382565108,
+    "z": 0.1,
+    "width": 65.313,
+    "height": 13.897,
+    "z_height": 13.888,
+    "rotation": 90,
+    "name": "Kudu Horn, Gold",
+    "brand": "Ethan Allen",
+    "sku": "431902A",
+    "url": "https://www.ethanallen.com/",
+    "depth": 13.897
+  },
+  "doc": "name: Kudu Horn, Gold | brand: Ethan Allen | sku: 431902A | refid: 2e776a3c6e4a9bea1527be41ee268f277e4439ec | dimensions: 65.313 x 13.897 x 13.897 | url: https://www.ethanallen.com/ | position: x=769.5365727111243, y=852.2400382565108, z=0.1, rot=90"
+}

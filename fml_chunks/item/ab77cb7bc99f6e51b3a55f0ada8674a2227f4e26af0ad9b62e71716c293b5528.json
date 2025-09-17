@@ -1,0 +1,21 @@
+{
+  "id": "ab77cb7bc99f6e51b3a55f0ada8674a2227f4e26af0ad9b62e71716c293b5528",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "ef59d7af48c1d97a123841b2d5d4df8d8556f6e2",
+    "x": 904.352783203125,
+    "y": 849.0734252929688,
+    "z": 185.77207946777344,
+    "width": 30.48,
+    "height": 22.86,
+    "z_height": 10.16,
+    "rotation": 0,
+    "name": "Large Zaria Blue Mirrored Box",
+    "brand": "Ethan Allen",
+    "sku": "432086A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-boxes/zaria-large-blue-mirrored-box/432086A.html",
+    "depth": 22.86
+  },
+  "doc": "name: Large Zaria Blue Mirrored Box | brand: Ethan Allen | sku: 432086A | refid: ef59d7af48c1d97a123841b2d5d4df8d8556f6e2 | dimensions: 30.48 x 22.86 x 22.86 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-boxes/zaria-large-blue-mirrored-box/432086A.html | position: x=904.352783203125, y=849.0734252929688, z=185.77207946777344, rot=0"
+}

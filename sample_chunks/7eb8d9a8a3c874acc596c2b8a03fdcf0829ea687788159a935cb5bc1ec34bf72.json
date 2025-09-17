@@ -1,0 +1,359 @@
+{
+  "chunk_id": "7eb8d9a8a3c874acc596c2b8a03fdcf0829ea687788159a935cb5bc1ec34bf72",
+  "level": "room",
+  "room_id": "7eb8d9a8a3c874acc596c2b8a03fdcf0829ea687788159a935cb5bc1ec34bf72",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Room 9001",
+  "room_type": "unknown",
+  "area_m2": 11.944699999999997,
+  "num_walls": 8,
+  "num_doors": 6,
+  "num_windows": 1,
+  "item_counts": [
+    {
+      "class": "storage",
+      "count": 1
+    },
+    {
+      "class": "bench",
+      "count": 1
+    },
+    {
+      "class": "standing lamp",
+      "count": 1
+    },
+    {
+      "class": "console table",
+      "count": 1
+    },
+    {
+      "class": "wall mirror",
+      "count": 1
+    },
+    {
+      "class": "wall mounted lamp",
+      "count": 1
+    },
+    {
+      "class": "built-in spot light",
+      "count": 3
+    }
+  ],
+  "summary_text": "Room 9001 spans 11.9 m\u00b2 and has eight walls, six doors, and one window on the left wall. A compact lounge zone sits on the left, with storage and a bench near a standing lamp, while a console table and a wall mirror anchor the wall. Three spotlights and wall lamps provide lighting, creating a neat, welcoming entry space.",
+  "refs": {
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+  },
+  "raw": {
+    "id": "7eb8d9a8a3c874acc596c2b8a03fdcf0829ea687788159a935cb5bc1ec34bf72",
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "type": "room",
+    "attrs": {
+      "id": 9001,
+      "name": "Room 9001",
+      "walls": [
+        {
+          "id": 13,
+          "a_x": -8.27,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -4.76,
+          "b_y": 4.26,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.1,
+          "openings": [
+            {
+              "id": "222",
+              "wall0_id": 13,
+              "wall1_id": -1,
+              "position_x": -7.61,
+              "position_y": 4.26,
+              "position_z": 0.0,
+              "width": 1.19,
+              "height": 2.7,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 14,
+          "a_x": -3.88,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -4.76,
+          "b_y": 4.26,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.1,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 14,
+              "wall1_id": -1,
+              "position_x": -4.31,
+              "position_y": 4.26,
+              "position_z": 0.0,
+              "width": 0.74,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 12,
+          "a_x": -3.88,
+          "a_y": 3.37,
+          "a_z": 0.0,
+          "b_x": -3.88,
+          "b_y": 4.26,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 22,
+          "a_x": -2.36,
+          "a_y": 3.37,
+          "a_z": 0.0,
+          "b_x": -3.88,
+          "b_y": 3.37,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 22,
+              "wall1_id": -1,
+              "position_x": -3.05,
+              "position_y": 3.37,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 20,
+          "a_x": -2.36,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 3.37,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 20,
+              "wall1_id": -1,
+              "position_x": -2.36,
+              "position_y": 2.7,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 24,
+          "a_x": -6.05,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 2.01,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 24,
+              "wall1_id": -1,
+              "position_x": -3.02,
+              "position_y": 2.01,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 25,
+          "a_x": -8.27,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -6.05,
+          "b_y": 2.01,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [
+            {
+              "id": "204",
+              "wall0_id": 25,
+              "wall1_id": -1,
+              "position_x": -7.28,
+              "position_y": 2.01,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 26,
+          "a_x": -8.27,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -8.27,
+          "b_y": 2.01,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [
+            {
+              "id": "218",
+              "wall0_id": 26,
+              "wall1_id": -1,
+              "position_x": -8.27,
+              "position_y": 3.25,
+              "position_z": 0.1,
+              "width": 0.8,
+              "height": 2.5,
+              "type": "window"
+            }
+          ],
+          "decor": []
+        }
+      ],
+      "items": [
+        {
+          "id": 3068,
+          "refid": "ecd2bb0932fccdbc05f4bebbea3b69ac9707ba22",
+          "class_name": "storage",
+          "position_x": -6.21,
+          "position_y": 2.33,
+          "position_z": 0.0,
+          "scale_x": 1.02,
+          "scale_y": 0.47,
+          "scale_z": 0.88,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3069,
+          "refid": "b1ac696d342f1da63fe108f941de8c313cc5b126",
+          "class_name": "bench",
+          "position_x": -6.21,
+          "position_y": 3.94,
+          "position_z": 0.0,
+          "scale_x": 1.51,
+          "scale_y": 0.55,
+          "scale_z": 0.77,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3070,
+          "refid": "018f52ea0b259b9134aaa3685171d7ffe624c3dc",
+          "class_name": "standing lamp",
+          "position_x": -5.36,
+          "position_y": 2.38,
+          "position_z": 0.0,
+          "scale_x": 0.58,
+          "scale_y": 0.58,
+          "scale_z": 1.7,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3071,
+          "refid": "c4a835e032dd46c6d83f85b2adbdad41b1c3376b",
+          "class_name": "console table",
+          "position_x": -4.31,
+          "position_y": 2.27,
+          "position_z": 0.0,
+          "scale_x": 1.52,
+          "scale_y": 0.35,
+          "scale_z": 0.71,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3072,
+          "refid": "2d3318929f64ab30af436705e6a096329817c6d2",
+          "class_name": "wall mirror",
+          "position_x": -4.31,
+          "position_y": 2.12,
+          "position_z": 1.19,
+          "scale_x": 1.02,
+          "scale_y": 0.06,
+          "scale_z": 1.02,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3073,
+          "refid": "d0fe779d6d9f152945ca1929693e1fc0b7473a1e",
+          "class_name": "wall mounted lamp",
+          "position_x": -3.76,
+          "position_y": 3.25,
+          "position_z": 1.8,
+          "scale_x": 0.4,
+          "scale_y": 0.1,
+          "scale_z": 0.15,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3074,
+          "refid": "03e195f8bd27ffb3982ccb69dcab98d53f3f6920",
+          "class_name": "built-in spot light",
+          "position_x": -5.59,
+          "position_y": 3.07,
+          "position_z": 2.8,
+          "scale_x": 0.1,
+          "scale_y": 0.1,
+          "scale_z": 0.12,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3075,
+          "refid": "03e195f8bd27ffb3982ccb69dcab98d53f3f6920",
+          "class_name": "built-in spot light",
+          "position_x": -7.59,
+          "position_y": 3.07,
+          "position_z": 2.8,
+          "scale_x": 0.1,
+          "scale_y": 0.1,
+          "scale_z": 0.12,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3076,
+          "refid": "03e195f8bd27ffb3982ccb69dcab98d53f3f6920",
+          "class_name": "built-in spot light",
+          "position_x": -3.59,
+          "position_y": 3.07,
+          "position_z": 2.8,
+          "scale_x": 0.1,
+          "scale_y": 0.1,
+          "scale_z": 0.12,
+          "angle_z": 0.0
+        }
+      ],
+      "area": 11.944699999999997,
+      "summary": "Room 9001 spans 11.9 m\u00b2 and has eight walls, six doors, and one window on the left wall. A compact lounge zone sits on the left, with storage and a bench near a standing lamp, while a console table and a wall mirror anchor the wall. Three spotlights and wall lamps provide lighting, creating a neat, welcoming entry space."
+    }
+  }
+}

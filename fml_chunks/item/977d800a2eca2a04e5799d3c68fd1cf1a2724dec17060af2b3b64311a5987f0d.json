@@ -1,0 +1,22 @@
+{
+  "id": "977d800a2eca2a04e5799d3c68fd1cf1a2724dec17060af2b3b64311a5987f0d",
+  "parent_id": "916e2c26d538fb76ec8e42ff607a6000508f3f2bfd1dcecd1014663fc2d1dc36",
+  "type": "item",
+  "attrs": {
+    "refid": "3db5de9e4b601856eed112a853a736272adf0855",
+    "x": 205.06337963394992,
+    "y": 24.380401640749753,
+    "z": 0,
+    "width": 91.44,
+    "height": 35.579,
+    "z_height": 208.906,
+    "rotation": 358.86502796116554,
+    "name": "Curson Oak Bookcase",
+    "brand": "Ethan Allen",
+    "sku": "369240",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-homeoffice-storage%26display-bookcases/curson-oak-display-bookcase/369240+++723.html#q=curson&lang=en_US&start=1",
+    "depth": 35.579,
+    "type_guess": "shelving"
+  },
+  "doc": "name: Curson Oak Bookcase | brand: Ethan Allen | sku: 369240 | type: shelving | refid: 3db5de9e4b601856eed112a853a736272adf0855 | dimensions: 91.44 x 35.579 x 35.579 | url: https://www.ethanallen.com/en_US/shop-furniture-homeoffice-storage%26display-bookcases/curson-oak-display-bookcase/369240+++723.html#q=curson&lang=en_US&start=1 | position: x=205.06337963394992, y=24.380401640749753, z=0, rot=358.86502796116554"
+}

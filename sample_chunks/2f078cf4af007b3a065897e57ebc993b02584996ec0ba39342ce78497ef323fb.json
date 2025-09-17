@@ -1,0 +1,461 @@
+{
+  "chunk_id": "2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb",
+  "level": "room",
+  "room_id": "2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Room 9005",
+  "room_type": "living",
+  "area_m2": 22.619999999999997,
+  "num_walls": 6,
+  "num_doors": 2,
+  "num_windows": 0,
+  "item_counts": [
+    {
+      "class": "tv stand",
+      "count": 1
+    },
+    {
+      "class": "tv",
+      "count": 1
+    },
+    {
+      "class": "coffee table",
+      "count": 1
+    },
+    {
+      "class": "sofa",
+      "count": 1
+    },
+    {
+      "class": "console table",
+      "count": 1
+    },
+    {
+      "class": "end table",
+      "count": 1
+    },
+    {
+      "class": "end table lamp",
+      "count": 1
+    },
+    {
+      "class": "rug",
+      "count": 1
+    },
+    {
+      "class": "cabinet",
+      "count": 1
+    },
+    {
+      "class": "bookcase",
+      "count": 1
+    },
+    {
+      "class": "floor lamp",
+      "count": 1
+    },
+    {
+      "class": "cabinet decor",
+      "count": 1
+    },
+    {
+      "class": "console table decor",
+      "count": 3
+    },
+    {
+      "class": "end table decor",
+      "count": 1
+    },
+    {
+      "class": "coffee table decor",
+      "count": 1
+    },
+    {
+      "class": "floor plant",
+      "count": 1
+    },
+    {
+      "class": "chair",
+      "count": 2
+    },
+    {
+      "class": "tv stand decor",
+      "count": 1
+    }
+  ],
+  "summary_text": "Room 9005 spans 22.6 m\u00b2. It has six walls, two doors, and no windows. The layout centers a main living area: a sofa and two chairs face a TV on a north-side stand, with a coffee table and rug. A console, bookcase, cabinets, and lighting provide a warm, functional lounge.",
+  "refs": {
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+  },
+  "raw": {
+    "id": "2f078cf4af007b3a065897e57ebc993b02584996ec0ba39342ce78497ef323fb",
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "type": "room",
+    "attrs": {
+      "id": 9005,
+      "name": "Room 9005",
+      "walls": [
+        {
+          "id": 7,
+          "a_x": 3.64,
+          "a_y": 5.27,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 6,
+          "a_x": 3.64,
+          "a_y": 1.5,
+          "a_z": 0.0,
+          "b_x": 3.64,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "3263",
+              "wall0_id": 6,
+              "wall1_id": -1,
+              "position_x": 3.64,
+              "position_y": 4.44,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 1,
+          "a_x": 3.64,
+          "a_y": 1.5,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 1.5,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.0,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 2,
+          "a_x": -2.36,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 1.5,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 20,
+          "a_x": -2.36,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 3.37,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 20,
+              "wall1_id": -1,
+              "position_x": -2.36,
+              "position_y": 2.7,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 21,
+          "a_x": -2.36,
+          "a_y": 3.37,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        }
+      ],
+      "items": [
+        {
+          "id": 3004,
+          "refid": "556f8cb43b56b196cf0d7a765bdff208fe32f0e7",
+          "class_name": "tv stand",
+          "position_x": 1.27,
+          "position_y": 4.97,
+          "position_z": 0.0,
+          "scale_x": 1.95,
+          "scale_y": 0.46,
+          "scale_z": 0.82,
+          "angle_z": 3.1415926535897936
+        },
+        {
+          "id": 3005,
+          "refid": "1d438cf2a0be5706ffdbd1489fbfb27f712589a0",
+          "class_name": "tv",
+          "position_x": 1.27,
+          "position_y": 5.16,
+          "position_z": 0.66,
+          "scale_x": 1.26,
+          "scale_y": 0.08,
+          "scale_z": 0.8,
+          "angle_z": 9.921048172113442e-16
+        },
+        {
+          "id": 3006,
+          "refid": "0977f83725a4e42dc9c91d3333b32552752fe860",
+          "class_name": "coffee table",
+          "position_x": 1.27,
+          "position_y": 3.51,
+          "position_z": 0.0,
+          "scale_x": 1.27,
+          "scale_y": 0.66,
+          "scale_z": 0.47,
+          "angle_z": 8.955245192722805e-16
+        },
+        {
+          "id": 3007,
+          "refid": "a1b53ce275b2bb9482ce614d4be3827a408514ee",
+          "class_name": "sofa",
+          "position_x": -0.44,
+          "position_y": 3.51,
+          "position_z": 0.0,
+          "scale_x": 1.88,
+          "scale_y": 1.13,
+          "scale_z": 1.05,
+          "angle_z": 4.712388980384691
+        },
+        {
+          "id": 3008,
+          "refid": "f751ba19356c06c959592d31c0f88b9da6a983c3",
+          "class_name": "console table",
+          "position_x": -1.22,
+          "position_y": 3.51,
+          "position_z": 0.0,
+          "scale_x": 1.27,
+          "scale_y": 0.42,
+          "scale_z": 0.76,
+          "angle_z": 1.5707963267948977
+        },
+        {
+          "id": 3009,
+          "refid": "006ddf26979f5118867e6dd6fd43ee95a90c4748",
+          "class_name": "end table",
+          "position_x": -0.44,
+          "position_y": 4.83,
+          "position_z": 0.0,
+          "scale_x": 0.56,
+          "scale_y": 0.66,
+          "scale_z": 0.61,
+          "angle_z": 4.712388980384691
+        },
+        {
+          "id": 3010,
+          "refid": "90d55eafd8cf33acf293d542855ea7bbff00e3ba",
+          "class_name": "end table lamp",
+          "position_x": -0.44,
+          "position_y": 4.83,
+          "position_z": 0.61,
+          "scale_x": 0.43,
+          "scale_y": 0.27,
+          "scale_z": 0.78,
+          "angle_z": 4.712388980384691
+        },
+        {
+          "id": 3011,
+          "refid": "87b0f77329ff85e9a3ba425ad655d896e693a481",
+          "class_name": "rug",
+          "position_x": 1.27,
+          "position_y": 3.51,
+          "position_z": 0.0,
+          "scale_x": 2.74,
+          "scale_y": 1.83,
+          "scale_z": 0.01,
+          "angle_z": 3.141592653589794
+        },
+        {
+          "id": 3012,
+          "refid": "ecd2bb0932fccdbc05f4bebbea3b69ac9707ba22",
+          "class_name": "cabinet",
+          "position_x": -1.6,
+          "position_y": 4.96,
+          "position_z": 0.0,
+          "scale_x": 1.02,
+          "scale_y": 0.47,
+          "scale_z": 0.88,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3013,
+          "refid": "322affd9a2dfa99af727104877b278278b0a8987",
+          "class_name": "bookcase",
+          "position_x": -2.14,
+          "position_y": 3.75,
+          "position_z": 0.0,
+          "scale_x": 0.89,
+          "scale_y": 0.29,
+          "scale_z": 1.85,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3014,
+          "refid": "010e4e192681b2a71f8d0583906f22b9bb5a4a33",
+          "class_name": "floor lamp",
+          "position_x": -0.85,
+          "position_y": 2.24,
+          "position_z": 0.0,
+          "scale_x": 0.46,
+          "scale_y": 0.3,
+          "scale_z": 1.51,
+          "angle_z": 4.712388980384691
+        },
+        {
+          "id": 3015,
+          "refid": "d884582df5288fc4927521ce86c0dd98c821b9f7",
+          "class_name": "cabinet decor",
+          "position_x": -1.65,
+          "position_y": 4.9,
+          "position_z": 0.88,
+          "scale_x": 0.51,
+          "scale_y": 0.13,
+          "scale_z": 0.56,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3016,
+          "refid": "dd62a6aafabe4bcc5dc49e61a5d5c87019e1b4c3",
+          "class_name": "console table decor",
+          "position_x": -1.15,
+          "position_y": 3.51,
+          "position_z": 0.76,
+          "scale_x": 0.15,
+          "scale_y": 0.15,
+          "scale_z": 0.15,
+          "angle_z": 1.5707963267948966
+        },
+        {
+          "id": 3017,
+          "refid": "c3c8a9a0e1f2037d9e82d2286748cb576b1fd738",
+          "class_name": "console table decor",
+          "position_x": -1.22,
+          "position_y": 3.22,
+          "position_z": 0.76,
+          "scale_x": 0.18,
+          "scale_y": 0.18,
+          "scale_z": 0.28,
+          "angle_z": 1.5707963267948983
+        },
+        {
+          "id": 3018,
+          "refid": "d2d5bdc4f299e6a6c4d994e001b8d89ad0e6f75c",
+          "class_name": "console table decor",
+          "position_x": -1.22,
+          "position_y": 3.89,
+          "position_z": 0.76,
+          "scale_x": 0.23,
+          "scale_y": 0.23,
+          "scale_z": 0.43,
+          "angle_z": 1.5707963267948977
+        },
+        {
+          "id": 3019,
+          "refid": "4b8536c8aff2c87f2afa54d2dd047e8add0f0533",
+          "class_name": "end table decor",
+          "position_x": 2.84,
+          "position_y": 3.48,
+          "position_z": 0.61,
+          "scale_x": 0.29,
+          "scale_y": 0.27,
+          "scale_z": 0.17,
+          "angle_z": 1.0913638457402612
+        },
+        {
+          "id": 3020,
+          "refid": "c9af68a5681d5c55cbc6ef5d924f285560eabbce",
+          "class_name": "coffee table decor",
+          "position_x": 1.54,
+          "position_y": 3.65,
+          "position_z": 0.47,
+          "scale_x": 0.23,
+          "scale_y": 0.29,
+          "scale_z": 0.16,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3021,
+          "refid": "27fced25af9e0ba19bc655dd30bd78532c43e284",
+          "class_name": "floor plant",
+          "position_x": 3.39,
+          "position_y": 2.39,
+          "position_z": 0.0,
+          "scale_x": 1.11,
+          "scale_y": 0.34,
+          "scale_z": 1.47,
+          "angle_z": 1.5707963267948966
+        },
+        {
+          "id": 3026,
+          "refid": "e4e26a66b209509fed81dcaa8561358275ca0b8d",
+          "class_name": "chair",
+          "position_x": 0.88,
+          "position_y": 2.4,
+          "position_z": 0.0,
+          "scale_x": 0.68,
+          "scale_y": 0.74,
+          "scale_z": 0.74,
+          "angle_z": 8.305584287084748e-16
+        },
+        {
+          "id": 3027,
+          "refid": "e4e26a66b209509fed81dcaa8561358275ca0b8d",
+          "class_name": "chair",
+          "position_x": 1.86,
+          "position_y": 2.4,
+          "position_z": 0.0,
+          "scale_x": 0.68,
+          "scale_y": 0.74,
+          "scale_z": 0.74,
+          "angle_z": 8.305584287084748e-16
+        },
+        {
+          "id": 3077,
+          "refid": "4b2fa7bf5449720ef6807257ec4413efe9dab095",
+          "class_name": "tv stand decor",
+          "position_x": 0.61,
+          "position_y": 4.93,
+          "position_z": 0.82,
+          "scale_x": 0.41,
+          "scale_y": 0.13,
+          "scale_z": 0.35,
+          "angle_z": 3.141592653589793
+        }
+      ],
+      "area": 22.619999999999997,
+      "summary": "Room 9005 spans 22.6 m\u00b2. It has six walls, two doors, and no windows. The layout centers a main living area: a sofa and two chairs face a TV on a north-side stand, with a coffee table and rug. A console, bookcase, cabinets, and lighting provide a warm, functional lounge."
+    }
+  }
+}

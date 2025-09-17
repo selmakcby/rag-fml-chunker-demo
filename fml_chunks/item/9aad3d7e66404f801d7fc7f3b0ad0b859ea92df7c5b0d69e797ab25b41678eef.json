@@ -1,0 +1,21 @@
+{
+  "id": "9aad3d7e66404f801d7fc7f3b0ad0b859ea92df7c5b0d69e797ab25b41678eef",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "4573845227993ff477ca7fe1fcc3e42678a127e9",
+    "x": 827.7123907120721,
+    "y": 695.4158485359425,
+    "z": 123.50699999999999,
+    "width": 95.886,
+    "height": 5.08,
+    "z_height": 95.886,
+    "rotation": 0,
+    "name": "Misty Treeline I",
+    "brand": "Ethan Allen",
+    "sku": "073176A",
+    "url": "http://staging.web.ethanallen.demandware.net/s/ethanallen-us/en_US/shop-decor-artwork-framed-artwork-landscape-cityscape/misty-treeline/073176.html?__siteDate=202201280701&__sourceCode=&__customerGroup=&__abTest=&__abTestSegment=&__previewID=",
+    "depth": 95.886
+  },
+  "doc": "name: Misty Treeline I | brand: Ethan Allen | sku: 073176A | refid: 4573845227993ff477ca7fe1fcc3e42678a127e9 | dimensions: 95.886 x 95.886 x 5.08 | url: http://staging.web.ethanallen.demandware.net/s/ethanallen-us/en_US/shop-decor-artwork-framed-artwork-landscape-cityscape/misty-treeline/073176.html?__siteDate=202201280701&__sourceCode=&__customerGroup=&__abTest=&__abTestSegment=&__previewID= | position: x=827.7123907120721, y=695.4158485359425, z=123.50699999999999, rot=0"
+}

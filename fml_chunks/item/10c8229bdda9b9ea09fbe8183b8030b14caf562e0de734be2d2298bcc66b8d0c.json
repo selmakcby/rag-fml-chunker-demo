@@ -1,0 +1,22 @@
+{
+  "id": "10c8229bdda9b9ea09fbe8183b8030b14caf562e0de734be2d2298bcc66b8d0c",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "f7218b9e1e7069cee8bd5033c0d8024666f88f42",
+    "x": 161.340730128955,
+    "y": 197.31908754197036,
+    "z": 0,
+    "width": 126.994,
+    "height": 73.668,
+    "z_height": 42.542,
+    "rotation": 270,
+    "name": "Bridgewater Cove Coffee Table ",
+    "brand": "Ethan Allen",
+    "sku": "404100",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-furniture-bridgewater-cove/bridgewater-cove-teak-coffee-table/404100+++790.html",
+    "depth": 73.668,
+    "type_guess": "table"
+  },
+  "doc": "name: Bridgewater Cove Coffee Table  | brand: Ethan Allen | sku: 404100 | type: table | refid: f7218b9e1e7069cee8bd5033c0d8024666f88f42 | dimensions: 126.994 x 73.668 x 73.668 | url: https://www.ethanallen.com/en_US/shop-outdoor-furniture-bridgewater-cove/bridgewater-cove-teak-coffee-table/404100+++790.html | position: x=161.340730128955, y=197.31908754197036, z=0, rot=270"
+}

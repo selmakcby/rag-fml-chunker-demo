@@ -1,0 +1,22 @@
+{
+  "id": "713f4c673ef85276f3e10127d87343badf47f3fb274dc97a9eea64371c466160",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "9874af0abd9049eaae384bb10215f8f45d2e71b8",
+    "x": 666.5567655963538,
+    "y": 343.69774556976404,
+    "z": 0,
+    "width": 45.29,
+    "height": 45.443,
+    "z_height": 58.349,
+    "rotation": 90,
+    "name": "Girard Side Table",
+    "brand": "Ethan Allen",
+    "sku": "228033 428",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/girard-reclaimed-wood-end-table/228033.html?dwvar_228033_finish=428#lang=en_US&q=girard&start=1",
+    "depth": 45.443,
+    "type_guess": "table"
+  },
+  "doc": "name: Girard Side Table | brand: Ethan Allen | sku: 228033 428 | type: table | refid: 9874af0abd9049eaae384bb10215f8f45d2e71b8 | dimensions: 45.29 x 45.443 x 45.443 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/girard-reclaimed-wood-end-table/228033.html?dwvar_228033_finish=428#lang=en_US&q=girard&start=1 | position: x=666.5567655963538, y=343.69774556976404, z=0, rot=90"
+}

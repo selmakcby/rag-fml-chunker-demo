@@ -1,0 +1,26 @@
+{
+  "id": "635f2e8cfd329363fef31177a09904e943386b4868950118e704fce83c1a8a58",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "771ec3ee134787a48df3ad9495e5916b873f6c03",
+    "x": 681.436767578125,
+    "y": 1022.830322265625,
+    "z": 204.39112854003906,
+    "width": 60.502,
+    "height": 20.32,
+    "z_height": 24.126,
+    "rotation": 90,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Fyn Picture Light 24 in. Oiled Brass",
+    "brand": "Ethan Allen",
+    "sku": "098043 ORB",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-picture-lights/fyn-picture-light/fynpiclt.html",
+    "depth": 24.126
+  },
+  "doc": "name: Fyn Picture Light 24 in. Oiled Brass | brand: Ethan Allen | sku: 098043 ORB | refid: 771ec3ee134787a48df3ad9495e5916b873f6c03 | dimensions: 60.502 x 24.126 x 20.32 | url: https://www.ethanallen.com/en_US/shop-lighting-picture-lights/fyn-picture-light/fynpiclt.html | position: x=681.436767578125, y=1022.830322265625, z=204.39112854003906, rot=90"
+}

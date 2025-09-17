@@ -1,0 +1,21 @@
+{
+  "id": "039427c8dc04a5b061a6438602fd79d06dc9c3e1302266ebb48c71f573591d0e",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "xxxx6797dc5cxe21dx4637xa435x4bf9993e0a95",
+    "x": 450.85480335646184,
+    "y": 183.35930099225047,
+    "z": 0,
+    "width": 204.408,
+    "height": 106.47,
+    "z_height": 88.584,
+    "rotation": 88.40951826313898,
+    "name": "Spencer Track Arm Medium Sofa 26\" Seat (Leather) CST",
+    "brand": "Ethan Allen",
+    "sku": "722393c",
+    "depth": 106.472,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Spencer Track Arm Medium Sofa 26\" Seat (Leather) CST | brand: Ethan Allen | sku: 722393c | type: sofa | refid: xxxx6797dc5cxe21dx4637xa435x4bf9993e0a95 | dimensions: 204.408 x 106.472 x 106.47 | position: x=450.85480335646184, y=183.35930099225047, z=0, rot=88.40951826313898"
+}

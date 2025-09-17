@@ -1,0 +1,21 @@
+{
+  "id": "bfb5c531449d1a10483d58133ca22a362f88fef2ac6ccf9992c179af0ebb7027",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "aaaff142849df2ba1c4abaef87ae41605ca06c2e",
+    "x": 921.4563598632812,
+    "y": 844.1300659179688,
+    "z": 216.00001525878906,
+    "width": 53.172,
+    "height": 48.512,
+    "z_height": 32.264,
+    "rotation": 13.707327842712402,
+    "name": "Tropical Leaf Watergarden",
+    "brand": "Ethan Allen",
+    "sku": "446366",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/tropical-leaf-watergarden/446366.html#lang=en_US&q=tropical%20leaf&start=1",
+    "depth": 48.512
+  },
+  "doc": "name: Tropical Leaf Watergarden | brand: Ethan Allen | sku: 446366 | refid: aaaff142849df2ba1c4abaef87ae41605ca06c2e | dimensions: 53.172 x 48.512 x 48.512 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/tropical-leaf-watergarden/446366.html#lang=en_US&q=tropical%20leaf&start=1 | position: x=921.4563598632812, y=844.1300659179688, z=216.00001525878906, rot=13.707327842712402"
+}

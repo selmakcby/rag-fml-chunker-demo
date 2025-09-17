@@ -1,0 +1,22 @@
+{
+  "id": "b6d3825d70914251fe098dbdc39faeb59f814cbc257a3ca3fcbdbccb091907ed",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "c94afc68967ff57bc9f7dfbf541863114bdc2bc5",
+    "x": 272.4066631137018,
+    "y": 32.93645020288061,
+    "z": 0,
+    "width": 172.734,
+    "height": 51.034,
+    "z_height": 91.455,
+    "rotation": 359.9465706993621,
+    "name": "Powell Double Dresser",
+    "brand": "Ethan Allen",
+    "sku": "395403",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/powell-double-dresser/395403+++322.html#lang=en_US&q=powell&start=1",
+    "depth": 51.034,
+    "type_guess": "dresser"
+  },
+  "doc": "name: Powell Double Dresser | brand: Ethan Allen | sku: 395403 | type: dresser | refid: c94afc68967ff57bc9f7dfbf541863114bdc2bc5 | dimensions: 172.734 x 51.034 x 51.034 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/powell-double-dresser/395403+++322.html#lang=en_US&q=powell&start=1 | position: x=272.4066631137018, y=32.93645020288061, z=0, rot=359.9465706993621"
+}

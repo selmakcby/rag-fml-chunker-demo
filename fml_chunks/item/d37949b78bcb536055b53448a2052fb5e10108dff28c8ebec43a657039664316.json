@@ -1,0 +1,22 @@
+{
+  "id": "d37949b78bcb536055b53448a2052fb5e10108dff28c8ebec43a657039664316",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "7abd74b8300c96386861ddd3f62dbca5b4b093a8",
+    "x": 827.6107450272084,
+    "y": 300.70249524622284,
+    "z": 0,
+    "width": 182.17,
+    "height": 45.112,
+    "z_height": 76.258,
+    "rotation": 90,
+    "name": "Altan Wood Cabinet",
+    "brand": "Ethan Allen",
+    "sku": "229809 478",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-media-cabinets/altan-media-cabinet/229809+++478.html",
+    "depth": 45.112,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Altan Wood Cabinet | brand: Ethan Allen | sku: 229809 478 | type: cabinet | refid: 7abd74b8300c96386861ddd3f62dbca5b4b093a8 | dimensions: 182.17 x 45.112 x 45.112 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-media-cabinets/altan-media-cabinet/229809+++478.html | position: x=827.6107450272084, y=300.70249524622284, z=0, rot=90"
+}

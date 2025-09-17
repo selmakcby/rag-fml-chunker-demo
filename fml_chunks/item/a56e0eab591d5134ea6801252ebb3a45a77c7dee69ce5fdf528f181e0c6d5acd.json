@@ -1,0 +1,26 @@
+{
+  "id": "a56e0eab591d5134ea6801252ebb3a45a77c7dee69ce5fdf528f181e0c6d5acd",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "17d6a840e04e7b64910e8f7479654e78ab82ab61",
+    "x": -3.9489762479998376,
+    "y": -188.0450820167067,
+    "z": 0,
+    "width": 222.29,
+    "height": 221.756,
+    "z_height": 147.456,
+    "rotation": 358.9429016113281,
+    "materials": {
+      "FINISH_956": 261,
+      "FABRIC_23654": "30799"
+    },
+    "name": "Allesandra King Bed",
+    "brand": "Ethan Allen",
+    "sku": "207216",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-upholstered/allesandra-bed/Allesandra.html",
+    "depth": 221.756,
+    "type_guess": "bed"
+  },
+  "doc": "name: Allesandra King Bed | brand: Ethan Allen | sku: 207216 | type: bed | refid: 17d6a840e04e7b64910e8f7479654e78ab82ab61 | dimensions: 222.29 x 221.756 x 221.756 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-upholstered/allesandra-bed/Allesandra.html | position: x=-3.9489762479998376, y=-188.0450820167067, z=0, rot=358.9429016113281"
+}

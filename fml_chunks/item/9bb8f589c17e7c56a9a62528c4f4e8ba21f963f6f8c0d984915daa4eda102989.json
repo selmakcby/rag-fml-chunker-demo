@@ -1,0 +1,25 @@
+{
+  "id": "9bb8f589c17e7c56a9a62528c4f4e8ba21f963f6f8c0d984915daa4eda102989",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "529af8a540b433248244b4cf134e682ad0bf7d44",
+    "x": 508.8243408203125,
+    "y": 68.4955062866211,
+    "z": 31.163192749023438,
+    "width": 88.918,
+    "height": 16.58,
+    "z_height": 233.843,
+    "rotation": 86.35407257080078,
+    "materials": {
+      "FINISH_GRB_GrayBrown": 17774,
+      "FABRIC_DP_SatinDupioni_CHS": 17672
+    },
+    "name": "Drapery Panel, Open, Pinch Pleat with Ball Finial",
+    "brand": "Ethan Allen",
+    "sku": "DP1020_openPP, halfRod_Ball",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-drapery-drapery",
+    "depth": 16.58
+  },
+  "doc": "name: Drapery Panel, Open, Pinch Pleat with Ball Finial | brand: Ethan Allen | sku: DP1020_openPP, halfRod_Ball | refid: 529af8a540b433248244b4cf134e682ad0bf7d44 | dimensions: 88.918 x 16.58 x 16.58 | url: https://www.ethanallen.com/en_US/shop-decor-drapery-drapery | position: x=508.8243408203125, y=68.4955062866211, z=31.163192749023438, rot=86.35407257080078"
+}

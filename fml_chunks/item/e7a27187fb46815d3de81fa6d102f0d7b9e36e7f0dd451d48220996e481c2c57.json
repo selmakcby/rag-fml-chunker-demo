@@ -1,0 +1,26 @@
+{
+  "id": "e7a27187fb46815d3de81fa6d102f0d7b9e36e7f0dd451d48220996e481c2c57",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "3cc747d444f906bf199deae0cca87713dd27dc57",
+    "x": 582.7753273552942,
+    "y": 391.3969538824486,
+    "z": 0,
+    "width": 167.454,
+    "height": 101.534,
+    "z_height": 92.457,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23633": 28245
+    },
+    "name": "Spencer TA LAF 2 Cushion, 24 in.",
+    "brand": "Ethan Allen",
+    "sku": "202387",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 101.534,
+    "type_guess": "textile"
+  },
+  "doc": "name: Spencer TA LAF 2 Cushion, 24 in. | brand: Ethan Allen | sku: 202387 | type: textile | refid: 3cc747d444f906bf199deae0cca87713dd27dc57 | dimensions: 167.454 x 101.534 x 101.534 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=582.7753273552942, y=391.3969538824486, z=0, rot=270"
+}

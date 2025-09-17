@@ -1,0 +1,22 @@
+{
+  "id": "1e0c3d03b61a6eff51367866a4d6a7c5e633764f0392c502d8b73dce45347bb4",
+  "parent_id": "033a9a7a9d1a8948d194c41c47903dbdcf78b073cde2133cc9f345657c282cfc",
+  "type": "item",
+  "attrs": {
+    "refid": "27f0693e994d95f0e728ac4360c0dcbdbaf29d14",
+    "x": 867.6652450272084,
+    "y": 281.75817920247374,
+    "z": 110.83026885986328,
+    "width": 109.882,
+    "height": 4.997,
+    "z_height": 109.882,
+    "rotation": 90,
+    "name": "Sunburst Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074369",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/43%22-sunburst-mirror/074369.html",
+    "depth": 109.882,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Sunburst Mirror | brand: Ethan Allen | sku: 074369 | type: mirror | refid: 27f0693e994d95f0e728ac4360c0dcbdbaf29d14 | dimensions: 109.882 x 109.882 x 4.997 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/43%22-sunburst-mirror/074369.html | position: x=867.6652450272084, y=281.75817920247374, z=110.83026885986328, rot=90"
+}

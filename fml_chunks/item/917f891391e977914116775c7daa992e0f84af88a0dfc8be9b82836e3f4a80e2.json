@@ -1,0 +1,25 @@
+{
+  "id": "917f891391e977914116775c7daa992e0f84af88a0dfc8be9b82836e3f4a80e2",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "43e1b51b7ed143cef82ccda6d61d350caf6a1e43",
+    "x": 567.7442626953125,
+    "y": 137.98983764648438,
+    "z": 52,
+    "width": 51.612,
+    "height": 29.232,
+    "z_height": 46.107,
+    "rotation": 319.5216979980469,
+    "materials": {
+      "FABRIC_G2354": 805
+    },
+    "name": "Patryk Pillow",
+    "brand": "Ethan Allen",
+    "sku": "G08052",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 29.232,
+    "type_guess": "textile"
+  },
+  "doc": "name: Patryk Pillow | brand: Ethan Allen | sku: G08052 | type: textile | refid: 43e1b51b7ed143cef82ccda6d61d350caf6a1e43 | dimensions: 51.612 x 29.232 x 29.232 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=567.7442626953125, y=137.98983764648438, z=52, rot=319.5216979980469"
+}

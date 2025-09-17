@@ -1,0 +1,21 @@
+{
+  "id": "31ce51cab2a9c59528c06b0eb127317baf251ef27fbc9c47cd6756d3dde8a3ed",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "b4a3c488df3917532a85e46ae160d5cc193a7751",
+    "x": 234.695519359812,
+    "y": 170.27877271616086,
+    "z": 47,
+    "width": 56.052,
+    "height": 52.708,
+    "z_height": 68.554,
+    "rotation": 90,
+    "name": "Triple Phalaenopsis In Glass Bowl",
+    "brand": "Ethan Allen",
+    "sku": "444547",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees-orchids/triple-phalaenopsis-in-glass/444547.html",
+    "depth": 52.708
+  },
+  "doc": "name: Triple Phalaenopsis In Glass Bowl | brand: Ethan Allen | sku: 444547 | refid: b4a3c488df3917532a85e46ae160d5cc193a7751 | dimensions: 56.052 x 52.708 x 52.708 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees-orchids/triple-phalaenopsis-in-glass/444547.html | position: x=234.695519359812, y=170.27877271616086, z=47, rot=90"
+}

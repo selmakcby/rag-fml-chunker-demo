@@ -1,0 +1,21 @@
+{
+  "id": "466adefe0044568e96aad37c692e071b411b5943db8ceffc0db304f549f0e0dd",
+  "parent_id": "916e2c26d538fb76ec8e42ff607a6000508f3f2bfd1dcecd1014663fc2d1dc36",
+  "type": "item",
+  "attrs": {
+    "refid": "cc9957873d94cee3ed7c7047cbffae27ae3a2025",
+    "x": 86.2428311923943,
+    "y": 12.849999999999994,
+    "z": 1.1149999999999807,
+    "width": 139.68983978767145,
+    "height": 10.7,
+    "z_height": 228.599999652528,
+    "rotation": 180,
+    "name": "Curtains Ready Made at Curtain Up, Raffia Eyelet Ready Made Curtains (Azure)",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 340.67,
+    "type_guess": "window"
+  },
+  "doc": "name: Curtains Ready Made at Curtain Up, Raffia Eyelet Ready Made Curtains (Azure) | brand: Floorplanner | type: window | refid: cc9957873d94cee3ed7c7047cbffae27ae3a2025 | dimensions: 139.68983978767145 x 340.67 x 10.7 | url: https://floorplanner.com | position: x=86.2428311923943, y=12.849999999999994, z=1.1149999999999807, rot=180"
+}

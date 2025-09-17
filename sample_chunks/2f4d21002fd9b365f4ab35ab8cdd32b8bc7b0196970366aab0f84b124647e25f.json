@@ -1,0 +1,20 @@
+{
+  "chunk_id": "2f4d21002fd9b365f4ab35ab8cdd32b8bc7b0196970366aab0f84b124647e25f",
+  "level": "design",
+  "design_id": "2f4d21002fd9b365f4ab35ab8cdd32b8bc7b0196970366aab0f84b124647e25f",
+  "floor_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "First design",
+  "item_counts": [],
+  "summary_text": "Design 'First design' with 1 areas and 16 items.",
+  "refs": {
+    "parent_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d"
+  },
+  "raw": {
+    "name": "First design",
+    "counts": {
+      "areas": 1,
+      "items": 16
+    }
+  }
+}

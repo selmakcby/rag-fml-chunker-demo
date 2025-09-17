@@ -1,0 +1,21 @@
+{
+  "id": "d2bb1c17689db1135de5c00730712e0a14164a039ab7a7e011539e86eb062e73",
+  "parent_id": "4cb159be0e10a16bde5e42b173eba5ce4f04717784821a735d61b075dd353e1d",
+  "type": "item",
+  "attrs": {
+    "refid": "37077c44b9937f1248df9a5b1a0c31157122f8c1",
+    "x": 314.17588481042435,
+    "y": 429.448560136697,
+    "z": 0,
+    "width": 304.799999536704,
+    "height": 81.741,
+    "z_height": 83.962,
+    "rotation": 180,
+    "name": "Azure Sofa - Sofa",
+    "brand": "Floorplanner",
+    "url": "https://roomstyler.com",
+    "depth": 81.741,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Azure Sofa - Sofa | brand: Floorplanner | type: sofa | refid: 37077c44b9937f1248df9a5b1a0c31157122f8c1 | dimensions: 304.799999536704 x 81.741 x 81.741 | url: https://roomstyler.com | position: x=314.17588481042435, y=429.448560136697, z=0, rot=180"
+}

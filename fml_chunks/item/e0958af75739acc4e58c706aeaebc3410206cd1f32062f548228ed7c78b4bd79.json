@@ -1,0 +1,22 @@
+{
+  "id": "e0958af75739acc4e58c706aeaebc3410206cd1f32062f548228ed7c78b4bd79",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "3e976010152a2dc8f9ad4d038e06877d06a81c43",
+    "x": 876.8185228610334,
+    "y": 1378.066332397413,
+    "z": 95.25,
+    "width": 54.612,
+    "height": 55.38,
+    "z_height": 70.5,
+    "rotation": 180,
+    "name": "Orange Orchids in Glass, 28''",
+    "brand": "Ethan Allen",
+    "sku": "446376C",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/orange-orchids-in-glass-vase/446376C.html",
+    "depth": 55.38,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Orange Orchids in Glass, 28'' | brand: Ethan Allen | sku: 446376C | type: decor-jar | refid: 3e976010152a2dc8f9ad4d038e06877d06a81c43 | dimensions: 54.612 x 55.38 x 55.38 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/orange-orchids-in-glass-vase/446376C.html | position: x=876.8185228610334, y=1378.066332397413, z=95.25, rot=180"
+}

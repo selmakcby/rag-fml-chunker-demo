@@ -1,0 +1,25 @@
+{
+  "id": "aab97b44d8bb6d446d26ab165c68fbf05baed73b46d34208a022acc077bde50b",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "51c263169ecc5f41e6d94c60e0f61a61817d9a11",
+    "x": 781.6890567528334,
+    "y": 842.4415382565068,
+    "z": 0,
+    "width": 108.589,
+    "height": 45.716,
+    "z_height": 215.893,
+    "rotation": 0,
+    "materials": {
+      "FINISH_364": 52
+    },
+    "name": "Zeta Arched Door Display",
+    "brand": "Ethan Allen",
+    "sku": "236518",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-dining-room-storage-display-china-cabinets/zeta-display-cabinet/236518.html?_gl=1*bquyqk*_up*MQ..*_ga*MTMzMjM1NzY1Ny4xNzQzNTEzOTcw*_ga_MK51XJZ56D*MTc0MzUxMzk3MC4xLjEuMTc0MzUxNDIzNy4wLjAuMA..#_gl=1*1rjdm8s*_up*MQ..*_ga*MTMzMjM1NzY1Ny4xNzQzNTEzOTcw*_ga_MK51XJZ56D*MTc0MzUxMzk3MC4xLjEuMTc0MzUxNDIxNi4wLjAuMA..&start=1",
+    "depth": 45.716,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Zeta Arched Door Display | brand: Ethan Allen | sku: 236518 | type: cabinet | refid: 51c263169ecc5f41e6d94c60e0f61a61817d9a11 | dimensions: 108.589 x 45.716 x 45.716 | url: https://www.ethanallen.com/en_US/shop-furniture-dining-room-storage-display-china-cabinets/zeta-display-cabinet/236518.html?_gl=1*bquyqk*_up*MQ..*_ga*MTMzMjM1NzY1Ny4xNzQzNTEzOTcw*_ga_MK51XJZ56D*MTc0MzUxMzk3MC4xLjEuMTc0MzUxNDIzNy4wLjAuMA..#_gl=1*1rjdm8s*_up*MQ..*_ga*MTMzMjM1NzY1Ny4xNzQzNTEzOTcw*_ga_MK51XJZ56D*MTc0MzUxMzk3MC4xLjEuMTc0MzUxNDIxNi4wLjAuMA..&start=1 | position: x=781.6890567528334, y=842.4415382565068, z=0, rot=0"
+}

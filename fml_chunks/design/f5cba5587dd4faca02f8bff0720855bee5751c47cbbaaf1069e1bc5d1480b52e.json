@@ -1,0 +1,89 @@
+{
+  "id": "f5cba5587dd4faca02f8bff0720855bee5751c47cbbaaf1069e1bc5d1480b52e",
+  "parent_id": "64254bbe0422e9447be7dd940e0b981b1296a3c92034c0fa4445b4aebda97347",
+  "type": "design",
+  "rooms": [
+    "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2"
+  ],
+  "attrs": {
+    "name": "First design",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [],
+    "annotations": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 465.75999999999993,
+        "y": 343.84000000000003,
+        "z": 2426.728717113587,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 241.804,
+        "y": 107.5,
+        "z": 165.1,
+        "dx": 0.6878335801027492,
+        "dy": 0.725868422018092,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270089096,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: First design | rooms: 1"
+}

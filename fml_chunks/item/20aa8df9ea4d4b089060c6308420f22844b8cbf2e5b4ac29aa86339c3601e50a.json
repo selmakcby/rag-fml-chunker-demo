@@ -1,0 +1,24 @@
+{
+  "id": "20aa8df9ea4d4b089060c6308420f22844b8cbf2e5b4ac29aa86339c3601e50a",
+  "parent_id": "1faa67858d2523fba145b9609674b26b0060f0fea5d97e0151d40bec41953af9",
+  "type": "item",
+  "attrs": {
+    "refid": "22d236d406c76377bbb46fa099cabc7cc6a07665",
+    "x": 273.62488310920276,
+    "y": 165.6995972650929,
+    "z": 0,
+    "width": 50.8,
+    "height": 50.8,
+    "z_height": 50.811,
+    "rotation": 90,
+    "materials": {
+      "FABRIC_P8430": 30387
+    },
+    "name": "Atlantic Highland Outdoor Cube Ottoman",
+    "brand": "Ethan Allen",
+    "sku": "402601",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-lounging/atlantic-highland-outdoor-cube-ottoman/402601.html#lang=en_US&q=redding+ridge&start=1",
+    "depth": 50.8
+  },
+  "doc": "name: Atlantic Highland Outdoor Cube Ottoman | brand: Ethan Allen | sku: 402601 | refid: 22d236d406c76377bbb46fa099cabc7cc6a07665 | dimensions: 50.8 x 50.8 x 50.8 | url: https://www.ethanallen.com/en_US/shop-outdoor-lounging/atlantic-highland-outdoor-cube-ottoman/402601.html#lang=en_US&q=redding+ridge&start=1 | position: x=273.62488310920276, y=165.6995972650929, z=0, rot=90"
+}

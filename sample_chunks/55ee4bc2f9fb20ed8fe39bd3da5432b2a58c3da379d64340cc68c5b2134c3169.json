@@ -1,0 +1,37 @@
+{
+  "chunk_id": "55ee4bc2f9fb20ed8fe39bd3da5432b2a58c3da379d64340cc68c5b2134c3169",
+  "level": "item",
+  "parent_id": "e78999570783ebf925e4df7d3121c8622d6b28b5334c5b45c3416d012332cb14",
+  "room_id": "40e2f5339a540d89f96975f7bdcb9fbf874b5848a80f7dde9559567a69a70913",
+  "type": "item",
+  "name": "fd3a0b52f9b52d3902099544ef5dda04740d2b7e",
+  "refid": "fd3a0b52f9b52d3902099544ef5dda04740d2b7e",
+  "position": {
+    "x": 221.73802281284665,
+    "y": 233.27555672371162,
+    "z": 0
+  },
+  "size": {
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 0.505
+  },
+  "rotation": 180,
+  "summary_text": "Item 'fd3a0b52f9b52d3902099544ef5dda04740d2b7e' (item) at (221.73802281284665, 233.27555672371162).",
+  "refs": {
+    "parent_id": "e78999570783ebf925e4df7d3121c8622d6b28b5334c5b45c3416d012332cb14"
+  },
+  "raw": {
+    "refid": "fd3a0b52f9b52d3902099544ef5dda04740d2b7e",
+    "x": 221.73802281284665,
+    "y": 233.27555672371162,
+    "z": 0,
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 0.505,
+    "rotation": 180,
+    "materials": {
+      "FABRIC_RUG_Ridgevale_Ink": 12260
+    }
+  }
+}

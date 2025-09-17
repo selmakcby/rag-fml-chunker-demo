@@ -1,0 +1,26 @@
+{
+  "id": "4a6a959388723a07a5fa380ab16d93d6b61efed23205af5388dc3877f8c9ebd2",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "997cff30d7278e734d17f9b5fe8033782dbcaa76",
+    "x": 411.13350702846304,
+    "y": 384.32295189691473,
+    "z": 0,
+    "width": 76,
+    "height": 101.58983984558344,
+    "z_height": 90,
+    "rotation": 270,
+    "materials": {
+      "FINISH_K_WHITE_MATTE": 2857,
+      "FINISH_K_LUNA_PEARL": "2863",
+      "FINISH_FP_STEEL": "1725"
+    },
+    "name": "Shaker Kitchen Base Cabinet Double",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 61.225,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Shaker Kitchen Base Cabinet Double | brand: Floorplanner | type: cabinet | refid: 997cff30d7278e734d17f9b5fe8033782dbcaa76 | dimensions: 76 x 61.225 x 101.58983984558344 | url: https://floorplanner.com | position: x=411.13350702846304, y=384.32295189691473, z=0, rot=270"
+}

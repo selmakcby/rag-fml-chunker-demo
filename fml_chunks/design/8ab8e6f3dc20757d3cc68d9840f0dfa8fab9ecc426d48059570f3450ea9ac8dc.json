@@ -1,0 +1,155 @@
+{
+  "id": "8ab8e6f3dc20757d3cc68d9840f0dfa8fab9ecc426d48059570f3450ea9ac8dc",
+  "parent_id": "3ca75b1ee62a14b176fb50d0a661b12c340a92762de1126fb809efa5095b1329",
+  "type": "design",
+  "rooms": [
+    "5e16a3ba0f41e813996a37cfb54d3dbf694402bee8e1214dbbc1fe66c748a79d"
+  ],
+  "attrs": {
+    "name": "First design",
+    "lines": [],
+    "dimensions": [
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 28.988718228160565,
+          "y": 633.5827934806205
+        },
+        "b": {
+          "x": 28.988718228160565,
+          "y": 420.40866398052725
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 599.833923556371,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 243.697613104325,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 7.500000000000007,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 145.90942122080764,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 145.90942122080764,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 139.53202564311846,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 139.53202564311846,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 121.52195676826766,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 121.52195676826766,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 145.90942122080764,
+          "y": 575.5943080974198
+        }
+      }
+    ],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 465.75999999999993,
+        "y": 343.84000000000003,
+        "z": 2426.728717113587,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 241.804,
+        "y": 107.5,
+        "z": 165.1,
+        "dx": 0.6878335801027492,
+        "dy": 0.725868422018092,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270086447,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: First design | rooms: 1"
+}

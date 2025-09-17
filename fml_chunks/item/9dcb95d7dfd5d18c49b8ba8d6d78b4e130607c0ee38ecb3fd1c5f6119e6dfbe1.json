@@ -1,0 +1,22 @@
+{
+  "id": "9dcb95d7dfd5d18c49b8ba8d6d78b4e130607c0ee38ecb3fd1c5f6119e6dfbe1",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "fc8235093c5c5c609fee9af24ae241ac9794de7a",
+    "x": 880.6646409730272,
+    "y": 994.967026115654,
+    "z": 0,
+    "width": 35.56,
+    "height": 35.56,
+    "z_height": 55.88,
+    "rotation": 180,
+    "name": "Matte Geo Accent Table",
+    "brand": "Ethan Allen",
+    "sku": "420509",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/matte-geo-accent-table/420509.html",
+    "depth": 35.56,
+    "type_guess": "table"
+  },
+  "doc": "name: Matte Geo Accent Table | brand: Ethan Allen | sku: 420509 | type: table | refid: fc8235093c5c5c609fee9af24ae241ac9794de7a | dimensions: 35.56 x 35.56 x 35.56 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/matte-geo-accent-table/420509.html | position: x=880.6646409730272, y=994.967026115654, z=0, rot=180"
+}

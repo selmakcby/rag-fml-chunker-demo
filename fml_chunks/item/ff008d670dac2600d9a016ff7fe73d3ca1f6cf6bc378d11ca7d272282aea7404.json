@@ -1,0 +1,21 @@
+{
+  "id": "ff008d670dac2600d9a016ff7fe73d3ca1f6cf6bc378d11ca7d272282aea7404",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "3b446affc0337b1f9d5326c04afa79f30e8eff34",
+    "x": 285.48321533203125,
+    "y": 308.5675354003906,
+    "z": 75.8840560913086,
+    "width": 97.154,
+    "height": 5.092,
+    "z_height": 119.38,
+    "rotation": 90,
+    "name": "Cinnamon Bloom",
+    "brand": "Ethan Allen",
+    "sku": "073205",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-botanical-floral/cinnamon-bloom/073205.html",
+    "depth": 119.38
+  },
+  "doc": "name: Cinnamon Bloom | brand: Ethan Allen | sku: 073205 | refid: 3b446affc0337b1f9d5326c04afa79f30e8eff34 | dimensions: 97.154 x 119.38 x 5.092 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-botanical-floral/cinnamon-bloom/073205.html | position: x=285.48321533203125, y=308.5675354003906, z=75.8840560913086, rot=90"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "754d1f14eb0d6d3d6bde1a4125400ef05f01ef8c87dd26ced468f731103cf42f",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "c4ffef742a016ba4396765e0e920bf97ee98f0fb",
+    "x": 847.7091064453125,
+    "y": 829.1143188476562,
+    "z": 225.00210571289062,
+    "width": 35.496,
+    "height": 12.986,
+    "z_height": 35.565,
+    "rotation": 15.856304168701172,
+    "name": "Orchid in Glass, Plum",
+    "brand": "Ethan Allen",
+    "sku": "443744",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees-orchids/orchid-in-glass-vase/flora-orchid.html#lang=en_US&q=orchid%20in%20glass&start=1",
+    "depth": 12.986,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Orchid in Glass, Plum | brand: Ethan Allen | sku: 443744 | type: decor-jar | refid: c4ffef742a016ba4396765e0e920bf97ee98f0fb | dimensions: 35.496 x 12.986 x 12.986 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees-orchids/orchid-in-glass-vase/flora-orchid.html#lang=en_US&q=orchid%20in%20glass&start=1 | position: x=847.7091064453125, y=829.1143188476562, z=225.00210571289062, rot=15.856304168701172"
+}

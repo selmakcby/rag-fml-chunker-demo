@@ -1,0 +1,22 @@
+{
+  "id": "5033a88fb3cd47397927450da619029041b01289396a5d0bc984304dc95c92bd",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "c859b2b52d3f2acdde6a00b4f0767f63e0bccad5",
+    "x": 919.2181396484375,
+    "y": 770.3564453125,
+    "z": 90.43817138671875,
+    "width": 91.196,
+    "height": 5,
+    "z_height": 91.136,
+    "rotation": 0,
+    "name": "Bellaire Wall Mirror, Brass",
+    "brand": "Ethan Allen",
+    "sku": "074438   BRS",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/bellaire-wall-mirror/074438+++BRS.html",
+    "depth": 91.136,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Bellaire Wall Mirror, Brass | brand: Ethan Allen | sku: 074438   BRS | type: mirror | refid: c859b2b52d3f2acdde6a00b4f0767f63e0bccad5 | dimensions: 91.196 x 91.136 x 5 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/bellaire-wall-mirror/074438+++BRS.html | position: x=919.2181396484375, y=770.3564453125, z=90.43817138671875, rot=0"
+}

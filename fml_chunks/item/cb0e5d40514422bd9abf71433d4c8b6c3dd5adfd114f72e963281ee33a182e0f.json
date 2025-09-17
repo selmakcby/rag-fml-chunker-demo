@@ -1,0 +1,22 @@
+{
+  "id": "cb0e5d40514422bd9abf71433d4c8b6c3dd5adfd114f72e963281ee33a182e0f",
+  "parent_id": "033a9a7a9d1a8948d194c41c47903dbdcf78b073cde2133cc9f345657c282cfc",
+  "type": "item",
+  "attrs": {
+    "refid": "3ffd229cdd9453e81bd98a38acff7dcf66b497c1",
+    "x": 917.0160788939525,
+    "y": 290.1191769531456,
+    "z": 141.242999739396,
+    "width": 60.414,
+    "height": 3.341,
+    "z_height": 60.414,
+    "rotation": 90,
+    "name": "24'' Gold Sunburst Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074078A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/24%22-gold-starburst-mirror/074078A.html",
+    "depth": 60.414,
+    "type_guess": "mirror"
+  },
+  "doc": "name: 24'' Gold Sunburst Mirror | brand: Ethan Allen | sku: 074078A | type: mirror | refid: 3ffd229cdd9453e81bd98a38acff7dcf66b497c1 | dimensions: 60.414 x 60.414 x 3.341 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/24%22-gold-starburst-mirror/074078A.html | position: x=917.0160788939525, y=290.1191769531456, z=141.242999739396, rot=90"
+}

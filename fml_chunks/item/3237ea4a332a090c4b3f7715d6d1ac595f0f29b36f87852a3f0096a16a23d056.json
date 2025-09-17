@@ -1,0 +1,27 @@
+{
+  "id": "3237ea4a332a090c4b3f7715d6d1ac595f0f29b36f87852a3f0096a16a23d056",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "77df4cdd2eb5c374245d5e49d4f08fcd8bcba7c9",
+    "x": 512.368327355294,
+    "y": 396.98232838741393,
+    "z": 71.12,
+    "width": 42.16,
+    "height": 42.16,
+    "z_height": 76.103,
+    "rotation": 270,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Lia Table Lamp, Indigo",
+    "brand": "Ethan Allen",
+    "sku": "097206",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/lia-table-lamp/097206.html",
+    "depth": 42.16,
+    "type_guess": "table"
+  },
+  "doc": "name: Lia Table Lamp, Indigo | brand: Ethan Allen | sku: 097206 | type: table | refid: 77df4cdd2eb5c374245d5e49d4f08fcd8bcba7c9 | dimensions: 42.16 x 42.16 x 42.16 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/lia-table-lamp/097206.html | position: x=512.368327355294, y=396.98232838741393, z=71.12, rot=270"
+}

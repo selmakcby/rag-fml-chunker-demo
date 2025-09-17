@@ -1,0 +1,115 @@
+{
+  "chunk_id": "b1030f61546fab1cf0cdbef8260e779f32da95575179dd2e8798a032f15003c9",
+  "level": "room",
+  "room_id": "b1030f61546fab1cf0cdbef8260e779f32da95575179dd2e8798a032f15003c9",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Room 9003",
+  "room_type": "unknown",
+  "area_m2": 0.8887999999999998,
+  "num_walls": 4,
+  "num_doors": 1,
+  "num_windows": 0,
+  "item_counts": [
+    {
+      "class": "unknown",
+      "count": 1
+    }
+  ],
+  "summary_text": "Room 9003 spans 0.9 m\u00b2 with four walls and one door on the southern wall; there are no windows. A slim, tall cabinet stands in the northwest corner, its footprint aligned along the west wall. The space shows minimal decor and no lighting fixtures, conveying a quiet, utilitarian feel.",
+  "refs": {
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+  },
+  "raw": {
+    "id": "b1030f61546fab1cf0cdbef8260e779f32da95575179dd2e8798a032f15003c9",
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "type": "room",
+    "attrs": {
+      "id": 9003,
+      "name": "Room 9003",
+      "walls": [
+        {
+          "id": 18,
+          "a_x": -3.88,
+          "a_y": 5.27,
+          "a_z": 0.0,
+          "b_x": -4.76,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 15,
+          "a_x": -3.88,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -3.88,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 14,
+          "a_x": -3.88,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -4.76,
+          "b_y": 4.26,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.1,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 14,
+              "wall1_id": -1,
+              "position_x": -4.31,
+              "position_y": 4.26,
+              "position_z": 0.0,
+              "width": 0.74,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 17,
+          "a_x": -4.76,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -4.76,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        }
+      ],
+      "items": [
+        {
+          "id": 3001,
+          "refid": "d7ab51af239b365d146fc553319312f4f2d952df",
+          "class_name": "unknown",
+          "position_x": -4.63,
+          "position_y": 4.76,
+          "position_z": 0.0,
+          "scale_x": 0.63,
+          "scale_y": 0.11,
+          "scale_z": 2.0,
+          "angle_z": 1.5707963267948966
+        }
+      ],
+      "area": 0.8887999999999998,
+      "summary": "Room 9003 spans 0.9 m\u00b2 with four walls and one door on the southern wall; there are no windows. A slim, tall cabinet stands in the northwest corner, its footprint aligned along the west wall. The space shows minimal decor and no lighting fixtures, conveying a quiet, utilitarian feel."
+    }
+  }
+}

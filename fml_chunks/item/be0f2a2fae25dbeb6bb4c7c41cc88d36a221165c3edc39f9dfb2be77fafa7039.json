@@ -1,0 +1,24 @@
+{
+  "id": "be0f2a2fae25dbeb6bb4c7c41cc88d36a221165c3edc39f9dfb2be77fafa7039",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "8d3cafa4f9473c25e392fb3a95a5e979b1f8b5a6",
+    "x": 426.2529296875,
+    "y": 195.02508544921875,
+    "z": 234.6253204345703,
+    "width": 109.22,
+    "height": 14.008,
+    "z_height": 3.81,
+    "rotation": 180,
+    "materials": {
+      "FINISH_GRB_GrayBrown": 17774
+    },
+    "name": "Drapery Rod",
+    "brand": "Ethan Allen",
+    "sku": "DP_Rod",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-drapery-drapery-hardware/ball-painted-lacquer-finial-and-drapery-hardware-set/QMSPL_BA_SET.html#start=1",
+    "depth": 3.81
+  },
+  "doc": "name: Drapery Rod | brand: Ethan Allen | sku: DP_Rod | refid: 8d3cafa4f9473c25e392fb3a95a5e979b1f8b5a6 | dimensions: 109.22 x 3.81 x 14.008 | url: https://www.ethanallen.com/en_US/shop-decor-drapery-drapery-hardware/ball-painted-lacquer-finial-and-drapery-hardware-set/QMSPL_BA_SET.html#start=1 | position: x=426.2529296875, y=195.02508544921875, z=234.6253204345703, rot=180"
+}

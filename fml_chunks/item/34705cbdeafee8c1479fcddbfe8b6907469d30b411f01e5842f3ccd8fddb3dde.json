@@ -1,0 +1,25 @@
+{
+  "id": "34705cbdeafee8c1479fcddbfe8b6907469d30b411f01e5842f3ccd8fddb3dde",
+  "parent_id": "252876b725a6c156e9718ed984183b89031a4e81e1e683c18e309039b1c2eb76",
+  "type": "item",
+  "attrs": {
+    "refid": "6817800fbd9d5359a97df312034dd6e8bf362589",
+    "x": 420.59335389799315,
+    "y": 408.05876427929275,
+    "z": 0,
+    "width": 150.045,
+    "height": 95.182,
+    "z_height": 41.945,
+    "rotation": 270,
+    "materials": {
+      "FINISH_305": 32
+    },
+    "name": "Dynasty Rectangular Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "138000",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/dynasty-rectangular-coffee-table/138000.html?dwvar_138000_finish=Aged%20Ember?site=#q=138000&lang=en_US&site=&start=1",
+    "depth": 95.182,
+    "type_guess": "table"
+  },
+  "doc": "name: Dynasty Rectangular Coffee Table | brand: Ethan Allen | sku: 138000 | type: table | refid: 6817800fbd9d5359a97df312034dd6e8bf362589 | dimensions: 150.045 x 95.182 x 95.182 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/dynasty-rectangular-coffee-table/138000.html?dwvar_138000_finish=Aged%20Ember?site=#q=138000&lang=en_US&site=&start=1 | position: x=420.59335389799315, y=408.05876427929275, z=0, rot=270"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8b552cc7b47561e9d006fb3b3601e2fb48cbbc05d42f3ce6bfc11786c831dfff",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "629831bc61552a18f6eef1ea3b04e5c4629c29f1",
+    "x": 604.0507347711767,
+    "y": 502.0080320174618,
+    "z": 0,
+    "width": 45.778,
+    "height": 45.786,
+    "z_height": 58.42,
+    "rotation": 0,
+    "name": "Bayliss Round Pull Up Table",
+    "brand": "Ethan Allen",
+    "sku": "138233",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/bayliss-pullup-table/138233+++11B.html",
+    "depth": 45.786,
+    "type_guess": "table"
+  },
+  "doc": "name: Bayliss Round Pull Up Table | brand: Ethan Allen | sku: 138233 | type: table | refid: 629831bc61552a18f6eef1ea3b04e5c4629c29f1 | dimensions: 45.778 x 45.786 x 45.786 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/bayliss-pullup-table/138233+++11B.html | position: x=604.0507347711767, y=502.0080320174618, z=0, rot=0"
+}

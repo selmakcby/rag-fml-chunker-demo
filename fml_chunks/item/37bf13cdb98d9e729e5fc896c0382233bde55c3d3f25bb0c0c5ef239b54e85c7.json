@@ -1,0 +1,27 @@
+{
+  "id": "37bf13cdb98d9e729e5fc896c0382233bde55c3d3f25bb0c0c5ef239b54e85c7",
+  "parent_id": "be28cfd239d9ccefe4a130b17dc5489eabb7f4a317971d775a52c1d2315aade1",
+  "type": "item",
+  "attrs": {
+    "refid": "10ddf3cfd25c0ec86ac74e4e3567bcd11bf03549",
+    "x": 193.11275490194294,
+    "y": 128.94200000000004,
+    "z": 0,
+    "width": 57.884,
+    "height": 57.884,
+    "z_height": 160.143,
+    "rotation": 0,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Tomas Brass Floor Lamp",
+    "brand": "Ethan Allen",
+    "sku": "092122",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/tomas-floor-lamp/092122.html",
+    "depth": 57.884,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Tomas Brass Floor Lamp | brand: Ethan Allen | sku: 092122 | type: lighting | refid: 10ddf3cfd25c0ec86ac74e4e3567bcd11bf03549 | dimensions: 57.884 x 57.884 x 57.884 | url: https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/tomas-floor-lamp/092122.html | position: x=193.11275490194294, y=128.94200000000004, z=0, rot=0"
+}

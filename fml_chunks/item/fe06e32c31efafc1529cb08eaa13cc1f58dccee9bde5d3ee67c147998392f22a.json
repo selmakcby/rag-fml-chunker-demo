@@ -1,0 +1,27 @@
+{
+  "id": "fe06e32c31efafc1529cb08eaa13cc1f58dccee9bde5d3ee67c147998392f22a",
+  "parent_id": "6693f0e341ea5e61d0717629745f38fa075c364a46cb770c53a2ebc80d5d4a2e",
+  "type": "item",
+  "attrs": {
+    "refid": "9e9d9fd43e0dba14600b9d771d099be62430eb1a",
+    "x": 193.39719048052456,
+    "y": 122.80800000000004,
+    "z": 73.66,
+    "width": 45.616,
+    "height": 45.616,
+    "z_height": 66.023,
+    "rotation": 0,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Kennington Table Lamp",
+    "brand": "Ethan Allen",
+    "sku": "096105",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/kennington-table-lamp/096105.html",
+    "depth": 45.616,
+    "type_guess": "table"
+  },
+  "doc": "name: Kennington Table Lamp | brand: Ethan Allen | sku: 096105 | type: table | refid: 9e9d9fd43e0dba14600b9d771d099be62430eb1a | dimensions: 45.616 x 45.616 x 45.616 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/kennington-table-lamp/096105.html | position: x=193.39719048052456, y=122.80800000000004, z=73.66, rot=0"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c1bdfffd789b231ff002703967d52c6fd76067d24d780ece16c6e1e2e51b97b1",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "5fb85c70d1c584586f31ec5906058f8d2af61f92",
+    "x": 1051.1852116308246,
+    "y": 569.2155255720904,
+    "z": 0,
+    "width": 99.447,
+    "height": 48.464,
+    "z_height": 202.556,
+    "rotation": 90,
+    "materials": {
+      "FINISH_612": 108
+    },
+    "name": "Continental File Bookcase",
+    "brand": "Ethan Allen",
+    "sku": "159011G",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-home-office-modular-continental/continental-file-bookcase/159011G.html?dwvar_159011G_finish=363#start=1",
+    "depth": 48.464,
+    "type_guess": "shelving"
+  },
+  "doc": "name: Continental File Bookcase | brand: Ethan Allen | sku: 159011G | type: shelving | refid: 5fb85c70d1c584586f31ec5906058f8d2af61f92 | dimensions: 99.447 x 48.464 x 48.464 | url: https://www.ethanallen.com/en_US/shop-furniture-home-office-modular-continental/continental-file-bookcase/159011G.html?dwvar_159011G_finish=363#start=1 | position: x=1051.1852116308246, y=569.2155255720904, z=0, rot=90"
+}

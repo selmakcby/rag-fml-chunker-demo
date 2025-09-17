@@ -1,0 +1,21 @@
+{
+  "id": "c26c56f74ccb42d248806457b6bc781ed5b8ba18f0fd465216bdd50b9a798c13",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "88772993c51045fce5f3c9a334722cc8c65a868c",
+    "x": 920.1787719726562,
+    "y": 840.6691284179688,
+    "z": 40.79195785522461,
+    "width": 29.824,
+    "height": 9.216,
+    "z_height": 23.15,
+    "rotation": 9.572318077087402,
+    "name": "Emperor Penguins, set of 3",
+    "brand": "Ethan Allen",
+    "sku": "431719",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-decorative-objects/emperor-penguins%2C-set-of-3/431719.html",
+    "depth": 9.216
+  },
+  "doc": "name: Emperor Penguins, set of 3 | brand: Ethan Allen | sku: 431719 | refid: 88772993c51045fce5f3c9a334722cc8c65a868c | dimensions: 29.824 x 9.216 x 9.216 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-decorative-objects/emperor-penguins%2C-set-of-3/431719.html | position: x=920.1787719726562, y=840.6691284179688, z=40.79195785522461, rot=9.572318077087402"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a6894defe8432acad359dc54ae2ee3d59a2cc98c776b8b1832cdc73c6db87163",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "f401c614970ada44d00ce79eb53eb5f5522df350",
+    "x": 410.72210217414283,
+    "y": 202.87695189691465,
+    "z": 0,
+    "width": 44.964,
+    "height": 101.67587977956923,
+    "z_height": 90,
+    "rotation": 270,
+    "materials": {
+      "FINISH_K_WHITE_MATTE": 2857,
+      "FINISH_K_LUNA_PEARL": 2863,
+      "FINISH_FP_STEEL": "1725"
+    },
+    "name": "Shaker Kitchen Base Cabinet Drawers",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 61.194,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Shaker Kitchen Base Cabinet Drawers | brand: Floorplanner | type: cabinet | refid: f401c614970ada44d00ce79eb53eb5f5522df350 | dimensions: 44.964 x 61.194 x 101.67587977956923 | url: https://floorplanner.com | position: x=410.72210217414283, y=202.87695189691465, z=0, rot=270"
+}

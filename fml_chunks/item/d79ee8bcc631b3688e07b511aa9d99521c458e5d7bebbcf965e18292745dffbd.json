@@ -1,0 +1,22 @@
+{
+  "id": "d79ee8bcc631b3688e07b511aa9d99521c458e5d7bebbcf965e18292745dffbd",
+  "parent_id": "40819539eecf51b593b5988433d553af851d4a38bf93fe738c1f3301d58fd748",
+  "type": "item",
+  "attrs": {
+    "refid": "e7336d2d7245b510809b193e3552529be5047693",
+    "x": 529.1135856835797,
+    "y": 338.08094828091805,
+    "z": 71,
+    "width": 50.839,
+    "height": 29.232,
+    "z_height": 45.75,
+    "rotation": 93.20468139648438,
+    "name": "Faux Fur Mink Pillow, Emerald",
+    "brand": "Ethan Allen",
+    "sku": "065588 EMG",
+    "url": "www.ethanallen.com",
+    "depth": 29.232,
+    "type_guess": "textile"
+  },
+  "doc": "name: Faux Fur Mink Pillow, Emerald | brand: Ethan Allen | sku: 065588 EMG | type: textile | refid: e7336d2d7245b510809b193e3552529be5047693 | dimensions: 50.839 x 29.232 x 29.232 | url: www.ethanallen.com | position: x=529.1135856835797, y=338.08094828091805, z=71, rot=93.20468139648438"
+}

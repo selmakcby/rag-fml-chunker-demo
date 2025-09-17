@@ -1,0 +1,25 @@
+{
+  "id": "c7d8cceed86601d007dcf3d39fa124d10cd7f705dba74ede659ea78abb112ffa",
+  "parent_id": "f477f93caf5905c4601fce2bcd9809f857fecc3654671c906e753995f942ee0e",
+  "type": "item",
+  "attrs": {
+    "refid": "73a1e4686362b0f4e9ca002d27ce012843120e42",
+    "x": 177.825819457493,
+    "y": 301.7451412314849,
+    "z": 0,
+    "width": 84.758,
+    "height": 62.102,
+    "z_height": 45.65,
+    "rotation": 90,
+    "materials": {
+      "FINISH_934": 263,
+      "FABRIC_23654": 937
+    },
+    "name": "Spencer Ottoman",
+    "brand": "Ethan Allen",
+    "sku": "202360",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans/spencer-ottoman/202360.html#lang=en_US&q=spencer%20ottoman&start=1",
+    "depth": 62.102
+  },
+  "doc": "name: Spencer Ottoman | brand: Ethan Allen | sku: 202360 | refid: 73a1e4686362b0f4e9ca002d27ce012843120e42 | dimensions: 84.758 x 62.102 x 62.102 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans/spencer-ottoman/202360.html#lang=en_US&q=spencer%20ottoman&start=1 | position: x=177.825819457493, y=301.7451412314849, z=0, rot=90"
+}

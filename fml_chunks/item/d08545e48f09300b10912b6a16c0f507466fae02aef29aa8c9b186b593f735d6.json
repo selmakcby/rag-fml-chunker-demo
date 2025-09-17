@@ -1,0 +1,20 @@
+{
+  "id": "d08545e48f09300b10912b6a16c0f507466fae02aef29aa8c9b186b593f735d6",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "c58a25b885017932da1b12529f135c40ee3b538a",
+    "x": 163.68453217047772,
+    "y": -42.6170461817556,
+    "z": 0,
+    "width": 54.78,
+    "height": 25.648,
+    "z_height": 33,
+    "rotation": 0,
+    "name": "Books for Wall Shelves",
+    "brand": "Floorplanner",
+    "url": "https://roomstyler.com",
+    "depth": 33.0
+  },
+  "doc": "name: Books for Wall Shelves | brand: Floorplanner | refid: c58a25b885017932da1b12529f135c40ee3b538a | dimensions: 54.78 x 33.0 x 25.648 | url: https://roomstyler.com | position: x=163.68453217047772, y=-42.6170461817556, z=0, rot=0"
+}

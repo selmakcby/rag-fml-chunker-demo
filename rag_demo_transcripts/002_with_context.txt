@@ -1,0 +1,8 @@
+
+Retrieved (top_k=5):
+  - score=0.7152  id=2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0  type=unknown  area=3.5451000000000015
+
+The compact storage room is Room 9000 with an area of approximately 3.5 m². It has four walls, one door, and no windows. A central freestanding cabinet creates a storage/display zone near the middle [2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0]. The space is functional and minimalistic, with neutral lighting [unknown].
+
+Sources:
+  • 2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0  (score=0.7152, area=3.5451000000000015, type=unknown)

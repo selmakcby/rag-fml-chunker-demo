@@ -1,0 +1,20 @@
+{
+  "id": "0eddbced7efae0a921264116c2e312a89a1201d71c283bbece5455755701827f",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "679e3878a0937739c161fec224cb3e7ab9eaf131",
+    "x": 845.1323533526239,
+    "y": 765.4328602811426,
+    "z": 274.32,
+    "width": 144.7799997799344,
+    "height": 20.004,
+    "z_height": 20.073,
+    "rotation": 180,
+    "name": "Metal Beam",
+    "brand": "BESPOKE ARCHITECTURE",
+    "url": "https://roomstyler.com",
+    "depth": 20.004
+  },
+  "doc": "name: Metal Beam | brand: BESPOKE ARCHITECTURE | refid: 679e3878a0937739c161fec224cb3e7ab9eaf131 | dimensions: 144.7799997799344 x 20.004 x 20.004 | url: https://roomstyler.com | position: x=845.1323533526239, y=765.4328602811426, z=274.32, rot=180"
+}

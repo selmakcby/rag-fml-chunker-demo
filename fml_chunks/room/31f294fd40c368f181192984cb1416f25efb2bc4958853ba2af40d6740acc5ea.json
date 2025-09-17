@@ -1,0 +1,23 @@
+{
+  "id": "31f294fd40c368f181192984cb1416f25efb2bc4958853ba2af40d6740acc5ea",
+  "parent_id": "54167b10dc5f8e986fd8618fc14672324794a43c3dbb339531e60dbd12298bdf",
+  "type": "room",
+  "items": [
+    "ee03b561fc30053a50c847127c97c46742c71ff33fea5745c85b4cc85485ea83",
+    "702b71ed39a28b53edf31d69899807625709a2ca89c25a5c61871b03bfa65c51",
+    "be8b6e630da4654ebf7505005e223278e7ae0da15c05f42910ca3b46f670a3ad",
+    "94b58946f9bb306f0c82b79b705b0386f5047ce4410f16dda8db6a1cdabdc313",
+    "f4d640a1a2ef701f30b5b14c0a37e8301d915dce2bc2c5ea1f4956282ba5ec22",
+    "3260dc1bff823b696b820136caa4b957d6860c5061c1ba1b35ef4fe61649818a",
+    "97677ac5cc8941758c62092ed8d2a198e3e513bc3d9e12ee86a16863e35b1545",
+    "ec4c6c5fb13532b5860909dec69feb0a619c18d04a98cbb6646b6f27d6374c3a"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-13928",
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Elton Side Table, Anderson 91\" Sofa Diamond Tuft, Elton Side Table, Elton Rectangular Coffee Table, Emerson Chair, Emerson Chair, Anderson 91\" Sofa Diamond Tuft, Indo Herat Rug, Rust Ivory, 9'6 x 13'6",
+  "summary": "room: 8 items (Elton Side Table, Anderson 91\" Sofa Diamond Tuft, Elton Side Table, Elton Rectangular Coffee Table, Emerson Chair, Emerson Chair)."
+}

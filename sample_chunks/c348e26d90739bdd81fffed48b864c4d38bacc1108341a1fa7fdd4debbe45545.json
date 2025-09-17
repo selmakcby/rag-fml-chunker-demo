@@ -1,0 +1,387 @@
+{
+  "chunk_id": "c348e26d90739bdd81fffed48b864c4d38bacc1108341a1fa7fdd4debbe45545",
+  "level": "room",
+  "room_id": "c348e26d90739bdd81fffed48b864c4d38bacc1108341a1fa7fdd4debbe45545",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Room 9007",
+  "room_type": "bedroom",
+  "area_m2": 17.417399999999994,
+  "num_walls": 4,
+  "num_doors": 2,
+  "num_windows": 1,
+  "item_counts": [
+    {
+      "class": "bed",
+      "count": 1
+    },
+    {
+      "class": "storage",
+      "count": 1
+    },
+    {
+      "class": "dresser",
+      "count": 1
+    },
+    {
+      "class": "bench",
+      "count": 1
+    },
+    {
+      "class": "nightstand",
+      "count": 2
+    },
+    {
+      "class": "standing lamp",
+      "count": 1
+    },
+    {
+      "class": "bed wall art",
+      "count": 4
+    },
+    {
+      "class": "dresser wall art",
+      "count": 1
+    },
+    {
+      "class": "nightstand lamp",
+      "count": 2
+    },
+    {
+      "class": "nightstand wall art",
+      "count": 2
+    },
+    {
+      "class": "rug",
+      "count": 1
+    },
+    {
+      "class": "dresser decor",
+      "count": 1
+    }
+  ],
+  "summary_text": "Room 9007 spans 17.4 m\u00b2 with four walls, two doors and one window. A sleeping zone centers the bed near the rear, flanked by nightstands and a dresser; a rug anchors the space. Nearby, a storage area, bench and standing lamp balance decor, creating a calm, functional bedroom ambiance.",
+  "refs": {
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+  },
+  "raw": {
+    "id": "c348e26d90739bdd81fffed48b864c4d38bacc1108341a1fa7fdd4debbe45545",
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "type": "room",
+    "attrs": {
+      "id": 9007,
+      "name": "Room 9007",
+      "walls": [
+        {
+          "id": 8,
+          "a_x": 8.26,
+          "a_y": 5.27,
+          "a_z": 0.0,
+          "b_x": 3.64,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 9,
+          "a_x": 8.26,
+          "a_y": 1.5,
+          "a_z": 0.0,
+          "b_x": 8.26,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [
+            {
+              "id": "218",
+              "wall0_id": 9,
+              "wall1_id": -1,
+              "position_x": 8.26,
+              "position_y": 3.35,
+              "position_z": 0.85,
+              "width": 1.18,
+              "height": 1.75,
+              "type": "window"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 10,
+          "a_x": 3.64,
+          "a_y": 1.5,
+          "a_z": 0.0,
+          "b_x": 8.26,
+          "b_y": 1.5,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [
+            {
+              "id": "3263",
+              "wall0_id": 10,
+              "wall1_id": -1,
+              "position_x": 5.01,
+              "position_y": 1.5,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 6,
+          "a_x": 3.64,
+          "a_y": 1.5,
+          "a_z": 0.0,
+          "b_x": 3.64,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "3263",
+              "wall0_id": 6,
+              "wall1_id": -1,
+              "position_x": 3.64,
+              "position_y": 4.44,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        }
+      ],
+      "items": [
+        {
+          "id": 3045,
+          "refid": "a555fadb1d25c630088b0a5a5d1e9867aefaba0b",
+          "class_name": "bed",
+          "position_x": 6.12,
+          "position_y": 4.06,
+          "position_z": 0.0,
+          "scale_x": 1.86,
+          "scale_y": 2.29,
+          "scale_z": 1.62,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3046,
+          "refid": "975be0edbd025e5063e4268a343e7a3901909c81",
+          "class_name": "storage",
+          "position_x": 4.06,
+          "position_y": 2.74,
+          "position_z": 0.0,
+          "scale_x": 1.84,
+          "scale_y": 0.7,
+          "scale_z": 2.16,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3047,
+          "refid": "daf22e426300f5b1676128b22affd6a5cb40a285",
+          "class_name": "dresser",
+          "position_x": 6.13,
+          "position_y": 1.82,
+          "position_z": 0.0,
+          "scale_x": 0.99,
+          "scale_y": 0.47,
+          "scale_z": 1.3,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3048,
+          "refid": "b1ac696d342f1da63fe108f941de8c313cc5b126",
+          "class_name": "bench",
+          "position_x": 7.43,
+          "position_y": 1.85,
+          "position_z": 0.0,
+          "scale_x": 1.51,
+          "scale_y": 0.55,
+          "scale_z": 0.77,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3049,
+          "refid": "d59fb9c8db603176795a5441bbd7c0c402a1b647",
+          "class_name": "nightstand",
+          "position_x": 7.25,
+          "position_y": 5.01,
+          "position_z": 0.0,
+          "scale_x": 0.39,
+          "scale_y": 0.39,
+          "scale_z": 0.51,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3050,
+          "refid": "d59fb9c8db603176795a5441bbd7c0c402a1b647",
+          "class_name": "nightstand",
+          "position_x": 5.0,
+          "position_y": 5.01,
+          "position_z": 0.0,
+          "scale_x": 0.39,
+          "scale_y": 0.39,
+          "scale_z": 0.51,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3051,
+          "refid": "783097b43a3fdd7fd1285d84f31b0a7cfd29feb9",
+          "class_name": "standing lamp",
+          "position_x": 8.02,
+          "position_y": 4.45,
+          "position_z": 0.0,
+          "scale_x": 0.53,
+          "scale_y": 0.33,
+          "scale_z": 1.75,
+          "angle_z": 1.5707963267948966
+        },
+        {
+          "id": 3052,
+          "refid": "27f973b35f779ebe5bc95b8ccefb3f31acf57d15",
+          "class_name": "bed wall art",
+          "position_x": 6.79,
+          "position_y": 5.18,
+          "position_z": 2.02,
+          "scale_x": 0.38,
+          "scale_y": 0.03,
+          "scale_z": 0.38,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3053,
+          "refid": "6cafc7a4b841c657bfc8b31034aa9de918a25980",
+          "class_name": "bed wall art",
+          "position_x": 6.34,
+          "position_y": 5.18,
+          "position_z": 2.02,
+          "scale_x": 0.38,
+          "scale_y": 0.03,
+          "scale_z": 0.38,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3054,
+          "refid": "e6fbd077c4e6ba056a0b28d0822fa6a86dd05467",
+          "class_name": "bed wall art",
+          "position_x": 5.9,
+          "position_y": 5.18,
+          "position_z": 2.02,
+          "scale_x": 0.38,
+          "scale_y": 0.03,
+          "scale_z": 0.38,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3055,
+          "refid": "f79736b4217fdb4d125233cee62491a2207009bc",
+          "class_name": "bed wall art",
+          "position_x": 5.46,
+          "position_y": 5.18,
+          "position_z": 2.02,
+          "scale_x": 0.38,
+          "scale_y": 0.03,
+          "scale_z": 0.38,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3056,
+          "refid": "d02c766e9bc885aed0d0144e9e089aefbb84b6ea",
+          "class_name": "dresser wall art",
+          "position_x": 6.13,
+          "position_y": 1.59,
+          "position_z": 1.4,
+          "scale_x": 0.71,
+          "scale_y": 0.02,
+          "scale_z": 1.19,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3057,
+          "refid": "d3d198bc18f25f70387e06e18c6b1ded4abcc874",
+          "class_name": "nightstand lamp",
+          "position_x": 7.25,
+          "position_y": 5.01,
+          "position_z": 2.8,
+          "scale_x": 0.29,
+          "scale_y": 0.29,
+          "scale_z": 1.3,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3058,
+          "refid": "d3d198bc18f25f70387e06e18c6b1ded4abcc874",
+          "class_name": "nightstand lamp",
+          "position_x": 5.0,
+          "position_y": 5.01,
+          "position_z": 2.8,
+          "scale_x": 0.29,
+          "scale_y": 0.29,
+          "scale_z": 1.3,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3059,
+          "refid": "efcb17ebfbccc4bf00c36c1376a78d8dd9e7db29",
+          "class_name": "nightstand wall art",
+          "position_x": 5.0,
+          "position_y": 5.18,
+          "position_z": 1.43,
+          "scale_x": 0.44,
+          "scale_y": 0.04,
+          "scale_z": 0.55,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3060,
+          "refid": "175ed1c14a393e680d11eb174431d3d5edecbf9c",
+          "class_name": "nightstand wall art",
+          "position_x": 7.25,
+          "position_y": 5.18,
+          "position_z": 1.43,
+          "scale_x": 0.44,
+          "scale_y": 0.04,
+          "scale_z": 0.55,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3061,
+          "refid": "5357a21a3e51967545318d3a51ed103cc3583319",
+          "class_name": "rug",
+          "position_x": 6.12,
+          "position_y": 3.32,
+          "position_z": 0.0,
+          "scale_x": 3.39,
+          "scale_y": 2.44,
+          "scale_z": 0.01,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3062,
+          "refid": "06d658d6a4010fc56ccba5b4a2662ccd3607f680",
+          "class_name": "dresser decor",
+          "position_x": 5.89,
+          "position_y": 1.87,
+          "position_z": 1.3,
+          "scale_x": 0.48,
+          "scale_y": 0.1,
+          "scale_z": 0.36,
+          "angle_z": 0.0
+        }
+      ],
+      "area": 17.417399999999994,
+      "summary": "Room 9007 spans 17.4 m\u00b2 with four walls, two doors and one window. A sleeping zone centers the bed near the rear, flanked by nightstands and a dresser; a rug anchors the space. Nearby, a storage area, bench and standing lamp balance decor, creating a calm, functional bedroom ambiance."
+    }
+  }
+}

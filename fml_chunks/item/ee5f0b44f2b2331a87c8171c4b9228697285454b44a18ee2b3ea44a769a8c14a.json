@@ -1,0 +1,22 @@
+{
+  "id": "ee5f0b44f2b2331a87c8171c4b9228697285454b44a18ee2b3ea44a769a8c14a",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "33615bd61a7deb2d7442e5802547ce45eb8e2e31",
+    "x": 282.79522226728943,
+    "y": 250.06696842602028,
+    "z": 0,
+    "width": 81.808,
+    "height": 92.154,
+    "z_height": 84.254,
+    "rotation": 297.07079781232187,
+    "name": "Allyce Swivel Chair",
+    "brand": "Ethan Allen",
+    "sku": "202179_31913NB",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-swivel-chairs/allyce-swivel-chair/202179.html",
+    "depth": 92.154,
+    "type_guess": "chair"
+  },
+  "doc": "name: Allyce Swivel Chair | brand: Ethan Allen | sku: 202179_31913NB | type: chair | refid: 33615bd61a7deb2d7442e5802547ce45eb8e2e31 | dimensions: 81.808 x 92.154 x 92.154 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-swivel-chairs/allyce-swivel-chair/202179.html | position: x=282.79522226728943, y=250.06696842602028, z=0, rot=297.07079781232187"
+}

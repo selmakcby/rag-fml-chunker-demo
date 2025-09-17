@@ -1,0 +1,21 @@
+{
+  "id": "717eb385f242d2fffccb464a55ac1ce19f81fd7e04ca44a0627a549c952ea3ea",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "28b6abf7a45c50eeec9fbbfc3733a8b43d51d6b2",
+    "x": -11.080499999999962,
+    "y": 330.8632950612348,
+    "z": 139.6754913330078,
+    "width": 114.274,
+    "height": 7.161,
+    "z_height": 114.236,
+    "rotation": 270,
+    "name": "Patina Glow",
+    "brand": "Ethan Allen",
+    "sku": "075051",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-abstract/patina-glow/075051.html",
+    "depth": 114.236
+  },
+  "doc": "name: Patina Glow | brand: Ethan Allen | sku: 075051 | refid: 28b6abf7a45c50eeec9fbbfc3733a8b43d51d6b2 | dimensions: 114.274 x 114.236 x 7.161 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-abstract/patina-glow/075051.html | position: x=-11.080499999999962, y=330.8632950612348, z=139.6754913330078, rot=270"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b7c3bb6058dbbbf2263139dca7b807241c58e0393fcebe65deee929700d07753",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "c6fbd1ebaa1a2d2285514927a511457be81d4d29",
+    "x": 564.3024727770556,
+    "y": -31.230061071238804,
+    "z": 0,
+    "width": 122.042,
+    "height": 122.03,
+    "z_height": 76.216,
+    "rotation": 90,
+    "materials": {
+      "FINISH_612": 109
+    },
+    "name": "Cameron 48\" Rustic Dining Table",
+    "brand": "Ethan Allen",
+    "sku": "1567634",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-dining-room-tables/cameron-rustic-round-dining-table/156763.html",
+    "depth": 122.03,
+    "type_guess": "table"
+  },
+  "doc": "name: Cameron 48\" Rustic Dining Table | brand: Ethan Allen | sku: 1567634 | type: table | refid: c6fbd1ebaa1a2d2285514927a511457be81d4d29 | dimensions: 122.042 x 122.03 x 122.03 | url: https://www.ethanallen.com/en_US/shop-furniture-dining-room-tables/cameron-rustic-round-dining-table/156763.html | position: x=564.3024727770556, y=-31.230061071238804, z=0, rot=90"
+}

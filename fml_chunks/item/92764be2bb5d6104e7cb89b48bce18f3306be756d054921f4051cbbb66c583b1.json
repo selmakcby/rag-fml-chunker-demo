@@ -1,0 +1,26 @@
+{
+  "id": "92764be2bb5d6104e7cb89b48bce18f3306be756d054921f4051cbbb66c583b1",
+  "parent_id": "252876b725a6c156e9718ed984183b89031a4e81e1e683c18e309039b1c2eb76",
+  "type": "item",
+  "attrs": {
+    "refid": "a9ccebfbdbb7c1374332efa32123cd981c66f0c4",
+    "x": 419.9805292430847,
+    "y": 755.220854368859,
+    "z": 0,
+    "width": 66.188,
+    "height": 73.918,
+    "z_height": 111.739,
+    "rotation": 180.60309119438057,
+    "materials": {
+      "FINISH_939": 218,
+      "LEATHER_L5029": 231
+    },
+    "name": "Martha Washington Leather Host Chair",
+    "brand": "Ethan Allen",
+    "sku": "727471",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 73.918,
+    "type_guess": "chair"
+  },
+  "doc": "name: Martha Washington Leather Host Chair | brand: Ethan Allen | sku: 727471 | type: chair | refid: a9ccebfbdbb7c1374332efa32123cd981c66f0c4 | dimensions: 66.188 x 73.918 x 73.918 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=419.9805292430847, y=755.220854368859, z=0, rot=180.60309119438057"
+}

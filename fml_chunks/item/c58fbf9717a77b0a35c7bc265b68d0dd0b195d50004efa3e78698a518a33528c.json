@@ -1,0 +1,22 @@
+{
+  "id": "c58fbf9717a77b0a35c7bc265b68d0dd0b195d50004efa3e78698a518a33528c",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "c0a7841d0a7ad0537886b96007783adaed9f3308",
+    "x": 428.57589721289764,
+    "y": 315.4812961856536,
+    "z": 0,
+    "width": 283.096,
+    "height": 376.044,
+    "z_height": 2.28,
+    "rotation": 90.23552657398585,
+    "name": "Isari Soumak Gray 9 x 12",
+    "brand": "Ethan Allen",
+    "sku": "041223R GRY",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/isari-soumak-rug/041223.html",
+    "depth": 376.044,
+    "type_guess": "rug"
+  },
+  "doc": "name: Isari Soumak Gray 9 x 12 | brand: Ethan Allen | sku: 041223R GRY | type: rug | refid: c0a7841d0a7ad0537886b96007783adaed9f3308 | dimensions: 283.096 x 376.044 x 376.044 | url: https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/isari-soumak-rug/041223.html | position: x=428.57589721289764, y=315.4812961856536, z=0, rot=90.23552657398585"
+}

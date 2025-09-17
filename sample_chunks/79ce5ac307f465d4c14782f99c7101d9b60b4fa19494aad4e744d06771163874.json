@@ -1,0 +1,37 @@
+{
+  "chunk_id": "79ce5ac307f465d4c14782f99c7101d9b60b4fa19494aad4e744d06771163874",
+  "level": "item",
+  "parent_id": "29233cdf7e619e2cba97867194f109fb70a32899024079216780268c55509196",
+  "room_id": "c44838460806545325f452217fb0b9764620cfbe8b16a7497a8075addb16ccf4",
+  "type": "item",
+  "name": "bcbb3035c2769c69432aef8cd875b86513462232",
+  "refid": "bcbb3035c2769c69432aef8cd875b86513462232",
+  "position": {
+    "x": 231.19304509459653,
+    "y": 315.0183548626677,
+    "z": 0
+  },
+  "size": {
+    "width": 244.029,
+    "height": 304.934,
+    "z_height": 1.247
+  },
+  "rotation": 179.99999999999994,
+  "summary_text": "Item 'bcbb3035c2769c69432aef8cd875b86513462232' (item) at (231.19304509459653, 315.0183548626677).",
+  "refs": {
+    "parent_id": "29233cdf7e619e2cba97867194f109fb70a32899024079216780268c55509196"
+  },
+  "raw": {
+    "refid": "bcbb3035c2769c69432aef8cd875b86513462232",
+    "x": 231.19304509459653,
+    "y": 315.0183548626677,
+    "z": 0,
+    "width": 244.029,
+    "height": 304.934,
+    "z_height": 1.247,
+    "rotation": 179.99999999999994,
+    "materials": {
+      "FABRIC_RUG_Galilea_CobaltGreen": 25515
+    }
+  }
+}

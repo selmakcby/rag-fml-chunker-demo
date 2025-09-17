@@ -1,0 +1,25 @@
+{
+  "id": "7d113ad64f69f05e88fd9c82e616711e1aa9fc9f7871f04a325ff333ed164f57",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "b85fc3fe47ce551b363cf7e17536c3b9d2b1b648",
+    "x": 290.3868103027344,
+    "y": 441.0941467285156,
+    "z": 0,
+    "width": 45.79,
+    "height": 45.79,
+    "z_height": 62.261,
+    "rotation": 0,
+    "materials": {
+      "FINISH_184": "18"
+    },
+    "name": "Belle Table",
+    "brand": "Ethan Allen",
+    "sku": "139283",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/vienna-round-pedestal-table%2C-brie/139306+++603.html?site=#q=139306&lang=en_US&site=&start=1",
+    "depth": 45.79,
+    "type_guess": "table"
+  },
+  "doc": "name: Belle Table | brand: Ethan Allen | sku: 139283 | type: table | refid: b85fc3fe47ce551b363cf7e17536c3b9d2b1b648 | dimensions: 45.79 x 45.79 x 45.79 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/vienna-round-pedestal-table%2C-brie/139306+++603.html?site=#q=139306&lang=en_US&site=&start=1 | position: x=290.3868103027344, y=441.0941467285156, z=0, rot=0"
+}

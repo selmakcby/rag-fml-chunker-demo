@@ -1,0 +1,20 @@
+{
+  "id": "fa97623872f35f9a66a9a37c5b11ffc4fb423e8cb9a400422cb4b15d7fae2f2b",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "b7025f6c8c755a06a828c200396100b10e11bedf",
+    "x": 809.716796875,
+    "y": 833.010498046875,
+    "z": 101.40719604492188,
+    "width": 25.02,
+    "height": 27.24,
+    "z_height": 7.96,
+    "rotation": 0,
+    "name": "Book",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 27.24
+  },
+  "doc": "name: Book | brand: Floorplanner | refid: b7025f6c8c755a06a828c200396100b10e11bedf | dimensions: 25.02 x 27.24 x 27.24 | url: https://floorplanner.com | position: x=809.716796875, y=833.010498046875, z=101.40719604492188, rot=0"
+}

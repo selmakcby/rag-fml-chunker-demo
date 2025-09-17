@@ -1,0 +1,26 @@
+{
+  "id": "3e6374f7e8592a2a1db1f3f48b875abe858221d4bdab74bedd84c3688ed6aac6",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "1a6651dd0f81c62bf71bece24fb367b2bf901b27",
+    "x": 640.7140057040385,
+    "y": 304.41905901429857,
+    "z": 0,
+    "width": 91.44,
+    "height": 91.44,
+    "z_height": 76.211,
+    "rotation": 90,
+    "materials": {
+      "FINISH_610": 108,
+      "FINISH_209": 24
+    },
+    "name": "Cooper 36\" Round Rustic Dining Table",
+    "brand": "Ethan Allen",
+    "sku": "1567532",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-dining-room-tables/cooper-rustic-round-dining-table/156753.html",
+    "depth": 91.44,
+    "type_guess": "table"
+  },
+  "doc": "name: Cooper 36\" Round Rustic Dining Table | brand: Ethan Allen | sku: 1567532 | type: table | refid: 1a6651dd0f81c62bf71bece24fb367b2bf901b27 | dimensions: 91.44 x 91.44 x 91.44 | url: https://www.ethanallen.com/en_US/shop-furniture-dining-room-tables/cooper-rustic-round-dining-table/156753.html | position: x=640.7140057040385, y=304.41905901429857, z=0, rot=90"
+}

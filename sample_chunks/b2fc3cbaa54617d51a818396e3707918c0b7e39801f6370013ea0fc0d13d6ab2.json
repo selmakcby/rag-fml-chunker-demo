@@ -1,0 +1,37 @@
+{
+  "chunk_id": "b2fc3cbaa54617d51a818396e3707918c0b7e39801f6370013ea0fc0d13d6ab2",
+  "level": "item",
+  "parent_id": "cefde2c41aaee85e7dae10107479751b7196a166d84694da44fbaf265bcc213d",
+  "room_id": "0fc54eca75ba2931842f6a34640cbb669ba74c94794d7201347d6a72f68be02d",
+  "type": "item",
+  "name": "71ce09294ea93dad60867640c0b3cb84bf75b94d",
+  "refid": "71ce09294ea93dad60867640c0b3cb84bf75b94d",
+  "position": {
+    "x": 316.75872696081274,
+    "y": 276.6601094503661,
+    "z": 0
+  },
+  "size": {
+    "width": 304.799999536704,
+    "height": 426.7199993513856,
+    "z_height": 1.8
+  },
+  "rotation": 270,
+  "summary_text": "Item '71ce09294ea93dad60867640c0b3cb84bf75b94d' (item) at (316.75872696081274, 276.6601094503661).",
+  "refs": {
+    "parent_id": "cefde2c41aaee85e7dae10107479751b7196a166d84694da44fbaf265bcc213d"
+  },
+  "raw": {
+    "refid": "71ce09294ea93dad60867640c0b3cb84bf75b94d",
+    "x": 316.75872696081274,
+    "y": 276.6601094503661,
+    "z": 0,
+    "width": 304.799999536704,
+    "height": 426.7199993513856,
+    "z_height": 1.8,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_RUG_Camden_OpalMatte": "37733"
+    }
+  }
+}

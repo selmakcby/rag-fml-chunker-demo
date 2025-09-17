@@ -1,0 +1,65 @@
+{
+  "id": "a6fcfd2377380f8167abd0f86e6c2a46f0bca625bd673d921b19ca2926a59d1b",
+  "parent_id": "17230a79bad233db56009bb1a37f591d09158075b94a5bcc36335c318f43af73",
+  "type": "floor",
+  "designs": [
+    "02589bc0892a6d3f3938ef04f03afd533012251d7e987308b431d8d89b5fa388"
+  ],
+  "attrs": {
+    "id": 255029936,
+    "project_id": 167483858,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:14:29.000Z",
+    "updated_at": "2025-01-04T22:44:51.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294314207,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294314210,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 1 rooms. Highlights: room: 9 items (Conover Track Arm Incliner RAF 1 Seat, Girard Coffee Table, Conover Track Arm Incliner LAF 1 Seat, Hutchinson Manor Rug, RoundHouse Flat Screen, Conover Track Arm Incliner LAF 1 Seat)."
+}

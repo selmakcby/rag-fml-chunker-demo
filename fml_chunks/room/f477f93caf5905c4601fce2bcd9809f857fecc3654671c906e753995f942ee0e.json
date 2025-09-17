@@ -1,0 +1,19 @@
+{
+  "id": "f477f93caf5905c4601fce2bcd9809f857fecc3654671c906e753995f942ee0e",
+  "parent_id": "00503934935a051326c53d74be8cb68434ab78d9b109cd758c21692673e8d988",
+  "type": "room",
+  "items": [
+    "5354432ab282f93d098854d9a73159675355e565ff102c514c41761779c17ebe",
+    "dcd2727b7346e2f1e513c30bdb364f1e3c42b31ccb57c333d836be470dd5833c",
+    "4bbd6370e03eebe808eaa9de5efdc2a1b840005ab5e1761acd9bf227770d88d8",
+    "2419546c3d389590a1857c22b4346db7bba0b9122bfd39f7a3cc8d111f2e656a",
+    "c7d8cceed86601d007dcf3d39fa124d10cd7f705dba74ede659ea78abb112ffa"
+  ],
+  "walls": [],
+  "attrs": {
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Spencer Wide Ottoman, Spencer TA 92'' Sofa, 26 in. Seat, Caira Floor Lamp, Teresa Round End Table, Spencer Ottoman",
+  "summary": "room: 5 items (Spencer Wide Ottoman, Spencer TA 92'' Sofa, 26 in. Seat, Caira Floor Lamp, Teresa Round End Table, Spencer Ottoman)."
+}

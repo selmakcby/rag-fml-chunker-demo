@@ -1,0 +1,25 @@
+{
+  "id": "b21cea42e88176c01f17fd8f30dbf3c967bb3dabe8b26f39cef2df2b268fc5ef",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "f6f1d89e85475fc4b0c29fbb92033de97cbe1428",
+    "x": -285.5885124739936,
+    "y": 537.521718543546,
+    "z": 0,
+    "width": 170.816,
+    "height": 51.189,
+    "z_height": 93.98,
+    "rotation": 270,
+    "materials": {
+      "FINISH_612": 30
+    },
+    "name": "Leora Custom Double Dresser",
+    "brand": "Ethan Allen",
+    "sku": "155343",
+    "url": "https://www.ethanallen.com/en_US/shop-products-bedroom-dressers-armoires-dressers/leora-custom-double-dresser/155343.html#lang=en_US&q=lenora&start=1",
+    "depth": 51.189,
+    "type_guess": "dresser"
+  },
+  "doc": "name: Leora Custom Double Dresser | brand: Ethan Allen | sku: 155343 | type: dresser | refid: f6f1d89e85475fc4b0c29fbb92033de97cbe1428 | dimensions: 170.816 x 51.189 x 51.189 | url: https://www.ethanallen.com/en_US/shop-products-bedroom-dressers-armoires-dressers/leora-custom-double-dresser/155343.html#lang=en_US&q=lenora&start=1 | position: x=-285.5885124739936, y=537.521718543546, z=0, rot=270"
+}

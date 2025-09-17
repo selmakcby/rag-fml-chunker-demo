@@ -1,0 +1,21 @@
+{
+  "id": "5c447a9b5da3cb419d19adc87fa70b48b5dec46593c8bb230513115be03d86dd",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "ebecbc164679f4598be3f16d47c2d5f60e5d0615",
+    "x": -32.214005630934466,
+    "y": 524.7430144919683,
+    "z": 0,
+    "width": 106.656,
+    "height": 48.742,
+    "z_height": 150.534,
+    "rotation": 270.3690721697189,
+    "name": "Heston Tall Chest",
+    "brand": "Ethan Allen",
+    "sku": "395334",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/heston-tall-chest/395334+++321.html#lang=en_US&q=heston&start=1",
+    "depth": 48.742
+  },
+  "doc": "name: Heston Tall Chest | brand: Ethan Allen | sku: 395334 | refid: ebecbc164679f4598be3f16d47c2d5f60e5d0615 | dimensions: 106.656 x 48.742 x 48.742 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/heston-tall-chest/395334+++321.html#lang=en_US&q=heston&start=1 | position: x=-32.214005630934466, y=524.7430144919683, z=0, rot=270.3690721697189"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "a60acb8e8befffa6b65e4bfe2607c2a98257734d4c7945a70b646c9e9280d424",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "ebf13b3eef1e2f66c8bb5a238d0b4b2d2a5d69c7",
+    "x": 468.68726660881856,
+    "y": 102.48499999999999,
+    "z": 85.81659698486328,
+    "width": 127.65023980597162,
+    "height": 4.97,
+    "z_height": 108.90503983446433,
+    "rotation": 180,
+    "name": "RoundHouse Flat Screen",
+    "brand": "Floorplanner",
+    "url": "",
+    "depth": 57.98
+  },
+  "doc": "name: RoundHouse Flat Screen | brand: Floorplanner | refid: ebf13b3eef1e2f66c8bb5a238d0b4b2d2a5d69c7 | dimensions: 127.65023980597162 x 57.98 x 4.97 | position: x=468.68726660881856, y=102.48499999999999, z=85.81659698486328, rot=180"
+}

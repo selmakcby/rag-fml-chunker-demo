@@ -1,0 +1,20 @@
+{
+  "id": "0828dea5d755401d9ff714ed8f333a7b89b157b1dd20918965e30d109b6a3c03",
+  "parent_id": "8953e70ecf14a89f5d7f7797e0c7e4f5fcf3c05218965add53159fee9e71c3c1",
+  "type": "item",
+  "attrs": {
+    "refid": "3da1c44497af7607cf5622eb4a434696d8521862",
+    "x": 115.23999997683515,
+    "y": 482.25206922919443,
+    "z": 0,
+    "width": 304.799999536704,
+    "height": 30.479999953670397,
+    "z_height": 223.50983966026504,
+    "rotation": 270,
+    "name": "Case wall unit chrome",
+    "brand": "Floorplanner",
+    "url": "www.accouterdesign.com",
+    "depth": 35.0
+  },
+  "doc": "name: Case wall unit chrome | brand: Floorplanner | refid: 3da1c44497af7607cf5622eb4a434696d8521862 | dimensions: 304.799999536704 x 35.0 x 30.479999953670397 | url: www.accouterdesign.com | position: x=115.23999997683515, y=482.25206922919443, z=0, rot=270"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "389113f16661ccfc0bf7dd303ba1ea0f25f7cbf0edd660f6e982988636267263",
+  "parent_id": "e276c188abb79d2db802881fa72f71a8643a67f0fbe629ecd996a6e0b4136b1c",
+  "type": "item",
+  "attrs": {
+    "refid": "a7ee3d940a0c885816da599822e5fa53e5cf8478",
+    "x": 154.2829274393963,
+    "y": 509.1924047880491,
+    "z": 0,
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.219,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_RUG_HutchinsonManor_Champagne": 20423
+    },
+    "name": "Hutchinson Manor Rug",
+    "brand": "Ethan Allen",
+    "sku": "046116",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-ikat/hutchinson-manor-rug/046116.html#start=1",
+    "depth": 304.8,
+    "type_guess": "rug"
+  },
+  "doc": "name: Hutchinson Manor Rug | brand: Ethan Allen | sku: 046116 | type: rug | refid: a7ee3d940a0c885816da599822e5fa53e5cf8478 | dimensions: 243.84 x 304.8 x 304.8 | url: https://www.ethanallen.com/en_US/shop-rugs-ikat/hutchinson-manor-rug/046116.html#start=1 | position: x=154.2829274393963, y=509.1924047880491, z=0, rot=270"
+}

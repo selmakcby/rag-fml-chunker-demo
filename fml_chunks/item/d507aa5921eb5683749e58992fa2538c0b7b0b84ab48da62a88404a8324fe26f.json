@@ -1,0 +1,25 @@
+{
+  "id": "d507aa5921eb5683749e58992fa2538c0b7b0b84ab48da62a88404a8324fe26f",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "f5de755a3643d796d234a70bee135a779d2e1a9f",
+    "x": 655.4031982421875,
+    "y": 303.30926513671875,
+    "z": 0,
+    "width": 274.31999958303356,
+    "height": 365.75999944404475,
+    "z_height": 1.505,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_RUG_Light_Fog": 2424
+    },
+    "name": "Sterling Brook, Rug",
+    "brand": "Ethan Allen",
+    "sku": "046085",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-solid/sterling-brook-serged-rug/046085.html",
+    "depth": 304.8,
+    "type_guess": "rug"
+  },
+  "doc": "name: Sterling Brook, Rug | brand: Ethan Allen | sku: 046085 | type: rug | refid: f5de755a3643d796d234a70bee135a779d2e1a9f | dimensions: 274.31999958303356 x 304.8 x 365.75999944404475 | url: https://www.ethanallen.com/en_US/shop-rugs-solid/sterling-brook-serged-rug/046085.html | position: x=655.4031982421875, y=303.30926513671875, z=0, rot=0"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "12568a803ab55d9c707c4f5c65bf493c32a8ff36b01274d496a06b8f7c3824b4",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "c9e903c8078763faf3b1957c3f703b8eeba3efbc",
+    "x": 726.5606450532671,
+    "y": 274.0230260141112,
+    "z": 274.32,
+    "width": 121.92,
+    "height": 45.72,
+    "z_height": 171.665,
+    "rotation": 270,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Killian Rattan Chandelier 48\"",
+    "brand": "Ethan Allen",
+    "sku": "093073",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-chandeliers/killian-rattan-linear-chandelier/093073+++BRS.html",
+    "depth": 45.72,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Killian Rattan Chandelier 48\" | brand: Ethan Allen | sku: 093073 | type: lighting | refid: c9e903c8078763faf3b1957c3f703b8eeba3efbc | dimensions: 121.92 x 45.72 x 45.72 | url: https://www.ethanallen.com/en_US/shop-lighting-chandeliers/killian-rattan-linear-chandelier/093073+++BRS.html | position: x=726.5606450532671, y=274.0230260141112, z=274.32, rot=270"
+}

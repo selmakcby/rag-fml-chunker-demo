@@ -1,0 +1,88 @@
+{
+  "id": "2c8f96e78ed4b9897a03f4022338104e11304488faaf10526339fb70d636be6f",
+  "parent_id": "f2f52c5e06e3a12266d0471e4f09443651d6a4888c3521b74c90625798115624",
+  "type": "design",
+  "rooms": [
+    "b7ccf3f36e54889bc940023a8493d04aaaf639d3c9ec8739fb07aefbc80c2292"
+  ],
+  "attrs": {
+    "name": "DOWN BED AND TV ROOM",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 192.95345559976866,
+        "y": 202.601249137566,
+        "z": 1229.0308117522538,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 281.66559441029665,
+        "y": 385.3698436829952,
+        "z": 165.1,
+        "dx": -0.43666029471106044,
+        "dy": -0.8996264708326728,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270123029,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: DOWN BED AND TV ROOM | rooms: 1"
+}

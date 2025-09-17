@@ -1,0 +1,22 @@
+{
+  "id": "f2631833b1ff2303061fdbbe478ca409e54e3fae7053e7a25308dbee9d022d0e",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "7b81210ab62dfc33b46c6445b11ca8962ce99046",
+    "x": 584.118470053148,
+    "y": 252.7348147922175,
+    "z": 47,
+    "width": 51.158,
+    "height": 29.232,
+    "z_height": 45.878,
+    "rotation": 321.7840270996094,
+    "name": "Salena Square Pillow, MistBlue",
+    "brand": "Ethan Allen",
+    "sku": "065683 MBL",
+    "url": "https://www.ethanallen.com/en_US/shop-bedding-pillows-throws/salena-square-pillow%2C-mist-blue/065683+++MBL.html",
+    "depth": 29.232,
+    "type_guess": "textile"
+  },
+  "doc": "name: Salena Square Pillow, MistBlue | brand: Ethan Allen | sku: 065683 MBL | type: textile | refid: 7b81210ab62dfc33b46c6445b11ca8962ce99046 | dimensions: 51.158 x 29.232 x 29.232 | url: https://www.ethanallen.com/en_US/shop-bedding-pillows-throws/salena-square-pillow%2C-mist-blue/065683+++MBL.html | position: x=584.118470053148, y=252.7348147922175, z=47, rot=321.7840270996094"
+}

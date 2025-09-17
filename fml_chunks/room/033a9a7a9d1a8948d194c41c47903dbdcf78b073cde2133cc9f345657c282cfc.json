@@ -1,0 +1,20 @@
+{
+  "id": "033a9a7a9d1a8948d194c41c47903dbdcf78b073cde2133cc9f345657c282cfc",
+  "parent_id": "a73bb526e672ec9b2770158cd6e9c86c3fd8bcd36d5cf5050d5e5f816d6fdd55",
+  "type": "room",
+  "items": [
+    "4a63895710eca7959d8bcf773ee3ebbfbd74007e8b56b2ea396fa32015a7325d",
+    "cb0e5d40514422bd9abf71433d4c8b6c3dd5adfd114f72e963281ee33a182e0f",
+    "1e0c3d03b61a6eff51367866a4d6a7c5e633764f0392c502d8b73dce45347bb4"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-2542",
+    "color": "#F2D8B0",
+    "sx": 75,
+    "sy": 75,
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: River Home II, Sunburst Mirror, 24'' Gold Sunburst Mirror",
+  "summary": "room: 3 items (River Home II, Sunburst Mirror, 24'' Gold Sunburst Mirror)."
+}

@@ -1,0 +1,20 @@
+{
+  "chunk_id": "ca453c5c38a906ceabecafa856adc932055b5e23753e897cf1c738252a6f689f",
+  "level": "design",
+  "design_id": "ca453c5c38a906ceabecafa856adc932055b5e23753e897cf1c738252a6f689f",
+  "floor_id": "0a7c1731519f26b903411dc631ae44de36cff1d61b95494bfcc7f554f5f26736",
+  "project_id": "72e1d73d21a4cb2d618d58bd1efa8ff6e48b47cba45a550b46d7dc6a39a0140e",
+  "name": "Jazmine  & Eric MBR 6 with Powel",
+  "item_counts": [],
+  "summary_text": "Design 'Jazmine  & Eric MBR 6 with Powel' with 1 areas and 40 items.",
+  "refs": {
+    "parent_id": "0a7c1731519f26b903411dc631ae44de36cff1d61b95494bfcc7f554f5f26736"
+  },
+  "raw": {
+    "name": "Jazmine  & Eric MBR 6 with Powel",
+    "counts": {
+      "areas": 1,
+      "items": 40
+    }
+  }
+}

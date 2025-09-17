@@ -1,0 +1,18 @@
+{
+  "chunk_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b",
+  "level": "floor",
+  "floor_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "Floor 1",
+  "level_num": 1,
+  "height": 274.32,
+  "summary_text": "Floor 'Floor 1', level 1, 3 designs.",
+  "refs": {
+    "parent_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a"
+  },
+  "raw": {
+    "id": 255032006,
+    "name": "Floor 1",
+    "level": 1
+  }
+}

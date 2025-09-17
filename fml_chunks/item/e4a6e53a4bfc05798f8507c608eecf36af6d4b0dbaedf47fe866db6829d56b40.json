@@ -1,0 +1,22 @@
+{
+  "id": "e4a6e53a4bfc05798f8507c608eecf36af6d4b0dbaedf47fe866db6829d56b40",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "5d781c8d57a054050a8f3da04f8d0b3c75ce232b",
+    "x": 615.5612379863612,
+    "y": 254.59967612382007,
+    "z": 105.09699249267578,
+    "width": 101.59,
+    "height": 5,
+    "z_height": 132.706,
+    "rotation": 90,
+    "name": "Black Crackle Turret Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074200",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/black-crackle-turret-mirror/074200.html",
+    "depth": 132.706,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Black Crackle Turret Mirror | brand: Ethan Allen | sku: 074200 | type: mirror | refid: 5d781c8d57a054050a8f3da04f8d0b3c75ce232b | dimensions: 101.59 x 132.706 x 5 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/black-crackle-turret-mirror/074200.html | position: x=615.5612379863612, y=254.59967612382007, z=105.09699249267578, rot=90"
+}

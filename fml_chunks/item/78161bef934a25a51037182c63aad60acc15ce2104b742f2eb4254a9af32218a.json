@@ -1,0 +1,25 @@
+{
+  "id": "78161bef934a25a51037182c63aad60acc15ce2104b742f2eb4254a9af32218a",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "2254791ad60f4b5c36a27857eff0d659d87ba6f3",
+    "x": 589.4702329492799,
+    "y": 437.01943132208567,
+    "z": 0,
+    "width": 99.14,
+    "height": 99.37,
+    "z_height": 88.839,
+    "rotation": 90,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H2639": 28244
+    },
+    "name": "Conway Corner",
+    "brand": "Ethan Allen",
+    "sku": "207791",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 99.37
+  },
+  "doc": "name: Conway Corner | brand: Ethan Allen | sku: 207791 | refid: 2254791ad60f4b5c36a27857eff0d659d87ba6f3 | dimensions: 99.14 x 99.37 x 99.37 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=589.4702329492799, y=437.01943132208567, z=0, rot=90"
+}

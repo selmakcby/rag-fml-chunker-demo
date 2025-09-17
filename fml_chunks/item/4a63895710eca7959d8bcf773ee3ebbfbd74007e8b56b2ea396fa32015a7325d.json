@@ -1,0 +1,21 @@
+{
+  "id": "4a63895710eca7959d8bcf773ee3ebbfbd74007e8b56b2ea396fa32015a7325d",
+  "parent_id": "033a9a7a9d1a8948d194c41c47903dbdcf78b073cde2133cc9f345657c282cfc",
+  "type": "item",
+  "attrs": {
+    "refid": "292664bf902aa153113e61383274e481d6c413a1",
+    "x": 1163.3029762920332,
+    "y": 346.9006865107834,
+    "z": 125.110999739396,
+    "width": 76.188,
+    "height": 5.092,
+    "z_height": 92.678,
+    "rotation": 270,
+    "name": "River Home II",
+    "brand": "Ethan Allen",
+    "sku": "073163B",
+    "url": "https://www.ethanallen.com/en_US/shop-whats-new-decor-framed-artwork",
+    "depth": 92.678
+  },
+  "doc": "name: River Home II | brand: Ethan Allen | sku: 073163B | refid: 292664bf902aa153113e61383274e481d6c413a1 | dimensions: 76.188 x 92.678 x 5.092 | url: https://www.ethanallen.com/en_US/shop-whats-new-decor-framed-artwork | position: x=1163.3029762920332, y=346.9006865107834, z=125.110999739396, rot=270"
+}

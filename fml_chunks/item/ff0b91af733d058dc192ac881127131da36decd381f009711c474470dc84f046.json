@@ -1,0 +1,22 @@
+{
+  "id": "ff0b91af733d058dc192ac881127131da36decd381f009711c474470dc84f046",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "dc2bee7a64d5c6f38b8b95aa45b24dc4d837b217",
+    "x": 95.2245864868164,
+    "y": 8.769999504089355,
+    "z": 147.931640625,
+    "width": 71.12,
+    "height": 2.54,
+    "z_height": 106.68,
+    "rotation": 180,
+    "name": "Dualling Leaves I",
+    "brand": "Ethan Allen",
+    "sku": "073214A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-botanical-floral/dualling-leaves-i/073214A.html",
+    "depth": 106.68,
+    "type_guess": "flat-surface"
+  },
+  "doc": "name: Dualling Leaves I | brand: Ethan Allen | sku: 073214A | type: flat-surface | refid: dc2bee7a64d5c6f38b8b95aa45b24dc4d837b217 | dimensions: 71.12 x 106.68 x 2.54 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-botanical-floral/dualling-leaves-i/073214A.html | position: x=95.2245864868164, y=8.769999504089355, z=147.931640625, rot=180"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "713c8350d263c94c4856a68fe08f6f5a378e0f75f2bb5fe06c9a53d95bfe02fb",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "d0b3178033399aaabc8454f15e0f463ca9f3b13d",
+    "x": 959.1353541138052,
+    "y": 1231.4943785642708,
+    "z": 0,
+    "width": 80.784,
+    "height": 104.106,
+    "z_height": 95.924,
+    "rotation": 149.53327532231086,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_38313": 26568
+    },
+    "name": "Malone Chair",
+    "brand": "Ethan Allen",
+    "sku": "202231",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/malone-chair/202231_6SF95550652NP.html",
+    "depth": 104.106,
+    "type_guess": "chair"
+  },
+  "doc": "name: Malone Chair | brand: Ethan Allen | sku: 202231 | type: chair | refid: d0b3178033399aaabc8454f15e0f463ca9f3b13d | dimensions: 80.784 x 104.106 x 104.106 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/malone-chair/202231_6SF95550652NP.html | position: x=959.1353541138052, y=1231.4943785642708, z=0, rot=149.53327532231086"
+}

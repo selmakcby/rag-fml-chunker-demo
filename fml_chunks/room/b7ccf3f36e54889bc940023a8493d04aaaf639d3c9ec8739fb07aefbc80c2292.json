@@ -1,0 +1,19 @@
+{
+  "id": "b7ccf3f36e54889bc940023a8493d04aaaf639d3c9ec8739fb07aefbc80c2292",
+  "parent_id": "2c8f96e78ed4b9897a03f4022338104e11304488faaf10526339fb70d636be6f",
+  "type": "room",
+  "items": [
+    "ca77d50fd9dba6802650e0fdfc45e7c0bd34582da53d7c278496a324f8bd46ce",
+    "0ce7e8d2070a32aaf1045596d4b7a0c490d61a55f30e24d858034ae9ebe68691",
+    "d2bafa044880a71a03adb296b9df4457524b3b4e8483fb4f34c1bbd85f1475ce",
+    "5bf91ca819cf6f186847ba246d6240128cf6abd35580d6c3af7247813812b898",
+    "09ab9dd8d05bdb76cc5d80c885b092631d9281b20c7ab350becd5b4269780020"
+  ],
+  "walls": [],
+  "attrs": {
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Leora Custom Night Table, Mod Motion Glider, Rinna Pedestal Table, Calvin Armoire, Quincy Bed - Twin Size",
+  "summary": "room: 5 items (Leora Custom Night Table, Mod Motion Glider, Rinna Pedestal Table, Calvin Armoire, Quincy Bed - Twin Size)."
+}

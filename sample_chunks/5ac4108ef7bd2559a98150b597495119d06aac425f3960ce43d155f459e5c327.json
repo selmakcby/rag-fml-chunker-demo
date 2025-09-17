@@ -1,0 +1,63 @@
+{
+  "chunk_id": "5ac4108ef7bd2559a98150b597495119d06aac425f3960ce43d155f459e5c327",
+  "level": "project",
+  "project_id": "5ac4108ef7bd2559a98150b597495119d06aac425f3960ce43d155f459e5c327",
+  "name": "Berthoud",
+  "settings": {
+    "wallHeight": 274.32,
+    "wallSectionHeight": 274.32,
+    "wallThickness": 15,
+    "wallOuterThickness": 30,
+    "useMetric": false,
+    "showGrid": true,
+    "showDims": true,
+    "showShortDims": false,
+    "showAreaDims": false,
+    "generateOuterDimension": true,
+    "showDropShadows": true,
+    "showObjects": true,
+    "showFixtures": true,
+    "showItemOutline": false,
+    "showObjectColour": true,
+    "showStructuralColour": true,
+    "showFloorsBelow": false,
+    "showFixtures3D": true,
+    "showObjects3D": true,
+    "showSymbols": true,
+    "showObjectMono": false,
+    "showLights": true,
+    "hideLightsOnPan": false,
+    "useSection3D": false,
+    "showLabels": true,
+    "areaLabelOutline": false,
+    "areaLabelLetterSpacing": 7,
+    "dimLineLabelHorizontal": false,
+    "exportLabels3D": false,
+    "showShadows3D": true,
+    "exportOrtho3D": false,
+    "visuals": "ALL",
+    "showTexts": true,
+    "arrowHeadType": "arrow",
+    "showNorthArrow": false,
+    "northArrowRotation": 0,
+    "northArrowKind": 1,
+    "blueprintMode": false,
+    "dimLineFont": "arial",
+    "hideItemsAboveHeight": 122,
+    "hideItemsAbove": false,
+    "xRayWalls": false
+  },
+  "summary_text": "Project 'Berthoud' with 1 floors.",
+  "refs": {
+    "parent_id": null
+  },
+  "raw": {
+    "id": 167484860,
+    "features": [
+      "sd",
+      "hd",
+      "pano",
+      "vrtour"
+    ]
+  }
+}

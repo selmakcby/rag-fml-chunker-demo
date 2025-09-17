@@ -1,0 +1,25 @@
+{
+  "id": "134ef2323054d9d3a6bd12c034699cb9b873359509fee8ecc72154742325b87a",
+  "parent_id": "6693f0e341ea5e61d0717629745f38fa075c364a46cb770c53a2ebc80d5d4a2e",
+  "type": "item",
+  "attrs": {
+    "refid": "c33370d72e5252ffd9ee5a86616b5412c8e662c5",
+    "x": 620.4690343990198,
+    "y": 125.53200000000008,
+    "z": 0,
+    "width": 55.88,
+    "height": 51.064,
+    "z_height": 75.602,
+    "rotation": 0,
+    "materials": {
+      "FINISH_572": 97
+    },
+    "name": "Eugene Night Table",
+    "brand": "Ethan Allen",
+    "sku": "345416",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 51.064,
+    "type_guess": "table"
+  },
+  "doc": "name: Eugene Night Table | brand: Ethan Allen | sku: 345416 | type: table | refid: c33370d72e5252ffd9ee5a86616b5412c8e662c5 | dimensions: 55.88 x 51.064 x 51.064 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=620.4690343990198, y=125.53200000000008, z=0, rot=0"
+}

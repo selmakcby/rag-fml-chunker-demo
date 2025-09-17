@@ -1,0 +1,21 @@
+{
+  "id": "effd2793ec2f6e7f3e745ae7e46a01e949e205541e7dce7a3399855cb82ed22f",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "90eb8c00c07e06226939e3c46331a3987fa06941",
+    "x": 883.1932983398438,
+    "y": 843.7603759765625,
+    "z": 129.41827392578125,
+    "width": 12.234,
+    "height": 11.839,
+    "z_height": 10.307,
+    "rotation": 90,
+    "name": "Small Nickel Pomegranate",
+    "brand": "Ethan Allen",
+    "sku": "431705B",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-decorative-objects/nickel-pomegranate/431705B.html",
+    "depth": 11.839
+  },
+  "doc": "name: Small Nickel Pomegranate | brand: Ethan Allen | sku: 431705B | refid: 90eb8c00c07e06226939e3c46331a3987fa06941 | dimensions: 12.234 x 11.839 x 11.839 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-decorative-objects/nickel-pomegranate/431705B.html | position: x=883.1932983398438, y=843.7603759765625, z=129.41827392578125, rot=90"
+}

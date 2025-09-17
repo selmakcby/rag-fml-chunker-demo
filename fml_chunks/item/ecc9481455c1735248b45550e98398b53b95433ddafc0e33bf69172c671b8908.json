@@ -1,0 +1,21 @@
+{
+  "id": "ecc9481455c1735248b45550e98398b53b95433ddafc0e33bf69172c671b8908",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "23f489a34a1c9cf4a331a29e224699d24cca3f08",
+    "x": 492.27428169328846,
+    "y": 286.1458371629009,
+    "z": 46,
+    "width": 66.468,
+    "height": 43.18,
+    "z_height": 7.62,
+    "rotation": 341.2413496521577,
+    "name": "Light Sugarcane Tray",
+    "brand": "Ethan Allen",
+    "sku": "435983",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-trays/light-sugarcane-tray/435983.html",
+    "depth": 43.18
+  },
+  "doc": "name: Light Sugarcane Tray | brand: Ethan Allen | sku: 435983 | refid: 23f489a34a1c9cf4a331a29e224699d24cca3f08 | dimensions: 66.468 x 43.18 x 43.18 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-trays/light-sugarcane-tray/435983.html | position: x=492.27428169328846, y=286.1458371629009, z=46, rot=341.2413496521577"
+}

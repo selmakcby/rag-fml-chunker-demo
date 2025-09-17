@@ -1,0 +1,22 @@
+{
+  "id": "66adf50d4ebce86aa5395b55a7bc1340c55937af968d7b736fc7ff120ec81117",
+  "parent_id": "6693f0e341ea5e61d0717629745f38fa075c364a46cb770c53a2ebc80d5d4a2e",
+  "type": "item",
+  "attrs": {
+    "refid": "895597be8b40811143939873e86dddb8f49a71f2",
+    "x": 600.5934383780561,
+    "y": 401.8089906684601,
+    "z": 0,
+    "width": 90.22,
+    "height": 90.22,
+    "z_height": 74.927,
+    "rotation": 0,
+    "name": "Bradford Rent Table",
+    "brand": "Ethan Allen",
+    "sku": "348415",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 90.22,
+    "type_guess": "table"
+  },
+  "doc": "name: Bradford Rent Table | brand: Ethan Allen | sku: 348415 | type: table | refid: 895597be8b40811143939873e86dddb8f49a71f2 | dimensions: 90.22 x 90.22 x 90.22 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=600.5934383780561, y=401.8089906684601, z=0, rot=0"
+}

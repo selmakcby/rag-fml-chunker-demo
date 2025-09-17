@@ -1,0 +1,24 @@
+{
+  "id": "e276c188abb79d2db802881fa72f71a8643a67f0fbe629ecd996a6e0b4136b1c",
+  "parent_id": "02589bc0892a6d3f3938ef04f03afd533012251d7e987308b431d8d89b5fa388",
+  "type": "room",
+  "items": [
+    "041035bb96d1327652c0517059a3654156e057e11d557252ac901736fd706680",
+    "5c3ec447d54f2d1cace2f310ee94e2392dc2ee487496f9e5db68e5fd0a631a57",
+    "6f24d335ef13155541f744cf0b149bec1915b4bdfa21ec26a54a5910e6917e31",
+    "227c59b0685a9f072f49a76e49d5b9db096a568107a1a808b69c68bd52d9d793",
+    "cb10ab051ea415ce564509b87ce0cb2e0bb2015c172cdab767692d84b6f2bef3",
+    "b79361af5feaaee995f8225f9eb0f32a5e3b93331b7eb9e7ea81793a09bd68e7",
+    "ee8c52bad5775ba521004831fdc94ca057158950f8b23e902d64e5c0281e3e7b",
+    "a18bd64162711f0bd886ee8da7521dd623a03f0b683d15c7b2f5f5fec07d42af",
+    "389113f16661ccfc0bf7dd303ba1ea0f25f7cbf0edd660f6e982988636267263"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-14199",
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Conover Track Arm Incliner RAF 1 Seat, Girard Coffee Table, Conover Track Arm Incliner LAF 1 Seat, Hutchinson Manor Rug, RoundHouse Flat Screen, Conover Track Arm Incliner LAF 1 Seat, Carson Console, Conover Armless 1 Seat, Conover Track Arm Incliner RAF 1 Seat",
+  "summary": "room: 9 items (Conover Track Arm Incliner RAF 1 Seat, Girard Coffee Table, Conover Track Arm Incliner LAF 1 Seat, Hutchinson Manor Rug, RoundHouse Flat Screen, Conover Track Arm Incliner LAF 1 Seat)."
+}

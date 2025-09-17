@@ -1,0 +1,21 @@
+{
+  "id": "fd95b353a9a7d0826ad373c773983843fa29ca9e5744810cd735b2f16a3172e4",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "3147a1bcca34cc2bfe60f8b547571045bc990afc",
+    "x": -10.039999999999957,
+    "y": 533.8330062027206,
+    "z": 186.18438720703125,
+    "width": 57.784,
+    "height": 5.08,
+    "z_height": 45.72,
+    "rotation": 270,
+    "name": "Spring Pond",
+    "brand": "Ethan Allen",
+    "sku": "073236",
+    "url": "https://drive.google.com/drive/folders/1qYdzaKpQLp16JV6rqVEs5xMlTJ4xJW19",
+    "depth": 45.72
+  },
+  "doc": "name: Spring Pond | brand: Ethan Allen | sku: 073236 | refid: 3147a1bcca34cc2bfe60f8b547571045bc990afc | dimensions: 57.784 x 45.72 x 5.08 | url: https://drive.google.com/drive/folders/1qYdzaKpQLp16JV6rqVEs5xMlTJ4xJW19 | position: x=-10.039999999999957, y=533.8330062027206, z=186.18438720703125, rot=270"
+}

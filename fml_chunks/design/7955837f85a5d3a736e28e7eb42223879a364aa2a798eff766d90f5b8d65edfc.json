@@ -1,0 +1,88 @@
+{
+  "id": "7955837f85a5d3a736e28e7eb42223879a364aa2a798eff766d90f5b8d65edfc",
+  "parent_id": "f2f52c5e06e3a12266d0471e4f09443651d6a4888c3521b74c90625798115624",
+  "type": "design",
+  "rooms": [
+    "ce7fcda23505f385f678a488b2752edeee554371f12bacb1bb9f3109f3d097f0"
+  ],
+  "attrs": {
+    "name": "down bedroom",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 192.95345559976866,
+        "y": 202.601249137566,
+        "z": 1229.0308117522538,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 281.66559441029665,
+        "y": 385.3698436829952,
+        "z": 165.1,
+        "dx": -0.43666029471106044,
+        "dy": -0.8996264708326728,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270121634,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: down bedroom | rooms: 1"
+}

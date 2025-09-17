@@ -1,0 +1,20 @@
+{
+  "id": "76af5c43b9d6f5344171c8418d73022edb369d1c7a3e6bd9af2bff5726c8c44f",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "eb6720d78383292a6b0e4b753ad004a37cfee943",
+    "x": 1067.4422116308265,
+    "y": 1112.4168657751381,
+    "z": 0,
+    "width": 170.17,
+    "height": 15.95,
+    "z_height": 144.7799997799344,
+    "rotation": 90,
+    "name": "Fireplace",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 15.95
+  },
+  "doc": "name: Fireplace | brand: Floorplanner | refid: eb6720d78383292a6b0e4b753ad004a37cfee943 | dimensions: 170.17 x 15.95 x 15.95 | url: https://floorplanner.com | position: x=1067.4422116308265, y=1112.4168657751381, z=0, rot=90"
+}

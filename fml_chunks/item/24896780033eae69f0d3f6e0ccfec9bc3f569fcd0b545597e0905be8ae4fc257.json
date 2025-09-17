@@ -1,0 +1,26 @@
+{
+  "id": "24896780033eae69f0d3f6e0ccfec9bc3f569fcd0b545597e0905be8ae4fc257",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "ae2cb2276cf25d67d0d871e56147d588ead389da",
+    "x": -437.1833202249881,
+    "y": 91.88133594610855,
+    "z": 0,
+    "width": 117.246,
+    "height": 94.004,
+    "z_height": 94.172,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59127": 28242
+    },
+    "name": "Bennett Track-Arm 2 Cushion Armless",
+    "brand": "Ethan Allen",
+    "sku": "207128",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 94.004,
+    "type_guess": "textile"
+  },
+  "doc": "name: Bennett Track-Arm 2 Cushion Armless | brand: Ethan Allen | sku: 207128 | type: textile | refid: ae2cb2276cf25d67d0d871e56147d588ead389da | dimensions: 117.246 x 94.004 x 94.004 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=-437.1833202249881, y=91.88133594610855, z=0, rot=0"
+}

@@ -1,0 +1,38 @@
+{
+  "chunk_id": "96d40b09c8e2677b519762476734992a275d306f68f4f3105c881ecb204f78fa",
+  "level": "item",
+  "parent_id": "29233cdf7e619e2cba97867194f109fb70a32899024079216780268c55509196",
+  "room_id": null,
+  "type": "item",
+  "name": "b1ac696d342f1da63fe108f941de8c313cc5b126",
+  "refid": "b1ac696d342f1da63fe108f941de8c313cc5b126",
+  "position": {
+    "x": -40.753651490318134,
+    "y": 276.2898644338999,
+    "z": 0
+  },
+  "size": {
+    "width": 150.876,
+    "height": 54.85,
+    "z_height": 76.918
+  },
+  "rotation": 89,
+  "summary_text": "Item 'b1ac696d342f1da63fe108f941de8c313cc5b126' (item) at (-40.753651490318134, 276.2898644338999).",
+  "refs": {
+    "parent_id": "29233cdf7e619e2cba97867194f109fb70a32899024079216780268c55509196"
+  },
+  "raw": {
+    "refid": "b1ac696d342f1da63fe108f941de8c313cc5b126",
+    "x": -40.753651490318134,
+    "y": 276.2898644338999,
+    "z": 0,
+    "width": 150.876,
+    "height": 54.85,
+    "z_height": 76.918,
+    "rotation": 89,
+    "materials": {
+      "FINISH_962": 275,
+      "FABRIC_H3280": 922
+    }
+  }
+}

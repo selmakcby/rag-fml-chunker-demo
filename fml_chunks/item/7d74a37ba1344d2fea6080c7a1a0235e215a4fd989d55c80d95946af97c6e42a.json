@@ -1,0 +1,25 @@
+{
+  "id": "7d74a37ba1344d2fea6080c7a1a0235e215a4fd989d55c80d95946af97c6e42a",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "7ef79615167361fb6d0e0888d4ae30143d74bef4",
+    "x": 239.10691374598105,
+    "y": 170.52746867210993,
+    "z": 0,
+    "width": 111.76,
+    "height": 111.76,
+    "z_height": 46.954,
+    "rotation": 90,
+    "materials": {
+      "FINISH_193": "21"
+    },
+    "name": "Beacon Square Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "128601",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/beacon-square-coffee-table/128601.html",
+    "depth": 111.76,
+    "type_guess": "table"
+  },
+  "doc": "name: Beacon Square Coffee Table | brand: Ethan Allen | sku: 128601 | type: table | refid: 7ef79615167361fb6d0e0888d4ae30143d74bef4 | dimensions: 111.76 x 111.76 x 111.76 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/beacon-square-coffee-table/128601.html | position: x=239.10691374598105, y=170.52746867210993, z=0, rot=90"
+}

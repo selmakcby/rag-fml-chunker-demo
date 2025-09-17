@@ -1,0 +1,22 @@
+{
+  "id": "6bdbbca014c753984c72fea5525ceb602c03cb8cead4d954c925fafe03b95f35",
+  "parent_id": "2572ed58174dbb034e08378d32f35f4ef09201928af2375cbd73c5aaf37c49e1",
+  "type": "item",
+  "attrs": {
+    "refid": "919e45ced4cc5bd9bee5c3bbf8a3c5af9cbf435e",
+    "x": 662.1932602943529,
+    "y": 299.31009902446317,
+    "z": 0,
+    "width": 27.94,
+    "height": 45.72,
+    "z_height": 57.149,
+    "rotation": 180,
+    "name": "Cedric Serving Table",
+    "brand": "Ethan Allen",
+    "sku": "128129",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/cedric-serving-table/128129+++119.html",
+    "depth": 45.72,
+    "type_guess": "table"
+  },
+  "doc": "name: Cedric Serving Table | brand: Ethan Allen | sku: 128129 | type: table | refid: 919e45ced4cc5bd9bee5c3bbf8a3c5af9cbf435e | dimensions: 27.94 x 45.72 x 45.72 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/cedric-serving-table/128129+++119.html | position: x=662.1932602943529, y=299.31009902446317, z=0, rot=180"
+}

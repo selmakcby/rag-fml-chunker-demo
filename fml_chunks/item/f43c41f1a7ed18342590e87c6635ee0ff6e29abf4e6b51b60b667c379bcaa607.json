@@ -1,0 +1,26 @@
+{
+  "id": "f43c41f1a7ed18342590e87c6635ee0ff6e29abf4e6b51b60b667c379bcaa607",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "1616663eb2a30fa5e346e7688e6e50b274c234df",
+    "x": -402.4619206255228,
+    "y": 100.23208314138002,
+    "z": 0,
+    "width": 170.701,
+    "height": 106.644,
+    "z_height": 94.708,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23654": 928
+    },
+    "name": "Spencer RA RAF 2 Cushion, 26 in.",
+    "brand": "Ethan Allen",
+    "sku": "202376",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 106.644,
+    "type_guess": "textile"
+  },
+  "doc": "name: Spencer RA RAF 2 Cushion, 26 in. | brand: Ethan Allen | sku: 202376 | type: textile | refid: 1616663eb2a30fa5e346e7688e6e50b274c234df | dimensions: 170.701 x 106.644 x 106.644 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=-402.4619206255228, y=100.23208314138002, z=0, rot=0"
+}

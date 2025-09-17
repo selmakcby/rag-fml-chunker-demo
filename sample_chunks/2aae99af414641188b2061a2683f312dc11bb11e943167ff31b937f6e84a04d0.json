@@ -1,0 +1,115 @@
+{
+  "chunk_id": "2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0",
+  "level": "room",
+  "room_id": "2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Room 9000",
+  "room_type": "unknown",
+  "area_m2": 3.5451000000000015,
+  "num_walls": 4,
+  "num_doors": 1,
+  "num_windows": 0,
+  "item_counts": [
+    {
+      "class": "unknown",
+      "count": 1
+    }
+  ],
+  "summary_text": "Room 9000, area 3.5 m\u00b2. The room has four walls, one door, and zero windows. A central freestanding cabinet sits near the middle, oriented along the room\u2019s length, forming a compact storage/display zone. With minimal decor and neutral lighting, the space feels functional, balancing movement around the central piece.",
+  "refs": {
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+  },
+  "raw": {
+    "id": "2aae99af414641188b2061a2683f312dc11bb11e943167ff31b937f6e84a04d0",
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "type": "room",
+    "attrs": {
+      "id": 9000,
+      "name": "Room 9000",
+      "walls": [
+        {
+          "id": 19,
+          "a_x": -4.76,
+          "a_y": 5.27,
+          "a_z": 0.0,
+          "b_x": -8.27,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 17,
+          "a_x": -4.76,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -4.76,
+          "b_y": 5.27,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 13,
+          "a_x": -8.27,
+          "a_y": 4.26,
+          "a_z": 0.0,
+          "b_x": -4.76,
+          "b_y": 4.26,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.1,
+          "openings": [
+            {
+              "id": "222",
+              "wall0_id": 13,
+              "wall1_id": -1,
+              "position_x": -7.61,
+              "position_y": 4.26,
+              "position_z": 0.0,
+              "width": 1.19,
+              "height": 2.7,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 11,
+          "a_x": -8.27,
+          "a_y": 5.27,
+          "a_z": 0.0,
+          "b_x": -8.27,
+          "b_y": 4.26,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [],
+          "decor": []
+        }
+      ],
+      "items": [
+        {
+          "id": 3000,
+          "refid": "0a74fe428df1ffbc0d4eb91a1f5d93e810c02ac8",
+          "class_name": "unknown",
+          "position_x": -6.52,
+          "position_y": 4.75,
+          "position_z": 0.0,
+          "scale_x": 0.89,
+          "scale_y": 3.37,
+          "scale_z": 2.8,
+          "angle_z": 1.5707963267948966
+        }
+      ],
+      "area": 3.5451000000000015,
+      "summary": "Room 9000, area 3.5 m\u00b2. The room has four walls, one door, and zero windows. A central freestanding cabinet sits near the middle, oriented along the room\u2019s length, forming a compact storage/display zone. With minimal decor and neutral lighting, the space feels functional, balancing movement around the central piece."
+    }
+  }
+}

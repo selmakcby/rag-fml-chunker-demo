@@ -1,0 +1,22 @@
+{
+  "id": "fe33cffb49d2af84079695c79d91a98fc5c15a6a2d87912b378b2323df54d8b6",
+  "parent_id": "916e2c26d538fb76ec8e42ff607a6000508f3f2bfd1dcecd1014663fc2d1dc36",
+  "type": "item",
+  "attrs": {
+    "refid": "627f0ea663e2779100beb60e6b18479fc736597b",
+    "x": 301.562255859375,
+    "y": 9.96150016784668,
+    "z": 0,
+    "width": 80.529,
+    "height": 4.923,
+    "z_height": 176.986,
+    "rotation": 0,
+    "name": "Lennox Leather Floor Mirror, Black/Gold",
+    "brand": "Ethan Allen",
+    "sku": "074127B",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/lennox-leather-floor-mirror/074127.html?dwvar_074127_color=DW074127BS#start=1",
+    "depth": 4.923,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Lennox Leather Floor Mirror, Black/Gold | brand: Ethan Allen | sku: 074127B | type: mirror | refid: 627f0ea663e2779100beb60e6b18479fc736597b | dimensions: 80.529 x 4.923 x 4.923 | url: https://www.ethanallen.com/en_US/shop-decor-mirrors-mirrors/lennox-leather-floor-mirror/074127.html?dwvar_074127_color=DW074127BS#start=1 | position: x=301.562255859375, y=9.96150016784668, z=0, rot=0"
+}

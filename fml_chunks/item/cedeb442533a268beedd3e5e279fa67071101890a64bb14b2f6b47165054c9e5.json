@@ -1,0 +1,22 @@
+{
+  "id": "cedeb442533a268beedd3e5e279fa67071101890a64bb14b2f6b47165054c9e5",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "45f2880001463d3f7a18055c134927a805dce2fd",
+    "x": 907.0538330078125,
+    "y": 837.6605224609375,
+    "z": 125.96810150146484,
+    "width": 35.882,
+    "height": 28.666,
+    "z_height": 24.59,
+    "rotation": 180,
+    "name": "Peach peonies in glass cube",
+    "brand": "Ethan Allen",
+    "sku": "442222",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/peach-peonies-in-rectangular-glass-vase/442222.html",
+    "depth": 28.666,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Peach peonies in glass cube | brand: Ethan Allen | sku: 442222 | type: decor-jar | refid: 45f2880001463d3f7a18055c134927a805dce2fd | dimensions: 35.882 x 28.666 x 28.666 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/peach-peonies-in-rectangular-glass-vase/442222.html | position: x=907.0538330078125, y=837.6605224609375, z=125.96810150146484, rot=180"
+}

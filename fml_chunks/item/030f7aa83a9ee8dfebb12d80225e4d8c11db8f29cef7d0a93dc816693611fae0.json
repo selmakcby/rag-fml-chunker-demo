@@ -1,0 +1,21 @@
+{
+  "id": "030f7aa83a9ee8dfebb12d80225e4d8c11db8f29cef7d0a93dc816693611fae0",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "e09e0120a0baf76d04f78798f740919f72f8a3fc",
+    "x": 1019.793212890625,
+    "y": 445.30328369140625,
+    "z": 112.68852996826172,
+    "width": 143.49983978188024,
+    "height": 7,
+    "z_height": 90.79991986198412,
+    "rotation": 90,
+    "name": "Planar 47 Inch TV - PD470",
+    "brand": "Floorplanner",
+    "sku": "",
+    "url": "https://floorplanner.com",
+    "depth": 7.0
+  },
+  "doc": "name: Planar 47 Inch TV - PD470 | brand: Floorplanner | refid: e09e0120a0baf76d04f78798f740919f72f8a3fc | dimensions: 143.49983978188024 x 7.0 x 7 | url: https://floorplanner.com | position: x=1019.793212890625, y=445.30328369140625, z=112.68852996826172, rot=90"
+}

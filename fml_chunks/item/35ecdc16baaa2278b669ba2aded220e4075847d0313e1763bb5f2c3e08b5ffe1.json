@@ -1,0 +1,22 @@
+{
+  "id": "35ecdc16baaa2278b669ba2aded220e4075847d0313e1763bb5f2c3e08b5ffe1",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "949cb8d91e0712fdb5ef53761b194b6690be89a5",
+    "x": 289.05185033446526,
+    "y": 210.86071700699333,
+    "z": 0,
+    "width": 274.554,
+    "height": 362.71,
+    "z_height": 2.005,
+    "rotation": 88.65381089773183,
+    "name": "Demi Medallion Rug, 9' x 12'",
+    "brand": "Ethan Allen",
+    "sku": "041695R GRY",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/demi-medallion-rug/041695.html#lang=en_US&q=demi&start=1",
+    "depth": 362.71,
+    "type_guess": "rug"
+  },
+  "doc": "name: Demi Medallion Rug, 9' x 12' | brand: Ethan Allen | sku: 041695R GRY | type: rug | refid: 949cb8d91e0712fdb5ef53761b194b6690be89a5 | dimensions: 274.554 x 362.71 x 362.71 | url: https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/demi-medallion-rug/041695.html#lang=en_US&q=demi&start=1 | position: x=289.05185033446526, y=210.86071700699333, z=0, rot=88.65381089773183"
+}

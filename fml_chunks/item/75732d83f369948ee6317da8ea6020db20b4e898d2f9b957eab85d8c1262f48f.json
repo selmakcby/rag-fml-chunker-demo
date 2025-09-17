@@ -1,0 +1,26 @@
+{
+  "id": "75732d83f369948ee6317da8ea6020db20b4e898d2f9b957eab85d8c1262f48f",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "b0fdc6f97896a66c0b6e0dc1b2b2c449ead9f77d",
+    "x": 4.220362528742015,
+    "y": 280.1364276935169,
+    "z": 0,
+    "width": 93.35,
+    "height": 43.2,
+    "z_height": 219.71,
+    "rotation": 268.20787369281874,
+    "materials": {
+      "FINISH_610": 108,
+      "FINISH_369": 58
+    },
+    "name": "Villa Right Library Bookcase",
+    "brand": "Ethan Allen",
+    "sku": "139352",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-storage-display-bookcases/villa-triple-library-bookcase/139350G.html?dwvar_139350G_finish=Cotton?site=#q=villa&lang=en_US&site=&start=1",
+    "depth": 43.2,
+    "type_guess": "shelving"
+  },
+  "doc": "name: Villa Right Library Bookcase | brand: Ethan Allen | sku: 139352 | type: shelving | refid: b0fdc6f97896a66c0b6e0dc1b2b2c449ead9f77d | dimensions: 93.35 x 43.2 x 43.2 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-storage-display-bookcases/villa-triple-library-bookcase/139350G.html?dwvar_139350G_finish=Cotton?site=#q=villa&lang=en_US&site=&start=1 | position: x=4.220362528742015, y=280.1364276935169, z=0, rot=268.20787369281874"
+}

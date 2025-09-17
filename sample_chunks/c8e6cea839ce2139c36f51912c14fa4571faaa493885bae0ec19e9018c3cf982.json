@@ -1,0 +1,44 @@
+{
+  "chunk_id": "c8e6cea839ce2139c36f51912c14fa4571faaa493885bae0ec19e9018c3cf982",
+  "level": "room",
+  "room_id": "c8e6cea839ce2139c36f51912c14fa4571faaa493885bae0ec19e9018c3cf982",
+  "design_id": "dcf8ad450bb86f45d0540c0f6f5c87317893ef51cbb0ae8137939dc71be7af32",
+  "floor_id": "b563e94374e58eff6d4f7e97b3ac83729ce7e677b733346b5e977539eed1064f",
+  "project_id": "f65cf93f2b08791303511f8cf75fa75fb3a6355fa0db1f0ba208d11f4ecbe5b8",
+  "name": "Area b8b15ea41b596b120867eb9c18dc6dfd895f7749c89b3029c86b9f955bfe9a39",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 127116.07036198028,
+  "summary_text": "First design \u2014 8c3cf982: polygon with 4 points. Approx. area (units\u00b2) 127116. Contains: 73a1e4686362b0f4e9ca002d27ce012843120e42, 97cd4113ddfb4ab0c86f0a8af07410ccb095f310, 9ba572df1bd5a5cb5b0f8ca7cc4f2e3240032a09, f84bdd090bfdc633de3d2e3b4a1b7c6ded2f6f73, f8c812b1acf5603b2f2186adfdc6ea151a7ffca4.",
+  "refs": {
+    "parent_id": "dcf8ad450bb86f45d0540c0f6f5c87317893ef51cbb0ae8137939dc71be7af32",
+    "area_refid": "b8b15ea41b596b120867eb9c18dc6dfd895f7749c89b3029c86b9f955bfe9a39"
+  },
+  "raw": {
+    "area": {
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 37.92378664937247,
+          "y": 384.6215400092249
+        },
+        {
+          "x": 413.1879542357483,
+          "y": 384.62154000922476
+        },
+        {
+          "x": 413.1879542357483,
+          "y": 45.8839750038436
+        },
+        {
+          "x": 37.92378664937247,
+          "y": 45.8839750038436
+        }
+      ]
+    }
+  }
+}

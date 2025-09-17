@@ -1,0 +1,49 @@
+{
+  "chunk_id": "243cc8e770f1df916e412ce253a7e490a8a6b356512ab13ca85b474abdb8db1f",
+  "level": "room",
+  "room_id": "243cc8e770f1df916e412ce253a7e490a8a6b356512ab13ca85b474abdb8db1f",
+  "design_id": "efd2b45271ef6b079b6c0d08f1c8a67eb6c33d928287e3556cc5a6008f3cea11",
+  "floor_id": "d7f80624b8c56ce14f3ee7d60baf9639c00d03682031b025636a0e9f855a0fc6",
+  "project_id": "ec8c9e95029ca7001fcf52ddffef1e31ce0e34c7abeb04f2c79438930a5f84b4",
+  "name": "Area rs-2542",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 334450.94298326905,
+  "summary_text": "First design \u2014 bdb8db1f: polygon with 4 points. Approx. area (units\u00b2) 334451. Contains: 01d9fff2f701af7d5d40a7a5adad5bf40d4c49c8, 0d5dd20633f9b30cf864d66ce6844f112a8b2df1, 15f0e306249ad16a9642bcac9fc102c218d93924, 161727a1130d8c49642f457d0433040e942ea4da, 2254791ad60f4b5c36a27857eff0d659d87ba6f3, 2fd999fe62c3b9d62b7568113e108aa721712179, 58399336a2131cb28c984d1168ac41b1abf276b2, a7a47e92540824e74b4d4e7e9172be0f3e43adeb, b0fdc6f97896a66c0b6e0dc1b2b2c449ead9f77d, c0a7841d0a7ad0537886b96007783adaed9f3308, e3977cac6bd5362672b1310900100aaca4603a60, ebf13b3eef1e2f66c8bb5a238d0b4b2d2a5d69c7.",
+  "refs": {
+    "parent_id": "efd2b45271ef6b079b6c0d08f1c8a67eb6c33d928287e3556cc5a6008f3cea11",
+    "area_refid": "rs-2542"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-2542",
+      "color": "#FFDFBF",
+      "name": "Living",
+      "role": 0,
+      "name_x": 0,
+      "name_y": 0,
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 99.99999999999999,
+          "y": 648.6399991660671
+        },
+        {
+          "x": 709.599999073408,
+          "y": 648.6399991660671
+        },
+        {
+          "x": 709.599999073408,
+          "y": 100.00000000000001
+        },
+        {
+          "x": 100,
+          "y": 100
+        }
+      ]
+    }
+  }
+}

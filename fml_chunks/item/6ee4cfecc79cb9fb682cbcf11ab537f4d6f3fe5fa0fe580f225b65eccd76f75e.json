@@ -1,0 +1,24 @@
+{
+  "id": "6ee4cfecc79cb9fb682cbcf11ab537f4d6f3fe5fa0fe580f225b65eccd76f75e",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "21a5042c031a8ba87c5ef7b2586c9b021abcf1ef",
+    "x": 513.0812489674971,
+    "y": 142.47164147882012,
+    "z": 0,
+    "width": 50.8,
+    "height": 50.8,
+    "z_height": 48.503,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_23633": "26577"
+    },
+    "name": "Dacian Cube Ottoman",
+    "brand": "Ethan Allen",
+    "sku": "201000",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/dacian-cube-ottoman/201000.html#start=1",
+    "depth": 50.8
+  },
+  "doc": "name: Dacian Cube Ottoman | brand: Ethan Allen | sku: 201000 | refid: 21a5042c031a8ba87c5ef7b2586c9b021abcf1ef | dimensions: 50.8 x 50.8 x 50.8 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/dacian-cube-ottoman/201000.html#start=1 | position: x=513.0812489674971, y=142.47164147882012, z=0, rot=270"
+}

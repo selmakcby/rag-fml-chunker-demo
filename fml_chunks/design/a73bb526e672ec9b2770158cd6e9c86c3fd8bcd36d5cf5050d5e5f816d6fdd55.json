@@ -1,0 +1,87 @@
+{
+  "id": "a73bb526e672ec9b2770158cd6e9c86c3fd8bcd36d5cf5050d5e5f816d6fdd55",
+  "parent_id": "1d6489c58998cbd79f2af89e9111920b0af2f1017e425392791bf11ef4bc0ece",
+  "type": "design",
+  "rooms": [
+    "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+    "033a9a7a9d1a8948d194c41c47903dbdcf78b073cde2133cc9f345657c282cfc"
+  ],
+  "attrs": {
+    "name": "First design",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 648.5116577148438,
+        "y": 988.51806640625,
+        "z": 170.1698455810547,
+        "dx": 0.00869949720799923,
+        "dy": -0.9968792796134949,
+        "dz": -0.07845909893512726,
+        "ux": 0.0006846653413958848,
+        "uy": -0.0784561038017273,
+        "uz": 0.9969173073768616,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 70,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "url": "https://d273csydae9vpp.cloudfront.net/uploads/camera_backgrounds/M3_Cinematic_Realism_equirectangular-jpg_exterior_view_from_a_950604422_12373315.jpg",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 825.7937622070312,
+        "y": 628.0724487304688,
+        "z": 165.10000610351562,
+        "dx": -0.5632097721099854,
+        "dy": -0.8207364082336426,
+        "dz": -0.09584575891494751,
+        "ux": -0.054230935871601105,
+        "uy": -0.0790279358625412,
+        "uz": 0.9953961968421936,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 70,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "url": "https://d273csydae9vpp.cloudfront.net/uploads/camera_backgrounds/M3_Cinematic_Realism_equirectangular-jpg_exterior_view_from_a_950604422_12373315.jpg",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270087524,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: First design | rooms: 2"
+}

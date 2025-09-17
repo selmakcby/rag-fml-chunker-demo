@@ -1,0 +1,27 @@
+{
+  "id": "a26b5c4c34d1ced10a94aaa688181ce5e8e63b362b85836ce5fca5823900fd38",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "834e0d1faf87e2e0034a57ab96ed16ff316a8866",
+    "x": 972.2741631233858,
+    "y": 129.61988961229554,
+    "z": 0,
+    "width": 45.43,
+    "height": 45.43,
+    "z_height": 76.216,
+    "rotation": 89,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Lorna Labradorite Table Lamp",
+    "brand": "Ethan Allen",
+    "sku": "096185 GRN",
+    "url": "www.ethanallen.com",
+    "depth": 45.43,
+    "type_guess": "table"
+  },
+  "doc": "name: Lorna Labradorite Table Lamp | brand: Ethan Allen | sku: 096185 GRN | type: table | refid: 834e0d1faf87e2e0034a57ab96ed16ff316a8866 | dimensions: 45.43 x 45.43 x 45.43 | url: www.ethanallen.com | position: x=972.2741631233858, y=129.61988961229554, z=0, rot=89"
+}

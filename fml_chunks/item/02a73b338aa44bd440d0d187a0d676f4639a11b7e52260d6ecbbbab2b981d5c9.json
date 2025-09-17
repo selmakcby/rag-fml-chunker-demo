@@ -1,0 +1,25 @@
+{
+  "id": "02a73b338aa44bd440d0d187a0d676f4639a11b7e52260d6ecbbbab2b981d5c9",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "f57a590064fffe88cef5522baf0fb9e48cf43f75",
+    "x": 906.0550727111245,
+    "y": 835.7885382565108,
+    "z": 0,
+    "width": 86.38,
+    "height": 32.41,
+    "z_height": 224.812,
+    "rotation": 0,
+    "materials": {
+      "FINISH_612": 24
+    },
+    "name": "Crawford Tall Bookcase",
+    "brand": "Ethan Allen",
+    "sku": "339609",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-home-office-storage-display/crawford-tall-bookcase/339609.html?dwvar_339609_finish=612",
+    "depth": 32.41,
+    "type_guess": "shelving"
+  },
+  "doc": "name: Crawford Tall Bookcase | brand: Ethan Allen | sku: 339609 | type: shelving | refid: f57a590064fffe88cef5522baf0fb9e48cf43f75 | dimensions: 86.38 x 32.41 x 32.41 | url: https://www.ethanallen.com/en_US/shop-furniture-home-office-storage-display/crawford-tall-bookcase/339609.html?dwvar_339609_finish=612 | position: x=906.0550727111245, y=835.7885382565108, z=0, rot=0"
+}

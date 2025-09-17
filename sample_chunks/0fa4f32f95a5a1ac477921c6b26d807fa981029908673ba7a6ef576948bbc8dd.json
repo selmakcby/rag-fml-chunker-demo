@@ -1,0 +1,52 @@
+{
+  "chunk_id": "0fa4f32f95a5a1ac477921c6b26d807fa981029908673ba7a6ef576948bbc8dd",
+  "level": "room",
+  "room_id": "0fa4f32f95a5a1ac477921c6b26d807fa981029908673ba7a6ef576948bbc8dd",
+  "design_id": "f83e74761e802c24c5014061ce87b0b933e6a677dccd9272da30053b9e4abe84",
+  "floor_id": "35ea6ebf4faa4d948b07858d952527ba52edf01cff2f1c6eafccf43a394db8db",
+  "project_id": "eecc799742b8f96f1117e38a10a677e5d0ea6c97341ef26fadf815b65c55d4ce",
+  "name": "Area 0cefedb123cdd518769f646fb8cb7cf3a994e37e10258b3aa2eeeb37c6093a9f",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 556127.0102376628,
+  "summary_text": "First design \u2014 48bbc8dd: polygon with 6 points. Approx. area (units\u00b2) 556127. Contains: 16ef56423bc12262b5eeba711e5e75f78ac7bb50, 21a5042c031a8ba87c5ef7b2586c9b021abcf1ef, 543ce4c2c8bb11c5e47c971737af1c592b9c44a1, 60fda97b779866dc1c6e5523a6a0531aff9f8e05, 7ef79615167361fb6d0e0888d4ae30143d74bef4, 81f5aff7c345c3091a1f10c7bb73e880b78b8399, 88cde2e2dc002419f5b709484fb4404a427bc960, 9d8a68cdc2f7d007e03c1b5e2da5361198ad0be5, aa91e5ca31630b478d1564d70f93aa35c568965b, b4a3c488df3917532a85e46ae160d5cc193a7751, b56d8a566bcc4fde39bf96f2a7f367ec4d4663a1, b699aa7f619d5996ef4a2773e86ee5fcd139ce39.",
+  "refs": {
+    "parent_id": "f83e74761e802c24c5014061ce87b0b933e6a677dccd9272da30053b9e4abe84",
+    "area_refid": "0cefedb123cdd518769f646fb8cb7cf3a994e37e10258b3aa2eeeb37c6093a9f"
+  },
+  "raw": {
+    "area": {
+      "color": "#E9EAE4",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 24.819138886952487,
+          "y": 473.5175025354862
+        },
+        {
+          "x": 898.1997839034008,
+          "y": 473.51750253548624
+        },
+        {
+          "x": 898.1997839033727,
+          "y": -283.7373192629599
+        },
+        {
+          "x": 479.4892981958537,
+          "y": -283.7373192629404
+        },
+        {
+          "x": 479.4892981958538,
+          "y": -52.2624966653281
+        },
+        {
+          "x": 24.81913888695249,
+          "y": -52.262496665328115
+        }
+      ]
+    }
+  }
+}

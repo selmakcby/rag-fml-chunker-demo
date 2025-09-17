@@ -1,0 +1,21 @@
+{
+  "id": "c9a2bd928335fe979d53c7f5e0c83b4040f6b706aedb3c8afdaa1cd527dd89cc",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "473e5a22ae1ba1bef778873ca6829c0f601233d6",
+    "x": 823.8361276620578,
+    "y": 727.1499823322358,
+    "z": 0,
+    "width": 37.22,
+    "height": 63.08,
+    "z_height": 83.04,
+    "rotation": 180,
+    "name": "Zaar 'Easy Plumb' CC Closet",
+    "brand": "Floorplanner",
+    "sku": "PZW00E",
+    "url": "http://www.heritagebathrooms.com/epages/Heritage.sf/en_GB/?ObjectPath=/Shops/Heritage/Products/PZW00E",
+    "depth": 63.08
+  },
+  "doc": "name: Zaar 'Easy Plumb' CC Closet | brand: Floorplanner | sku: PZW00E | refid: 473e5a22ae1ba1bef778873ca6829c0f601233d6 | dimensions: 37.22 x 63.08 x 63.08 | url: http://www.heritagebathrooms.com/epages/Heritage.sf/en_GB/?ObjectPath=/Shops/Heritage/Products/PZW00E | position: x=823.8361276620578, y=727.1499823322358, z=0, rot=180"
+}

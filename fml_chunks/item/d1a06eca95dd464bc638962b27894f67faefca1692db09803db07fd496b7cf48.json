@@ -1,0 +1,21 @@
+{
+  "id": "d1a06eca95dd464bc638962b27894f67faefca1692db09803db07fd496b7cf48",
+  "parent_id": "252876b725a6c156e9718ed984183b89031a4e81e1e683c18e309039b1c2eb76",
+  "type": "item",
+  "attrs": {
+    "refid": "d0ccb3a038891dd9bc1fdd9c72bd1152c4b64197",
+    "x": 414.8609310230351,
+    "y": 244.51768391485632,
+    "z": 0,
+    "width": 73.936,
+    "height": 73.936,
+    "z_height": 48.494,
+    "rotation": 211.5,
+    "name": "Coco Ottoman",
+    "brand": "Ethan Allen",
+    "sku": "207300",
+    "url": "https://www.ethanallen.com/en_US/no-results-discontinued.html",
+    "depth": 73.936
+  },
+  "doc": "name: Coco Ottoman | brand: Ethan Allen | sku: 207300 | refid: d0ccb3a038891dd9bc1fdd9c72bd1152c4b64197 | dimensions: 73.936 x 73.936 x 73.936 | url: https://www.ethanallen.com/en_US/no-results-discontinued.html | position: x=414.8609310230351, y=244.51768391485632, z=0, rot=211.5"
+}

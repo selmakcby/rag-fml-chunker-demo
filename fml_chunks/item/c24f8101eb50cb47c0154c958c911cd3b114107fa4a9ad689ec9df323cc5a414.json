@@ -1,0 +1,26 @@
+{
+  "id": "c24f8101eb50cb47c0154c958c911cd3b114107fa4a9ad689ec9df323cc5a414",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "eae33a0034b7a09e064c9a0f395ac58ee76d9f1d",
+    "x": 129.62572320255504,
+    "y": 196.50786157072173,
+    "z": 0,
+    "width": 188.843,
+    "height": 113.022,
+    "z_height": 88.915,
+    "rotation": 270.6654997789027,
+    "materials": {
+      "FINISH_939": "218",
+      "LEATHER_L5056": "916"
+    },
+    "name": "Spencer TA 74'' Sofa, 26 in. Seat",
+    "brand": "Ethan Allen",
+    "sku": "722392",
+    "url": "https://www.ethanallen.com/en_US/shop-products-leather-furniture-sofas/spencer-track-arm-leather-sofa/spencerTAsofaLTH.html?dwvar_spencerTAsofaLTH_finish=939#lang=en_US&q=spencer&start=1",
+    "depth": 113.022,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Spencer TA 74'' Sofa, 26 in. Seat | brand: Ethan Allen | sku: 722392 | type: sofa | refid: eae33a0034b7a09e064c9a0f395ac58ee76d9f1d | dimensions: 188.843 x 113.022 x 113.022 | url: https://www.ethanallen.com/en_US/shop-products-leather-furniture-sofas/spencer-track-arm-leather-sofa/spencerTAsofaLTH.html?dwvar_spencerTAsofaLTH_finish=939#lang=en_US&q=spencer&start=1 | position: x=129.62572320255504, y=196.50786157072173, z=0, rot=270.6654997789027"
+}

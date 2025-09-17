@@ -1,0 +1,26 @@
+{
+  "id": "ee8c52bad5775ba521004831fdc94ca057158950f8b23e902d64e5c0281e3e7b",
+  "parent_id": "e276c188abb79d2db802881fa72f71a8643a67f0fbe629ecd996a6e0b4136b1c",
+  "type": "item",
+  "attrs": {
+    "refid": "572ead26604715b67d95e7d6537c77fbee53d285",
+    "x": 154.8308693469306,
+    "y": 502.76923754161334,
+    "z": 0,
+    "width": 101.684,
+    "height": 101.832,
+    "z_height": 40.384,
+    "rotation": 0,
+    "mirrored": [
+      0,
+      0
+    ],
+    "name": "Girard Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "228030 429",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/girard-reclaimed-wood-coffee-table/228030.html?dwvar_228030_finish=428#lang=en_US&q=girard&start=1",
+    "depth": 101.832,
+    "type_guess": "table"
+  },
+  "doc": "name: Girard Coffee Table | brand: Ethan Allen | sku: 228030 429 | type: table | refid: 572ead26604715b67d95e7d6537c77fbee53d285 | dimensions: 101.684 x 101.832 x 101.832 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/girard-reclaimed-wood-coffee-table/228030.html?dwvar_228030_finish=428#lang=en_US&q=girard&start=1 | position: x=154.8308693469306, y=502.76923754161334, z=0, rot=0"
+}

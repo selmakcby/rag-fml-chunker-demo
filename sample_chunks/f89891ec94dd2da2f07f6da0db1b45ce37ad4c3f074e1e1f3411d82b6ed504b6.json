@@ -1,0 +1,18 @@
+{
+  "chunk_id": "f89891ec94dd2da2f07f6da0db1b45ce37ad4c3f074e1e1f3411d82b6ed504b6",
+  "level": "floor",
+  "floor_id": "f89891ec94dd2da2f07f6da0db1b45ce37ad4c3f074e1e1f3411d82b6ed504b6",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "Floor 2",
+  "level_num": 2,
+  "height": 274.32,
+  "summary_text": "Floor 'Floor 2', level 2, 2 designs.",
+  "refs": {
+    "parent_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a"
+  },
+  "raw": {
+    "id": 255066968,
+    "name": "Floor 2",
+    "level": 2
+  }
+}

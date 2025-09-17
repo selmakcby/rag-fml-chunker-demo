@@ -1,0 +1,57 @@
+{
+  "chunk_id": "7f59943dd04902e0ffa359b090999949ea72a62e476bed95c2faf92f604435f7",
+  "level": "room",
+  "room_id": "7f59943dd04902e0ffa359b090999949ea72a62e476bed95c2faf92f604435f7",
+  "design_id": "f431a91b5b76a97fb3b7af2c97a40bae9d5fe6168fe92439bc574e773880dc2a",
+  "floor_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "Area rs-14772",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 459140.65823493915,
+  "summary_text": "LIVE3 \u2014 604435f7: polygon with 6 points. Approx. area (units\u00b2) 459141. Contains: 0488142fa085d6762e80e9b3322726ffdcff5918, 10ddf3cfd25c0ec86ac74e4e3567bcd11bf03549, 16f99c186c5cbf0cfc342676beb855124ddf2194, 3da1c44497af7607cf5622eb4a434696d8521862, 440d4f43e7041dab627b981e7c0779837bf2ca7a, 5659a8d03b6ab47f44c8e56d6d75e35ce2d660fb, 6817800fbd9d5359a97df312034dd6e8bf362589, 865f41749010cb0b54e87fac980ae03e38d1df35, 9769eb9ba9a348105dbf2e2c39bc101442d89d08, 98a25a74e5e8c9b45732a0c89f9e5497b6247196, a9ccebfbdbb7c1374332efa32123cd981c66f0c4, b56d8a566bcc4fde39bf96f2a7f367ec4d4663a1.",
+  "refs": {
+    "parent_id": "f431a91b5b76a97fb3b7af2c97a40bae9d5fe6168fe92439bc574e773880dc2a",
+    "area_refid": "rs-14772"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-14772",
+      "color": "#FFDFBF",
+      "name": "Living",
+      "role": 0,
+      "name_x": -238,
+      "name_y": -12,
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 99.99999999999997,
+          "y": 675.1765415778274
+        },
+        {
+          "x": 269.1603240412862,
+          "y": 930.3504411422564
+        },
+        {
+          "x": 515.2541366977746,
+          "y": 930.3504411422563
+        },
+        {
+          "x": 704.5098390811451,
+          "y": 705.9798854871706
+        },
+        {
+          "x": 704.5098390811451,
+          "y": 100.0000000000001
+        },
+        {
+          "x": 100.00000000000003,
+          "y": 100.00000000000003
+        }
+      ]
+    }
+  }
+}

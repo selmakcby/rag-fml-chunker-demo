@@ -1,0 +1,24 @@
+{
+  "id": "5bf91ca819cf6f186847ba246d6240128cf6abd35580d6c3af7247813812b898",
+  "parent_id": "b7ccf3f36e54889bc940023a8493d04aaaf639d3c9ec8739fb07aefbc80c2292",
+  "type": "item",
+  "attrs": {
+    "refid": "07f2c477961fab9526a5b66f0fd150cb3eb76868",
+    "x": 70.52438583153548,
+    "y": 233.0469226980116,
+    "z": 0,
+    "width": 73.36,
+    "height": 86.438,
+    "z_height": 101.451,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_31016": 26543
+    },
+    "name": "Mod Motion Glider",
+    "brand": "Ethan Allen",
+    "sku": "E17015",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/mod-motion-glider/E17015.html",
+    "depth": 86.438
+  },
+  "doc": "name: Mod Motion Glider | brand: Ethan Allen | sku: E17015 | refid: 07f2c477961fab9526a5b66f0fd150cb3eb76868 | dimensions: 73.36 x 86.438 x 86.438 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/mod-motion-glider/E17015.html | position: x=70.52438583153548, y=233.0469226980116, z=0, rot=270"
+}

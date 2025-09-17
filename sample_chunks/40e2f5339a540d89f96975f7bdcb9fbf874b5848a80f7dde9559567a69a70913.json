@@ -1,0 +1,45 @@
+{
+  "chunk_id": "40e2f5339a540d89f96975f7bdcb9fbf874b5848a80f7dde9559567a69a70913",
+  "level": "room",
+  "room_id": "40e2f5339a540d89f96975f7bdcb9fbf874b5848a80f7dde9559567a69a70913",
+  "design_id": "e78999570783ebf925e4df7d3121c8622d6b28b5334c5b45c3416d012332cb14",
+  "floor_id": "f89891ec94dd2da2f07f6da0db1b45ce37ad4c3f074e1e1f3411d82b6ed504b6",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "Area rs-16979",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 226001.17391913498,
+  "summary_text": "PATIO \u2014 69a70913: polygon with 4 points. Approx. area (units\u00b2) 226001. Contains: 22d236d406c76377bbb46fa099cabc7cc6a07665, 40432f585279098b39ea46e311b0269248095a8b, 8af701bf6405890e65059cf2d7b9c9d43ac0958a, bcd0adbe12f854d62bbe33ce6abb3e361c30bda0, d4b5d72d29f4e6070d2566d3747da6b618865fab, fd3a0b52f9b52d3902099544ef5dda04740d2b7e.",
+  "refs": {
+    "parent_id": "e78999570783ebf925e4df7d3121c8622d6b28b5334c5b45c3416d012332cb14",
+    "area_refid": "rs-16979"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-16979",
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": -20.729774935036865,
+          "y": 506.954726893088
+        },
+        {
+          "x": 436.9795617361977,
+          "y": 506.9547268930876
+        },
+        {
+          "x": 436.9795617361989,
+          "y": 13.189020554727017
+        },
+        {
+          "x": -20.729774935036854,
+          "y": 13.189020554727021
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "042d1d53d9fc0f8ba7dc9ba965688dd5f183f10faf1080b0b4a28c7938dd53d0",
+  "parent_id": "6693f0e341ea5e61d0717629745f38fa075c364a46cb770c53a2ebc80d5d4a2e",
+  "type": "item",
+  "attrs": {
+    "refid": "a58885b138c463870ae858aae6acd55ca46574c8",
+    "x": 412.2271345059205,
+    "y": 439.34381439181976,
+    "z": 0,
+    "width": 94.59,
+    "height": 94.59,
+    "z_height": 45.966,
+    "rotation": 315.5,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_11254": 26586
+    },
+    "name": "Nassau 37\" Round Ottoman ",
+    "brand": "Ethan Allen",
+    "sku": "207399",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/nassau-round-ottoman/NassauOttRd.html",
+    "depth": 94.59
+  },
+  "doc": "name: Nassau 37\" Round Ottoman  | brand: Ethan Allen | sku: 207399 | refid: a58885b138c463870ae858aae6acd55ca46574c8 | dimensions: 94.59 x 94.59 x 94.59 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/nassau-round-ottoman/NassauOttRd.html | position: x=412.2271345059205, y=439.34381439181976, z=0, rot=315.5"
+}

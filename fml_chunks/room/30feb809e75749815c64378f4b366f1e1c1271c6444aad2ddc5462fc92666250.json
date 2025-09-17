@@ -1,0 +1,40 @@
+{
+  "id": "30feb809e75749815c64378f4b366f1e1c1271c6444aad2ddc5462fc92666250",
+  "parent_id": "f2feb51dfcc2bdaf2c97f996d31a7aaf22c42c69f70ff5ca86654f1229844862",
+  "type": "room",
+  "items": [
+    "ec60b6cc4cf058388386e8492faf4efa7dc4e8dd3a5e4b0bf46d4ad6b2a15322",
+    "0828dea5d755401d9ff714ed8f333a7b89b157b1dd20918965e30d109b6a3c03",
+    "37bf13cdb98d9e729e5fc896c0382233bde55c3d3f25bb0c0c5ef239b54e85c7",
+    "a563fd0220fb7139b77c2b70eb738e09ed1997848a0da219164412afc4b24e47",
+    "8296bb9618bbe0599dcdd1a5b402a5b6badafd34f0eee3e1015e36d462b422fe",
+    "8f1e87415aecb4c96eac3396b14298898b0023c0978b90ce806780e685c4d1b2",
+    "4b64f5fbd53ad38d96be8f645e902c96d0f80b2d27ae0fd635b157417e1aaf38",
+    "f297ee973d0c33b40e98800f6d1343c3c6e18023362bf3c43e1a299a76e6c682",
+    "ad5d7b735a039157426cc8cb90c2c2429d2af1f7573210618ff308ee613d5fcc",
+    "3c49561dad203497469ee45ef72588671b25b2ea18b6081bfa66bcf800616f4a",
+    "4ec85f148501cf4ea0dfd7e11214a16dcbe3eed27a23f0c83d1839e0b6f18f01",
+    "92764be2bb5d6104e7cb89b48bce18f3306be756d054921f4051cbbb66c583b1",
+    "8e9ee758559645de75b32e213d79e195a3c0f6c9d67dc2f4e90538da7f49151e",
+    "1c52423ec43090fac0f06f405df0b0e67a964886d7f7e967d68527925f700cdf",
+    "bf83c8ecf2f6cabd2dab1849c9e94f9ca72f075f1ecfc6ced1d6227e1f47441a",
+    "075ab0ce1ac8459e1a35d0067d752b103c22027099ae9c889ee4862038edf4ae",
+    "4e4ee2840a1439db566e15a4c92b7e22c37ec11fdb701433528174de9b2f6cad",
+    "50e1299a1a9933881605ea3ee4e689fa2b08b97d0cee94abce0da38483acf12f",
+    "600eb1a62eb83eb3ead1e8c33e77b4e1adf8e33c2e8ae18d635529ea6f251e05",
+    "7127f19428c0391657a7f68d469649967da75800360d2be17aad283fb3bbbf77",
+    "a05e9029bbd891daec00eaa248f2aae114694c978e7940771df0f60a7033bc63"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-14772",
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": -238,
+    "name_y": -12,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Odin Accent Table, Bennett Roll-Arm Chair and a Half, Harris Chair - PROTO, Odin Accent Table, Bennett Roll-Arm Chair and a Half, Dynasty Rectangular Coffee Table, Nassau 37\" Round Ottoman, Smooth Top, Harris Chair - PROTO",
+  "summary": "Living: 8 items (Odin Accent Table, Bennett Roll-Arm Chair and a Half, Harris Chair - PROTO, Odin Accent Table, Bennett Roll-Arm Chair and a Half, Dynasty Rectangular Coffee Table)."
+}

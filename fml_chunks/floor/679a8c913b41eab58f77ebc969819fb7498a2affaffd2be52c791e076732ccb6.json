@@ -1,0 +1,67 @@
+{
+  "id": "679a8c913b41eab58f77ebc969819fb7498a2affaffd2be52c791e076732ccb6",
+  "parent_id": "f7e3c78c2f2e55e46c11beb3f94825f86d45288c8c76f298b66541539a0841e2",
+  "type": "floor",
+  "designs": [
+    "c713a79ea5222b131ce2216adb744c677f0a9895b6149b5b20d9bc23e1b619be",
+    "7fff154d179c8b5b5bf0c12f5a73777ce37f59296f9b84cd797c57e70b32dd64",
+    "85780f672942312c34b8f813c455e01ab274c62852b9e972ec8d6fe802cdb375"
+  ],
+  "attrs": {
+    "id": 255029210,
+    "project_id": 167483285,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T21:46:37.000Z",
+    "updated_at": "2025-07-13T13:13:55.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294313070,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294313073,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 3",
+  "summary": "Floor with 5 rooms. Highlights: room: 0 items (no items). room: 0 items (no items). room: 7 items (Clyde Stationary Chair_Diamond Tuft, Riverdale Rug, Miles 41\" Leather Ottoman, Jaca Marble Top Accent Table, Cedric Serving Table, Bayliss Round Pull Up Table)."
+}

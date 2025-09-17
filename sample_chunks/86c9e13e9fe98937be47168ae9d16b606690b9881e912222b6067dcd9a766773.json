@@ -1,0 +1,37 @@
+{
+  "chunk_id": "86c9e13e9fe98937be47168ae9d16b606690b9881e912222b6067dcd9a766773",
+  "level": "item",
+  "parent_id": "5900357ea0df7dc9229925e4780bc47fc21e77cfc7b1ccfca974da6d8e7f19da",
+  "room_id": "f358d3c1c596089248fe4c29a67cfcfd1518f48b16f0af443cb31a95fe7a2eef",
+  "type": "item",
+  "name": "cb964b39c8c6e4537719544007d367fbff986968",
+  "refid": "cb964b39c8c6e4537719544007d367fbff986968",
+  "position": {
+    "x": 443.1450500488281,
+    "y": 309.2882995605469,
+    "z": 16.801769256591797
+  },
+  "size": {
+    "width": 236.938,
+    "height": 183.028,
+    "z_height": 65.873
+  },
+  "rotation": 89.24139404296875,
+  "summary_text": "Item 'cb964b39c8c6e4537719544007d367fbff986968' (item) at (443.1450500488281, 309.2882995605469).",
+  "refs": {
+    "parent_id": "5900357ea0df7dc9229925e4780bc47fc21e77cfc7b1ccfca974da6d8e7f19da"
+  },
+  "raw": {
+    "refid": "cb964b39c8c6e4537719544007d367fbff986968",
+    "x": 443.1450500488281,
+    "y": 309.2882995605469,
+    "z": 16.801769256591797,
+    "width": 236.938,
+    "height": 183.028,
+    "z_height": 65.873,
+    "rotation": 89.24139404296875,
+    "materials": {
+      "FABRIC_BEDDING_IVO": 17443
+    }
+  }
+}

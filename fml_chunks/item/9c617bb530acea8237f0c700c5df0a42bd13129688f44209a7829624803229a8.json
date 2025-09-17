@@ -1,0 +1,30 @@
+{
+  "id": "9c617bb530acea8237f0c700c5df0a42bd13129688f44209a7829624803229a8",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "a29a4c7a52e1ce68fc4168ca7c9e53803c9e9e73",
+    "x": -239.42763052470448,
+    "y": 687.9903279027926,
+    "z": 0,
+    "width": 188.456,
+    "height": 94.116,
+    "z_height": 94.341,
+    "rotation": 0,
+    "mirrored": [
+      0,
+      0
+    ],
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59127": 28242
+    },
+    "name": "Bennett Track-Arm RAF 3 Cushion",
+    "brand": "Ethan Allen",
+    "sku": "207123",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 94.116,
+    "type_guess": "textile"
+  },
+  "doc": "name: Bennett Track-Arm RAF 3 Cushion | brand: Ethan Allen | sku: 207123 | type: textile | refid: a29a4c7a52e1ce68fc4168ca7c9e53803c9e9e73 | dimensions: 188.456 x 94.116 x 94.116 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=-239.42763052470448, y=687.9903279027926, z=0, rot=0"
+}

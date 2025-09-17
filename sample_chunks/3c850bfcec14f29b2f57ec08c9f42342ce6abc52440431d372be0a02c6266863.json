@@ -1,0 +1,48 @@
+{
+  "chunk_id": "3c850bfcec14f29b2f57ec08c9f42342ce6abc52440431d372be0a02c6266863",
+  "level": "room",
+  "room_id": "3c850bfcec14f29b2f57ec08c9f42342ce6abc52440431d372be0a02c6266863",
+  "design_id": "ac6ebcad99be84c5ba982b3bddeb5ad355608a3971c0b64524601dee0603ec79",
+  "floor_id": "7095e6297163153123f69e7252ab7d460176087e1e7f588d636ca9cb4557764b",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "Area 2c2e384b7b0081391d4bd3e1ee8351c3f9a4c6fcdc6bf1fe2a15c4b79be15574",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 141337.73595886424,
+  "summary_text": "DOWN BED AND TV ROOM \u2014 c6266863: polygon with 5 points. Approx. area (units\u00b2) 141338. Contains: 07f2c477961fab9526a5b66f0fd150cb3eb76868, 1a930513eeb17647d8430836b6b957ff33530d83, 4c83cddb17d842cd864ef9af6b805dea61a2354f, bac13089379307ea8ef4dea876c9a2719e0910a3, f03334e6c962b25403eee76d9528f7c16be219e7.",
+  "refs": {
+    "parent_id": "ac6ebcad99be84c5ba982b3bddeb5ad355608a3971c0b64524601dee0603ec79",
+    "area_refid": "2c2e384b7b0081391d4bd3e1ee8351c3f9a4c6fcdc6bf1fe2a15c4b79be15574"
+  },
+  "raw": {
+    "area": {
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 7.499999999999998,
+          "y": 292.987665262415
+        },
+        {
+          "x": 202.47514613623972,
+          "y": 488.7390393817352
+        },
+        {
+          "x": 377.9825401672314,
+          "y": 285.10546040987964
+        },
+        {
+          "x": 377.98254016723155,
+          "y": 7.500000000000002
+        },
+        {
+          "x": 7.500000000000001,
+          "y": 7.499999999999999
+        }
+      ]
+    }
+  }
+}

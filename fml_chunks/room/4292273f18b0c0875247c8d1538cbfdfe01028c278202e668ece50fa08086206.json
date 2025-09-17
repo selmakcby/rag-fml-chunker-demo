@@ -1,0 +1,31 @@
+{
+  "id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "parent_id": "de4b7c344b11e4835a38fb26b4faf35a8b5747590c6438033a1de318ac982f22",
+  "type": "room",
+  "items": [
+    "823fe97a130a8a5d564ee24bed601ae6422e73bf2a5b34b039125cf56e2195c7",
+    "2887a40ccbcbad2a54fbf61890ad69d33b3058e31961ba46c39c2bf976f6fd86",
+    "28c60b53b4281b5ac88b4767d592ce2b07d72e8df138c3383cfc4bb3cbc5fdcb",
+    "a60acb8e8befffa6b65e4bfe2607c2a98257734d4c7945a70b646c9e9280d424",
+    "29bc438e686cff1d44973fd796802b55747ff112c2e172f45ff51b3a3934e542",
+    "78161bef934a25a51037182c63aad60acc15ce2104b742f2eb4254a9af32218a",
+    "c58fbf9717a77b0a35c7bc265b68d0dd0b195d50004efa3e78698a518a33528c",
+    "815240db60c786f08a350e0b6422e2da143adb07813c5cd39f2d6f8b3fd30631",
+    "274c4591a63bee5eac258c9e18cd11ef08ef3896025d530ceb9986d21e7a7bc6",
+    "598e2f843d1ee9209c533727c1e756650a8f0d44b69e8dd311a8fb9bccb547f4",
+    "4684d34690d2598970628470a99b7214bbadb06b9aab0e78db9b36f8e39fc700",
+    "5b24f4d7e0dd755c30c7cba7c83466c596cff6c819f3c50375ed80467b2c6099"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-2542",
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": 0,
+    "name_y": 0,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Villa Left Library Bookcase, Conway Armless 2 Seat, Isari Soumak Gray 9 x 12, Conway RAF Chaise, Villa Right Library Bookcase, RoundHouse Flat Screen, Glenavon Round Coffee Table, Villa Media Bridge, Celadon Urn Table Lamp, Bruckner Large Console Table, Conway Corner, Conway LAF 2 Cushion",
+  "summary": "Living: 12 items (Villa Left Library Bookcase, Conway Armless 2 Seat, Isari Soumak Gray 9 x 12, Conway RAF Chaise, Villa Right Library Bookcase, RoundHouse Flat Screen)."
+}

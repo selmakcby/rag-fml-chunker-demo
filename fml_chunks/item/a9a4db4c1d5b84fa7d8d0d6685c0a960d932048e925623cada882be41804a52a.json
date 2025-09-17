@@ -1,0 +1,21 @@
+{
+  "id": "a9a4db4c1d5b84fa7d8d0d6685c0a960d932048e925623cada882be41804a52a",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "c846215641105f1d35ae97d696e3fd359bbac7ce",
+    "x": -314.3237322270578,
+    "y": 183.55408314138003,
+    "z": 0,
+    "width": 60,
+    "height": 39,
+    "z_height": 68,
+    "rotation": 323.4146050702458,
+    "name": "MAHOGANY TABLE TEA",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 39.0,
+    "type_guess": "table"
+  },
+  "doc": "name: MAHOGANY TABLE TEA | brand: Floorplanner | type: table | refid: c846215641105f1d35ae97d696e3fd359bbac7ce | dimensions: 60 x 39.0 x 39 | url: https://floorplanner.com | position: x=-314.3237322270578, y=183.55408314138003, z=0, rot=323.4146050702458"
+}

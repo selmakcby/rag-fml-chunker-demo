@@ -1,0 +1,25 @@
+{
+  "id": "3aac4fae424b53a82db12ee89f81fc2438a44226f93887c9ac9608cdcbf4f5d2",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "9459972d90830133fe08644d1e9ef909dc95e469",
+    "x": -151.7706262042642,
+    "y": -271.5117193355228,
+    "z": 0,
+    "width": 69.3,
+    "height": 50.684,
+    "z_height": 79.375,
+    "rotation": 0,
+    "materials": {
+      "FINISH_330": 20381
+    },
+    "name": "Clement Open Night Table",
+    "brand": "Ethan Allen",
+    "sku": "275016",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/clement-open-night-table/275016.html#lang=en_US&q=clement&start=1",
+    "depth": 50.684,
+    "type_guess": "table"
+  },
+  "doc": "name: Clement Open Night Table | brand: Ethan Allen | sku: 275016 | type: table | refid: 9459972d90830133fe08644d1e9ef909dc95e469 | dimensions: 69.3 x 50.684 x 50.684 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/clement-open-night-table/275016.html#lang=en_US&q=clement&start=1 | position: x=-151.7706262042642, y=-271.5117193355228, z=0, rot=0"
+}

@@ -1,0 +1,65 @@
+{
+  "chunk_id": "98520c5ef191740c08126ef1a56b8488866f7072f6ae979dc6c58a1d315f2953",
+  "level": "room",
+  "room_id": "98520c5ef191740c08126ef1a56b8488866f7072f6ae979dc6c58a1d315f2953",
+  "design_id": "0ae14b2c67053e6c3c1a20839fd1b3b0a3ba16dc053c37cb7e7a39dae3be751d",
+  "floor_id": "2784ae70d632c5608614a62e3a84d09c76b4f918ac573b3018122db69af44ff2",
+  "project_id": "24eee0265cd0f5e72117724b8243350e3f4672e3c4d9227e60aa4557989c96e4",
+  "name": "Area rs-311",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 492812.6450115363,
+  "summary_text": "First design (copy) (copy) (copy) (copy) \u2014 315f2953: polygon with 9 points. Approx. area (units\u00b2) 492813. Contains: 048c8944acaad01038ffad9d37404b99b11678fc, 0e0874be261159a81560348a849097e335bd2a5d, 12036cfd0a3282e771e9ed0d28c4a6005463ce95, 16abd4631e512b7f4d8ac94bde76e1059abdd840, 1a3b139f824365e93d5e5bbaf2b3220a3b56d826, 1ab37dd4718602cf2b6f55270f0253e1ecd0a7d0, 27c2b90bb70f7390d503df8e448565f1a296e4c3, 2f2fe35543f207df061631c8054bfa05eb32a218, 379807312428579440aec5a496d609b03b06e69e, 3a4c77cbc442936a4963c5353064a2627c5e9712, 3b446affc0337b1f9d5326c04afa79f30e8eff34, 3cc747d444f906bf199deae0cca87713dd27dc57.",
+  "refs": {
+    "parent_id": "0ae14b2c67053e6c3c1a20839fd1b3b0a3ba16dc053c37cb7e7a39dae3be751d",
+    "area_refid": "rs-311"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-311",
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": 282.93721283539423,
+          "y": 804.5835382565411
+        },
+        {
+          "x": 390.90878837392785,
+          "y": 804.5835382565411
+        },
+        {
+          "x": 405.9087883739269,
+          "y": 804.5835382565405
+        },
+        {
+          "x": 663.7767861842871,
+          "y": 804.5835382565133
+        },
+        {
+          "x": 1075.4172116308278,
+          "y": 804.5835382564702
+        },
+        {
+          "x": 1075.4172116308248,
+          "y": 705.4558485359421
+        },
+        {
+          "x": 1075.417211630824,
+          "y": 182.72223480328606
+        },
+        {
+          "x": 282.9372128353945,
+          "y": 182.722234803286
+        },
+        {
+          "x": 282.9372128353947,
+          "y": 705.4558485359415
+        }
+      ]
+    }
+  }
+}

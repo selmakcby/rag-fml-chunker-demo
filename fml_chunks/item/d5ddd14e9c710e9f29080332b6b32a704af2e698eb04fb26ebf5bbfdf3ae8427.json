@@ -1,0 +1,22 @@
+{
+  "id": "d5ddd14e9c710e9f29080332b6b32a704af2e698eb04fb26ebf5bbfdf3ae8427",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "24979375f1929a330423e7e3c7d84da850b0a88b",
+    "x": 873.0723072829154,
+    "y": 1384.5253323974134,
+    "z": 0,
+    "width": 107.104,
+    "height": 41.928,
+    "z_height": 95.25,
+    "rotation": 180,
+    "name": "Eliana Demilune Console",
+    "brand": "Ethan Allen",
+    "sku": "199005",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/eliana-demilune-console/199005+++446.html#start=1",
+    "depth": 41.928,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Eliana Demilune Console | brand: Ethan Allen | sku: 199005 | type: cabinet | refid: 24979375f1929a330423e7e3c7d84da850b0a88b | dimensions: 107.104 x 41.928 x 41.928 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/eliana-demilune-console/199005+++446.html#start=1 | position: x=873.0723072829154, y=1384.5253323974134, z=0, rot=180"
+}

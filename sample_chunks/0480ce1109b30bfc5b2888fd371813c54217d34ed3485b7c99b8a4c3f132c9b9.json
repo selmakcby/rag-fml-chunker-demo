@@ -1,0 +1,37 @@
+{
+  "chunk_id": "0480ce1109b30bfc5b2888fd371813c54217d34ed3485b7c99b8a4c3f132c9b9",
+  "level": "item",
+  "parent_id": "b936dfc2a464f3a78808608b308ce0fd1c75ddab57d8f40a6e64ab8a7aea47e2",
+  "room_id": "d1d5f87207cc4d1a3bfd8c0281180b1636124d42025af254d337f33d8b9a254c",
+  "type": "item",
+  "name": "7f12686867b646bf9d6f5a6e5a3781aaa66c9b74",
+  "refid": "7f12686867b646bf9d6f5a6e5a3781aaa66c9b74",
+  "position": {
+    "x": -2.6257885742187463,
+    "y": -158.95471933552275,
+    "z": 24.488067626953125
+  },
+  "size": {
+    "width": 248.94,
+    "height": 174.43,
+    "z_height": 66.103
+  },
+  "rotation": 0,
+  "summary_text": "Item '7f12686867b646bf9d6f5a6e5a3781aaa66c9b74' (item) at (-2.6257885742187463, -158.95471933552275).",
+  "refs": {
+    "parent_id": "b936dfc2a464f3a78808608b308ce0fd1c75ddab57d8f40a6e64ab8a7aea47e2"
+  },
+  "raw": {
+    "refid": "7f12686867b646bf9d6f5a6e5a3781aaa66c9b74",
+    "x": -2.6257885742187463,
+    "y": -158.95471933552275,
+    "z": 24.488067626953125,
+    "width": 248.94,
+    "height": 174.43,
+    "z_height": 66.103,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_BEDDING_PLAIN": 25569
+    }
+  }
+}

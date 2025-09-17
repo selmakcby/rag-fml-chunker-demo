@@ -1,0 +1,22 @@
+{
+  "id": "460da4078c3b8aa6f2118753d8b363abf0159332a17c8dfdb34d24aca6c6f6cc",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "66aef615e058ce5b486710ead031aad79d14282f",
+    "x": -212.13492371137647,
+    "y": 424.5986549670678,
+    "z": 0,
+    "width": 86.542,
+    "height": 104.904,
+    "z_height": 45.726,
+    "rotation": 65.80932159994066,
+    "name": "Bayliss Round Nesting Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "138201",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/bayliss-round-nesting-coffee-tables/138201+++11B.html",
+    "depth": 104.904,
+    "type_guess": "table"
+  },
+  "doc": "name: Bayliss Round Nesting Coffee Table | brand: Ethan Allen | sku: 138201 | type: table | refid: 66aef615e058ce5b486710ead031aad79d14282f | dimensions: 86.542 x 104.904 x 104.904 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/bayliss-round-nesting-coffee-tables/138201+++11B.html | position: x=-212.13492371137647, y=424.5986549670678, z=0, rot=65.80932159994066"
+}

@@ -1,0 +1,388 @@
+{
+  "chunk_id": "481e69996a6bafe576531aefa57f97f6f4052d469a5a4c76a6aef7a18142897d",
+  "level": "room",
+  "room_id": "481e69996a6bafe576531aefa57f97f6f4052d469a5a4c76a6aef7a18142897d",
+  "design_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+  "floor_id": "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Room 9002",
+  "room_type": "kitchen",
+  "area_m2": 15.461100000000002,
+  "num_walls": 5,
+  "num_doors": 2,
+  "num_windows": 1,
+  "item_counts": [
+    {
+      "class": "kitchen cabinet, floor, corner",
+      "count": 1
+    },
+    {
+      "class": "kitchen stove",
+      "count": 1
+    },
+    {
+      "class": "kitchen cabinet, floor",
+      "count": 5
+    },
+    {
+      "class": "kitchen cabinet with sink",
+      "count": 1
+    },
+    {
+      "class": "fridge",
+      "count": 1
+    },
+    {
+      "class": "kitchen hood",
+      "count": 1
+    },
+    {
+      "class": "kitchen cabinet, wall, corner",
+      "count": 1
+    },
+    {
+      "class": "kitchen cabinet, wall",
+      "count": 2
+    },
+    {
+      "class": "kitchen cabinet, floor, tall",
+      "count": 1
+    },
+    {
+      "class": "kitchen bin",
+      "count": 1
+    },
+    {
+      "class": "kitchen trolley",
+      "count": 1
+    },
+    {
+      "class": "built-in spot light",
+      "count": 1
+    }
+  ],
+  "summary_text": "Room 9002 covers 15.5 m\u00b2 with five walls, two doors and one window. A kitchen zone runs along the western wall, featuring floor cabinets, stove, fridge and sink, plus a hood; a trolley and bin sit nearby. A ceiling spotlight brightens the area, while decor remains minimal, yielding a practical space.",
+  "refs": {
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983"
+  },
+  "raw": {
+    "id": "481e69996a6bafe576531aefa57f97f6f4052d469a5a4c76a6aef7a18142897d",
+    "parent_id": "2299d59c4986e0c39fd88a9b92c32b2663e4799720420757f703fa289f374983",
+    "type": "room",
+    "attrs": {
+      "id": 9002,
+      "name": "Room 9002",
+      "walls": [
+        {
+          "id": 24,
+          "a_x": -6.05,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 2.01,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "200",
+              "wall0_id": 24,
+              "wall1_id": -1,
+              "position_x": -3.02,
+              "position_y": 2.01,
+              "position_z": 0.0,
+              "width": 0.98,
+              "height": 2.2,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 2,
+          "a_x": -2.36,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": 1.5,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 4,
+          "a_x": -2.36,
+          "a_y": 1.5,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": -2.18,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.15,
+          "openings": [
+            {
+              "id": "222",
+              "wall0_id": 4,
+              "wall1_id": -1,
+              "position_x": -2.36,
+              "position_y": -0.1,
+              "position_z": 0.0,
+              "width": 2.7,
+              "height": 2.7,
+              "type": "door"
+            }
+          ],
+          "decor": []
+        },
+        {
+          "id": 5,
+          "a_x": -6.05,
+          "a_y": -2.18,
+          "a_z": 0.0,
+          "b_x": -2.36,
+          "b_y": -2.18,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [],
+          "decor": []
+        },
+        {
+          "id": 23,
+          "a_x": -6.05,
+          "a_y": 2.01,
+          "a_z": 0.0,
+          "b_x": -6.05,
+          "b_y": -2.18,
+          "b_z": 0.0,
+          "height": 2.8,
+          "thickness": 0.3,
+          "openings": [
+            {
+              "id": "220",
+              "wall0_id": 23,
+              "wall1_id": -1,
+              "position_x": -6.05,
+              "position_y": -0.64,
+              "position_z": 1.0,
+              "width": 2.08,
+              "height": 1.6,
+              "type": "window"
+            }
+          ],
+          "decor": []
+        }
+      ],
+      "items": [
+        {
+          "id": 3028,
+          "refid": "64abd6658956997ca546c00ebe1e369ffc9bffd4",
+          "class_name": "kitchen cabinet, floor, corner",
+          "position_x": -5.55,
+          "position_y": 1.52,
+          "position_z": 0.0,
+          "scale_x": 0.85,
+          "scale_y": 0.84,
+          "scale_z": 0.9,
+          "angle_z": 9.424777960769381
+        },
+        {
+          "id": 3029,
+          "refid": "881b4930f7df83a2fe6d7278a67c81d4f1f727c3",
+          "class_name": "kitchen stove",
+          "position_x": -5.67,
+          "position_y": 0.84,
+          "position_z": 0.0,
+          "scale_x": 0.5,
+          "scale_y": 0.6,
+          "scale_z": 0.91,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3030,
+          "refid": "14472289b14fcc1132137b9a8f8fe4e1ce47aa2e",
+          "class_name": "kitchen cabinet, floor",
+          "position_x": -5.67,
+          "position_y": 0.19,
+          "position_z": 0.0,
+          "scale_x": 0.8,
+          "scale_y": 0.6,
+          "scale_z": 0.9,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3031,
+          "refid": "f71c22e2956fcc6e97ace5d6bc9334ddcd1842c1",
+          "class_name": "kitchen cabinet with sink",
+          "position_x": -4.73,
+          "position_y": 1.64,
+          "position_z": 0.0,
+          "scale_x": 0.8,
+          "scale_y": 0.6,
+          "scale_z": 1.19,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3032,
+          "refid": "c2d198ebe2cd8c70b0886e60d98b327f1934aa0e",
+          "class_name": "kitchen cabinet, floor",
+          "position_x": -5.67,
+          "position_y": -0.36,
+          "position_z": 0.0,
+          "scale_x": 0.3,
+          "scale_y": 0.6,
+          "scale_z": 0.9,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3033,
+          "refid": "c2d198ebe2cd8c70b0886e60d98b327f1934aa0e",
+          "class_name": "kitchen cabinet, floor",
+          "position_x": -5.67,
+          "position_y": -0.66,
+          "position_z": 0.0,
+          "scale_x": 0.3,
+          "scale_y": 0.6,
+          "scale_z": 0.9,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3034,
+          "refid": "c2d198ebe2cd8c70b0886e60d98b327f1934aa0e",
+          "class_name": "kitchen cabinet, floor",
+          "position_x": -4.18,
+          "position_y": 1.64,
+          "position_z": 0.0,
+          "scale_x": 0.3,
+          "scale_y": 0.6,
+          "scale_z": 0.9,
+          "angle_z": 3.141592653589793
+        },
+        {
+          "id": 3035,
+          "refid": "c2d198ebe2cd8c70b0886e60d98b327f1934aa0e",
+          "class_name": "kitchen cabinet, floor",
+          "position_x": -5.67,
+          "position_y": -0.96,
+          "position_z": 0.0,
+          "scale_x": 0.3,
+          "scale_y": 0.6,
+          "scale_z": 0.9,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3036,
+          "refid": "1c33bd447d70d4d22116c434d912f1fae78e02b7",
+          "class_name": "fridge",
+          "position_x": -3.93,
+          "position_y": -1.72,
+          "position_z": 0.0,
+          "scale_x": 0.59,
+          "scale_y": 0.75,
+          "scale_z": 1.79,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3037,
+          "refid": "97ecfc292e18fec96827a874c5d09d95ed7c86c5",
+          "class_name": "kitchen hood",
+          "position_x": -5.73,
+          "position_y": 0.84,
+          "position_z": 2.8,
+          "scale_x": 0.9,
+          "scale_y": 0.49,
+          "scale_z": 0.7,
+          "angle_z": 4.71238898038469
+        },
+        {
+          "id": 3038,
+          "refid": "4f167cad5def9f7fdb4ba74e90d21ba0943445a0",
+          "class_name": "kitchen cabinet, wall, corner",
+          "position_x": -5.65,
+          "position_y": 1.61,
+          "position_z": 1.7,
+          "scale_x": 0.65,
+          "scale_y": 0.65,
+          "scale_z": 0.75,
+          "angle_z": 1.3197301927193526e-15
+        },
+        {
+          "id": 3039,
+          "refid": "2b888cc70c8193c8fcb04f4b9cdc1eeb2d82087a",
+          "class_name": "kitchen cabinet, wall",
+          "position_x": -4.83,
+          "position_y": 1.75,
+          "position_z": 1.7,
+          "scale_x": 0.5,
+          "scale_y": 0.37,
+          "scale_z": 0.75,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3040,
+          "refid": "2b888cc70c8193c8fcb04f4b9cdc1eeb2d82087a",
+          "class_name": "kitchen cabinet, wall",
+          "position_x": -4.33,
+          "position_y": 1.75,
+          "position_z": 1.7,
+          "scale_x": 0.5,
+          "scale_y": 0.37,
+          "scale_z": 0.75,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3041,
+          "refid": "ccf3f0ee76dd2263f77ad90a7cec59da84e047c8",
+          "class_name": "kitchen cabinet, floor, tall",
+          "position_x": -3.05,
+          "position_y": -1.81,
+          "position_z": 0.0,
+          "scale_x": 0.5,
+          "scale_y": 0.57,
+          "scale_z": 2.2,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3042,
+          "refid": "afee6bd7cdfb61d66fa990b10b31a708d5e0487b",
+          "class_name": "kitchen bin",
+          "position_x": -2.66,
+          "position_y": -1.95,
+          "position_z": 0.0,
+          "scale_x": 0.28,
+          "scale_y": 0.3,
+          "scale_z": 0.5,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3043,
+          "refid": "5b16f3083c6a9446128debffc2cb7c911b54e221",
+          "class_name": "kitchen trolley",
+          "position_x": -4.84,
+          "position_y": -1.82,
+          "position_z": 0.0,
+          "scale_x": 0.91,
+          "scale_y": 0.56,
+          "scale_z": 0.73,
+          "angle_z": 0.0
+        },
+        {
+          "id": 3044,
+          "refid": "03e195f8bd27ffb3982ccb69dcab98d53f3f6920",
+          "class_name": "built-in spot light",
+          "position_x": -4.2,
+          "position_y": -0.08,
+          "position_z": 2.8,
+          "scale_x": 0.1,
+          "scale_y": 0.1,
+          "scale_z": 0.12,
+          "angle_z": 0.0
+        }
+      ],
+      "area": 15.461100000000002,
+      "summary": "Room 9002 covers 15.5 m\u00b2 with five walls, two doors and one window. A kitchen zone runs along the western wall, featuring floor cabinets, stove, fridge and sink, plus a hood; a trolley and bin sit nearby. A ceiling spotlight brightens the area, while decor remains minimal, yielding a practical space."
+    }
+  }
+}

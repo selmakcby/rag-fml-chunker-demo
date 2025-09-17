@@ -1,0 +1,37 @@
+{
+  "id": "be28cfd239d9ccefe4a130b17dc5489eabb7f4a317971d775a52c1d2315aade1",
+  "parent_id": "229ed68536939aab1af4425553ab14390936960d906e667365b7b5760f033558",
+  "type": "room",
+  "items": [
+    "ec60b6cc4cf058388386e8492faf4efa7dc4e8dd3a5e4b0bf46d4ad6b2a15322",
+    "0828dea5d755401d9ff714ed8f333a7b89b157b1dd20918965e30d109b6a3c03",
+    "0312bded5fd2cc0963fe53d5789209f43c8517de253d0633888dbe6697a9ddaf",
+    "889938d693fcb2c37cb1f1ea5ad934b08d6fc78729df5d58a861d2a7af605078",
+    "37bf13cdb98d9e729e5fc896c0382233bde55c3d3f25bb0c0c5ef239b54e85c7",
+    "a563fd0220fb7139b77c2b70eb738e09ed1997848a0da219164412afc4b24e47",
+    "6391022a8c230814ab820e8ef1dad7fe006dfb6de5dd287f9e5079cbb7e6c056",
+    "14a8aedbc06b3cf644b1e7bfce96e02f7673b5f0ff09b0a3120b494653f737e6",
+    "7ea0e93d22d678527aabaf59c6e35f2e07120f63f17fc6bd344403f8b528286b",
+    "a4f0c6a9d3ff8915ef07b1bc080d0eb13fb6a92d5371ae31f4f10a8c2e0dc7c7",
+    "12a10751cabe98aff3a41bac7acad1c9b948259479be806694acbb00b28539a9",
+    "373240bc5ca63f93c9914bf12ac488069fbb12be5d9c5cc0bc1fcfe9c357d911",
+    "c39a9b63728f3e0532197713eb2cb3f7bd3e8cd840bfedcd7b4d23787820efba",
+    "88b3f5806e57d7d8a19f3d886445c527c26d5b6bac771416677eea99399aedcc",
+    "9efd0bfe8114e0a27e56e7e2381d5c6972a899446d9762c98bd3796cfc147354",
+    "ddd20217b256ee0556b2b801e9a927d44d26c8970f51aabdeb10311b515f92ac",
+    "246278dcf4fb45540f406b356d25907cb754d1b2db9056f04dde8ca8a19c6828",
+    "74713be85791e35b4f97ce27b1850df7345997dcbd47897d1a9877b534f70304"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-14772",
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": -238,
+    "name_y": -12,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Dynasty Desk, Lockwood End Table, Harris Chair - PROTO, Bennett Roll-Arm Chair and a Half, Viviette Ottoman - PROTO, Dynasty End Table, Nila Antiqued Rug, 12' x 14', Tomas Brass Floor Lamp, Bennett Roll-Arm Chair and a Half, Viviette Ottoman - PROTO, Tomas Brass Floor Lamp, Marian Table Lamp, Allistair Round Side Table, Martha Washington Leather Host Chair, Hyde 88'' Sofa, Dynasty Rectangular Coffee Table",
+  "summary": "Living: 16 items (Dynasty Desk, Lockwood End Table, Harris Chair - PROTO, Bennett Roll-Arm Chair and a Half, Viviette Ottoman - PROTO, Dynasty End Table)."
+}

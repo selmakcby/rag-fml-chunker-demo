@@ -1,0 +1,21 @@
+{
+  "id": "6202a75f062ede5e564552df6ff1348aaccf99eafac6af594f0dbcea7ebe57c6",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "0509df99326e6f771b27b6c9ebe3ff63b2f0f8e2",
+    "x": 35.329269472038504,
+    "y": -259.8867193355228,
+    "z": 74,
+    "width": 50.076,
+    "height": 27.434,
+    "z_height": 41.298,
+    "rotation": 0,
+    "name": "Portuguese Azulejos Pillow",
+    "brand": "Floorplanner",
+    "url": "https://roomstyler.com",
+    "depth": 27.434,
+    "type_guess": "textile"
+  },
+  "doc": "name: Portuguese Azulejos Pillow | brand: Floorplanner | type: textile | refid: 0509df99326e6f771b27b6c9ebe3ff63b2f0f8e2 | dimensions: 50.076 x 27.434 x 27.434 | url: https://roomstyler.com | position: x=35.329269472038504, y=-259.8867193355228, z=74, rot=0"
+}

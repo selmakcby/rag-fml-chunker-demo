@@ -1,0 +1,25 @@
+{
+  "id": "50cde07dcc86327c67798139302a2cb6a8016b1b6710bcadb556342fbe5ff915",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "72f6081e65f5e966f5de74c21ca111d24e92b998",
+    "x": 514.0295366685256,
+    "y": 671.3606639120771,
+    "z": 0,
+    "width": 101.6,
+    "height": 47.34,
+    "z_height": 87.625,
+    "rotation": 180,
+    "materials": {
+      "FINISH_377": 62
+    },
+    "name": "Ming File Cabinet",
+    "brand": "Ethan Allen",
+    "sku": "129104",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-home-office-storage-display/ming-file-cabinet/129104.html?site=",
+    "depth": 47.34,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Ming File Cabinet | brand: Ethan Allen | sku: 129104 | type: cabinet | refid: 72f6081e65f5e966f5de74c21ca111d24e92b998 | dimensions: 101.6 x 47.34 x 47.34 | url: http://www.ethanallen.com/en_US/shop-furniture-home-office-storage-display/ming-file-cabinet/129104.html?site= | position: x=514.0295366685256, y=671.3606639120771, z=0, rot=180"
+}

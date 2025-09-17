@@ -1,0 +1,35 @@
+{
+  "id": "8953e70ecf14a89f5d7f7797e0c7e4f5fcf3c05218965add53159fee9e71c3c1",
+  "parent_id": "970b481a76a7af929dfcbff25112d66cfb53983f12c58cbf95dab4e932a79e16",
+  "type": "room",
+  "items": [
+    "ec60b6cc4cf058388386e8492faf4efa7dc4e8dd3a5e4b0bf46d4ad6b2a15322",
+    "0828dea5d755401d9ff714ed8f333a7b89b157b1dd20918965e30d109b6a3c03",
+    "a9269f7422cfb99928482a1d0e50b37b4cc50ed038a861a7704db5f3002bafa9",
+    "6f65137b1288250070aa6653dc829119f128556f62f36ca8138fc4a54b22920e",
+    "7fd17e1d8bed44be5e359dc58d06fd732d6dbb723c9fe58fde50a216b990188b",
+    "095c6b9beca776f6e322a9d1c6396b8c777de93f72c7ee0cb3a7a7521021aea7",
+    "9e253bbbf739b5cd153f26b01a52301219f3ae643507a8d37f3e07865e9ed1e5",
+    "487764190968f66de37e91de7d2b3689e05c85d18929536ab951d5eb985baf41",
+    "09a85544edcfc2b1124771c338011042e97cd6f09b2d85e5975fce635f8c5687",
+    "2a58631d37a689bdd65e37d8c79830adc1d8b9eecb97cb5cfacbeed18f0ab6e2",
+    "14e7cc6d131813bf41b7dc40f932e60edcc6545210a9afd1500c24674fe1ab15",
+    "bba68da18e4639601b8c3be99c2877464bf6798d9abefe7ffe754ee0c503b57f",
+    "c9a2da8f512daa996d71ef33042e87749a97ca03070d8bb06732fd94416f2c75",
+    "22e0c4fb5cc3438bd9fd673af404b4fe9e604c2da2f261b9080dd893834e50b4",
+    "ad13bca991129f8c046790f16a84114d4c6415a94d42f08307b98e56cfa84bdb",
+    "87e12d0ce77e165d379dff433f62175c12e9c766454a7d24527067033c891fae"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-14772",
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": -238,
+    "name_y": -12,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Dynasty End Table, Martha Washington Leather Host Chair, Allistair Round Side Table, Marian Table Lamp, Bennett Roll-Arm Chair and a Half, Dynasty Desk, Nassau 37\" Round Ottoman, Smooth Top, Marian Table Lamp, Bennett Roll-Arm Chair and a Half, Vivianne Serpentine Console, Kindling Electric Fireplace, Nila Antiqued Rug, 12' x 14', Dynasty Rectangular Coffee Table, Case wall unit chrome, Hyde 88'' Sofa, Martha Washington Leather Host Chair",
+  "summary": "Living: 16 items (Dynasty End Table, Martha Washington Leather Host Chair, Allistair Round Side Table, Marian Table Lamp, Bennett Roll-Arm Chair and a Half, Dynasty Desk)."
+}

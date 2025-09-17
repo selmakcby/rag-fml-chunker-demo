@@ -1,0 +1,22 @@
+{
+  "id": "3f2d8537b97eb5080682c44945d93cb745d86edb20c390c349383605aaa9dae1",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "7a9487807f3fd2dc18fc0de0a11d016f392ca2f5",
+    "x": 513.8364018554687,
+    "y": 672.7096083984376,
+    "z": 86.36,
+    "width": 24.524,
+    "height": 24.524,
+    "z_height": 41.284,
+    "rotation": 270,
+    "name": "Large Geo Temple Jar, Navy",
+    "brand": "Ethan Allen",
+    "sku": "432101A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/geometric-temple-jar/432101A.html",
+    "depth": 24.524,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Large Geo Temple Jar, Navy | brand: Ethan Allen | sku: 432101A | type: decor-jar | refid: 7a9487807f3fd2dc18fc0de0a11d016f392ca2f5 | dimensions: 24.524 x 24.524 x 24.524 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/geometric-temple-jar/432101A.html | position: x=513.8364018554687, y=672.7096083984376, z=86.36, rot=270"
+}

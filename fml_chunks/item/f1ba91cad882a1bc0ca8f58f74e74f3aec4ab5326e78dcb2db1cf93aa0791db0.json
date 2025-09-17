@@ -1,0 +1,25 @@
+{
+  "id": "f1ba91cad882a1bc0ca8f58f74e74f3aec4ab5326e78dcb2db1cf93aa0791db0",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "64c4130c6fa714f53460724d945a514dc6762521",
+    "x": 158.79822506496308,
+    "y": 63.17563175768185,
+    "z": 0,
+    "width": 165.368,
+    "height": 96.952,
+    "z_height": 83.597,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_P8430": 30425
+    },
+    "name": "Redding Ridge RAF 2 Cushion",
+    "brand": "Ethan Allen",
+    "sku": "402496",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-three-piece-outdoor-sectional/402499G3.html#lang=en_US&q=redding+ridge&start=1",
+    "depth": 96.952,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Redding Ridge RAF 2 Cushion | brand: Ethan Allen | sku: 402496 | type: sofa | refid: 64c4130c6fa714f53460724d945a514dc6762521 | dimensions: 165.368 x 96.952 x 96.952 | url: https://www.ethanallen.com/en_US/shop-outdoor-furniture-redding-ridge/redding-ridge-three-piece-outdoor-sectional/402499G3.html#lang=en_US&q=redding+ridge&start=1 | position: x=158.79822506496308, y=63.17563175768185, z=0, rot=0"
+}

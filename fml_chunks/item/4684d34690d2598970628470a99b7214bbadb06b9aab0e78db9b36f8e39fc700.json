@@ -1,0 +1,25 @@
+{
+  "id": "4684d34690d2598970628470a99b7214bbadb06b9aab0e78db9b36f8e39fc700",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "15f0e306249ad16a9642bcac9fc102c218d93924",
+    "x": 305.9892960017714,
+    "y": 399.636812489967,
+    "z": 0,
+    "width": 110.396,
+    "height": 165.9,
+    "z_height": 89.73,
+    "rotation": 180.72884673070163,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H2639": 28244
+    },
+    "name": "Conway RAF Chaise",
+    "brand": "Ethan Allen",
+    "sku": "207789",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 165.9
+  },
+  "doc": "name: Conway RAF Chaise | brand: Ethan Allen | sku: 207789 | refid: 15f0e306249ad16a9642bcac9fc102c218d93924 | dimensions: 110.396 x 165.9 x 165.9 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=305.9892960017714, y=399.636812489967, z=0, rot=180.72884673070163"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "c8791811a430d412dcda2437789f74f0a2e306d6bb7d020199b8a5c7bcf4ebfb",
+  "parent_id": "91761a47284017fa9b0bd639cbdfc9a1ae7681917ac9072664f40fe58075245e",
+  "type": "room",
+  "items": [
+    "ec60b6cc4cf058388386e8492faf4efa7dc4e8dd3a5e4b0bf46d4ad6b2a15322",
+    "0828dea5d755401d9ff714ed8f333a7b89b157b1dd20918965e30d109b6a3c03",
+    "0312bded5fd2cc0963fe53d5789209f43c8517de253d0633888dbe6697a9ddaf",
+    "889938d693fcb2c37cb1f1ea5ad934b08d6fc78729df5d58a861d2a7af605078",
+    "37bf13cdb98d9e729e5fc896c0382233bde55c3d3f25bb0c0c5ef239b54e85c7",
+    "a563fd0220fb7139b77c2b70eb738e09ed1997848a0da219164412afc4b24e47",
+    "6391022a8c230814ab820e8ef1dad7fe006dfb6de5dd287f9e5079cbb7e6c056",
+    "373240bc5ca63f93c9914bf12ac488069fbb12be5d9c5cc0bc1fcfe9c357d911",
+    "c39a9b63728f3e0532197713eb2cb3f7bd3e8cd840bfedcd7b4d23787820efba",
+    "88b3f5806e57d7d8a19f3d886445c527c26d5b6bac771416677eea99399aedcc",
+    "9efd0bfe8114e0a27e56e7e2381d5c6972a899446d9762c98bd3796cfc147354",
+    "ddd20217b256ee0556b2b801e9a927d44d26c8970f51aabdeb10311b515f92ac",
+    "a5c3aac2e7e77ce8e7a261826797c2c7ab9c7de8c765c5b5d69da9c333d1e97d",
+    "d7162ccb181dc8df892acf06050e6308ea501632e95123c5b35492c80186f12a",
+    "8296bb9618bbe0599dcdd1a5b402a5b6badafd34f0eee3e1015e36d462b422fe",
+    "adbed7aa130d9aa90abc81158d422140167f210c10bdee5de523389184360b1c",
+    "756e8dc7966078af8477a433865516ab2c51956b57e18baa8a5686e0ed7465d6",
+    "1b3a3188aa064ee10728c17ca73c024f20ec46d243b66d4e22a627e1ac725269"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-14772",
+    "color": "#FFDFBF",
+    "name": "Living",
+    "role": 0,
+    "name_x": -238,
+    "name_y": -12,
+    "showAreaLabel": true
+  },
+  "doc": "Room: Living | items: Coco Ottoman, Nila Antiqued Rug, 12' x 14', Harris Chair - PROTO, Harris Chair - PROTO, Bennett Roll-Arm Chair and a Half, Bennett Roll-Arm Chair and a Half",
+  "summary": "Living: 6 items (Coco Ottoman, Nila Antiqued Rug, 12' x 14', Harris Chair - PROTO, Harris Chair - PROTO, Bennett Roll-Arm Chair and a Half, Bennett Roll-Arm Chair and a Half)."
+}

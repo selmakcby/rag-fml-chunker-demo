@@ -1,0 +1,27 @@
+{
+  "id": "14220f8474943260cabf5646b935e73f692d54a607dd3fe895b920e6dc1c63ef",
+  "parent_id": "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+  "type": "item",
+  "attrs": {
+    "refid": "edc37dd8ae778c0e9cbbe81cbcee29f8d7b0e5fb",
+    "x": 406.93273436528176,
+    "y": 392.55324437431545,
+    "z": 274.32,
+    "width": 17.792,
+    "height": 17.792,
+    "z_height": 124.578,
+    "rotation": 0,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Adhira Glass Teardrop Pendant",
+    "brand": "Ethan Allen",
+    "sku": "093028",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-pendants/adhira-glass-pendant/093028.html",
+    "depth": 17.792,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Adhira Glass Teardrop Pendant | brand: Ethan Allen | sku: 093028 | type: lighting | refid: edc37dd8ae778c0e9cbbe81cbcee29f8d7b0e5fb | dimensions: 17.792 x 17.792 x 17.792 | url: https://www.ethanallen.com/en_US/shop-lighting-pendants/adhira-glass-pendant/093028.html | position: x=406.93273436528176, y=392.55324437431545, z=274.32, rot=0"
+}

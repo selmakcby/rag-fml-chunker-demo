@@ -1,0 +1,23 @@
+{
+  "id": "0eceaa477e9fce9405f14f26f07ff91cd731cf51197e64defb695a30908302aa",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "d8dfd3e5683d86a7d9db8a8f7d3260b87ea8213f",
+    "x": 644.2840057909066,
+    "y": 308.85666325336575,
+    "z": 0,
+    "width": 320.03999951353916,
+    "height": 114.299999826264,
+    "z_height": 2.529839996154643,
+    "rotation": 90,
+    "materials": {
+      "FINISH_FP_PLAIN_WHITE": 8633
+    },
+    "name": "Stairs",
+    "brand": "BESPOKE ARCHITECTURE",
+    "url": "https://floorplanner.com",
+    "depth": 39.2
+  },
+  "doc": "name: Stairs | brand: BESPOKE ARCHITECTURE | refid: d8dfd3e5683d86a7d9db8a8f7d3260b87ea8213f | dimensions: 320.03999951353916 x 39.2 x 114.299999826264 | url: https://floorplanner.com | position: x=644.2840057909066, y=308.85666325336575, z=0, rot=90"
+}

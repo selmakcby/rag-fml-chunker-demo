@@ -1,0 +1,120 @@
+{
+  "id": "94bdb6c79e851f220a0a05c93ff1b9b454ab15fe0d09abca0aa2f808eb710b19",
+  "parent_id": "a1b6da97cefa2bcbda532250fc3573f052cd73f43ce216cceec5fea9727e5720",
+  "type": "design",
+  "rooms": [
+    "1d4788f1547e4c11488f51caf9bd92f7fe600c50ba8aeb68a056822fb7a4e728",
+    "cae86d61c37c2692cc09e371201c6c69cc6f9d95de3d95e7424d370ccd8bd1ae",
+    "f9d77614dac1f60656fb375d7a1f90576f640a477d340f481e728ac52baa6442",
+    "f9d77614dac1f60656fb375d7a1f90576f640a477d340f481e728ac52baa6442"
+  ],
+  "attrs": {
+    "name": "First design",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [
+      {
+        "refid": "rs-13644",
+        "color": "#ABABAC",
+        "rotation": 0,
+        "showAreaLabel": true,
+        "poly": [
+          {
+            "x": 1243.673280841796,
+            "y": 486.0817514509563,
+            "z": 0
+          },
+          {
+            "x": 1191.349944947699,
+            "y": 486.08175145095635,
+            "z": 0
+          },
+          {
+            "x": 1191.349944947699,
+            "y": 590.319112201073,
+            "z": 0
+          },
+          {
+            "x": 1243.6732808417962,
+            "y": 590.3191122011049,
+            "z": 0
+          }
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 811.7993579168686,
+        "y": 1076.2870195547346,
+        "z": 2791.77566404944,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 1097.2653728133573,
+        "y": 795.3564576296951,
+        "z": 165.1,
+        "dx": -0.7127461285433271,
+        "dy": 0.701422095636072,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270086471,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: First design | rooms: 4"
+}

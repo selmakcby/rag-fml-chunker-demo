@@ -1,0 +1,26 @@
+{
+  "id": "f61bbd493dcdf50935320423a74300a11090ba745962063e738a95a35a58680b",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "638b0fc7d6d3d5a9fb057b43a7203e1b618dfc79",
+    "x": 337.5021175293561,
+    "y": 316.03998868966505,
+    "z": 0,
+    "width": 172.848,
+    "height": 50.926,
+    "z_height": 55.88,
+    "rotation": 89,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_H3280": 922
+    },
+    "name": "Wellesley 68'' Bench",
+    "brand": "Ethan Allen",
+    "sku": "207406",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/wellesley-benches/207406.html",
+    "depth": 50.926,
+    "type_guess": "table-like"
+  },
+  "doc": "name: Wellesley 68'' Bench | brand: Ethan Allen | sku: 207406 | type: table-like | refid: 638b0fc7d6d3d5a9fb057b43a7203e1b618dfc79 | dimensions: 172.848 x 50.926 x 50.926 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/wellesley-benches/207406.html | position: x=337.5021175293561, y=316.03998868966505, z=0, rot=89"
+}

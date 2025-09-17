@@ -1,0 +1,37 @@
+{
+  "chunk_id": "b6ce1b77a84188bba536576af7593fd8f4842ca3d70668b062741f549e078519",
+  "level": "item",
+  "parent_id": "732e0f1599e175bb1cfae3cf3a15be2642dfeda70916e003565161bccd826054",
+  "room_id": "e0223ba5ebe0af68ae2bfc68e8b712fd971fd4fa3efdceabb69186d394d3ca26",
+  "type": "item",
+  "name": "a7ee3d940a0c885816da599822e5fa53e5cf8478",
+  "refid": "a7ee3d940a0c885816da599822e5fa53e5cf8478",
+  "position": {
+    "x": 154.2829274393963,
+    "y": 509.1924047880491,
+    "z": 0
+  },
+  "size": {
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.219
+  },
+  "rotation": 270,
+  "summary_text": "Item 'a7ee3d940a0c885816da599822e5fa53e5cf8478' (item) at (154.2829274393963, 509.1924047880491).",
+  "refs": {
+    "parent_id": "732e0f1599e175bb1cfae3cf3a15be2642dfeda70916e003565161bccd826054"
+  },
+  "raw": {
+    "refid": "a7ee3d940a0c885816da599822e5fa53e5cf8478",
+    "x": 154.2829274393963,
+    "y": 509.1924047880491,
+    "z": 0,
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.219,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_RUG_HutchinsonManor_Champagne": 20423
+    }
+  }
+}

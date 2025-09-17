@@ -1,0 +1,16 @@
+{
+  "id": "f9d77614dac1f60656fb375d7a1f90576f640a477d340f481e728ac52baa6442",
+  "parent_id": "94bdb6c79e851f220a0a05c93ff1b9b454ab15fe0d09abca0aa2f808eb710b19",
+  "type": "room",
+  "items": [
+    "cac502c2638a3f9eca68793a8d74dbd8b124a4854ea5ad0e1e7adde9452f4267"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-17403",
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Pony wall support",
+  "summary": "room: 1 items (Pony wall support)."
+}

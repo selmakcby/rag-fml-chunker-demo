@@ -1,0 +1,20 @@
+{
+  "id": "4b34bea32216079ae15104c7dd90fb012aa3aaceb48f5266ac65cb7de9f5f7df",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "8af701bf6405890e65059cf2d7b9c9d43ac0958a",
+    "x": 397.59506173619855,
+    "y": 243.80636980203434,
+    "z": 0,
+    "width": 210.83015967953813,
+    "height": 78.769,
+    "z_height": 276.58,
+    "rotation": 90,
+    "name": "Stone Fireplace",
+    "brand": "Floorplanner",
+    "url": "www.floorplanner.com",
+    "depth": 78.769
+  },
+  "doc": "name: Stone Fireplace | brand: Floorplanner | refid: 8af701bf6405890e65059cf2d7b9c9d43ac0958a | dimensions: 210.83015967953813 x 78.769 x 78.769 | url: www.floorplanner.com | position: x=397.59506173619855, y=243.80636980203434, z=0, rot=90"
+}

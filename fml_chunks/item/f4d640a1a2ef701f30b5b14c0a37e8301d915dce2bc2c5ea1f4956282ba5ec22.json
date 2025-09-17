@@ -1,0 +1,22 @@
+{
+  "id": "f4d640a1a2ef701f30b5b14c0a37e8301d915dce2bc2c5ea1f4956282ba5ec22",
+  "parent_id": "31f294fd40c368f181192984cb1416f25efb2bc4958853ba2af40d6740acc5ea",
+  "type": "item",
+  "attrs": {
+    "refid": "36f47770879d1392e948c500b1346a35cb9c97ef",
+    "x": 974.820609880627,
+    "y": -336.2365902484406,
+    "z": 0,
+    "width": 292.15,
+    "height": 416.546,
+    "z_height": 2.005,
+    "rotation": 0,
+    "name": "Indo Herat Rug, Rust Ivory, 9'6 x 13'6",
+    "brand": "Ethan Allen",
+    "sku": "041484X",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/indo-herat-rug%2C-rust%2Fivory/041484X.html",
+    "depth": 416.546,
+    "type_guess": "rug"
+  },
+  "doc": "name: Indo Herat Rug, Rust Ivory, 9'6 x 13'6 | brand: Ethan Allen | sku: 041484X | type: rug | refid: 36f47770879d1392e948c500b1346a35cb9c97ef | dimensions: 292.15 x 416.546 x 416.546 | url: https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/indo-herat-rug%2C-rust%2Fivory/041484X.html | position: x=974.820609880627, y=-336.2365902484406, z=0, rot=0"
+}

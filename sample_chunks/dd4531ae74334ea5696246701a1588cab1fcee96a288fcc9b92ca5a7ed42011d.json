@@ -1,0 +1,37 @@
+{
+  "chunk_id": "dd4531ae74334ea5696246701a1588cab1fcee96a288fcc9b92ca5a7ed42011d",
+  "level": "item",
+  "parent_id": "f150d8cd6230d3663fbb85d0703881bc735937b492a07a4ebbdbc90826b15fc7",
+  "room_id": "b246e1a669dee5c8c5d409a4d2ae7b96944220bf58001cc0c012c8e6e9532339",
+  "type": "item",
+  "name": "2d1b4b5a652d0ef5dc83ad5d7026ab84cf860843",
+  "refid": "2d1b4b5a652d0ef5dc83ad5d7026ab84cf860843",
+  "position": {
+    "x": 270.74983011580105,
+    "y": 288.3417977334527,
+    "z": 0
+  },
+  "size": {
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.529
+  },
+  "rotation": 180.43783928094484,
+  "summary_text": "Item '2d1b4b5a652d0ef5dc83ad5d7026ab84cf860843' (item) at (270.74983011580105, 288.3417977334527).",
+  "refs": {
+    "parent_id": "f150d8cd6230d3663fbb85d0703881bc735937b492a07a4ebbdbc90826b15fc7"
+  },
+  "raw": {
+    "refid": "2d1b4b5a652d0ef5dc83ad5d7026ab84cf860843",
+    "x": 270.74983011580105,
+    "y": 288.3417977334527,
+    "z": 0,
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.529,
+    "rotation": 180.43783928094484,
+    "materials": {
+      "FABRIC_RUG_Densley_Ocean": 11618
+    }
+  }
+}

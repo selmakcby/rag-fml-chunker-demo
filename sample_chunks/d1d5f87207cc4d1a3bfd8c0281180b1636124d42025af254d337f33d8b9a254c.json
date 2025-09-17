@@ -1,0 +1,45 @@
+{
+  "chunk_id": "d1d5f87207cc4d1a3bfd8c0281180b1636124d42025af254d337f33d8b9a254c",
+  "level": "room",
+  "room_id": "d1d5f87207cc4d1a3bfd8c0281180b1636124d42025af254d337f33d8b9a254c",
+  "design_id": "b936dfc2a464f3a78808608b308ce0fd1c75ddab57d8f40a6e64ab8a7aea47e2",
+  "floor_id": "604e535949a4ca129329ada312695622db9d7e81ea8b795881fe7bf93b4aaa25",
+  "project_id": "57e1c04de3ef701e72513b6e4a3383281b0f4778b4bf7d9f54e5a3e24aa3b4cf",
+  "name": "Area rs-15105",
+  "room_type": "unknown",
+  "num_walls": null,
+  "num_doors": null,
+  "num_windows": null,
+  "area_m2": null,
+  "area_units2": 470703.70303720277,
+  "summary_text": "First design \u2014 8b9a254c: polygon with 4 points. Approx. area (units\u00b2) 470704. Contains: 0509df99326e6f771b27b6c9ebe3ff63b2f0f8e2, 17d6a840e04e7b64910e8f7479654e78ab82ab61, 396cb5be76282bba5590f45f0bacdd9d79475a93, 51cd1976549241666bcf3cc27e6c4c580352361b, 7d91a4982da2641fc3c33ce1985571e9ee1e1768, 7f12686867b646bf9d6f5a6e5a3781aaa66c9b74, 9459972d90830133fe08644d1e9ef909dc95e469, db923f7a7d9789ae0e9b8f34db64c450ddb104cd, e4eae29cc79080c718b2050da593ae8a648c0411.",
+  "refs": {
+    "parent_id": "b936dfc2a464f3a78808608b308ce0fd1c75ddab57d8f40a6e64ab8a7aea47e2",
+    "area_refid": "rs-15105"
+  },
+  "raw": {
+    "area": {
+      "refid": "rs-15105",
+      "color": "#F2D8B0",
+      "showAreaLabel": true,
+      "poly": [
+        {
+          "x": -359.1210917388322,
+          "y": 324.2217257591031
+        },
+        {
+          "x": 398.7638105784495,
+          "y": 324.2217257591031
+        },
+        {
+          "x": 398.7638105784495,
+          "y": -296.8537193355227
+        },
+        {
+          "x": -359.1210917388321,
+          "y": -296.8537193355228
+        }
+      ]
+    }
+  }
+}

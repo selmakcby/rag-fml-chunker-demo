@@ -1,0 +1,22 @@
+{
+  "id": "756e8dc7966078af8477a433865516ab2c51956b57e18baa8a5686e0ed7465d6",
+  "parent_id": "c8791811a430d412dcda2437789f74f0a2e306d6bb7d020199b8a5c7bcf4ebfb",
+  "type": "item",
+  "attrs": {
+    "refid": "440d4f43e7041dab627b981e7c0779837bf2ca7a",
+    "x": 522.096446678517,
+    "y": 611.4200633350146,
+    "z": 0,
+    "width": 87.902,
+    "height": 100.47,
+    "z_height": 110.341,
+    "rotation": 152.0500544219763,
+    "name": "Harris Chair - PROTO",
+    "brand": "Ethan Allen",
+    "sku": "137145_936K1932",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/harris-chair/137145.html#lang=en_US&q=harris&start=1",
+    "depth": 100.47,
+    "type_guess": "chair"
+  },
+  "doc": "name: Harris Chair - PROTO | brand: Ethan Allen | sku: 137145_936K1932 | type: chair | refid: 440d4f43e7041dab627b981e7c0779837bf2ca7a | dimensions: 87.902 x 100.47 x 100.47 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/harris-chair/137145.html#lang=en_US&q=harris&start=1 | position: x=522.096446678517, y=611.4200633350146, z=0, rot=152.0500544219763"
+}

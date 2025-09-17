@@ -1,0 +1,68 @@
+{
+  "chunk_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "level": "project",
+  "project_id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+  "name": "Example House",
+  "summary_text": "Project Floor Nine, a nine-floor building, features eight rooms arranged into living, sleeping, and utility zones to promote smooth flow between spaces. The living zone centers on a welcoming lounge with TV stand, coffee table, and rug, plus a compact entry space anchored by a wall mirror and lighting. The sleeping zone includes a bed, nightstands, and dresser, while utilities cover a western kitchen and small washroom. A central freestanding cabinet adds storage, yielding a cohesive, neutral, functional layout.",
+  "refs": {
+    "parent_id": null
+  },
+  "raw": {
+    "id": "de0dfcd1ec9162cbd8b4b92cb02e1e5fc626ff0953c80d4d3b20e3973cb78131",
+    "parent_id": null,
+    "type": "project",
+    "floors": [
+      "adf64c35aa3fe33e1c360645428a1482d2f9168ebb187a131c2da52bebd18ba9"
+    ],
+    "attrs": {
+      "id": 61301631,
+      "name": "Example House",
+      "description": "",
+      "settings": {
+        "wallHeight": 280,
+        "wallSectionHeight": 150,
+        "wallThickness": 15,
+        "wallOuterThickness": 30,
+        "useMetric": true,
+        "showGrid": false,
+        "showDims": true,
+        "showShortDims": false,
+        "showAreaDims": false,
+        "generateOuterDimension": true,
+        "showDropShadows": true,
+        "showObjects": true,
+        "showFixtures": true,
+        "showItemOutline": false,
+        "showObjectColour": true,
+        "showStructuralColour": true,
+        "showFloorsBelow": false,
+        "showFixtures3D": true,
+        "showObjects3D": true,
+        "showSymbols": true,
+        "showObjectMono": false,
+        "showLights": false,
+        "hideLightsOnPan": false,
+        "useSection3D": false,
+        "showLabels": true,
+        "areaLabelOutline": false,
+        "areaLabelLetterSpacing": 7,
+        "dimLineLabelHorizontal": false,
+        "exportLabels3D": false,
+        "showShadows3D": true,
+        "exportOrtho3D": false,
+        "visuals": "ALL",
+        "showTexts": true,
+        "arrowHeadType": "arrow",
+        "showNorthArrow": false,
+        "northArrowRotation": 0,
+        "northArrowKind": 1,
+        "blueprintMode": false,
+        "dimLineFont": "arial",
+        "hideItemsAboveHeight": 122,
+        "hideItemsAbove": false,
+        "xRayWalls": false
+      },
+      "summary": "Project Floor Nine, a nine-floor building, features eight rooms arranged into living, sleeping, and utility zones to promote smooth flow between spaces. The living zone centers on a welcoming lounge with TV stand, coffee table, and rug, plus a compact entry space anchored by a wall mirror and lighting. The sleeping zone includes a bed, nightstands, and dresser, while utilities cover a western kitchen and small washroom. A central freestanding cabinet adds storage, yielding a cohesive, neutral, functional layout."
+    }
+  }
+}

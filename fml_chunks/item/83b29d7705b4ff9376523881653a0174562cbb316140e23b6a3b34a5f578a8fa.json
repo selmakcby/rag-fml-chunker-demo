@@ -1,0 +1,22 @@
+{
+  "id": "83b29d7705b4ff9376523881653a0174562cbb316140e23b6a3b34a5f578a8fa",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "5a7dcc1d390b50dc90983d53c21ec34944c5d0b5",
+    "x": 897.2682816338709,
+    "y": 558.7578605236868,
+    "z": 44,
+    "width": 51.199,
+    "height": 17.164,
+    "z_height": 32.866,
+    "rotation": 170.0036619594162,
+    "name": "Distressed Chenille Pillow BLK",
+    "brand": "Ethan Allen",
+    "sku": "061328 BLK",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows",
+    "depth": 17.164,
+    "type_guess": "textile"
+  },
+  "doc": "name: Distressed Chenille Pillow BLK | brand: Ethan Allen | sku: 061328 BLK | type: textile | refid: 5a7dcc1d390b50dc90983d53c21ec34944c5d0b5 | dimensions: 51.199 x 17.164 x 17.164 | url: https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows | position: x=897.2682816338709, y=558.7578605236868, z=44, rot=170.0036619594162"
+}

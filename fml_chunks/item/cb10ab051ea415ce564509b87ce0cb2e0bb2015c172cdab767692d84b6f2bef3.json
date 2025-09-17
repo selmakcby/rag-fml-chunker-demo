@@ -1,0 +1,28 @@
+{
+  "id": "cb10ab051ea415ce564509b87ce0cb2e0bb2015c172cdab767692d84b6f2bef3",
+  "parent_id": "e276c188abb79d2db802881fa72f71a8643a67f0fbe629ecd996a6e0b4136b1c",
+  "type": "item",
+  "attrs": {
+    "refid": "adf552ad0193c094fd870313aa23eb1e758c65f0",
+    "x": 158.30960741889496,
+    "y": 352.13056575152194,
+    "z": 0,
+    "width": 64.88,
+    "height": 101.334,
+    "z_height": 99.053,
+    "rotation": 0,
+    "mirrored": [
+      0,
+      0
+    ],
+    "materials": {
+      "FABRIC_H3247": 28242
+    },
+    "name": "Conover Armless 1 Seat",
+    "brand": "Ethan Allen",
+    "sku": "207970",
+    "url": "www.ethanallen.com",
+    "depth": 101.334
+  },
+  "doc": "name: Conover Armless 1 Seat | brand: Ethan Allen | sku: 207970 | refid: adf552ad0193c094fd870313aa23eb1e758c65f0 | dimensions: 64.88 x 101.334 x 101.334 | url: www.ethanallen.com | position: x=158.30960741889496, y=352.13056575152194, z=0, rot=0"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d2bafa044880a71a03adb296b9df4457524b3b4e8483fb4f34c1bbd85f1475ce",
+  "parent_id": "b7ccf3f36e54889bc940023a8493d04aaaf639d3c9ec8739fb07aefbc80c2292",
+  "type": "item",
+  "attrs": {
+    "refid": "bac13089379307ea8ef4dea876c9a2719e0910a3",
+    "x": 352.25854016723144,
+    "y": 207.15973803005693,
+    "z": 0,
+    "width": 81.916,
+    "height": 51.448,
+    "z_height": 81.28,
+    "rotation": 90,
+    "materials": {
+      "FINISH_612": 30
+    },
+    "name": "Leora Custom Night Table",
+    "brand": "Ethan Allen",
+    "sku": "155347",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/leora-custom-night-table/155347.html#lang=en_US&q=lenora&start=1",
+    "depth": 51.448,
+    "type_guess": "table"
+  },
+  "doc": "name: Leora Custom Night Table | brand: Ethan Allen | sku: 155347 | type: table | refid: bac13089379307ea8ef4dea876c9a2719e0910a3 | dimensions: 81.916 x 51.448 x 51.448 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-night-tables/leora-custom-night-table/155347.html#lang=en_US&q=lenora&start=1 | position: x=352.25854016723144, y=207.15973803005693, z=0, rot=90"
+}

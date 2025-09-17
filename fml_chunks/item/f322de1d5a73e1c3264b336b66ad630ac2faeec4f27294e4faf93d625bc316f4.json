@@ -1,0 +1,24 @@
+{
+  "id": "f322de1d5a73e1c3264b336b66ad630ac2faeec4f27294e4faf93d625bc316f4",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "d024cf384e29bf7d2ddedf4f80cc01ddb873b855",
+    "x": -221.39579897056183,
+    "y": 390.89904423141763,
+    "z": 0,
+    "width": 86.36,
+    "height": 46.36,
+    "z_height": 83.82,
+    "rotation": 90,
+    "materials": {
+      "FINISH_314": 38
+    },
+    "name": "Veronica Chest",
+    "brand": "Ethan Allen",
+    "sku": "399311",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/veronica-chest/399311.html",
+    "depth": 46.36
+  },
+  "doc": "name: Veronica Chest | brand: Ethan Allen | sku: 399311 | refid: d024cf384e29bf7d2ddedf4f80cc01ddb873b855 | dimensions: 86.36 x 46.36 x 46.36 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/veronica-chest/399311.html | position: x=-221.39579897056183, y=390.89904423141763, z=0, rot=90"
+}

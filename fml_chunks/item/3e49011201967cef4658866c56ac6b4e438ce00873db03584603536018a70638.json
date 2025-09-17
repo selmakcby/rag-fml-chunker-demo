@@ -1,0 +1,22 @@
+{
+  "id": "3e49011201967cef4658866c56ac6b4e438ce00873db03584603536018a70638",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "a177611b88e0231b291e1a59cb22561ef8d1e76a",
+    "x": 642.8297658694421,
+    "y": 304.3362326395984,
+    "z": 0,
+    "width": 121.912,
+    "height": 121.918,
+    "z_height": 43.158,
+    "rotation": 270,
+    "name": "Damian 48\" Square Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "228055 401",
+    "url": "https://www.ethanallen.com/en_US/shop-whats-new-living-room-furniture/damian-48%22-square-coffee-table/228055.html",
+    "depth": 121.918,
+    "type_guess": "table"
+  },
+  "doc": "name: Damian 48\" Square Coffee Table | brand: Ethan Allen | sku: 228055 401 | type: table | refid: a177611b88e0231b291e1a59cb22561ef8d1e76a | dimensions: 121.912 x 121.918 x 121.918 | url: https://www.ethanallen.com/en_US/shop-whats-new-living-room-furniture/damian-48%22-square-coffee-table/228055.html | position: x=642.8297658694421, y=304.3362326395984, z=0, rot=270"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a97d3f46fa8140dcbecf28f26952de4a2a22eb511ed0a15bcb9ac3ecefab51de",
+  "parent_id": "75c4b257353f09dcbcaf293b3917bc2ab066ef0f51da304a008d4907dde3c3b9",
+  "type": "item",
+  "attrs": {
+    "refid": "40432f585279098b39ea46e311b0269248095a8b",
+    "x": 121.45191224993727,
+    "y": 327.17696372099084,
+    "z": 0,
+    "width": 72.372,
+    "height": 86.258,
+    "z_height": 84.571,
+    "rotation": 180,
+    "materials": {
+      "FABRIC_P8488": 398
+    },
+    "name": "Bridgewater Cove Lounge Chair",
+    "brand": "Ethan Allen",
+    "sku": "404000",
+    "url": "https://www.ethanallen.com/en_US/shop-outdoor-furniture-bridgewater-cove/bridgewater-cove-teak-lounge-chair/404000GP8430.html",
+    "depth": 86.258,
+    "type_guess": "chair"
+  },
+  "doc": "name: Bridgewater Cove Lounge Chair | brand: Ethan Allen | sku: 404000 | type: chair | refid: 40432f585279098b39ea46e311b0269248095a8b | dimensions: 72.372 x 86.258 x 86.258 | url: https://www.ethanallen.com/en_US/shop-outdoor-furniture-bridgewater-cove/bridgewater-cove-teak-lounge-chair/404000GP8430.html | position: x=121.45191224993727, y=327.17696372099084, z=0, rot=180"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2dbf7df6fc16336d0e83838c55a2539f52e80524ec82a451fdcc5d66f9273ccb",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "60fda97b779866dc1c6e5523a6a0531aff9f8e05",
+    "x": 543.25634765625,
+    "y": -157.08328247070312,
+    "z": 0,
+    "width": 68.846,
+    "height": 69.133,
+    "z_height": 104.235,
+    "rotation": 270,
+    "materials": {
+      "FABRIC_51429": "406",
+      "FINISH_943": "218"
+    },
+    "name": "Yves Arm Chair",
+    "brand": "Ethan Allen",
+    "sku": "207314",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-arm-host-chairs/yves-host-chair/207314.html",
+    "depth": 69.133,
+    "type_guess": "chair"
+  },
+  "doc": "name: Yves Arm Chair | brand: Ethan Allen | sku: 207314 | type: chair | refid: 60fda97b779866dc1c6e5523a6a0531aff9f8e05 | dimensions: 68.846 x 69.133 x 69.133 | url: https://www.ethanallen.com/en_US/shop-furniture-dining-room-chairs-arm-host-chairs/yves-host-chair/207314.html | position: x=543.25634765625, y=-157.08328247070312, z=0, rot=270"
+}

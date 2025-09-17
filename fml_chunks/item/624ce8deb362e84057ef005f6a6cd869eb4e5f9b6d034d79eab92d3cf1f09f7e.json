@@ -1,0 +1,21 @@
+{
+  "id": "624ce8deb362e84057ef005f6a6cd869eb4e5f9b6d034d79eab92d3cf1f09f7e",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "6eb91b303e11e0271fd6f8d068bf8aaabeae36ce",
+    "x": 367.3589061605635,
+    "y": -39.288436994698756,
+    "z": 106.70317077636719,
+    "width": 42.088,
+    "height": 20.318,
+    "z_height": 27.53,
+    "rotation": 0,
+    "name": "Linen Wrapped Books",
+    "brand": "Floorplanner",
+    "sku": "",
+    "url": "www.floorplanner.com",
+    "depth": 27.53
+  },
+  "doc": "name: Linen Wrapped Books | brand: Floorplanner | refid: 6eb91b303e11e0271fd6f8d068bf8aaabeae36ce | dimensions: 42.088 x 27.53 x 20.318 | url: www.floorplanner.com | position: x=367.3589061605635, y=-39.288436994698756, z=106.70317077636719, rot=0"
+}

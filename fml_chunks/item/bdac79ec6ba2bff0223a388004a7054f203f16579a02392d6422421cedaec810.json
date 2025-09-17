@@ -1,0 +1,21 @@
+{
+  "id": "bdac79ec6ba2bff0223a388004a7054f203f16579a02392d6422421cedaec810",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "38af187a24898e23351fafe625057dee4abcc3d2",
+    "x": 407.3586797936457,
+    "y": 616.0697934806047,
+    "z": 105.082,
+    "width": 175.256,
+    "height": 5.026,
+    "z_height": 132.736,
+    "rotation": 0,
+    "name": "Memory of the West",
+    "brand": "Ethan Allen",
+    "sku": "073184",
+    "url": "https://www.ethanallen.com/en_US/shop-whats-new-decor-framed-artwork",
+    "depth": 132.736
+  },
+  "doc": "name: Memory of the West | brand: Ethan Allen | sku: 073184 | refid: 38af187a24898e23351fafe625057dee4abcc3d2 | dimensions: 175.256 x 132.736 x 5.026 | url: https://www.ethanallen.com/en_US/shop-whats-new-decor-framed-artwork | position: x=407.3586797936457, y=616.0697934806047, z=105.082, rot=0"
+}

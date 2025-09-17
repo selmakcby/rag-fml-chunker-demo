@@ -1,0 +1,21 @@
+{
+  "id": "8a94f16db6cf0249a3c0373d944930a7ca11eaa372c90a3e2dd4be363027d948",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "ff973dab45f3ec4db97080000e0eefa34a80385b",
+    "x": 443.7170856488126,
+    "y": 303.20140153258853,
+    "z": 95.23259735107422,
+    "width": 132.08,
+    "height": 5.001,
+    "z_height": 132.08,
+    "rotation": 90,
+    "name": "Celadon Spring",
+    "brand": "Ethan Allen",
+    "sku": "073219",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-all-artwork/celadon-spring/073219.html",
+    "depth": 132.08
+  },
+  "doc": "name: Celadon Spring | brand: Ethan Allen | sku: 073219 | refid: ff973dab45f3ec4db97080000e0eefa34a80385b | dimensions: 132.08 x 132.08 x 5.001 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-all-artwork/celadon-spring/073219.html | position: x=443.7170856488126, y=303.20140153258853, z=95.23259735107422, rot=90"
+}

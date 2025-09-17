@@ -1,0 +1,21 @@
+{
+  "id": "5b5fe207e77c7dc998d124c04f86376a235c0921e418edb123d18b48d402160e",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "79431fb55870504f86c5f3e2e4c47f4ba88f63e0",
+    "x": 833.5946044921875,
+    "y": 844.1364135742188,
+    "z": 158.72354125976562,
+    "width": 22,
+    "height": 15,
+    "z_height": 3,
+    "rotation": 180,
+    "name": "Book Shelf",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 3.0,
+    "type_guess": "shelving"
+  },
+  "doc": "name: Book Shelf | brand: Floorplanner | type: shelving | refid: 79431fb55870504f86c5f3e2e4c47f4ba88f63e0 | dimensions: 22 x 3.0 x 15 | url: https://floorplanner.com | position: x=833.5946044921875, y=844.1364135742188, z=158.72354125976562, rot=180"
+}

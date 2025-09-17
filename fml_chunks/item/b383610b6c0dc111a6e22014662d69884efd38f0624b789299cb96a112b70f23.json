@@ -1,0 +1,26 @@
+{
+  "id": "b383610b6c0dc111a6e22014662d69884efd38f0624b789299cb96a112b70f23",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "6e19c580dd9372dbe3bf4daeeb722b308fa04c2a",
+    "x": -204.33873877051647,
+    "y": 409.4201638512809,
+    "z": 0,
+    "width": 242.163,
+    "height": 102.186,
+    "z_height": 91.385,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_62853": 925
+    },
+    "name": "Arcata 95\" Sofa",
+    "brand": "Ethan Allen",
+    "sku": "202127",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/arcata-three-seat-sofa/arcata3seat.html",
+    "depth": 102.186,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Arcata 95\" Sofa | brand: Ethan Allen | sku: 202127 | type: sofa | refid: 6e19c580dd9372dbe3bf4daeeb722b308fa04c2a | dimensions: 242.163 x 102.186 x 102.186 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-fabric/arcata-three-seat-sofa/arcata3seat.html | position: x=-204.33873877051647, y=409.4201638512809, z=0, rot=270"
+}

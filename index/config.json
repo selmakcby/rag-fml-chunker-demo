@@ -1,0 +1,8 @@
+{
+  "chunks_root": "/Users/selma/Desktop/rag_demo/fml_chunks",
+  "created_at": 1756379284,
+  "embed_model": "nomic-embed-text",
+  "ollama_url": "http://localhost:11434",
+  "count": 727,
+  "dims": 768
+}

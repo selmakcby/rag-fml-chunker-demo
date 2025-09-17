@@ -1,0 +1,25 @@
+{
+  "id": "0f6eb95485a3e91e899ddb99bc6ba68425c355ec542c9c78b6daff8f94413437",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "7d3eb3e429ed14b7b7281a4bfbbab0aa166053cc",
+    "x": -532.645820224988,
+    "y": 118.59833594610853,
+    "z": 0,
+    "width": 73.679,
+    "height": 147.438,
+    "z_height": 94.341,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59122": 28242
+    },
+    "name": "Bennett Track-Arm LAF Chaise",
+    "brand": "Ethan Allen",
+    "sku": "207130",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 147.438
+  },
+  "doc": "name: Bennett Track-Arm LAF Chaise | brand: Ethan Allen | sku: 207130 | refid: 7d3eb3e429ed14b7b7281a4bfbbab0aa166053cc | dimensions: 73.679 x 147.438 x 147.438 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=-532.645820224988, y=118.59833594610853, z=0, rot=0"
+}

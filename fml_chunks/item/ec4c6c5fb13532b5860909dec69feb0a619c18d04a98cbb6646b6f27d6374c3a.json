@@ -1,0 +1,22 @@
+{
+  "id": "ec4c6c5fb13532b5860909dec69feb0a619c18d04a98cbb6646b6f27d6374c3a",
+  "parent_id": "31f294fd40c368f181192984cb1416f25efb2bc4958853ba2af40d6740acc5ea",
+  "type": "item",
+  "attrs": {
+    "refid": "4e94fe0c9c4ad2e571c22f272ea0bb8258595253",
+    "x": 969.0417205646288,
+    "y": -357.5292391025102,
+    "z": 0,
+    "width": 132.08,
+    "height": 81.28,
+    "z_height": 45.72,
+    "rotation": 270,
+    "name": "Elton Rectangular Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "278010 380",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/elton-rectangular-coffee-table/278010.html#lang=en_US&q=elton&start=1",
+    "depth": 81.28,
+    "type_guess": "table"
+  },
+  "doc": "name: Elton Rectangular Coffee Table | brand: Ethan Allen | sku: 278010 380 | type: table | refid: 4e94fe0c9c4ad2e571c22f272ea0bb8258595253 | dimensions: 132.08 x 81.28 x 81.28 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/elton-rectangular-coffee-table/278010.html#lang=en_US&q=elton&start=1 | position: x=969.0417205646288, y=-357.5292391025102, z=0, rot=270"
+}

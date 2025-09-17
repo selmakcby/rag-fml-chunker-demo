@@ -1,0 +1,21 @@
+{
+  "id": "5f15b7c30449b1ef4c293ed8f3f17160d3ae473dd0fc42c8078fc5bdd220986e",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "f7638b330440260c910dc00dcc241e146fb74e0c",
+    "x": 512.146327355294,
+    "y": 330.0787854220006,
+    "z": 71.12,
+    "width": 63.332,
+    "height": 29.716,
+    "z_height": 15.835,
+    "rotation": 270,
+    "name": "Tanzia Bowl Croc Print",
+    "brand": "Ethan Allen",
+    "sku": "431837 ORB",
+    "url": "https://www.ethanallen.com",
+    "depth": 29.716
+  },
+  "doc": "name: Tanzia Bowl Croc Print | brand: Ethan Allen | sku: 431837 ORB | refid: f7638b330440260c910dc00dcc241e146fb74e0c | dimensions: 63.332 x 29.716 x 29.716 | url: https://www.ethanallen.com | position: x=512.146327355294, y=330.0787854220006, z=71.12, rot=270"
+}

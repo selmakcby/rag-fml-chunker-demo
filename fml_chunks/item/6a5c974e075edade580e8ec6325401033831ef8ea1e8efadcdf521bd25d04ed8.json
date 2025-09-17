@@ -1,0 +1,26 @@
+{
+  "id": "6a5c974e075edade580e8ec6325401033831ef8ea1e8efadcdf521bd25d04ed8",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "3cac41aaf88f06fad2af78323b84735231d22722",
+    "x": -537.4614206255228,
+    "y": 133.24508314138,
+    "z": 0,
+    "width": 99.298,
+    "height": 172.67,
+    "z_height": 92.457,
+    "rotation": 0,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23633": 928
+    },
+    "name": "Spencer RA LAF XL Chaise, 26 in.",
+    "brand": "Ethan Allen",
+    "sku": "202439",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sofa-collections-spencer",
+    "depth": 172.67,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Spencer RA LAF XL Chaise, 26 in. | brand: Ethan Allen | sku: 202439 | type: sofa | refid: 3cac41aaf88f06fad2af78323b84735231d22722 | dimensions: 99.298 x 172.67 x 172.67 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sofa-collections-spencer | position: x=-537.4614206255228, y=133.24508314138, z=0, rot=0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8296bb9618bbe0599dcdd1a5b402a5b6badafd34f0eee3e1015e36d462b422fe",
+  "parent_id": "c8791811a430d412dcda2437789f74f0a2e306d6bb7d020199b8a5c7bcf4ebfb",
+  "type": "item",
+  "attrs": {
+    "refid": "d217735798aab94180865bb6bb222caf11acbc92",
+    "x": 421.85027000041174,
+    "y": 420.43718704548564,
+    "z": 0,
+    "width": 366.342,
+    "height": 429.517,
+    "z_height": 2.005,
+    "rotation": 0,
+    "name": "Nila Antiqued Rug, 12' x 14'",
+    "brand": "Ethan Allen",
+    "sku": "041692X BMT",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/nila-antiqued-rug/041692.html",
+    "depth": 429.517,
+    "type_guess": "rug"
+  },
+  "doc": "name: Nila Antiqued Rug, 12' x 14' | brand: Ethan Allen | sku: 041692X BMT | type: rug | refid: d217735798aab94180865bb6bb222caf11acbc92 | dimensions: 366.342 x 429.517 x 429.517 | url: https://www.ethanallen.com/en_US/shop-rugs-traditional-patterned/nila-antiqued-rug/041692.html | position: x=421.85027000041174, y=420.43718704548564, z=0, rot=0"
+}

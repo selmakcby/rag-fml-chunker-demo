@@ -1,0 +1,22 @@
+{
+  "id": "a18bd64162711f0bd886ee8da7521dd623a03f0b683d15c7b2f5f5fec07d42af",
+  "parent_id": "e276c188abb79d2db802881fa72f71a8643a67f0fbe629ecd996a6e0b4136b1c",
+  "type": "item",
+  "attrs": {
+    "refid": "a134aa79bd28d6628b6c440e1718bf5f27bb07c3",
+    "x": 161.1860170064614,
+    "y": 277.333565751522,
+    "z": 0,
+    "width": 164.466,
+    "height": 48.26,
+    "z_height": 71.12,
+    "rotation": 180,
+    "name": "Carson Console",
+    "brand": "Ethan Allen",
+    "sku": "278030 33G",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/carson-console-table/278030+++33G.html",
+    "depth": 48.26,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Carson Console | brand: Ethan Allen | sku: 278030 33G | type: cabinet | refid: a134aa79bd28d6628b6c440e1718bf5f27bb07c3 | dimensions: 164.466 x 48.26 x 48.26 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/carson-console-table/278030+++33G.html | position: x=161.1860170064614, y=277.333565751522, z=0, rot=180"
+}

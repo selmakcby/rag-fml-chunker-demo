@@ -1,0 +1,27 @@
+{
+  "id": "bba68da18e4639601b8c3be99c2877464bf6798d9abefe7ffe754ee0c503b57f",
+  "parent_id": "8953e70ecf14a89f5d7f7797e0c7e4f5fcf3c05218965add53159fee9e71c3c1",
+  "type": "item",
+  "attrs": {
+    "refid": "c8def276d3e5500320bc309a59d3affdfed293ec",
+    "x": 277.88811589764555,
+    "y": 599.2584059222288,
+    "z": 61,
+    "width": 45.602,
+    "height": 45.6,
+    "z_height": 77.478,
+    "rotation": 270,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Marian Table Lamp",
+    "brand": "Ethan Allen",
+    "sku": "096110",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/marian-table-lamp/096110.html",
+    "depth": 45.6,
+    "type_guess": "table"
+  },
+  "doc": "name: Marian Table Lamp | brand: Ethan Allen | sku: 096110 | type: table | refid: c8def276d3e5500320bc309a59d3affdfed293ec | dimensions: 45.602 x 45.6 x 45.6 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/marian-table-lamp/096110.html | position: x=277.88811589764555, y=599.2584059222288, z=61, rot=270"
+}

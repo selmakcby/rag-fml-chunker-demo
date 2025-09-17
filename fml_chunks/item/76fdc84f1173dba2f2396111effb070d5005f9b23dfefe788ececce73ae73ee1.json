@@ -1,0 +1,21 @@
+{
+  "id": "76fdc84f1173dba2f2396111effb070d5005f9b23dfefe788ececce73ae73ee1",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "e3263923ff68ccfa44d429e8a871135aac154548",
+    "x": 895.6598510742188,
+    "y": -140.37042236328125,
+    "z": 52.15220642089844,
+    "width": 134.62,
+    "height": 5.08,
+    "z_height": 180.34,
+    "rotation": 270,
+    "name": "Waiting for the Sun",
+    "brand": "Ethan Allen",
+    "sku": "073209",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-landscape-cityscape/waiting-for-the-sun/073209.html",
+    "depth": 180.34
+  },
+  "doc": "name: Waiting for the Sun | brand: Ethan Allen | sku: 073209 | refid: e3263923ff68ccfa44d429e8a871135aac154548 | dimensions: 134.62 x 180.34 x 5.08 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-landscape-cityscape/waiting-for-the-sun/073209.html | position: x=895.6598510742188, y=-140.37042236328125, z=52.15220642089844, rot=270"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "45baf35078af28240df37eaa3ad8c744bb8bb28b7700b2f90ea34491f8a8d5b0",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "ada042250df0181900541f875c12129aff661bac",
+    "x": 813.7283325195312,
+    "y": 830.0835571289062,
+    "z": 225,
+    "width": 21,
+    "height": 21,
+    "z_height": 42.455,
+    "rotation": 0,
+    "name": "Moss Hurricanes Lg",
+    "brand": "Ethan Allen",
+    "sku": "443740A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/moss-hurricanes/443740.html",
+    "depth": 21.0
+  },
+  "doc": "name: Moss Hurricanes Lg | brand: Ethan Allen | sku: 443740A | refid: ada042250df0181900541f875c12129aff661bac | dimensions: 21 x 21.0 x 21 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/moss-hurricanes/443740.html | position: x=813.7283325195312, y=830.0835571289062, z=225, rot=0"
+}

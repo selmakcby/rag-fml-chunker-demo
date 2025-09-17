@@ -1,0 +1,20 @@
+{
+  "id": "798e8815e62436ac58c1f794f1e948e1f6333681ff7cd49099012805e27c543f",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "d45c400e5fed466ca929a71ba9dea14abbd51020",
+    "x": 773.0211492544745,
+    "y": 759.5036183250007,
+    "z": -76.199999884176,
+    "width": 432.4502393426756,
+    "height": 90.15983986295704,
+    "z_height": 298.7649595458772,
+    "rotation": 180,
+    "name": "Staircase",
+    "brand": "BESPOKE ARCHITECTURE",
+    "url": "https://roomstyler.com",
+    "depth": 64.886
+  },
+  "doc": "name: Staircase | brand: BESPOKE ARCHITECTURE | refid: d45c400e5fed466ca929a71ba9dea14abbd51020 | dimensions: 432.4502393426756 x 64.886 x 90.15983986295704 | url: https://roomstyler.com | position: x=773.0211492544745, y=759.5036183250007, z=-76.199999884176, rot=180"
+}

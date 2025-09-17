@@ -1,0 +1,37 @@
+{
+  "chunk_id": "f2a443ed2a3e683a04865920deffe9f91bd2b8d62df49304589a09156e12af10",
+  "level": "item",
+  "parent_id": "ca453c5c38a906ceabecafa856adc932055b5e23753e897cf1c738252a6f689f",
+  "room_id": "c3bfa33af55a55c66a557ffa9e6a3d9809252e9b1b02809791e5c5b557de3ab0",
+  "type": "item",
+  "name": "f692a20305f3fbb2a73438eab6e11ed202364339",
+  "refid": "f692a20305f3fbb2a73438eab6e11ed202364339",
+  "position": {
+    "x": 248.6511362651563,
+    "y": 305.55052111028726,
+    "z": 0
+  },
+  "size": {
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.505
+  },
+  "rotation": 180.04941323485696,
+  "summary_text": "Item 'f692a20305f3fbb2a73438eab6e11ed202364339' (item) at (248.6511362651563, 305.55052111028726).",
+  "refs": {
+    "parent_id": "ca453c5c38a906ceabecafa856adc932055b5e23753e897cf1c738252a6f689f"
+  },
+  "raw": {
+    "refid": "f692a20305f3fbb2a73438eab6e11ed202364339",
+    "x": 248.6511362651563,
+    "y": 305.55052111028726,
+    "z": 0,
+    "width": 243.84,
+    "height": 304.8,
+    "z_height": 1.505,
+    "rotation": 180.04941323485696,
+    "materials": {
+      "FABRIC_RUG_Charcoal": 2445
+    }
+  }
+}

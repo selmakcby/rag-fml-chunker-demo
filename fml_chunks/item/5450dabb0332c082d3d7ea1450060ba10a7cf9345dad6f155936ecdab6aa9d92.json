@@ -1,0 +1,26 @@
+{
+  "id": "5450dabb0332c082d3d7ea1450060ba10a7cf9345dad6f155936ecdab6aa9d92",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "b56d8a566bcc4fde39bf96f2a7f367ec4d4663a1",
+    "x": 79.49813888695247,
+    "y": 161.96091526641513,
+    "z": 0,
+    "width": 223.342,
+    "height": 109.358,
+    "z_height": 96.924,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": "218",
+      "FABRIC_H3280": "30799"
+    },
+    "name": "Hyde 88'' Sofa",
+    "brand": "Ethan Allen",
+    "sku": "207073",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-loveseats/hyde-three-cushion-sofa/207073.html?site=",
+    "depth": 109.358,
+    "type_guess": "sofa"
+  },
+  "doc": "name: Hyde 88'' Sofa | brand: Ethan Allen | sku: 207073 | type: sofa | refid: b56d8a566bcc4fde39bf96f2a7f367ec4d4663a1 | dimensions: 223.342 x 109.358 x 109.358 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-sofas-loveseats/hyde-three-cushion-sofa/207073.html?site= | position: x=79.49813888695247, y=161.96091526641513, z=0, rot=270"
+}

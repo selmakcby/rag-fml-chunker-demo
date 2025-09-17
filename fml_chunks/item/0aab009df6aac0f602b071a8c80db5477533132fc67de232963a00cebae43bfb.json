@@ -1,0 +1,25 @@
+{
+  "id": "0aab009df6aac0f602b071a8c80db5477533132fc67de232963a00cebae43bfb",
+  "parent_id": "67225bf4702143ca0a4c7685c9fba4792dd3ee0a6f5828685adae386177ea1ca",
+  "type": "item",
+  "attrs": {
+    "refid": "74e67f4e5c51815c297cf8c465508b70a15264fe",
+    "x": 377.45308351661026,
+    "y": 161.0415378065254,
+    "z": 0,
+    "width": 67.31,
+    "height": 47,
+    "z_height": 63.492,
+    "rotation": 90,
+    "materials": {
+      "FINISH_612": 108
+    },
+    "name": "Wesley End Table",
+    "brand": "Ethan Allen",
+    "sku": "338406",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/wesley-end-table/338406.html?site=",
+    "depth": 47.0,
+    "type_guess": "table"
+  },
+  "doc": "name: Wesley End Table | brand: Ethan Allen | sku: 338406 | type: table | refid: 74e67f4e5c51815c297cf8c465508b70a15264fe | dimensions: 67.31 x 47.0 x 47 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/wesley-end-table/338406.html?site= | position: x=377.45308351661026, y=161.0415378065254, z=0, rot=90"
+}

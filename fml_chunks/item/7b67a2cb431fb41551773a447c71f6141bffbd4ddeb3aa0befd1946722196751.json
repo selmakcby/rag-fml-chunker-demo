@@ -1,0 +1,25 @@
+{
+  "id": "7b67a2cb431fb41551773a447c71f6141bffbd4ddeb3aa0befd1946722196751",
+  "parent_id": "4ddfa79f15cfcc4aa46eea3ef9cf1754afba120f431ebdc1195cdb03e7deaa56",
+  "type": "item",
+  "attrs": {
+    "refid": "99fdf1c0e87d4e8597df0a640eb92caf42d7578b",
+    "x": 275.1515401672315,
+    "y": 138.05772963828113,
+    "z": 0,
+    "width": 168.55,
+    "height": 205.662,
+    "z_height": 162.782,
+    "rotation": 90,
+    "materials": {
+      "FINISH_463": 964
+    },
+    "name": "Burke Oak Full Bed",
+    "brand": "Ethan Allen",
+    "sku": "2556264",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-wood-metal/burke-bed/C55616.html",
+    "depth": 205.662,
+    "type_guess": "bed"
+  },
+  "doc": "name: Burke Oak Full Bed | brand: Ethan Allen | sku: 2556264 | type: bed | refid: 99fdf1c0e87d4e8597df0a640eb92caf42d7578b | dimensions: 168.55 x 205.662 x 205.662 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-wood-metal/burke-bed/C55616.html | position: x=275.1515401672315, y=138.05772963828113, z=0, rot=90"
+}

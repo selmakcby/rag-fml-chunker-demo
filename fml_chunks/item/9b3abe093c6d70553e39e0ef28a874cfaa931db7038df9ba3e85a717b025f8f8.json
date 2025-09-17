@@ -1,0 +1,25 @@
+{
+  "id": "9b3abe093c6d70553e39e0ef28a874cfaa931db7038df9ba3e85a717b025f8f8",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "2940e7825f8c616c689d359a5fee9ac3f769cc41",
+    "x": -221.79594015803696,
+    "y": 552.5169098009092,
+    "z": 0,
+    "width": 170.242,
+    "height": 48.803,
+    "z_height": 94.554,
+    "rotation": 90,
+    "materials": {
+      "FINISH_483": 390
+    },
+    "name": "Heston Oak Dresser",
+    "brand": "Ethan Allen",
+    "sku": "365333",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/heston-oak-dresser/365333.html",
+    "depth": 48.803,
+    "type_guess": "dresser"
+  },
+  "doc": "name: Heston Oak Dresser | brand: Ethan Allen | sku: 365333 | type: dresser | refid: 2940e7825f8c616c689d359a5fee9ac3f769cc41 | dimensions: 170.242 x 48.803 x 48.803 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-dressers-chests/heston-oak-dresser/365333.html | position: x=-221.79594015803696, y=552.5169098009092, z=0, rot=90"
+}

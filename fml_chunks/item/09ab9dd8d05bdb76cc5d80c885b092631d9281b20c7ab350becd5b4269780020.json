@@ -1,0 +1,22 @@
+{
+  "id": "09ab9dd8d05bdb76cc5d80c885b092631d9281b20c7ab350becd5b4269780020",
+  "parent_id": "b7ccf3f36e54889bc940023a8493d04aaaf639d3c9ec8739fb07aefbc80c2292",
+  "type": "item",
+  "attrs": {
+    "refid": "1a930513eeb17647d8430836b6b957ff33530d83",
+    "x": 41.23109933929459,
+    "y": 160.83531872147785,
+    "z": 0,
+    "width": 35.32,
+    "height": 35.32,
+    "z_height": 55.88,
+    "rotation": 270,
+    "name": "Rinna Pedestal Table",
+    "brand": "Ethan Allen",
+    "sku": "421815",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/rinna-pedestal-accent-table/421815.html",
+    "depth": 35.32,
+    "type_guess": "table"
+  },
+  "doc": "name: Rinna Pedestal Table | brand: Ethan Allen | sku: 421815 | type: table | refid: 1a930513eeb17647d8430836b6b957ff33530d83 | dimensions: 35.32 x 35.32 x 35.32 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/rinna-pedestal-accent-table/421815.html | position: x=41.23109933929459, y=160.83531872147785, z=0, rot=270"
+}

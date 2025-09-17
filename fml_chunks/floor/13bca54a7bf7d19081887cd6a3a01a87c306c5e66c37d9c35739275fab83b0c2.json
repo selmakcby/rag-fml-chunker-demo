@@ -1,0 +1,65 @@
+{
+  "id": "13bca54a7bf7d19081887cd6a3a01a87c306c5e66c37d9c35739275fab83b0c2",
+  "parent_id": "7c3a3c1a19118f52cdf6ac9390b5ba6214ade94be39707d56ccf50fb1acd35f7",
+  "type": "floor",
+  "designs": [
+    "de4b7c344b11e4835a38fb26b4faf35a8b5747590c6438033a1de318ac982f22"
+  ],
+  "attrs": {
+    "id": 255029855,
+    "project_id": 167483795,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:11:41.000Z",
+    "updated_at": "2025-01-04T22:42:44.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294314087,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294314090,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 1 rooms. Highlights: Living: 12 items (Villa Left Library Bookcase, Conway Armless 2 Seat, Isari Soumak Gray 9 x 12, Conway RAF Chaise, Villa Right Library Bookcase, RoundHouse Flat Screen)."
+}

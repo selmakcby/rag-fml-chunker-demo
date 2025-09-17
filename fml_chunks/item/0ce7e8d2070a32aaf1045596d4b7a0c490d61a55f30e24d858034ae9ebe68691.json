@@ -1,0 +1,24 @@
+{
+  "id": "0ce7e8d2070a32aaf1045596d4b7a0c490d61a55f30e24d858034ae9ebe68691",
+  "parent_id": "b7ccf3f36e54889bc940023a8493d04aaaf639d3c9ec8739fb07aefbc80c2292",
+  "type": "item",
+  "attrs": {
+    "refid": "f03334e6c962b25403eee76d9528f7c16be219e7",
+    "x": 272.8530919330392,
+    "y": 99.52361479960422,
+    "z": 0,
+    "width": 112.582,
+    "height": 215.045,
+    "z_height": 148.03,
+    "rotation": 90,
+    "materials": {
+      "FINISH_277": 30
+    },
+    "name": "Quincy Bed - Twin Size",
+    "brand": "Ethan Allen",
+    "sku": "3156003",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-wood-metal/quincy-bed/315600.html",
+    "depth": 215.045
+  },
+  "doc": "name: Quincy Bed - Twin Size | brand: Ethan Allen | sku: 3156003 | refid: f03334e6c962b25403eee76d9528f7c16be219e7 | dimensions: 112.582 x 215.045 x 215.045 | url: https://www.ethanallen.com/en_US/shop-furniture-bedroom-beds-wood-metal/quincy-bed/315600.html | position: x=272.8530919330392, y=99.52361479960422, z=0, rot=90"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aeeaa54f4831de50d8a9821d6abf64eb550f3b11bb3d02876a9135ec34bb67ff",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "96408ea6f7da15ba71d7912568cf4a1d08014978",
+    "x": 582.7608273552942,
+    "y": 256.6314538824488,
+    "z": 0,
+    "width": 102.077,
+    "height": 101.505,
+    "z_height": 88.937,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_23654": 28245
+    },
+    "name": "Spencer Square Corner, 24 in.",
+    "brand": "Ethan Allen",
+    "sku": "202370",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional",
+    "depth": 101.505
+  },
+  "doc": "name: Spencer Square Corner, 24 in. | brand: Ethan Allen | sku: 202370 | refid: 96408ea6f7da15ba71d7912568cf4a1d08014978 | dimensions: 102.077 x 101.505 x 101.505 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-sectionals?src=sectional | position: x=582.7608273552942, y=256.6314538824488, z=0, rot=270"
+}

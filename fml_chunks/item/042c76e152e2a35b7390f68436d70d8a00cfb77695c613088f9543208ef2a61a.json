@@ -1,0 +1,25 @@
+{
+  "id": "042c76e152e2a35b7390f68436d70d8a00cfb77695c613088f9543208ef2a61a",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "e574d23e631f1bfdb8704deffaa2bd693d49d14c",
+    "x": -124.06573877051642,
+    "y": 475.9617023463097,
+    "z": 0,
+    "width": 83.732,
+    "height": 58.36,
+    "z_height": 40.594,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_36013": 26596
+    },
+    "name": "Arcata Ottoman",
+    "brand": "Ethan Allen",
+    "sku": "202110",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/arcata-ottoman/202110.html",
+    "depth": 58.36
+  },
+  "doc": "name: Arcata Ottoman | brand: Ethan Allen | sku: 202110 | refid: e574d23e631f1bfdb8704deffaa2bd693d49d14c | dimensions: 83.732 x 58.36 x 58.36 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans-benches/arcata-ottoman/202110.html | position: x=-124.06573877051642, y=475.9617023463097, z=0, rot=270"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3c463f2f6729489aa5ce32df0affad103cbac76325e9efb3be723818d982c80d",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "94d7b58d9311cfb9bd38ee55a22905382f580f12",
+    "x": -12.343499999999992,
+    "y": 457.4148835475746,
+    "z": 119.69799999999998,
+    "width": 145.414,
+    "height": 9.687,
+    "z_height": 103.504,
+    "rotation": 270,
+    "name": "After Glow",
+    "brand": "Ethan Allen",
+    "sku": "075024",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-landscape-cityscape/after-glow/075024.html",
+    "depth": 103.504
+  },
+  "doc": "name: After Glow | brand: Ethan Allen | sku: 075024 | refid: 94d7b58d9311cfb9bd38ee55a22905382f580f12 | dimensions: 145.414 x 103.504 x 9.687 | url: https://www.ethanallen.com/en_US/shop-decor-artwork-framed-artwork-landscape-cityscape/after-glow/075024.html | position: x=-12.343499999999992, y=457.4148835475746, z=119.69799999999998, rot=270"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d33b448f1dcc56bfd2622edf162d8c119db3c226cb2a1eb3fe05023a9cb772d8",
+  "parent_id": "edda368345347a3e776023937cf29a201ad0b1cf1dabc83dc1d8d7ed9c8607cb",
+  "type": "item",
+  "attrs": {
+    "refid": "992aeb464760b50e66e1ec9c325b60b477e42659",
+    "x": 582.076904296875,
+    "y": 305.1876220703125,
+    "z": 164.65802001953125,
+    "width": 82.717,
+    "height": 5.514,
+    "z_height": 85.955,
+    "rotation": 270,
+    "name": "Tilda Mirror",
+    "brand": "Ethan Allen",
+    "sku": "074134",
+    "url": "https://drive.google.com/drive/folders/19AX1RpD2mcLCVDSrmt-ltRNI1RaUUxzk",
+    "depth": 85.955,
+    "type_guess": "mirror"
+  },
+  "doc": "name: Tilda Mirror | brand: Ethan Allen | sku: 074134 | type: mirror | refid: 992aeb464760b50e66e1ec9c325b60b477e42659 | dimensions: 82.717 x 85.955 x 5.514 | url: https://drive.google.com/drive/folders/19AX1RpD2mcLCVDSrmt-ltRNI1RaUUxzk | position: x=582.076904296875, y=305.1876220703125, z=164.65802001953125, rot=270"
+}

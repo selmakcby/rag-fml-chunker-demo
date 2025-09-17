@@ -1,0 +1,21 @@
+{
+  "id": "477dffda292a233e1fd624c7c9e8079a0a10ce8147ea72ce728a592711f187df",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "fc356f5315a620a7a16e11fdafb129e148a8513e",
+    "x": 908.0899047851562,
+    "y": 841.0202026367188,
+    "z": 52.57022476196289,
+    "width": 48.014,
+    "height": 20.674,
+    "z_height": 22.786,
+    "rotation": 0,
+    "name": "Moss in Linear White Bowl",
+    "brand": "Ethan Allen",
+    "sku": "443735",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/moss-in-linear-white-bowl/443735.html",
+    "depth": 20.674
+  },
+  "doc": "name: Moss in Linear White Bowl | brand: Ethan Allen | sku: 443735 | refid: fc356f5315a620a7a16e11fdafb129e148a8513e | dimensions: 48.014 x 20.674 x 20.674 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/moss-in-linear-white-bowl/443735.html | position: x=908.0899047851562, y=841.0202026367188, z=52.57022476196289, rot=0"
+}

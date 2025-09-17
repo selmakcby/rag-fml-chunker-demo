@@ -1,0 +1,25 @@
+{
+  "id": "274c4591a63bee5eac258c9e18cd11ef08ef3896025d530ceb9986d21e7a7bc6",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "01d9fff2f701af7d5d40a7a5adad5bf40d4c49c8",
+    "x": 443.4514905077922,
+    "y": 295.7424239008593,
+    "z": 0,
+    "width": 91.5,
+    "height": 91.32,
+    "z_height": 45.72,
+    "rotation": 180.5,
+    "materials": {
+      "FINISH_488": 388
+    },
+    "name": "Glenavon Round Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "368215",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/glenavon-round-coffee-table/368215+++488.html",
+    "depth": 91.32,
+    "type_guess": "table"
+  },
+  "doc": "name: Glenavon Round Coffee Table | brand: Ethan Allen | sku: 368215 | type: table | refid: 01d9fff2f701af7d5d40a7a5adad5bf40d4c49c8 | dimensions: 91.5 x 91.32 x 91.32 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/glenavon-round-coffee-table/368215+++488.html | position: x=443.4514905077922, y=295.7424239008593, z=0, rot=180.5"
+}

@@ -1,0 +1,177 @@
+{
+  "id": "7913923257cae38ca2c24aee3d29d226b841a09247c3a41af31a6e1b775e4f45",
+  "parent_id": "3ca75b1ee62a14b176fb50d0a661b12c340a92762de1126fb809efa5095b1329",
+  "type": "design",
+  "rooms": [
+    "721956c16b129d2c00f9910a724a59e165bf010fbeecc30cd2d22a6d7df07bbb"
+  ],
+  "attrs": {
+    "name": "Jazmine  & Eric MBR 8 dresser moved the opposite wall",
+    "lines": [],
+    "dimensions": [
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 28.988718228160565,
+          "y": 633.5827934806205
+        },
+        "b": {
+          "x": 28.988718228160565,
+          "y": 420.40866398052725
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 599.833923556371,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 243.697613104325,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 7.500000000000007,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 145.90942122080764,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 145.90942122080764,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 139.53202564311846,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 139.53202564311846,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 121.52195676826766,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 121.52195676826766,
+          "y": 575.5943080974198
+        },
+        "b": {
+          "x": 145.90942122080764,
+          "y": 575.5943080974198
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": 64.00533749821396,
+          "y": 266.22629506123593
+        },
+        "b": {
+          "x": 64.00533749821393,
+          "y": 153.05789985745332
+        }
+      },
+      {
+        "type": "custom_dimension",
+        "a": {
+          "x": -7.5,
+          "y": 452.8117997331933
+        },
+        "b": {
+          "x": 110.04182196896909,
+          "y": 452.8117997331933
+        }
+      }
+    ],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 51.5,
+        "x": -52.255104064941406,
+        "y": 66.57495880126953,
+        "z": 171.0260009765625,
+        "dx": 0.9925083518028259,
+        "dy": 0.12186450511217117,
+        "dz": -0.008726535364985466,
+        "ux": 0.008661489002406597,
+        "uy": 0.00106349540874362,
+        "uz": 0.9999619126319885,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 241.804,
+        "y": 107.5,
+        "z": 165.1,
+        "dx": 0.6878335801027492,
+        "dy": 0.725868422018092,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270524981,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: Jazmine  & Eric MBR 8 dresser moved the opposite wall | rooms: 1"
+}

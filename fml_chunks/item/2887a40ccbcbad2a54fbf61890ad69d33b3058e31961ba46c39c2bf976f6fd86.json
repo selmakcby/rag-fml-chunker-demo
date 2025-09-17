@@ -1,0 +1,26 @@
+{
+  "id": "2887a40ccbcbad2a54fbf61890ad69d33b3058e31961ba46c39c2bf976f6fd86",
+  "parent_id": "4292273f18b0c0875247c8d1538cbfdfe01028c278202e668ece50fa08086206",
+  "type": "item",
+  "attrs": {
+    "refid": "e3977cac6bd5362672b1310900100aaca4603a60",
+    "x": 467.0434272008743,
+    "y": 118.735,
+    "z": 0,
+    "width": 132.08,
+    "height": 37.47,
+    "z_height": 69.87,
+    "rotation": 180,
+    "materials": {
+      "FINISH_610": 108,
+      "FINISH_369": 58
+    },
+    "name": "Villa Media Bridge",
+    "brand": "Ethan Allen",
+    "sku": "139353",
+    "url": "https://www.ethanallen.com/en_US/search-results-non-ecomm.html",
+    "depth": 69.87,
+    "type_guess": "table-like"
+  },
+  "doc": "name: Villa Media Bridge | brand: Ethan Allen | sku: 139353 | type: table-like | refid: e3977cac6bd5362672b1310900100aaca4603a60 | dimensions: 132.08 x 69.87 x 37.47 | url: https://www.ethanallen.com/en_US/search-results-non-ecomm.html | position: x=467.0434272008743, y=118.735, z=0, rot=180"
+}

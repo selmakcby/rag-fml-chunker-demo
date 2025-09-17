@@ -1,0 +1,27 @@
+{
+  "id": "d1f804b22351155e7375c691093a9115725a426e93da0b63c1773d3abb210ee9",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "8530a14a94ee59d720685f316b0274abe4969522",
+    "x": 992.6389291515948,
+    "y": 249.79572036722266,
+    "z": 58.42,
+    "width": 47.988,
+    "height": 47.982,
+    "z_height": 75.992,
+    "rotation": 90,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Amalie Table Lamp",
+    "brand": "Ethan Allen",
+    "sku": "096149",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/amalie-table-lamp/096149.html",
+    "depth": 47.982,
+    "type_guess": "table"
+  },
+  "doc": "name: Amalie Table Lamp | brand: Ethan Allen | sku: 096149 | type: table | refid: 8530a14a94ee59d720685f316b0274abe4969522 | dimensions: 47.988 x 47.982 x 47.982 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/amalie-table-lamp/096149.html | position: x=992.6389291515948, y=249.79572036722266, z=58.42, rot=90"
+}

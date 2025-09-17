@@ -1,0 +1,21 @@
+{
+  "id": "587af69d8122641337a238125bb66c1da62818162cc74cc5fe01233ad938af05",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "1e1dc97c621203665f03a570eb8b7c97e0e5f54a",
+    "x": 917.9754645496589,
+    "y": 739.1486718372671,
+    "z": 0,
+    "width": 97.47503985183793,
+    "height": 40.006,
+    "z_height": 84.984,
+    "rotation": 180,
+    "name": "Antonio Lupi Tender bathroom sink, cristalplant",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 40.006,
+    "type_guess": "bathroom-fixture"
+  },
+  "doc": "name: Antonio Lupi Tender bathroom sink, cristalplant | brand: Floorplanner | type: bathroom-fixture | refid: 1e1dc97c621203665f03a570eb8b7c97e0e5f54a | dimensions: 97.47503985183793 x 40.006 x 40.006 | url: https://floorplanner.com | position: x=917.9754645496589, y=739.1486718372671, z=0, rot=180"
+}

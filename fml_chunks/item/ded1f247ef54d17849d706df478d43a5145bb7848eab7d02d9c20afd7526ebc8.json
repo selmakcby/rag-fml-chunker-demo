@@ -1,0 +1,22 @@
+{
+  "id": "ded1f247ef54d17849d706df478d43a5145bb7848eab7d02d9c20afd7526ebc8",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "286bd12b527b3ece334343e80fde9f63e0eb1291",
+    "x": 292.28553668624136,
+    "y": 191.09170143591803,
+    "z": 0,
+    "width": 101.592,
+    "height": 103.872,
+    "z_height": 46.354,
+    "rotation": 64,
+    "name": "Lainey Round Coffee Table",
+    "brand": "Ethan Allen",
+    "sku": "198000",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/lainey-round-coffee-table/198000+++446.html",
+    "depth": 103.872,
+    "type_guess": "table"
+  },
+  "doc": "name: Lainey Round Coffee Table | brand: Ethan Allen | sku: 198000 | type: table | refid: 286bd12b527b3ece334343e80fde9f63e0eb1291 | dimensions: 101.592 x 103.872 x 103.872 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-coffee-tables/lainey-round-coffee-table/198000+++446.html | position: x=292.28553668624136, y=191.09170143591803, z=0, rot=64"
+}

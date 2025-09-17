@@ -1,0 +1,88 @@
+{
+  "id": "f0421ef801d8e04ff1b0cebbe4c1cfea8b9d8a53a6a8763c6544a291688ca60a",
+  "parent_id": "29cb62cb5e4b0d9ad9fe207febb190a0e53fe8fa9ca6c439b47649e6a29a9b7b",
+  "type": "design",
+  "rooms": [
+    "252876b725a6c156e9718ed984183b89031a4e81e1e683c18e309039b1c2eb76"
+  ],
+  "attrs": {
+    "name": "LIVE2",
+    "lines": [],
+    "dimensions": [],
+    "labels": [],
+    "surfaces": [],
+    "cameras": [
+      {
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 30,
+        "x": 402.2549195405727,
+        "y": 529.2650793475171,
+        "z": 2005.3879405565515,
+        "dx": 0,
+        "dy": 0,
+        "dz": -1,
+        "ux": 0,
+        "uy": -1,
+        "uz": 0,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      },
+      {
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "ortho": false,
+        "ortho_height": 1000,
+        "fov": 58,
+        "x": 216.401967816229,
+        "y": 107.5,
+        "z": 165.1,
+        "dx": 0.40324083091209334,
+        "dy": 0.9150938926062858,
+        "dz": 0,
+        "ux": 0,
+        "uy": 0,
+        "uz": 1,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45,
+          "scene": "SKY",
+          "dayTime": "Midday",
+          "clouds": 1
+        },
+        "background_image": {
+          "sky_id": 48,
+          "url": "",
+          "type_name": "sphere"
+        }
+      }
+    ],
+    "id": 270089123,
+    "settings": {
+      "engineAutoDims": true,
+      "areaLabelMultiplier": 1,
+      "scaleMultiplierDimensions": 1,
+      "scaleMultiplierComments": 1,
+      "dimLineLabelHorizontal": false,
+      "showCeilings3D": true,
+      "minWallLength": 4
+    }
+  },
+  "doc": "Design: LIVE2 | rooms: 1"
+}

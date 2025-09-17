@@ -1,0 +1,37 @@
+{
+  "chunk_id": "757ccd018935ef1945ddf4892d83a280571df43510bf886b55064cb332d831b4",
+  "level": "item",
+  "parent_id": "b89596ab240d8239372916494943b365cedbbcf0f9dc0f488f7dc8046987655e",
+  "room_id": "4ea11f953baf8ab2bc5ece93e9e47fa47cb8e655bea91254f1c17f0a9cd64f04",
+  "type": "item",
+  "name": "f5de755a3643d796d234a70bee135a779d2e1a9f",
+  "refid": "f5de755a3643d796d234a70bee135a779d2e1a9f",
+  "position": {
+    "x": 655.4031982421875,
+    "y": 303.30926513671875,
+    "z": 0
+  },
+  "size": {
+    "width": 274.31999958303356,
+    "height": 365.75999944404475,
+    "z_height": 1.505
+  },
+  "rotation": 0,
+  "summary_text": "Item 'f5de755a3643d796d234a70bee135a779d2e1a9f' (item) at (655.4031982421875, 303.30926513671875).",
+  "refs": {
+    "parent_id": "b89596ab240d8239372916494943b365cedbbcf0f9dc0f488f7dc8046987655e"
+  },
+  "raw": {
+    "refid": "f5de755a3643d796d234a70bee135a779d2e1a9f",
+    "x": 655.4031982421875,
+    "y": 303.30926513671875,
+    "z": 0,
+    "width": 274.31999958303356,
+    "height": 365.75999944404475,
+    "z_height": 1.505,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_RUG_Light_Fog": 2424
+    }
+  }
+}

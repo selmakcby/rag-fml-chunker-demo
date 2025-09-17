@@ -1,0 +1,27 @@
+{
+  "id": "e2a2c4403302236cd29454ac6065020ab8c056ff7ed9d068b726deb4088a97ab",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "54159937798e5fd02d7a6e66ff3e44980d1de791",
+    "x": 456.9619140625,
+    "y": 322.24993896484375,
+    "z": 61.89893341064453,
+    "width": 43.83,
+    "height": 43.83,
+    "z_height": 74.922,
+    "rotation": 268.5,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Asher Table Lamp, Brass",
+    "brand": "Ethan Allen",
+    "sku": "096321",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-table-lamps/asher-table-lamp/096321.html",
+    "depth": 43.83,
+    "type_guess": "table"
+  },
+  "doc": "name: Asher Table Lamp, Brass | brand: Ethan Allen | sku: 096321 | type: table | refid: 54159937798e5fd02d7a6e66ff3e44980d1de791 | dimensions: 43.83 x 43.83 x 43.83 | url: https://www.ethanallen.com/en_US/shop-lighting-table-lamps/asher-table-lamp/096321.html | position: x=456.9619140625, y=322.24993896484375, z=61.89893341064453, rot=268.5"
+}

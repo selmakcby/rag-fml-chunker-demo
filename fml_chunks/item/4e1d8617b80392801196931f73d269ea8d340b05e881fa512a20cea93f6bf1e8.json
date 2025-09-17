@@ -1,0 +1,22 @@
+{
+  "id": "4e1d8617b80392801196931f73d269ea8d340b05e881fa512a20cea93f6bf1e8",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "c34ebe807b762c12a53f1969c5976683f3d2c0eb",
+    "x": 536.7744750976562,
+    "y": 331.63916015625,
+    "z": 75.2690658569336,
+    "width": 50.839,
+    "height": 29.232,
+    "z_height": 45.75,
+    "rotation": 104.76712036132812,
+    "name": "Blonde Fox Faux Fur Pillow",
+    "brand": "Ethan Allen",
+    "sku": "065584",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/blonde-fox-faux-fur-pillow/065584.html",
+    "depth": 29.232,
+    "type_guess": "textile"
+  },
+  "doc": "name: Blonde Fox Faux Fur Pillow | brand: Ethan Allen | sku: 065584 | type: textile | refid: c34ebe807b762c12a53f1969c5976683f3d2c0eb | dimensions: 50.839 x 29.232 x 29.232 | url: https://www.ethanallen.com/en_US/shop-decor-pillows-throws-pillows/blonde-fox-faux-fur-pillow/065584.html | position: x=536.7744750976562, y=331.63916015625, z=75.2690658569336, rot=104.76712036132812"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "64254bbe0422e9447be7dd940e0b981b1296a3c92034c0fa4445b4aebda97347",
+  "parent_id": "47ee6e0044f98c651cffde77083e2736a954412301a578dd180125aba7a15bc1",
+  "type": "floor",
+  "designs": [
+    "f5cba5587dd4faca02f8bff0720855bee5751c47cbbaaf1069e1bc5d1480b52e"
+  ],
+  "attrs": {
+    "id": 255031697,
+    "project_id": 167485268,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T23:31:09.000Z",
+    "updated_at": "2025-04-19T00:55:13.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294316946,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294316949,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 1 rooms. Highlights: room: 11 items (Clement Double Dresser, Portuguese Azulejos Pillow, Hana Blue Bowl, EA Duvet Cover, King, Portuguese Azulejos Pillow, Bentley - Newhaven 3 Drawer Night Stand)."
+}

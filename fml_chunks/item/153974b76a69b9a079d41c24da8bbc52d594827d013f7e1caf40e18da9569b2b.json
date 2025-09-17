@@ -1,0 +1,26 @@
+{
+  "id": "153974b76a69b9a079d41c24da8bbc52d594827d013f7e1caf40e18da9569b2b",
+  "parent_id": "62180ad093e9ce70dfb2d163dfd488d78a9f87a4d052d911af3a0b51636dbbbb",
+  "type": "item",
+  "attrs": {
+    "refid": "27c2b90bb70f7390d503df8e448565f1a296e4c3",
+    "x": 765.3631531237418,
+    "y": 564.4706662313347,
+    "z": 0,
+    "width": 86.994,
+    "height": 101.813,
+    "z_height": 91.45,
+    "rotation": 183.6337640354528,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_59188": 213
+    },
+    "name": "Breslin Accent Chair",
+    "brand": "Ethan Allen",
+    "sku": "202159",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/breslin-accent-chair/202159.html#start=1",
+    "depth": 101.813,
+    "type_guess": "chair"
+  },
+  "doc": "name: Breslin Accent Chair | brand: Ethan Allen | sku: 202159 | type: chair | refid: 27c2b90bb70f7390d503df8e448565f1a296e4c3 | dimensions: 86.994 x 101.813 x 101.813 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-chairs-fabric/breslin-accent-chair/202159.html#start=1 | position: x=765.3631531237418, y=564.4706662313347, z=0, rot=183.6337640354528"
+}

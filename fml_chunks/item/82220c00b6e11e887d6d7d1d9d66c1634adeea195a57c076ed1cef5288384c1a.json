@@ -1,0 +1,21 @@
+{
+  "id": "82220c00b6e11e887d6d7d1d9d66c1634adeea195a57c076ed1cef5288384c1a",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "225e38ae9ffd79aec2df7501a7b6b8685c35e925",
+    "x": 186.8071040084433,
+    "y": -62.2202553232973,
+    "z": 209,
+    "width": 49.26,
+    "height": 47.356,
+    "z_height": 34.939,
+    "rotation": 0,
+    "name": "White Orchids in Glass, 12''",
+    "brand": "Ethan Allen",
+    "sku": "446377A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/white-orchids-in-glass-cylinder/446377A.html",
+    "depth": 47.356
+  },
+  "doc": "name: White Orchids in Glass, 12'' | brand: Ethan Allen | sku: 446377A | refid: 225e38ae9ffd79aec2df7501a7b6b8685c35e925 | dimensions: 49.26 x 47.356 x 47.356 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/white-orchids-in-glass-cylinder/446377A.html | position: x=186.8071040084433, y=-62.2202553232973, z=209, rot=0"
+}

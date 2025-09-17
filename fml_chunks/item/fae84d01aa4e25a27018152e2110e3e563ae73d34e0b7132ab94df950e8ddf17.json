@@ -1,0 +1,21 @@
+{
+  "id": "fae84d01aa4e25a27018152e2110e3e563ae73d34e0b7132ab94df950e8ddf17",
+  "parent_id": "edda368345347a3e776023937cf29a201ad0b1cf1dabc83dc1d8d7ed9c8607cb",
+  "type": "item",
+  "attrs": {
+    "refid": "889ffbb4c8d12790d2e2e1f0d525577f0e525d7d",
+    "x": 225.36840846751943,
+    "y": 35.07582373333747,
+    "z": 91,
+    "width": 79.948,
+    "height": 74.106,
+    "z_height": 82.939,
+    "rotation": 90,
+    "name": "Delphinium Water Garden",
+    "brand": "Ethan Allen",
+    "sku": "446633",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/delphinium-watergarden/446633.html",
+    "depth": 74.106
+  },
+  "doc": "name: Delphinium Water Garden | brand: Ethan Allen | sku: 446633 | refid: 889ffbb4c8d12790d2e2e1f0d525577f0e525d7d | dimensions: 79.948 x 74.106 x 74.106 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/delphinium-watergarden/446633.html | position: x=225.36840846751943, y=35.07582373333747, z=91, rot=90"
+}

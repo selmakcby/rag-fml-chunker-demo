@@ -1,0 +1,20 @@
+{
+  "id": "1d583ad229a0fe813ad24d64a4daeefea7ca03f5a3c0fbfa6c2468983b0f6871",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "7d91a4982da2641fc3c33ce1985571e9ee1e1768",
+    "x": 318.38568115234375,
+    "y": -237.3152313232422,
+    "z": 0,
+    "width": 53,
+    "height": 40,
+    "z_height": 73.67015988802135,
+    "rotation": 0,
+    "name": "Bentley - Newhaven 3 Drawer Night Stand",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 40.0
+  },
+  "doc": "name: Bentley - Newhaven 3 Drawer Night Stand | brand: Floorplanner | refid: 7d91a4982da2641fc3c33ce1985571e9ee1e1768 | dimensions: 53 x 40.0 x 40 | url: https://floorplanner.com | position: x=318.38568115234375, y=-237.3152313232422, z=0, rot=0"
+}

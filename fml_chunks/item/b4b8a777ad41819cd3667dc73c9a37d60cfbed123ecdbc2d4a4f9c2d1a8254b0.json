@@ -1,0 +1,21 @@
+{
+  "id": "b4b8a777ad41819cd3667dc73c9a37d60cfbed123ecdbc2d4a4f9c2d1a8254b0",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "8c465d23463f0f4829df81ae7237bd33d6d7b6ef",
+    "x": 876.8880004882812,
+    "y": 840.2286376953125,
+    "z": 225,
+    "width": 21,
+    "height": 21.204,
+    "z_height": 32.06,
+    "rotation": 0,
+    "name": "Moss Hurricanes Md",
+    "brand": "Ethan Allen",
+    "sku": "443740B",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/moss-hurricanes/443740.html",
+    "depth": 21.204
+  },
+  "doc": "name: Moss Hurricanes Md | brand: Ethan Allen | sku: 443740B | refid: 8c465d23463f0f4829df81ae7237bd33d6d7b6ef | dimensions: 21 x 21.204 x 21.204 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees-greenery/moss-hurricanes/443740.html | position: x=876.8880004882812, y=840.2286376953125, z=225, rot=0"
+}

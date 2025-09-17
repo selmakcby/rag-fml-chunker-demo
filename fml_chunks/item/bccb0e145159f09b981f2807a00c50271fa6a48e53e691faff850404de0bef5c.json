@@ -1,0 +1,22 @@
+{
+  "id": "bccb0e145159f09b981f2807a00c50271fa6a48e53e691faff850404de0bef5c",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "a028eda046c064715ced4243e16a18ecaf915af2",
+    "x": 376.23818135909454,
+    "y": -60.83434017769049,
+    "z": 0,
+    "width": 25.066,
+    "height": 25.066,
+    "z_height": 38.097,
+    "rotation": 0,
+    "name": "Terra Verde Painted Pottery Vase",
+    "brand": "Ethan Allen",
+    "sku": "432462 GRN",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-vases/terra-verde-painted-pottery-vase/432462+++GRN.html",
+    "depth": 25.066,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Terra Verde Painted Pottery Vase | brand: Ethan Allen | sku: 432462 GRN | type: decor-jar | refid: a028eda046c064715ced4243e16a18ecaf915af2 | dimensions: 25.066 x 25.066 x 25.066 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-vases/terra-verde-painted-pottery-vase/432462+++GRN.html | position: x=376.23818135909454, y=-60.83434017769049, z=0, rot=0"
+}

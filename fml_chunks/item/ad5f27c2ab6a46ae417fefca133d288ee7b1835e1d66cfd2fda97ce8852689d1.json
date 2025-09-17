@@ -1,0 +1,20 @@
+{
+  "id": "ad5f27c2ab6a46ae417fefca133d288ee7b1835e1d66cfd2fda97ce8852689d1",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "c4d01d87c22fa0a4590a0763e991e53c334c11be",
+    "x": 821.9495849609375,
+    "y": 853.4225463867188,
+    "z": 186.2501983642578,
+    "width": 76.98,
+    "height": 18.22,
+    "z_height": 24.109,
+    "rotation": 0,
+    "name": "Classic Books",
+    "brand": "Floorplanner",
+    "url": "www.floorplanner.com",
+    "depth": 18.22
+  },
+  "doc": "name: Classic Books | brand: Floorplanner | refid: c4d01d87c22fa0a4590a0763e991e53c334c11be | dimensions: 76.98 x 18.22 x 18.22 | url: www.floorplanner.com | position: x=821.9495849609375, y=853.4225463867188, z=186.2501983642578, rot=0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d3e6a848ec55bec4a33d12968a4c2bfdebe487af3405824b13c6bc14ce1621d7",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "ddeeac3c8ea3abe3495401ceb4f6bd305a15bb3a",
+    "x": 644.8820190429688,
+    "y": 82.33014678955078,
+    "z": 129.83114624023438,
+    "width": 139.066,
+    "height": 3.175,
+    "z_height": 76.2,
+    "rotation": 180,
+    "name": "First Whisper",
+    "brand": "Ethan Allen",
+    "sku": "073195",
+    "url": "https://www.ethanallen.com/",
+    "depth": 76.2,
+    "type_guess": "flat-surface"
+  },
+  "doc": "name: First Whisper | brand: Ethan Allen | sku: 073195 | type: flat-surface | refid: ddeeac3c8ea3abe3495401ceb4f6bd305a15bb3a | dimensions: 139.066 x 76.2 x 3.175 | url: https://www.ethanallen.com/ | position: x=644.8820190429688, y=82.33014678955078, z=129.83114624023438, rot=180"
+}

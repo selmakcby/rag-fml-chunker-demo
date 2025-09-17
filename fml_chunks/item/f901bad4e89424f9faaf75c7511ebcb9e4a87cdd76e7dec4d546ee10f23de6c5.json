@@ -1,0 +1,22 @@
+{
+  "id": "f901bad4e89424f9faaf75c7511ebcb9e4a87cdd76e7dec4d546ee10f23de6c5",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "f47681dcdfdf26d3ccb11ad29eb9dbfc42557f33",
+    "x": 884.0601763916334,
+    "y": 843.0345165047786,
+    "z": 216,
+    "width": 32.612,
+    "height": 32.612,
+    "z_height": 56.684,
+    "rotation": 268,
+    "name": "Large Pink Athena Jar",
+    "brand": "Ethan Allen",
+    "sku": "431890A",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/athena-jar/431890A.html",
+    "depth": 32.612,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Large Pink Athena Jar | brand: Ethan Allen | sku: 431890A | type: decor-jar | refid: f47681dcdfdf26d3ccb11ad29eb9dbfc42557f33 | dimensions: 32.612 x 32.612 x 32.612 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bottles-jars/athena-jar/431890A.html | position: x=884.0601763916334, y=843.0345165047786, z=216, rot=268"
+}

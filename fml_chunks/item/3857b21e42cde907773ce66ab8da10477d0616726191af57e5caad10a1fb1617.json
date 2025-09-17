@@ -1,0 +1,22 @@
+{
+  "id": "3857b21e42cde907773ce66ab8da10477d0616726191af57e5caad10a1fb1617",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "1ab37dd4718602cf2b6f55270f0253e1ecd0a7d0",
+    "x": 799.130126953125,
+    "y": 835.7210083007812,
+    "z": 155.38238525390625,
+    "width": 32.275,
+    "height": 29.786,
+    "z_height": 27.61,
+    "rotation": 90,
+    "name": "Calla Lily Mixed Watergarden in Fishbowl Vase",
+    "brand": "Ethan Allen",
+    "sku": "442244",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-florals-trees/lilies%2C-ranunculus-%26-roses-in-fishbowl-vase/442244.html",
+    "depth": 29.786,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Calla Lily Mixed Watergarden in Fishbowl Vase | brand: Ethan Allen | sku: 442244 | type: decor-jar | refid: 1ab37dd4718602cf2b6f55270f0253e1ecd0a7d0 | dimensions: 32.275 x 29.786 x 29.786 | url: https://www.ethanallen.com/en_US/shop-decor-florals-trees/lilies%2C-ranunculus-%26-roses-in-fishbowl-vase/442244.html | position: x=799.130126953125, y=835.7210083007812, z=155.38238525390625, rot=90"
+}

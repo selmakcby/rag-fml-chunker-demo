@@ -1,0 +1,25 @@
+{
+  "id": "f36356b9be5ebb5969caef431d7ec69bb74604098d8838d8c0d9746a67054577",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "9d8a68cdc2f7d007e03c1b5e2da5361198ad0be5",
+    "x": 498.36134691661067,
+    "y": 161.5641534322318,
+    "z": 0,
+    "width": 147.344,
+    "height": 45.83,
+    "z_height": 77.372,
+    "rotation": 270,
+    "materials": {
+      "FINISH_193": "21"
+    },
+    "name": "Beacon Console Table",
+    "brand": "Ethan Allen",
+    "sku": "128608",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/beacon-console-table/128608.html",
+    "depth": 45.83,
+    "type_guess": "cabinet"
+  },
+  "doc": "name: Beacon Console Table | brand: Ethan Allen | sku: 128608 | type: cabinet | refid: 9d8a68cdc2f7d007e03c1b5e2da5361198ad0be5 | dimensions: 147.344 x 45.83 x 45.83 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-console-tables/beacon-console-table/128608.html | position: x=498.36134691661067, y=161.5641534322318, z=0, rot=270"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2419546c3d389590a1857c22b4346db7bba0b9122bfd39f7a3cc8d111f2e656a",
+  "parent_id": "f477f93caf5905c4601fce2bcd9809f857fecc3654671c906e753995f942ee0e",
+  "type": "item",
+  "attrs": {
+    "refid": "9ba572df1bd5a5cb5b0f8ca7cc4f2e3240032a09",
+    "x": 355.3982655229868,
+    "y": 324.0460400092248,
+    "z": 0,
+    "width": 121.151,
+    "height": 66.712,
+    "z_height": 47.308,
+    "rotation": 270,
+    "materials": {
+      "FINISH_939": 218,
+      "FABRIC_62853": 925
+    },
+    "name": "Spencer Wide Ottoman",
+    "brand": "Ethan Allen",
+    "sku": "202410",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans/spencer-wide-ottoman/202410.html#start=1",
+    "depth": 66.712,
+    "type_guess": "table-like"
+  },
+  "doc": "name: Spencer Wide Ottoman | brand: Ethan Allen | sku: 202410 | type: table-like | refid: 9ba572df1bd5a5cb5b0f8ca7cc4f2e3240032a09 | dimensions: 121.151 x 66.712 x 66.712 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-ottomans/spencer-wide-ottoman/202410.html#start=1 | position: x=355.3982655229868, y=324.0460400092248, z=0, rot=270"
+}

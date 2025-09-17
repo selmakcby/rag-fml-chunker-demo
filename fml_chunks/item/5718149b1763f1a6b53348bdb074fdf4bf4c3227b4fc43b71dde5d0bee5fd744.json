@@ -1,0 +1,21 @@
+{
+  "id": "5718149b1763f1a6b53348bdb074fdf4bf4c3227b4fc43b71dde5d0bee5fd744",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "e4eae29cc79080c718b2050da593ae8a648c0411",
+    "x": -184.95540734526685,
+    "y": 303.9047257591031,
+    "z": 92.07,
+    "width": 40.634,
+    "height": 40.634,
+    "z_height": 19.063,
+    "rotation": 180,
+    "name": "Hana Blue Bowl",
+    "brand": "Ethan Allen",
+    "sku": "432362",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bowls/hana-blue-bowl/432362.html",
+    "depth": 40.634
+  },
+  "doc": "name: Hana Blue Bowl | brand: Ethan Allen | sku: 432362 | refid: e4eae29cc79080c718b2050da593ae8a648c0411 | dimensions: 40.634 x 40.634 x 40.634 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-bowls/hana-blue-bowl/432362.html | position: x=-184.95540734526685, y=303.9047257591031, z=92.07, rot=180"
+}

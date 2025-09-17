@@ -1,0 +1,25 @@
+{
+  "id": "5858ff633dcc1cc95d6a4b5c0146d706351bcb8aee230fd07fe3e2940f524d0d",
+  "parent_id": "a8f9d89796b5f0b8ea054db38db7574058c9e14b3bfd660bedc62a1c038aca97",
+  "type": "item",
+  "attrs": {
+    "refid": "93eb13e0d2a3fd471a9e0a7b35b66c16011e45bb",
+    "x": 495.53619845067067,
+    "y": 463.35726485874113,
+    "z": 0,
+    "width": 45.414,
+    "height": 45.664,
+    "z_height": 61.649,
+    "rotation": 180,
+    "materials": {
+      "FINISH_465TT": "282"
+    },
+    "name": "Finland Accent Table",
+    "brand": "Ethan Allen",
+    "sku": "258146",
+    "url": "http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/finland-accent-table/258146.html?site=",
+    "depth": 45.664,
+    "type_guess": "table"
+  },
+  "doc": "name: Finland Accent Table | brand: Ethan Allen | sku: 258146 | type: table | refid: 93eb13e0d2a3fd471a9e0a7b35b66c16011e45bb | dimensions: 45.414 x 45.664 x 45.664 | url: http://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-accent-tables/finland-accent-table/258146.html?site= | position: x=495.53619845067067, y=463.35726485874113, z=0, rot=180"
+}

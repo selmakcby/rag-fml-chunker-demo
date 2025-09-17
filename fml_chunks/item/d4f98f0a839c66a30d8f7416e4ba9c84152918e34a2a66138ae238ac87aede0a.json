@@ -1,0 +1,20 @@
+{
+  "id": "d4f98f0a839c66a30d8f7416e4ba9c84152918e34a2a66138ae238ac87aede0a",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "c607260cc2b8ab8a732e1bc099130c9ab4876046",
+    "x": 828.3305053710938,
+    "y": 829.9708251953125,
+    "z": 67.04846954345703,
+    "width": 28.575,
+    "height": 22.86,
+    "z_height": 11.43,
+    "rotation": 90,
+    "name": "Black Stacked Books",
+    "brand": "Floorplanner",
+    "url": "https://booksbythefoot.com/product-category/stacks-bundles/",
+    "depth": 22.86
+  },
+  "doc": "name: Black Stacked Books | brand: Floorplanner | refid: c607260cc2b8ab8a732e1bc099130c9ab4876046 | dimensions: 28.575 x 22.86 x 22.86 | url: https://booksbythefoot.com/product-category/stacks-bundles/ | position: x=828.3305053710938, y=829.9708251953125, z=67.04846954345703, rot=90"
+}

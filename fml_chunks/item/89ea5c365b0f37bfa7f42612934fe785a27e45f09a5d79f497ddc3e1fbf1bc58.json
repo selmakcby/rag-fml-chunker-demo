@@ -1,0 +1,25 @@
+{
+  "id": "89ea5c365b0f37bfa7f42612934fe785a27e45f09a5d79f497ddc3e1fbf1bc58",
+  "parent_id": "2572ed58174dbb034e08378d32f35f4ef09201928af2375cbd73c5aaf37c49e1",
+  "type": "item",
+  "attrs": {
+    "refid": "df4f43c6197532b69c168446a34816cebe98234a",
+    "x": 745.5036553752135,
+    "y": 423.9424499333206,
+    "z": 0,
+    "width": 243.84,
+    "height": 426.7199993513856,
+    "z_height": 1.529,
+    "rotation": 90,
+    "materials": {
+      "FABRIC_RUG_Riverdale_WashedGray": 10607
+    },
+    "name": "Riverdale Rug",
+    "brand": "Ethan Allen",
+    "sku": "046110",
+    "url": "https://www.ethanallen.com/en_US/shop-rugs-ikat/riverdale-rug/046110.html?dwvar_046110_color=RV152#start=1",
+    "depth": 335.28,
+    "type_guess": "rug"
+  },
+  "doc": "name: Riverdale Rug | brand: Ethan Allen | sku: 046110 | type: rug | refid: df4f43c6197532b69c168446a34816cebe98234a | dimensions: 243.84 x 335.28 x 426.7199993513856 | url: https://www.ethanallen.com/en_US/shop-rugs-ikat/riverdale-rug/046110.html?dwvar_046110_color=RV152#start=1 | position: x=745.5036553752135, y=423.9424499333206, z=0, rot=90"
+}

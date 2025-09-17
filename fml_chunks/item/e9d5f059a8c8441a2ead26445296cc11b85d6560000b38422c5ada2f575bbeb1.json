@@ -1,0 +1,22 @@
+{
+  "id": "e9d5f059a8c8441a2ead26445296cc11b85d6560000b38422c5ada2f575bbeb1",
+  "parent_id": null,
+  "type": "item",
+  "attrs": {
+    "refid": "f7e030ee6c10623ca86381ce8dbb3f20d437c754",
+    "x": 126.88836754086742,
+    "y": 60.29582045035738,
+    "z": 0,
+    "width": 73.092,
+    "height": 73.092,
+    "z_height": 65.409,
+    "rotation": 301.5,
+    "name": "Elton Side Table",
+    "brand": "Ethan Allen",
+    "sku": "278003 330",
+    "url": "https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/elton-end-table/278003.html#start=1",
+    "depth": 73.092,
+    "type_guess": "table"
+  },
+  "doc": "name: Elton Side Table | brand: Ethan Allen | sku: 278003 330 | type: table | refid: f7e030ee6c10623ca86381ce8dbb3f20d437c754 | dimensions: 73.092 x 73.092 x 73.092 | url: https://www.ethanallen.com/en_US/shop-furniture-living-room-side-and-accent-tables-side-tables/elton-end-table/278003.html#start=1 | position: x=126.88836754086742, y=60.29582045035738, z=0, rot=301.5"
+}

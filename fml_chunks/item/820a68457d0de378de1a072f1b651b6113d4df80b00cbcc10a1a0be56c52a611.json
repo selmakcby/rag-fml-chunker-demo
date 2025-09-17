@@ -1,0 +1,22 @@
+{
+  "id": "820a68457d0de378de1a072f1b651b6113d4df80b00cbcc10a1a0be56c52a611",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "de4c68867a14f3bbfa24ea3752a1f342ac4500dd",
+    "x": 396.5115966796875,
+    "y": 604.7403564453125,
+    "z": 173.42340087890625,
+    "width": 24.108,
+    "height": 24.108,
+    "z_height": 15.24,
+    "rotation": 359,
+    "name": "Farida Alabaster Jar",
+    "brand": "Ethan Allen",
+    "sku": "432442B NAT",
+    "url": "https://www.ethanallen.com/en_US/shop-decor-decorative-accents-vases/farida-alabaster-jar-and-vase/432442.html",
+    "depth": 24.108,
+    "type_guess": "decor-jar"
+  },
+  "doc": "name: Farida Alabaster Jar | brand: Ethan Allen | sku: 432442B NAT | type: decor-jar | refid: de4c68867a14f3bbfa24ea3752a1f342ac4500dd | dimensions: 24.108 x 24.108 x 24.108 | url: https://www.ethanallen.com/en_US/shop-decor-decorative-accents-vases/farida-alabaster-jar-and-vase/432442.html | position: x=396.5115966796875, y=604.7403564453125, z=173.42340087890625, rot=359"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "37630d57f21e1b9aaf3e647b118b4296bcd86f38e7ceb5dc712251b6aa1845a8",
+  "parent_id": "88b1d49853ab1ae3262b5b8b02c87b283c4f4af5c03d7c11874567c03a88f6a2",
+  "type": "item",
+  "attrs": {
+    "refid": "7f12686867b646bf9d6f5a6e5a3781aaa66c9b74",
+    "x": -2.6257885742187463,
+    "y": -158.95471933552275,
+    "z": 24.488067626953125,
+    "width": 248.94,
+    "height": 174.43,
+    "z_height": 66.103,
+    "rotation": 0,
+    "materials": {
+      "FABRIC_BEDDING_PLAIN": 25569
+    },
+    "name": "EA Duvet Cover, King",
+    "brand": "Ethan Allen",
+    "sku": "",
+    "url": "https://www.ethanallen.com",
+    "depth": 174.43
+  },
+  "doc": "name: EA Duvet Cover, King | brand: Ethan Allen | refid: 7f12686867b646bf9d6f5a6e5a3781aaa66c9b74 | dimensions: 248.94 x 174.43 x 174.43 | url: https://www.ethanallen.com | position: x=-2.6257885742187463, y=-158.95471933552275, z=24.488067626953125, rot=0"
+}

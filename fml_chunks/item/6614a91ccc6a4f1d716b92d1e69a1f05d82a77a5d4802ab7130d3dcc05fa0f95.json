@@ -1,0 +1,27 @@
+{
+  "id": "6614a91ccc6a4f1d716b92d1e69a1f05d82a77a5d4802ab7130d3dcc05fa0f95",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "e91b6f39a66357efcfe47f709d6314b5152d0917",
+    "x": 47.69213888695249,
+    "y": 37.58465197237766,
+    "z": 0,
+    "width": 45.746,
+    "height": 45.746,
+    "z_height": 157.46,
+    "rotation": 180,
+    "light": {
+      "on": true,
+      "color": "#FFFFFB",
+      "watt": 60
+    },
+    "name": "Fallon Floor Lamp",
+    "brand": "Ethan Allen",
+    "sku": "092164",
+    "url": "https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/fallon-glass-floor-lamp/092164.html",
+    "depth": 45.746,
+    "type_guess": "lighting"
+  },
+  "doc": "name: Fallon Floor Lamp | brand: Ethan Allen | sku: 092164 | type: lighting | refid: e91b6f39a66357efcfe47f709d6314b5152d0917 | dimensions: 45.746 x 45.746 x 45.746 | url: https://www.ethanallen.com/en_US/shop-lighting-floor-lamps/fallon-glass-floor-lamp/092164.html | position: x=47.69213888695249, y=37.58465197237766, z=0, rot=180"
+}

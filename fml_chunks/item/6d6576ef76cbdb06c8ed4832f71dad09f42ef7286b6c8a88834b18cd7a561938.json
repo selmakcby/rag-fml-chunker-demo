@@ -1,0 +1,24 @@
+{
+  "id": "6d6576ef76cbdb06c8ed4832f71dad09f42ef7286b6c8a88834b18cd7a561938",
+  "parent_id": "8842b1ae239db2b50ce795c3995cbaebc49277fb91b92bd9c2e125008951330f",
+  "type": "item",
+  "attrs": {
+    "refid": "cb964b39c8c6e4537719544007d367fbff986968",
+    "x": 443.1450500488281,
+    "y": 309.2882995605469,
+    "z": 16.801769256591797,
+    "width": 236.938,
+    "height": 183.028,
+    "z_height": 65.873,
+    "rotation": 89.24139404296875,
+    "materials": {
+      "FABRIC_BEDDING_IVO": 17443
+    },
+    "name": "EA Linen Duvet Cover, Cal King",
+    "brand": "Ethan Allen",
+    "sku": "0313915",
+    "url": "https://www.ethanallen.com/en_US/shop-bedding-duvet-covers/linen-duvet-cover-and-sham/stonewashedlinen.html",
+    "depth": 183.028
+  },
+  "doc": "name: EA Linen Duvet Cover, Cal King | brand: Ethan Allen | sku: 0313915 | refid: cb964b39c8c6e4537719544007d367fbff986968 | dimensions: 236.938 x 183.028 x 183.028 | url: https://www.ethanallen.com/en_US/shop-bedding-duvet-covers/linen-duvet-cover-and-sham/stonewashedlinen.html | position: x=443.1450500488281, y=309.2882995605469, z=16.801769256591797, rot=89.24139404296875"
+}

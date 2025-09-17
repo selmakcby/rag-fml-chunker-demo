@@ -1,0 +1,20 @@
+{
+  "chunk_id": "21201ee50d00ce267f9e8ac478ff1595ac686ecde6d2b6045316452e26eebba8",
+  "level": "design",
+  "design_id": "21201ee50d00ce267f9e8ac478ff1595ac686ecde6d2b6045316452e26eebba8",
+  "floor_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d",
+  "project_id": "db29c027e97c52b45888eb575862d8972bcc6376ea5ae6b1271603d84049ca2a",
+  "name": "LIVE1",
+  "item_counts": [],
+  "summary_text": "Design 'LIVE1' with 1 areas and 18 items.",
+  "refs": {
+    "parent_id": "09c277527ff24a1f61a29b7b0cf9f1222aadd543066d2041e1899fa8961eda4d"
+  },
+  "raw": {
+    "name": "LIVE1",
+    "counts": {
+      "areas": 1,
+      "items": 18
+    }
+  }
+}

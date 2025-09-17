@@ -1,0 +1,21 @@
+{
+  "id": "27973ed5bc11977bf8a5257cf5d0958926042618cc46bb701b71c959ead8123f",
+  "parent_id": "b4d2e3f5a12bb94a4ac66ef3df467b96943f791b2916ea02c13f866b33b78ec1",
+  "type": "item",
+  "attrs": {
+    "refid": "16ef56423bc12262b5eeba711e5e75f78ac7bb50",
+    "x": 27.359138886952476,
+    "y": 167.7212178075515,
+    "z": 107.206298828125,
+    "width": 152.4,
+    "height": 5.08,
+    "z_height": 114.3,
+    "rotation": 90,
+    "name": "Arabella Reprise",
+    "brand": "Ethan Allen",
+    "sku": "073238",
+    "url": "https://drive.google.com/drive/folders/1SdbleGSyYfiBOwFDAi-3A73ssYa4reEo",
+    "depth": 114.3
+  },
+  "doc": "name: Arabella Reprise | brand: Ethan Allen | sku: 073238 | refid: 16ef56423bc12262b5eeba711e5e75f78ac7bb50 | dimensions: 152.4 x 114.3 x 5.08 | url: https://drive.google.com/drive/folders/1SdbleGSyYfiBOwFDAi-3A73ssYa4reEo | position: x=27.359138886952476, y=167.7212178075515, z=107.206298828125, rot=90"
+}

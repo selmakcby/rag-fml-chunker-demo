@@ -1,0 +1,23 @@
+{
+  "id": "1faa67858d2523fba145b9609674b26b0060f0fea5d97e0151d40bec41953af9",
+  "parent_id": "bfca2d9fb910ba565a3177f342b12572d171e230b4acf1db7b5c64649cd28a8f",
+  "type": "room",
+  "items": [
+    "4b34bea32216079ae15104c7dd90fb012aa3aaceb48f5266ac65cb7de9f5f7df",
+    "69fcdf6f62260030e499a0f12c8420389657f2c5f42c2a3c22340cf7cb665a5b",
+    "d761e666c84ef811121dd869cc7dd7ad4812314471f02440d3e143410d1d17b1",
+    "6e8bae9a66165f54006043dcb1b71a2deedab09e6dc48e9ce64f7bf27fcc2015",
+    "442e00395f795807bad23d7b0e9d4519f02408a4e6051e400f04f953c3484537",
+    "d88be10df22d2c9e6adf7d6becd31f12763b16e558fca706c227b2b42930e219",
+    "20aa8df9ea4d4b089060c6308420f22844b8cbf2e5b4ac29aa86339c3601e50a",
+    "ed782bf8127ff36d3fd58f250f595b7cfeab348853d35c5cce70d8ff3d0b60e7"
+  ],
+  "walls": [],
+  "attrs": {
+    "refid": "rs-16979",
+    "color": "#F2D8B0",
+    "showAreaLabel": true
+  },
+  "doc": "Room: room | items: Bridgewater Cove Lounge Chair, Atlantic Highland Outdoor Cube Ottoman, Bridgewater Cove Lounge Chair, Redding Ridge Upholstered Outdoor Sofa, Multi-Ring Garden Seat, Ridgevale Indoor/Outdoor Rug, Atlantic Highland Outdoor Cube Ottoman",
+  "summary": "room: 7 items (Bridgewater Cove Lounge Chair, Atlantic Highland Outdoor Cube Ottoman, Bridgewater Cove Lounge Chair, Redding Ridge Upholstered Outdoor Sofa, Multi-Ring Garden Seat, Ridgevale Indoor/Outdoor Rug)."
+}

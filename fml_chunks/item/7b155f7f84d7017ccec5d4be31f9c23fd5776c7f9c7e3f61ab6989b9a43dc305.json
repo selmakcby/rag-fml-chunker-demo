@@ -1,0 +1,21 @@
+{
+  "id": "7b155f7f84d7017ccec5d4be31f9c23fd5776c7f9c7e3f61ab6989b9a43dc305",
+  "parent_id": "608c78f470b664cb8ea4cb0184c4fad21d08753afe46b7f86822283e2dccdf49",
+  "type": "item",
+  "attrs": {
+    "refid": "b63cfcccc70399dba4ac5c6fd4bb9bf09430dc79",
+    "x": 578.063923556371,
+    "y": 509.5839985422364,
+    "z": 172.09007973842307,
+    "width": 127.01015980694454,
+    "height": 13.54,
+    "z_height": 63.489839903495444,
+    "rotation": 270,
+    "name": "Supreme roman blind",
+    "brand": "Floorplanner",
+    "url": "https://floorplanner.com",
+    "depth": 120.55,
+    "type_guess": "window"
+  },
+  "doc": "name: Supreme roman blind | brand: Floorplanner | type: window | refid: b63cfcccc70399dba4ac5c6fd4bb9bf09430dc79 | dimensions: 127.01015980694454 x 120.55 x 13.54 | url: https://floorplanner.com | position: x=578.063923556371, y=509.5839985422364, z=172.09007973842307, rot=270"
+}

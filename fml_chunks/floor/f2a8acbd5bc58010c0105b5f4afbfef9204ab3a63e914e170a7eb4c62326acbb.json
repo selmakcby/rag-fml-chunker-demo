@@ -1,0 +1,65 @@
+{
+  "id": "f2a8acbd5bc58010c0105b5f4afbfef9204ab3a63e914e170a7eb4c62326acbb",
+  "parent_id": "e65d85963fc99c05bf8cba1049e741c2e7c21692f84c11bc6481732e5ceaa96d",
+  "type": "floor",
+  "designs": [
+    "686f642b8f82bbcf78d034a7b3f1112aab96b62b7acf971a437a5a439fed4c03"
+  ],
+  "attrs": {
+    "id": 255029552,
+    "project_id": 167483570,
+    "name": "First floor",
+    "level": 0,
+    "created_at": "2025-01-04T22:00:10.000Z",
+    "updated_at": "2025-01-13T19:31:49.000Z",
+    "height": 280.0,
+    "cameras": [
+      {
+        "id": 294313646,
+        "name": "Camera 1",
+        "type_name": "orbital",
+        "fov": 30,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": 0.0,
+        "dz": -1.0,
+        "ux": 0.0,
+        "uy": -1.0,
+        "uz": 0.0
+      },
+      {
+        "id": 294313649,
+        "name": "Camera 2",
+        "type_name": "walkthrough",
+        "fov": 58,
+        "lightSettings": {
+          "day": true,
+          "intensity": 50,
+          "azimuth": 0,
+          "altitude": 45
+        },
+        "background_image": {},
+        "x": 0.0,
+        "y": 0.0,
+        "z": 160.0,
+        "dx": 0.0,
+        "dy": -1.0,
+        "dz": 0.0,
+        "ux": 0.0,
+        "uy": 0.0,
+        "uz": 1.0
+      }
+    ]
+  },
+  "doc": "Floor: First floor | designs: 1",
+  "summary": "Floor with 1 rooms. Highlights: Living: 26 items (Bisque Seta Radiator, Fairfax Chair, Cyra Oak Side Chair, Valeria 30\" Stone Top Console, Curtains, short, Cyra Oak Side Chair)."
+}
